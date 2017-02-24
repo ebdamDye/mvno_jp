@@ -21,7 +21,11 @@ h2 {
 
 h3 {
 	padding-left: 8px;
-	border-bottom: 2px solid #26abab;
+	border-bottom: 2px dotted #26abab;
+}
+
+h4 {
+	padding-left: 8px;
 }
 
 .org-ul li {
@@ -30,13 +34,27 @@ h3 {
 
 table {
 	margin-bottom: 1em;
+	border-bottom: 1px solid #aaaaaa;
 }
 
-table tbody tr:nth-child(even) {
+th, td {
+	padding: 0.5em;
+}
+
+th {
+	border-top: 1px solid #aaaaaa;
+	border-bottom: 1px solid #aaaaaa;
+}
+
+td:nth-child(1) {
+	text-align: right;
+}
+
+tr:nth-child(even) {
 	background: #dddddd;
 }
 
-body, 
+body,
 input,
 h1,
 h2,
@@ -44,7 +62,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Raleway", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-family: "Raleway", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-weight: 300;
 }
 
@@ -80,10 +98,7 @@ h6 {
 }
 
 
-h1,
-h2,
-h3 {
-    line-height: 40px;
+h1 {
 }
 
 h2 {
@@ -91,6 +106,7 @@ h2 {
 }
 
 h3 {
+    line-height: 40px;
 }
 
 h4 {
@@ -143,9 +159,9 @@ a:active {
 
 /* Header Styles */
 header {
-    padding: 2em 0 2em 0; 
-    text-align: center; 
-    background: #409f89; 
+    padding: 2em 0 2em 0;
+    text-align: center;
+    background: #409f89;
     color: #fff;
 }
 
