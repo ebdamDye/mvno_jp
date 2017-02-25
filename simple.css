@@ -21,11 +21,12 @@ h2 {
 
 h3 {
 	padding-left: 8px;
-	border-bottom: 2px dotted #26abab;
+	border-bottom: 2px solid #26abab;
 }
 
 h4 {
 	padding-left: 8px;
+	border-bottom: 1px dashed #26abab;
 }
 
 .org-ul li {
@@ -106,10 +107,12 @@ h2 {
 }
 
 h3 {
+	width: 64%;
     line-height: 40px;
 }
 
 h4 {
+	width: 32%;
 }
 
 h5 {
@@ -119,8 +122,9 @@ h6 {
 }
 
 hr {
-    background: #EEE;
-    border: 0;
+	background: #aaaaaa;
+	width: 64%;
+    border: none;
     height: 1px;
     margin: 40px 0 40px;
 }
