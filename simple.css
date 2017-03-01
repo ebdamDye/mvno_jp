@@ -10,6 +10,10 @@ body, html {
 	text-align: right;
 }
 
+.license {
+	text-align: right;
+}
+
 div {
 	margin-left: 0.5em;
 }
@@ -123,7 +127,6 @@ h6 {
 
 hr {
 	background: #aaaaaa;
-	width: 64%;
     border: none;
     height: 1px;
     margin: 40px 0 40px;
