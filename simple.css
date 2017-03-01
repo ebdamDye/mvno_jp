@@ -10,10 +10,6 @@ body, html {
 	text-align: right;
 }
 
-.license {
-	text-align: right;
-}
-
 div {
 	margin-left: 0.5em;
 }
@@ -34,7 +30,6 @@ h4 {
 }
 
 .org-ul li {
-	margin-bottom: 1em;
 }
 
 table {
