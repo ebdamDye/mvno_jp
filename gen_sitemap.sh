@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # config
-URL="https://ebdamdye.github.io/mvno_jp/"
+URL="https://ebdamdye.github.io/mvno_jp"
 HOME="index.html"
 SITEMAP="sitemap.xml"
 LOC_ROOT="docs"
