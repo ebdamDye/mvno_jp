@@ -1,5 +1,10 @@
 #+TITLE: スマホの維持費
-#+OPTIONS: toc:1 num:1 ^:nil -:nil author:nil email:nil todo:nil \n:t
+#+OPTIONS: toc:1 num:1 ^:nil -:nil author:t email:t todo:nil \n:t
+
+#+AUTHOR: [[https://twitter.com/ebdamdye][ebdamDye]]
+#+EMAIL: ｅｂｄａｍＤｙｅ＠ｅｘｃｉｔｅ．ｃｏ．ｊｐ
+#+DESCRIPTION: スマホについて知っておきたいこと。ご家庭の常識になればいいな。
+#+KEYWORDS: スマホ,スマートフォン,MVNO,MNO
 
 #+HTML: <style type="text/css">
 #+INCLUDE: "./simple.css" example
@@ -400,5 +405,13 @@ SIM フリーなら、どこと契約しても使える。
 
 
 * ライセンス
+おかしなこと etc...
+- 緊急通報アプリがない。
+- すぐ更新をやめるスマホ。
+- 電話番号に掛けること。
+- SIM ロック。
+- +文面。+
 
 #+INCLUDE: "license.org"
+
+-----
