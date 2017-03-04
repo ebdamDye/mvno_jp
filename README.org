@@ -405,13 +405,17 @@ SIM フリーなら、どこと契約しても使える。
 
 
 * ライセンス
+
 おかしなこと etc...
+
 - 緊急通報アプリがない。
 - すぐ更新をやめるスマホ。
 - 電話番号に掛けること。
 - SIM ロック。
 - +文面。+
 
-#+INCLUDE: "license.org"
+#+ATTR_HTML: :alt クリエイティブ・コモンズ・ライセンス
+[[https://creativecommons.org/licenses/by-sa/4.0/][file:https:/i.creativecommons.org/l/by-sa/4.0/88x31.png]]
+この 作品 は [[https://creativecommons.org/licenses/by-sa/4.0/][クリエイティブ・コモンズ 表示 - 継承 4.0国際 ライセンス]] の下に提供されています。
 
 -----
