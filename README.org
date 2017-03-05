@@ -1,10 +1,10 @@
 #+TITLE: スマホの維持費
-#+OPTIONS: toc:1 num:1 ^:nil -:nil author:t email:t todo:nil \n:t
-
 #+AUTHOR: [[https://twitter.com/ebdamdye][ebdamDye]]
 #+EMAIL: ｅｂｄａｍＤｙｅ＠ｅｘｃｉｔｅ．ｃｏ．ｊｐ
-#+DESCRIPTION: スマホについて知っておきたいこと。ご家庭の常識になればいいな。
-#+KEYWORDS: スマホ,スマートフォン,MVNO,MNO
+
+#+DESCRIPTION: スマホについて知っておきたいこと。ご家庭の常識になればいいな♪
+#+KEYWORDS: MVNO,MNO,SIM,Android,iOS,iPhone,スマホ,スマートフォン,月額料金
+#+OPTIONS: toc:1 num:1 ^:nil -:nil author:t email:t todo:nil \n:t
 
 #+HTML: <style type="text/css">
 #+INCLUDE: "./simple.css" example
@@ -44,6 +44,7 @@
 
 
 * 大手キャリア (MNO で高速通信)
+
 ** ソフトバンク
 
 |              |  1GB |  2GB |  5GB | 20GB | 30GB |
@@ -74,6 +75,7 @@ au 以外からの乗り換えだとしばらく安いけど、縛りがキツ�
 
 
 * 格安キャリア (MVNO で低速通信)
+
 ** mineo (マイネオ)
 
 |                  | 500MB | 1GB | 3GB |  5GB | 10GB |
@@ -154,8 +156,8 @@ NTT コミュニケーションズ社でプロバイダをしてるところ。
 
 ** アプリ専用通話
 
-  同じアプリを利用する相手とだけ通話できる。
-  ほとんどの人はパケットが 1GB でも使い切れないハズ。
+同じアプリを利用する相手とだけ通話できる。
+ほとんどの人はパケットが 1GB でも使い切れないハズ。
 
 *** LINE (LINE)
 
