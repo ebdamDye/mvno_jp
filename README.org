@@ -6,6 +6,18 @@
 #+KEYWORDS: MVNO,MNO,SIM,Android,iOS,iPhone,スマホ,スマートフォン,月額料金
 #+OPTIONS: toc:1 num:1 ^:nil -:nil author:t email:t todo:nil \n:t
 
+#+HTML_HEAD: <link rel="sitemap" type="application/xml" href="sitemap.xml">
+#+HTML_HEAD: <meta name=viewport content="width=device-width, initial-scale=1">
+
+#+HTML_HEAD: <link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-icon.png">
+#+HTML_HEAD: <link rel="icon" type="image/png" href="icons/favicon-32x32.png" sizes="32x32">
+#+HTML_HEAD: <link rel="icon" type="image/png" href="icons/favicon-16x16.png" sizes="16x16">
+#+HTML_HEAD: <link rel="manifest" href="icons/manifest.json">
+#+HTML_HEAD: <link rel="mask-icon" href="icons/safari-pinned-tab.svg" color="#5bbad5">
+#+HTML_HEAD: <link rel="shortcut icon" href="icons/favicon.ico">
+#+HTML_HEAD: <meta name="msapplication-config" content="icons/browserconfig.xml">
+#+HTML_HEAD: <meta name="theme-color" content="#ffffff">
+
 #+HTML: <style type="text/css">
 #+INCLUDE: "./simple.css" example
 #+HTML: </style>
