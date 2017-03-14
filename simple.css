@@ -36,6 +36,7 @@ table {
 	border-collapse: collapse;
 	margin-bottom: 1em;
 	border-bottom: 1px solid #aaaaaa;
+	overflow-x: auto;
 }
 
 th, td {
@@ -169,12 +170,11 @@ header {
 }
 
 h1 {
-	color:#fff;
-	font-weight:bold;
-	font-size:35px;
-	text-transform:uppercase;
+	color: #fff;
+	font-weight: bold;
+	text-transform: uppercase;
 	padding-top: 10px;
-	margin-right:30px;
+	margin-right: 30px;
 }
 
 header h2 {
