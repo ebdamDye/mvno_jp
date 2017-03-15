@@ -35,7 +35,6 @@ h4 {
 table {
 	border-collapse: collapse;
 	margin-bottom: 1em;
-	border-bottom: 1px solid #aaaaaa;
 	display: block;
 	overflow: auto;
 }
@@ -55,6 +54,10 @@ td:nth-child(1) {
 
 tr:nth-child(even) {
 	background: #dddddd;
+}
+
+tr:last-child {
+	border-bottom: 1px solid #aaaaaa;
 }
 
 body,
