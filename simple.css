@@ -45,11 +45,14 @@ th, td {
 
 th {
     border-top: 1px solid #aaaaaa;
-    border-bottom: 1px solid #aaaaaa;
 }
 
 td:nth-child(1) {
     text-align: right;
+}
+
+tr:first-child {
+    border-top: 1px solid #aaaaaa;
 }
 
 tr:nth-child(even) {
