@@ -29,7 +29,14 @@ h4 {
     border-bottom: 1px dashed #26abab;
 }
 
-.org-ul li {
+ul {
+    padding-left: 1em;
+    margin-left: 1em;
+}
+
+#table-of-contents ul {
+    list-style: none;
+    padding-left: 0;
 }
 
 table {
