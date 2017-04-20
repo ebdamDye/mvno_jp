@@ -307,6 +307,8 @@ au は電波が特殊なので、使えるスマホが限られる。
 # "通信の最適化" を解除できない。
 # ダウンロードした画像や動画が、劣化してるかも。
 
+# 2018/03/31 PHS の受け付けを停止する予定。 (継続利用はできる)
+
 ** UQ mobile
 
 | 音声通話 + 2 年縛り  |  1GB |  3GB |  7GB |
@@ -456,7 +458,8 @@ au 回線には UQ mobile と同じ制限がある。
 # 簡単なサポートは、 AI に代わりそう？
 # 今のクレームは、そのうち技術的に解消されるハズ。
 
-# 2017/01/31 au(KDDI) が BIGLOBE を買収。 NifMo も？
+# 2017/01/31 au(KDDI) が BIGLOBE を買収。
+# 2017/04/01 ノジマが NifMo(ニフティ) を買収。
 
 ** mineo (マイネオ)
 
@@ -1176,16 +1179,23 @@ Google モデルを元に各国向けに作り替えたもの。
 Nexus 6P を作ってる。
 性能は悪くない。
 # Kirin
+#
+# nova lite のコストパフォーマンスは最高かも。
 
 *** Zenfone
 
 台湾 ASUS 製。
 格安キャリアと契約のときにセットで買えることが多い。
+# 3 Max は大容量バッテリー。
+# 3 Laser
+# Go
+# 2 Laser はロングセラー。
 
 *** Moto Z
 
 米モトローラ製。
 Nexus 6 を作ってた。
+# G5 はバッテリー交換できるようになる？
 
 *** FREETEL
 
@@ -1200,7 +1210,9 @@ SONY 製。
 海外でも知られている日本製のスマホはこれだけかも。
 高い。
 高性能。
-# VAIO Phone A (DSDS)
+# Xperia の SIM フリー版は、海外にしかない。
+#
+# VAIO Phone A (VoLTE?, DSDS, CA)
 
 *** Galaxy
 
@@ -1211,14 +1223,17 @@ SONY 製。
 # 高性能。 
 # KNOX
 # Exynos
-# Bixby (AI, Galaxy S8)
 # Tizen (buggy?)
+# Bixby (AI, Galaxy S8)
+# Galaxy S8/S8+ は、爆発した Galaxy Note 7 と同じバッテリー？
+# Galaxy の SIM フリー版は、海外にしかない。
 
 *** arrows
 
 富士通製。
 ワンセグやおサイフケータイがある。
 らくらくスマートフォンはホームアプリ？
+# M03 は au でも使える。 (防水 + ワンセグ)
 
 *** AQUOS
 
@@ -1230,6 +1245,9 @@ Android One も作ってる。
 標準搭載のエコ技は寡黙で強引だけど、バッテリーと財布にやさしかった。
 # エモパー (emopa, AI)
 # 2017 夏モデルの AQUOS R では、発売後 2 年間のバージョンアップを約束するらしい。
+#
+# L は おサイフ。
+# Nokia 6
 
 *** ZTE
 
@@ -1247,10 +1265,17 @@ Google の発注する Pixel を作ってる。 (Nexus の後継、日本では�
 中国 TCL 製。 (ODM)
 QWERTY 配列のキーボードが特徴。
 オバマ大統領の愛用品として有名だった製品の Android 版。
+# Alcatel
 
-# *** Nokia 6 
-# *** Tommy (Wiko)
-# *** DIGNO (京セラ)
+# *** Tommy
+#
+# フランス Wiko (ウイコウ) 製。
+# Android 6
+
+# *** DIGNO W (京セラ)
+#
+# au 回線。
+
 # *** Xiaomi (小米科技、シャオミ)
 
 ** iOS (Apple)
@@ -1282,6 +1307,7 @@ VoLTE は iPhone 6 以上から使える。
 SIM フリーなら、どの格安キャリアでも使えるハズ。
 高い。
 高性能。
+# 2017 年は iPhone 10 周年で、記念モデルが出る？
 
 ** Windows 10 Mobile (Microsoft)
   
@@ -1292,6 +1318,7 @@ VoLTE 非対応がほとんど。
 # VoLTE 対応はできる？ (Snapdragon だし)
 # Cortana (AI)
 # Microsoft SIM
+# Creators update 非対応なのがある。
 
 *** Elite X3
 
