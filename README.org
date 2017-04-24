@@ -1153,43 +1153,45 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Google Assistant (AI), Allo
 # Project Fi (Nexus)
 # Andromeda
-# VR, HMD
-# Android Terminal Emulator (adb, tethering, APN lock)
+# VR, AR, HMD
 # OTA (Over The Air)
 # Google I/O
 # Android Security Year In Review
 # ServiceMode
 # OTG (On The Go, USB)
 # USB Type-C
+#
+# Android Studio (SDK)
+# Android for Work
+# Anbox (Android in the box)
+# Android Terminal Emulator (adb, tethering, APN lock)
+# WiFiAnalyzer (open-source)
 
 *** g06
 
 Covia 製。(OEM)
-性能は最低限だけど 8000 円くらいと格安。
+8000 円くらいと格安。
 Android 7.0 対応予定。
 小さいので片手で扱える。
 au 回線では使えない。
-
-*** g07
-
-Covia 製。(OEM)
-20000 円くらい。
-Android 7.0 対応予定。
-DSDS 対応では最安。
-au 回線では使えない。
+# g07
+# 20000 円くらいだった。
+# Android 7.0 対応予定。
+# DSDS 対応。
+# au 回線では使えない。
+#
 # g07+ (cdma2000)
 
 *** Nexus 5X
 
 韓国 LG 製。
 Nexus と名の付いたスマホは Google の発注したモデル。
-高い。
-高性能。
+# LG 製の SIM フリーは最近でてない？
 
 *** Android One
 
 Google モデルを元に各国向けに作り替えたもの。
-日本向けは高い上に Y!mobile でしか売ってない。
+日本向けは Y!mobile でしか売ってない。
 新興国向けは安いのに。
 シャープ製と京セラ製がある。
 
@@ -1197,44 +1199,48 @@ Google モデルを元に各国向けに作り替えたもの。
 
 中国 "華為(ファーウェイ、 Huawei)" 製。
 Nexus 6P を作ってる。
-性能は悪くない。
+DSDS 対応。
+au 回線も使える。
 # Kirin
 #
-# nova lite のコストパフォーマンスは最高かも。
+# nova lite
+# コストパフォーマンスは最高かも。 
+# 格安キャリアでしか扱ってない。
+# スマホだけで売ってるのは goo simseller のみ？ (OCN の SIM で契約しなくてもいい)
+# 他では SIM 契約や会員登録がいる。
+# au 回線では使えない。
 
 *** Zenfone
 
 台湾 ASUS 製。
 格安キャリアと契約のときに、セットで買えるところが多い。
 回線を使い回しやすいのも多い。
-# | 3 Max   | 大容量バッテリー       |
-# | 3 Laser | Android 7 (日本版待ち) |
-# | Go      | 2 の廉価版？           |
-# | 2 Laser | ロングセラー           |
+# | 3 Max   | Android 6              | 大容量バッテリー |
+# | 3 Laser | Android 7 (日本版待ち) |                  |
+# | Go      | Android 5 まで         | 2 の廉価版？     |
+# | 2 Laser | Android 6 まで         | ロングセラー     |
 #
-# ここに載せたのは Android 6 にできる。
 # Laser は レーザーオートフォーカス。
 # 3 Max は au 回線で使えない。
 
 *** Moto Z
 
-米モトローラ製。
++米モトローラ製。+
+中国 Lenovo 製。
 Nexus 6 を作ってた。
-# G5 はバッテリー交換できるようになる？
+# G5 は別売のバッテリーがでれば、交換できるようになる。
 
-*** FREETEL
+*** Priori 4
 
 プラスワン・マーケティング製。 (OEM)
-安いのがある。
 不具合が多いらしい。
+# FREETEL 
 
 *** Xperia
 
 SONY 製。
 4K HDR 。
 海外でも知られている日本製のスマホはこれだけかも。
-高い。
-高性能。
 # Xperia の SIM フリー版は、海外にしかない。
 #
 # VAIO Phone A (VoLTE?, DSDS, CA)
@@ -1244,8 +1250,6 @@ SONY 製。
 韓国 Sumsung 製。
 有機 EL で、エッジスクリーン。
 バッテリーや経営者の問題で爆発中。
-# 高い。
-# 高性能。 
 # KNOX
 # Exynos
 # Tizen (buggy?)
@@ -1258,7 +1262,7 @@ SONY 製。
 富士通製。
 ワンセグやおサイフケータイがある。
 らくらくスマートフォンはホームアプリ？
-# M03 は au でも使える。 (VoLTE, 防水ワンセグおサイフ)
+# M03 は au 回線でも使える。 (VoLTE, 防水ワンセグおサイフ)
 
 *** AQUOS
 
@@ -1274,16 +1278,18 @@ Android One も作ってる。
 # SH-M04 は防水おサイフ。
 # Nokia 6
 
-*** ZTE
+*** Blade
 
 中国 ZTE 製。
 動画の特許問題で訴えられてる。 (AVC)
+# V7 lite
 
 *** HTC
 
 台湾 HTC 製。
 以前は au 回線の 3G にも対応してた。
 Google の発注する Pixel を作ってる。 (Nexus の後継、日本では売ってない)
+# HTC 製の SIM フリーは最近でてない？
 
 *** BlackBerry
 
@@ -1296,11 +1302,10 @@ QWERTY 配列のキーボードが特徴。
 #
 # フランスのベンチャー Wiko (ウイコウ) 製。
 # 中国 TINNO の子会社。 (ODM?)
-#
-# Android 6
 # 1 万円くらい。
 # バッテリー交換できる。
-# 個人的には十分な性能だけど、若くないとダメですか？
+# au VoLTE 対応だけど、 au 回線にはつながりにくいかも。
+# Android 6
 
 # *** DIGNO W (京セラ)
 #
