@@ -863,6 +863,8 @@ Apple 機器専用。
 Facebook のアプリはバッテリー消費が激しいらしい。
 # Opus, iSAC, ISAC Low Complexity
 # Opus or G.711 (browser)
+#
+# Messenger Lite は通話できない。
 
 *** WhatsApp (WhatsApp)
 
@@ -1203,7 +1205,7 @@ Google モデルを元に各国向けに作り替えたもの。
 Nexus 6P を作ってる。
 DSDS 対応。
 au 回線も使える。
-Mate9 が問題になってる。
+Mate9 が問題になってる。 (無問題了？)
 # Kirin (Cortex-A)
 #
 # nova lite
@@ -1222,12 +1224,14 @@ Mate9 が問題になってる。
 # CEO が Weibo に "フラッシュメモリの枯渇が原因" と書き込んだ？
 # 中国で炎上中。
 # 日本ではまだ売ってない。
+# 公式声明を意訳すると、体感の差はないからいいよね？
 #
 # Mate9
 # 日本で売ってる。
 # 製品の紹介ページから、 UFS2.1 の表示が消されたところ。
-# ストレージは UFS2.0, UFS2.1 がある。
+# ストレージは UFS2.0, UFS2.1 がある？
 # メモリも、 LPDDR3 と LPDDR4 がある？
+# 確認を終えたとして、 UFS2.1 の表示を戻した。
 #
 # | storage | max read (MB/s) |
 # |---------+-----------------|
@@ -1238,6 +1242,8 @@ Mate9 が問題になってる。
 # |---------+-----------------+-------------|
 # | LPDDR3  |             800 |         1.2 |
 # | LPDDR4  |            1600 |         1.1 |
+#
+# Adups
 
 *** Zenfone
 
@@ -1314,6 +1320,8 @@ Android One も作ってる。
 中国 ZTE 製。
 動画の特許問題で訴えられてる。 (AVC)
 # V7 lite
+#
+# Adups
 
 *** HTC
 
@@ -1333,8 +1341,10 @@ QWERTY 配列のキーボードが特徴。
 
 VAIO 製。
 商標の名義は SONY 。
-日本産業パートナーズ株式会社 (ファンド) に事業譲渡されてた。
+日本産業パートナーズ (ファンド) に事業譲渡されてた。
 2016/04/22 発売の VAIO Phone Biz を OS だけ Android 6 にしたもの。
+製造は台湾 Quanta 。 (ODM)
+ノートパソコンや Apple Watch も作ってるところ。
 # VoLTE?, DSDS, CA
 
 # *** Tommy
@@ -1356,6 +1366,7 @@ VAIO 製。
 
 # Oppo
 # Vivo
+# OnePlus
 
 ** iOS (Apple)
 
