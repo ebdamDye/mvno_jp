@@ -431,6 +431,7 @@ au 回線には UQ mobile と同じ制限がある。
 # 登録してても、電波に関わるところは修理できない。
 # 何のためのモジュール化なんだか。
 # 訪日外国人のスマホとかは、技適なしでも 90 日以内なら例外だし。
+# # FCC, CE
 #
 # 格安キャリアには、 SIM を再発行してもらうだけ。
 # スマホを替えるときにすることは、大手キャリアから乗り換えたときとだいたい同じ。
@@ -460,6 +461,7 @@ au 回線には UQ mobile と同じ制限がある。
 
 # 2017/01/31 au(KDDI) が BIGLOBE を買収。
 # 2017/04/01 ノジマが NifMo(ニフティ) を買収。
+# 2017/11/30 ぷららモバイル LTE がサービス終了予定。
 
 ** mineo (マイネオ)
 
@@ -1052,9 +1054,11 @@ Android 8 は開発者向けに、プレビュー版を公開してる。
 # 大手キャリアは、 OS を更新するパケットが無料なことがある。
 # スマホによって違うので、確認がいる。
 #
-# 保証されてるのは Nexus, Android One, Pixel だけ？
+# Google に保証されてるのは Nexus, Android One, Pixel だけ。
 # バージョンアップは発売から最低 2 年間を保証。 (Android One は 18 ヶ月間、最低 1 回)
 # セキュリティパッチは発売から最低 3 年間を保証。 (Android One は 2 年間)
+#
+# Huawei は 2 年間の更新を保証。 (Honor8 以降)
 #
 # SIM フリーなスマホは、
 # 更新するかどうかをスマホの製造元が決めてる。
@@ -1170,6 +1174,9 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Anbox (Android in the box)
 # Android Terminal Emulator (adb, tethering, APN lock)
 # WiFiAnalyzer (open-source)
+# AIDA64
+# Androbench
+# Antutu
 
 *** g06
 
@@ -1202,11 +1209,16 @@ Google モデルを元に各国向けに作り替えたもの。
 *** nova
 
 中国 "華為(ファーウェイ、 Huawei)" 製。
+発売から 2 年間の更新を保証。 (2016/07/18 の Honor8 以降のみ)
 Nexus 6P を作ってる。
 DSDS 対応。
 au 回線も使える。
 Mate9 が問題になってる。 (無問題了？？)
 # Kirin (Cortex-A)
+# HiCare
+#
+# P9 (lite)
+# 更新保証の対象外。
 #
 # nova lite
 # コストパフォーマンスは最高かも。
@@ -1216,27 +1228,33 @@ Mate9 が問題になってる。 (無問題了？？)
 # au 回線では使えない。
 #
 # P10, P10 Plus
+# 日本ではまだ売ってない。
 # 同じ値段の P10 でも、速いのと遅いのがある。
 # 倍以上の速度差になることもある。
 # 買ってみないとわからない。
 # ストレージは eMMC5.1, UFS2.0, UFS2.1 がある。
 # メモリも、 LPDDR3 と LPDDR4 がある？
-# CEO が Weibo に "フラッシュメモリの枯渇が原因" と書き込んだ？
+# 消費者向け事業 CEO の余承東が Weibo に "フラッシュメモリの枯渇が原因" と書き込んだ。
 # 中国で炎上中。
-# 日本ではまだ売ってない。
 # 公式声明を意訳すると、体感の差はないからいいよね？
+# 深圳市消費者委員会も、気にするなって。
 #
 # Mate9
 # 日本で売ってる。
 # 製品の紹介ページから、 UFS2.1 の表示が消されたところ。
 # ストレージは UFS2.0, UFS2.1 がある。
 # メモリも、 LPDDR3 と LPDDR4 がある？
+# SoC は P10 と同じ Kirin960 。
 # 確認を終えたとして、 UFS2.1 の表示を戻した。
 # "Kirin960 は UFS2.1 もサポートしている" 、が Huawei の回答？
 # 品質瑕疵に伴う違約責任とかを回避できるのか、あるいはそれでも安いと判断したのか。
 # ベンチマークの結果は UFS2.0 っぽい。
 # 分解した人のストレージは UFS2.0 だった。 (UFS2.1 のもある？)
 # [[https://www.gizmochina.com/2017/04/22/huawei-p10-memory-scandal-removes-ufs-2-1-description-official-mate-9-website/]]
+# タイの消費者保護委員会事務局 (OCPB) に、微笑みを向けられてる。 (2017/05/01)
+# [[https://droidsans.com/huawei-mate-9-thai-disassemble-for-ufs-memory-check/]]
+# [[https://droidsans.com/huawei-flash-memory-test-with-thailand-cosumer-rights/]]
+# [[https://droidsans.com/thailand-mate-9-and-p10-conclusion-from-3-parties/]]
 #
 # | storage | max read (MB/s) |
 # |---------+-----------------|
@@ -1395,14 +1413,14 @@ VAIO 製。
 
 *** iPhone
 
-米 Apple 製。
+米 Apple 製。 (OEM)
 2 年ごとに、新しいのが発売される。
 iOS の更新は iPhone 5 以上で続けられてる。
 VoLTE は iPhone 6 以上から使える。
 SIM フリーなら、どの格安キャリアでも使えるハズ。
-高い。
-高性能。
+製造は台湾の鴻海 (Foxconn) や Pegatron。
 # 2017 年は iPhone 10 周年で、記念モデルが出る？
+# インドでも製造を始めるみたい。 (台湾 Wistron?)
 
 ** Windows 10 Mobile (Microsoft)
   
@@ -1439,6 +1457,7 @@ VoLTE 対応。
 #
 # スマホの内蔵アンテナ自体は、だいたいの電波を拾えるハズ。
 # 積んでるフィルターとかの違いで、スマホが扱える電波は決まる。
+# # RFNV
 #
 # ソフトバンク回線の格安キャリアでは、 band41 と 42 が使えないことになってる。
 # スマホからは band41 を一瞬つかんだように見えるらしい。
