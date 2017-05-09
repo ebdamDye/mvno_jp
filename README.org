@@ -1316,8 +1316,17 @@ SONY 製。
 # Exynos
 # Tizen (buggy?)
 # Bixby (AI, Galaxy S8)
-# Galaxy S8/S8+ は、爆発した Galaxy Note 7 と同じバッテリー。 (原因は絶縁シート？)
+#
 # Galaxy の SIM フリー版は、海外にしかない。
+#
+# S8, S8+
+# 日本ではまだ売ってない。
+# Exynos と Snapdragon のモデルがある。
+# 爆発した Galaxy Note 7 と同じバッテリー。 (原因は絶縁シートだった？)
+# 製品の紹介ページには、 64GB (UFS2.1) で "May differ by country and currier." とあった。
+# UFS2.1 の表示が消された。
+# 今のところ S8 の Snapdragon モデルだけが、 UFS2.0 みたい。
+# 最新の Galaxy にすら、 UFS2.1 を用意できなかったのかしら？
 
 *** arrows
 
