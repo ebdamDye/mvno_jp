@@ -780,7 +780,14 @@ NTT コミュニケーションズでプロバイダをしてるところ。
 110/119 にアプリから通報はできない。 
 音声通話の SIM を契約するか、最寄りの警察署や消防署に直接通報するしかない。
 "緊急通報ナビ" と "火事 救急通報ナビ" アプリは、最寄りの警察署や消防署を表示してくれる。
-# 警察、消防、海上保安庁へ位置情報を送信して、回線の保留と呼び返しに対応するアプリがない。
+# 緊急通報は、 "事業用電気通信設備規則" とかで定められてる。
+# 管轄機関の設備に接続すること。 (0ABJ 番号しかできない)
+# 位置情報とかを送信すること。
+# 通報した人からは通話を終えられないように、回線を保留できること。
+# 通報した人を呼び返しできること。
+#
+# 通話アプリは最初から、呼び返しで受ければいいのかも？
+# 通報する人の操作は、電話を掛けるのと同じにしとけばいいし。
 #
 # Android の標準 "電話" アプリ v9.0 は、緊急通報の時に現在地を表示する。
 # Android 6 以降の Nexus, Android One, Pixel のみ。
@@ -1055,6 +1062,13 @@ Android 8 は開発者向けに、プレビュー版を公開してる。
 # 海外でも一部のスマホしか、毎月降ってきたりはしないけど。
 # これからに期待。
 #
+# Android O Developer Preview 1 を入れた Pixel で Project Treble をテスト中。
+# Google で管理する OS から、製造元が実装するところを分離するようなもの。
+# テストも簡単になるので、もっと更新してくれるようになるといいな。
+# CDD (Compatibility Definition Document)
+# CTS (Compatibility Test Suite)
+# VTS (Vendor Test Suite)
+#
 # Google はどのくらい更新してるかを調べてる。
 # スマホの製造元を、ランク付けして公表するかも。
 #
@@ -1179,7 +1193,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # USB Type-C
 #
 # Android Studio (SDK)
-# Android for Work
+# Android for Work (KNOX)
 # Anbox (Android in the box)
 # Android Terminal Emulator (adb, tethering, APN lock)
 # WiFiAnalyzer (open-source)
@@ -1357,7 +1371,7 @@ Android One も作ってる。
 # エモパー (emopa, AI)
 # 2017 夏モデルの AQUOS R では、発売後 2 年間のバージョンアップを約束するらしい。
 #
-# SH-M04 は防水おサイフ。
+# SH-M04 は防水おサイフ。 (au 回線向けには L がある)
 # Nokia 6
 
 *** Blade
