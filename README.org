@@ -1041,8 +1041,9 @@ LINE モバイルならパケットを消費しない。
 
 Android 8 は開発者向けに、プレビュー版を公開してる。
 最新の Android 7 はこの春に新しいのが増えた。
-バージョンアップがあるとしたら Android 6 以上で、 30000 円台から。
+バージョンアップがあるとしたら Android 6 以上で、 30000 円くらいから。
 # 2017/03/21 Android O Developer Preview 1
+# 2017/05/17 Android O Developer Preview 2 (Google I/O 2017)
 # 夏頃リリース？
 #
 # 機能を変えるための "バージョンアップ" 。
@@ -1062,7 +1063,8 @@ Android 8 は開発者向けに、プレビュー版を公開してる。
 # 海外でも一部のスマホしか、毎月降ってきたりはしないけど。
 # これからに期待。
 #
-# Android O Developer Preview 1 を入れた Pixel で Project Treble をテスト中。
+# Project Treble (Sony, Qualcomm)
+# Android O Developer Preview 1 を入れた Pixel でテスト中。
 # Google で管理する OS から、製造元が実装するところを分離するようなもの。
 # テストも簡単になるので、もっと更新してくれるようになるといいな。
 # CDD (Compatibility Definition Document)
@@ -1093,11 +1095,15 @@ Android 8 は開発者向けに、プレビュー版を公開してる。
 #
 # あとは、バージョンアップを保証して売ってるスマホがあるくらい？
 
-普及してるのは、少し前の Android 5 スマホで 20000 円台くらい。
-もっと前の Android 4 スマホなら 10000 円台で買える。
+普及してるのは、少し前の Android 5 スマホで 20000 円くらい。
+もっと前の Android 4 スマホなら 10000 円くらいで買える。
 それより前だと、アプリがあまり使えなくなる。
 # 新品として売ってるのは、まだ不具合の修正くらいはしてる？
 # いつまで続けてくれるのか不明。
+#
+# セルスタンバイ問題は Android 6 で修正された？
+# あとはスマホの製造元が修正したかどうか。
+# Android 4 や 5 なら音声通話か SMS 付きの SIM が無難かも。
 
 格安のは機能が削られてる。
 (バーゲン品や中古は除く)
@@ -1117,10 +1123,6 @@ au とソフトバンクは 2014 年冬頃から。
 #
 # つながるのが早いか、廃れるのが早いのか。
 # それよりも、緊急通報アプリとして転用しないかな？
-
-# セルスタンバイ問題は Android 6 で修正された？
-# あとはスマホの製造元が修正したかどうか。
-# Android 4 や 5 なら音声通話か SMS 付きの SIM が無難かも。
 
 快適さが気になるなら RAM 2GB 以上あるかどうかを見る。
 特に日本製は消せないアプリとか詰め込んでるので、これくらいないとつらいかも。
@@ -1177,7 +1179,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # ETWS, CBS, BroadcastSMS
 # eSIM
 # Snapdragon, MediaTek, Kirin, Exynos, ...
-# LDAC (Hi-Resolution Audio, Sony, Android O)
+# LDAC (Hi-Resolution Audio, lossy codec, Android O, Sony)
 # PHA (Potentially Harmful Applications, Verify Apps)
 # SMS -> RCS
 # XMPP
@@ -1191,9 +1193,10 @@ H.265(HEVC) はパテントプールで溺れてる。
 # ServiceMode
 # OTG (On The Go, USB)
 # USB Type-C
+# Android Go (1GB memory devices, 2018)
 #
-# Android Studio (SDK)
-# Android for Work (KNOX)
+# Android Studio (SDK, Kotlin)
+# Android for Work (KNOX, Samsung)
 # Anbox (Android in the box)
 # Android Terminal Emulator (adb, tethering, APN lock)
 # WiFiAnalyzer (open-source)
@@ -1300,24 +1303,25 @@ Mate9 が問題になってる。 (無問題了？？)
 台湾 ASUS 製。
 格安キャリアと契約のときに、セットで買えるところが多い。
 回線を使い回しやすいのも多い。
-# | 3 Max   | Android 6              | 大容量バッテリー |
-# | 3 Laser | Android 7 (日本版待ち) |                  |
-# | Go      | Android 5 まで         | 2 の廉価版？     |
-# | 2 Laser | Android 6 まで         | ロングセラー     |
+# | 3 Max   | Android 6              | 大容量バッテリー、割れやすい |
+# | 3 Laser | Android 7 (日本版待ち) |                              |
+# | Go      | Android 5 まで         | 2 の廉価版？                 |
+# | 2 Laser | Android 6 まで         | ロングセラー                 |
 #
 # Laser は レーザーオートフォーカス。
-# 3 Max は au 回線で使えない。
+# 3 Max は 5.5inch(ZC553KL) モデルだけが au VoLTE 対応。
 #
 # 2 (ZE551ML) は Android では世界初の 4GB メモリを載せたスマホ。
 # 64bit OS への更新を予定して売ってた。
 # まだなのか、中止なのか不明。
 
-*** Moto Z
+*** Moto G5
 
 +米モトローラ製。+
 中国 Lenovo 製。
 Nexus 6 を作ってた。
 # G5 は別売のバッテリーがでれば、交換できるようになる。
+# G5 Plus より割れやすい。
 
 *** Priori 4
 
@@ -1500,16 +1504,19 @@ VoLTE 対応。
 #
 # APN の設定が面倒なスマホがまだあるみたい。
 
-# SIM フリーなスマホにも、使い回しにくいのはある。
+# SIM フリーなスマホは、使い回しにくいのが多い。
 # 格安キャリアのほとんどが、ドコモ回線だから？
-
+#
 # 地域別のモデルがあったりもする。
 # 技適も確認した方がいい？
+# 輸入なら FCC か CE が必須。
 
 すでに解除なしで、同じ回線を使う格安キャリアに移れるスマホはある。
 ドコモのスマホは解除なしで使える。
 au も 4G 対応してて VoLTE 非対応なら解除なしで使える。
 ソフトバンクは iPhone だけ解除なしで使える。
+# 2017/05/24 から、ドコモがガイドラインの履行を前倒しする予定。
+# 対象は 2015/05/01 以降に買ったスマホ。
 
 ガイドラインには 3G から 4G へ移行しろとも書いてある。
 au は最初から、格安キャリアで 3G のパケット通信ができない。
@@ -1647,7 +1654,7 @@ au は最初から、格安キャリアで 3G のパケット通信ができな�
 # 登録すれば、ワンタップで接続するだけになる。
 # 誰でも無料で使えるところのみ。
 # 暗号化なしのところだけ。
-# 提供するところがハッキリしてるのしかない。
+# 提供するところがハッキリしてるのだけ。
 # 一定時間を過ぎると、有料の契約を求めるところも含まれる。
 # DoSPOT にも対応。
 # 多言語対応。
