@@ -1064,7 +1064,7 @@ Android 8 は開発者向けに、プレビュー版を公開してる。
 # これからに期待。
 #
 # Project Treble (Sony, Qualcomm)
-# Android O Developer Preview 1 を入れた Pixel でテスト中。
+# Android O Developer Preview を入れた Pixel でテスト中。
 # Google で管理する OS から、製造元が実装するところを分離するようなもの。
 # テストも簡単になるので、もっと更新してくれるようになるといいな。
 # CDD (Compatibility Definition Document)
@@ -1178,12 +1178,12 @@ H.265(HEVC) はパテントプールで溺れてる。
 
 # ETWS, CBS, BroadcastSMS
 # eSIM
-# Snapdragon, MediaTek, Kirin, Exynos, ...
+# Snapdragon, MediaTek, Kirin, Exynos, ... (SoC)
 # LDAC (Hi-Resolution Audio, lossy codec, Android O, Sony)
 # PHA (Potentially Harmful Applications, Verify Apps)
 # SMS -> RCS
 # XMPP
-# Google Assistant (AI), Allo
+# Google Assistant (AI), Allo, iPhone
 # Project Fi (Nexus)
 # Andromeda
 # VR, AR, HMD
@@ -1246,7 +1246,12 @@ Mate9 が問題になってる。 (無問題了？？)
 # HiCare
 #
 # P9 (lite)
+# 金属フレームとゴリラガラス。 (Corning)
+# nova よりは丈夫。
 # 更新保証の対象外。
+#
+# nova
+# 金属フレームと曲面強化ガラス。 (日本電気硝子？)
 #
 # nova lite
 # コストパフォーマンスは最高かも。
@@ -1254,6 +1259,7 @@ Mate9 が問題になってる。 (無問題了？？)
 # スマホだけで売ってるのは goo simseller のみ？ (OCN の SIM で契約しなくてもいい)
 # 他では SIM 契約や会員登録がいる。
 # au 回線では使えない。
+# 樹脂フレームと曲面強化ガラスなので割れそう。 (日本電気硝子？)
 #
 # P10, P10 Plus
 # 日本ではまだ売ってない。
@@ -1303,13 +1309,18 @@ Mate9 が問題になってる。 (無問題了？？)
 台湾 ASUS 製。
 格安キャリアと契約のときに、セットで買えるところが多い。
 回線を使い回しやすいのも多い。
-# | 3 Max   | Android 6              | 大容量バッテリー、割れやすい |
-# | 3 Laser | Android 7 (日本版待ち) |                              |
-# | Go      | Android 5 まで         | 2 の廉価版？                 |
-# | 2 Laser | Android 6 まで         | ロングセラー                 |
+# MyASUS (app)
+# サポートは、オンラインチャットでもやってる。
+# [[https://chat-apac.asus.com/chatservice/index.htm?tenant=JP&lang=ja-jp]]
+#
+# | 3 Max   | Android 6              | 大容量バッテリー、窓ガラスなので割れやすい |
+# | 3 Laser | Android 7 (日本版待ち) | ゴーストタッチが心配                       |
+# | Go      | Android 5 まで         | 2 の廉価版？                               |
+# | 2 Laser | Android 6 まで         | ロングセラー                               |
 #
 # Laser は レーザーオートフォーカス。
 # 3 Max は 5.5inch(ZC553KL) モデルだけが au VoLTE 対応。
+# ゴリラガラス。 (Corning)
 #
 # 2 (ZE551ML) は Android では世界初の 4GB メモリを載せたスマホ。
 # 64bit OS への更新を予定して売ってた。
@@ -1321,7 +1332,8 @@ Mate9 が問題になってる。 (無問題了？？)
 中国 Lenovo 製。
 Nexus 6 を作ってた。
 # G5 は別売のバッテリーがでれば、交換できるようになる。
-# G5 Plus より割れやすい。
+# G5 は窓ガラスなので割れやすい。
+# G5 Plus はゴリラガラス。 (Corning)
 
 *** Priori 4
 
@@ -1345,6 +1357,7 @@ SONY 製。
 # Exynos
 # Tizen (buggy?)
 # Bixby (AI, Galaxy S8)
+# Corning Lotus NXT Glass
 #
 # Galaxy の SIM フリー版は、海外にしかない。
 #
@@ -1383,6 +1396,7 @@ Android One も作ってる。
 中国 ZTE 製。
 動画の特許問題で訴えられてる。 (AVC)
 # V7 lite
+# V770 (au VoLTE 対応)
 
 *** HTC
 
@@ -1396,7 +1410,10 @@ Google の発注する Pixel を作ってる。 (Nexus の後継、日本では�
 中国 TCL 製。 (ODM)
 QWERTY 配列のキーボードが特徴。
 オバマ大統領の愛用品として有名だった製品の Android 版。
-# Alcatel
+# 仏 Alcatel は TCL の子会社。
+# Alcatel PIXI4
+# Alcatel SHINE LITE (au VoLTE 対応)
+# ドラゴントレイルガラス。 (旭化成)
 
 *** VAIO Phone A
 
@@ -1410,7 +1427,7 @@ VAIO 製。
 
 # *** Tommy
 #
-# フランスのベンチャー Wiko (ウイコウ) 製。
+# 仏ベンチャー Wiko (ウイコウ) 製。
 # 中国 TINNO の子会社。 (ODM?)
 # 1 万円くらい。
 # バッテリー交換できる。
@@ -1429,6 +1446,14 @@ VAIO 製。
 # Vivo
 # OnePlus
 
+# Jelly
+# 中国 Unihertz 製。
+# クラウドファンディング商品。 (米 Kickstarter)
+# 世界最小 2.45inch の 4G スマホ。
+# 多言語対応。
+# 技適も取得するみたい。
+# Pro モデルもある。
+
 ** iOS (Apple)
 
 迷うことはありません。
@@ -1444,6 +1469,7 @@ VAIO 製。
 # AppleCare
 # Cellular Payload
 # Apple tax (App Store)
+# ゴリラガラス (Corning)
 #
 # 32bit: iPhone 5/5c
 # 64bit: iPhone 5s
@@ -1515,7 +1541,7 @@ VoLTE 対応。
 ドコモのスマホは解除なしで使える。
 au も 4G 対応してて VoLTE 非対応なら解除なしで使える。
 ソフトバンクは iPhone だけ解除なしで使える。
-# 2017/05/24 から、ドコモがガイドラインの履行を前倒しする予定。
+# ドコモがガイドラインの履行を前倒しする予定。 (2017/05/24 から)
 # 対象は 2015/05/01 以降に買ったスマホ。
 
 ガイドラインには 3G から 4G へ移行しろとも書いてある。
