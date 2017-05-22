@@ -326,6 +326,12 @@ au 以外からの乗り換えだとしばらく安いけど、縛りがキツ�
 1980 円で使えるのは最初の 1 年だけ。
 # 2014/12/18 au 回線で開始。
 
+機種変更ができない。 *(!?)*
+なので、以下の 3 択を迫られる。
+UQ mobile じゃないところに乗り換える。
+UQ mobile じゃないところでスマホを買う。 (動作確認端末一覧で確認)
+電話番号が変わるけど、新規契約しなおす。 (IP 電話の番号は引き継げる)
+
 (V) が付いたプランは 4G しか使えない。
 音声通話には VoLTE と SIM ロック解除が必須。
 # SMS は 4G でも送れる。
@@ -535,6 +541,7 @@ au 回線には UQ mobile と同じ制限がある。
 
 音声通話は +700 円で、 20 円/ 30 秒。
 通話アプリの "みおふぉんダイアル" で、音声通話を 10 円/ 30 秒にできる。
+LaLa Call を紹介してる。
 
 au 回線なら SMS も使えて同じ料金。
 ただし、音声通話には VoLTE 対応で SIM ロック解除したスマホがいる。
@@ -1196,6 +1203,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Android Go (1GB memory devices, 2018)
 #
 # Android Studio (SDK, Kotlin)
+# Firebase (MBaaS: Mobile Backend as a Service)
 # Android for Work (KNOX, Samsung)
 # Anbox (Android in the box)
 # Android Terminal Emulator (adb, tethering, APN lock)
@@ -1244,11 +1252,13 @@ au 回線も使える。
 Mate9 が問題になってる。 (無問題了？？)
 # Kirin (Cortex-A)
 # HiCare
+# HUAWEI バックアップ
 #
 # P9 (lite)
 # 金属フレームとゴリラガラス。 (Corning)
 # nova よりは丈夫。
 # 更新保証の対象外。
+# lite premium は au VoLTE 対応。
 #
 # nova
 # 金属フレームと曲面強化ガラス。 (日本電気硝子？)
