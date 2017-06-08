@@ -763,7 +763,7 @@ SIM タイプ2 はパケット通信のみ。 (OCN)
 # 外部からマイページへの攻撃っぽいのを検知したらしい。
 # Apache Struts 2 にあった既知の脆弱性を突かれた。 (CVE-2017-5638)
 # 攻撃は不成立だったので、情報漏洩はなかったと公表。
-# 情報漏洩が確認されたのは、総務省や他の会社。
+# 情報漏洩が確認されたのは、総務省や国土交通省と他の会社。
 #
 # 2017/05/15 イオンで WannaCryptor 感染。 (ランサムウェア)
 # 福岡にある系列のスーパーだった？
@@ -1124,10 +1124,13 @@ LINE モバイルならパケットを消費しない。
 ** 中継電話
 
 音声通話の SIM を契約しないと使えない。
-電話番号の前に番号を追加して発信するだけのもの。
+電話番号の前に番号を追加して発信するだけのもの。 (プレフィックス)
 音声通話のパケットは優先されるので、途切れにくい。
 パケットを消費しない。
 相手に通話料の負担がない。 (IP 電話のパケットを除く)
+
+着信通知とかから直接電話を折り返すと、中継されないので通常料金になる。 *(!?)*
+不便だけど通知や履歴を使わないか、アプリでなんとかする。
 
 +通話定額に必須のアプリ。+
 通話定額で、設定変更がいらないアプリ。
@@ -1202,6 +1205,9 @@ LINE モバイルならパケットを消費しない。
 日本はケーサツが知られないように位置情報 (GPS) を取得したがってる。
 韓国は諜報関係者が役員になってる。
 さぁ、どれがいい？
+
+# IMSI キャッチャー検知装置
+# [[https://github.com/seaglass-project/seaglass][SeaGlass]]
 
 # 4G band
 # | freq (MHz) | softbank | docomo |       au |                 |
@@ -1375,6 +1381,9 @@ H.265(HEVC) はパテントプールで溺れてる。
 #
 # 液晶モニタでは世界で初めて HDR *表示* に対応する。
 # NHK 技研公開 2017 で見れた。 (展示 19)
+#
+# ふえるパテントプール。 (H.265)
+# MPEG LA, HEVC Advance, Technicolor SA, Velos Media, ...?
 
 # 2017/05/25 dtab Compact d-01J タブレット発売。 (Huawei MediaPad M3 ベース)
 # 消費者向けとしては初の eSIM 搭載。
@@ -1470,7 +1479,7 @@ Mate9 が問題になってる。 (無問題了？？)
 # 日本ではもうすぐ発売。 (予約できる)
 # au VoLTE 対応予定。
 # CA 対応。
-# OTG 対応。
+# OTG 対応。 (日本版は未確認)
 # 金属フレームと曲面強化ガラス。 (日本電気硝子？)
 #
 # P9 lite
@@ -1700,6 +1709,11 @@ VAIO 製。
 # 2014 年 Google を退社。
 # 2015 年 Essential Products 社を設立。 (ステルス)
 
+# Ice
+#
+# 米 Amazon 製。
+# 新興市場向け？
+
 ** iOS (Apple)
 
 迷うことはありません。
@@ -1713,17 +1727,31 @@ VAIO 製。
 # jailbreak
 # activation lock
 # AppleCare
-# Cellular Payload
+# Celluler Payload (APN)
 # Apple tax (App Store)
 # ゴリラガラス (Corning)
 # WWDC (Worldwide Developers Conference)
 # Micro LED
-# 5s -> SE
 # CallKit
+# Apple Pay
+# iCloud (free 5GB)
+# App Store Review Guideline
 #
+# App Store でも 32bit アプリを段階的に廃止。 (2018 年から)
 # 32bit: iPhone 5/5c
 # 64bit: iPhone 5s
-# iOS 10.3.2 -> 11 で 32bit サポートを段階的に廃止？
+# 5s -> SE
+#
+# WWDC 2017
+# iOS 11 developer beta start (64bit only)
+# iOS 11 public beta (end of june)
+# iOS 11 release (2017 autumn)
+# H.264 -> H.265 (HEVC)
+# JPEG -> HEIF (High Efficiency Image File Format, H.265 pools)
+# HDR
+# ARKit
+# iPhone Repair Pilot Program
+# Core NFC
 
 *** iPhone
 
