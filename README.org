@@ -517,13 +517,13 @@ au 回線だと Android 6 以上のスマホが少ない。
 # セット割解禁で予定通り NTT 寡占化。 (スマホで光回線の競争を制限)
 #
 # SIM 契約で最多なのは IIJmio 。 (113 万)
-# 契約数を開示せずに、 "シェア No.1" 表示はやりにくくなった。
+# 契約数を開示せずに "シェア No.1" 表示は、やりにくくなった。
 # FREETEL は、ヨドバシカメラの販売シェアが根拠と主張した。
 # 楽天モバイルは、 MMD 研究所や ICT 総研とかのアンケートを根拠にしてた。
 
 # 2017/01/31 au(KDDI) が BIGLOBE を買収。
 # 2017/04/01 ノジマが NifMo(ニフティ) を買収。
-# 2017/08/01 BB.excite モバイル LTE をエキサイトモバイルに統合。
+# 2017/08/01 BB.excite モバイル LTE をエキサイトモバイルに統合予定。
 # 2017/11/30 ぷららモバイル LTE がサービス終了予定。
 
 ** mineo (マイネオ)
@@ -775,7 +775,8 @@ SIM タイプ2 はパケット通信のみ。 (OCN)
 # 外部からマイページへの攻撃っぽいのを検知したらしい。
 # Apache Struts 2 にあった既知の脆弱性を突かれた。 (CVE-2017-5638)
 # 攻撃は不成立だったので、情報漏洩はなかったと公表。
-# 情報漏洩が確認されたのは、総務省や国土交通省と他の会社。
+# 情報漏洩が確認されたのは、総務省を含む行政機関や他の会社。
+# GMO ペイメントゲートウェイにクレカ決済を委託してたところが多い？ (PCI DSS 適合)
 #
 # 2017/05/15 イオンで WannaCryptor 感染。 (ランサムウェア)
 # 福岡にある系列のスーパーだった？
@@ -1450,6 +1451,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # USB OTG (On The Go, dual-role device)
 # USB Type-C
 # Android Go (1GB memory devices, 2018)
+# custom ROM
 #
 # Android Studio (SDK, Kotlin)
 # Firebase (MBaaS: Mobile Backend as a Service)
@@ -1460,6 +1462,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # AIDA64
 # Androbench
 # Antutu
+# Noroot Firewall
 #
 # Google Experience Device, Google Play Edition (EOL)
 
@@ -1491,14 +1494,13 @@ Google モデルを元に各国向けに作り替えたもの。
 新興国向けは安いのに。
 シャープ製と京セラ製がある。
 
-*** nova
+*** P10 lite
 
 中国 "華為(ファーウェイ、 Huawei)" 製。
+au VoLTE 対応予定。
 発売から 2 年間の更新を保証。 (2016/07/18 の Honor8 以降のみ)
 SIM フリーなら故障しても、 Y!mobile の店舗で代替機を借りられる。 *(事前契約不要!?)*
 Nexus 6P を作ってる。
-DSDS 対応。
-au 回線も使える。
 Mate9 が問題になってる。 (無問題了？？)
 # Kirin (Cortex-A)
 # HiCare
@@ -1516,18 +1518,23 @@ Mate9 が問題になってる。 (無問題了？？)
 # (受け付けてない店舗もある)
 #
 # P10 lite
-# 日本で売ってる。
 # au VoLTE 対応予定。
 # CA 対応。
-# OTG 対応。 (日本版は未確認)
+# OTG 対応。 (非公式)
 # 金属フレームと曲面強化ガラス。 (日本電気硝子？)
 #
 # P9 lite
 # 金属フレームと曲面強化ガラス。 (日本電気硝子？)
-# lite premium は au VoLTE 対応。 (UQ mobile のみ)
 # nova lite よりは丈夫。
 # 更新保証の対象外。
 # P9 はゴリラガラス。 (Corning)
+# lite premium は au VoLTE 対応。 (UQ mobile のみ)
+# 14000 円台で購入。
+#
+# nova
+# au VoLTE 対応。
+# DSDS 対応。
+# 金属フレームと曲面強化ガラス。 (日本電気硝子？)
 #
 # nova lite
 # コストパフォーマンスは最高かも。
@@ -1536,10 +1543,8 @@ Mate9 が問題になってる。 (無問題了？？)
 # 他では SIM 契約や会員登録がいる。
 # au 回線では使えない。
 # 樹脂フレームと曲面強化ガラスなので割れそう。 (日本電気硝子？)
-# nova は、金属フレーム。
 #
 # P10, P10 Plus
-# 日本で売ってる。 (ストレージは未確認)
 # 金属フレームとゴリラガラス。 (Corning)
 # 同じ値段の P10 でも、速いのと遅いのがある。
 # 倍以上の速度差になることもある。
@@ -1547,12 +1552,13 @@ Mate9 が問題になってる。 (無問題了？？)
 # ストレージは eMMC5.1, UFS2.0, UFS2.1 がある。
 # メモリも、 LPDDR3 と LPDDR4 がある？
 # 消費者向け事業 CEO の余承東が Weibo に "フラッシュメモリの枯渇が原因" と書き込んだ。
-# 中国で炎上中。
+# 中国でも炎上した。
 # 公式声明を意訳すると、体感の差はないからいいよね？
 # 深圳市消費者委員会も、気にするなって。
+# 日本でも発売された。 (日本版は UFS2.1 が多い？)
 #
 # Mate9
-# 日本で売ってる。
+# 日本でも売ってる。
 # 製品の紹介ページから、 UFS2.1 の表示が消されたところ。
 # ストレージは UFS2.0, UFS2.1 がある。
 # メモリも、 LPDDR3 と LPDDR4 がある？
@@ -1591,9 +1597,12 @@ Mate9 が問題になってる。 (無問題了？？)
 # サポートは、オンラインチャットでもやってる。
 # [[https://chat-apac.asus.com/chatservice/index.htm?tenant=JP&lang=ja-jp]]
 #
+# Zenfone 4
+# Zenfone AR
+#
 # | 3 Max   | Android 6              | 大容量バッテリー、窓ガラスなので割れやすい |
 # | 3 Laser | Android 7 (日本版待ち) | ゴーストタッチが心配                       |
-# | Go      | Android 5 まで         | 2 の廉価版？                               |
+# | Go      | Android 5 まで         | バッテリー交換できる、 2 の廉価版？        |
 # | 2 Laser | Android 6 まで         | ロングセラー                               |
 #
 # Laser は レーザーオートフォーカス。
@@ -1642,14 +1651,17 @@ SONY 製。
 #
 # Galaxy の SIM フリー版は、海外にしかない。
 #
+# Note7->NoteFE
+# Note7 のバッテリー交換して再販予定。
+#
 # S8, S8+
-# 日本ではまだ売ってない。
 # Exynos と Snapdragon のモデルがある。
-# 爆発した Galaxy Note 7 と同じバッテリー。 (原因は絶縁シートだった？)
+# 爆発した Note 7 と同じバッテリー。 (原因は絶縁シートだった？)
 # 製品の紹介ページには、 64GB (UFS2.1) で "May differ by country and currier." とあった。
 # UFS2.1 の表示が消された。
 # 今のところ S8 の Snapdragon モデルだけが、 UFS2.0 みたい。
 # 最新の Galaxy にすら、 UFS2.1 を用意できなかったのかしら？
+# 日本でも発売された。 (日本版は UFS2.1 が多い？)
 
 *** arrows
 
@@ -1687,6 +1699,12 @@ Android One も作ってる。
 以前は au 回線の 3G にも対応してた。
 Google の発注する Pixel を作ってる。 (Nexus の後継、日本では売ってない)
 # 日本向け SIM フリーは最近でてない？
+#
+# U11
+# 大手キャリアの 2017 夏モデル。
+# 日本 Band のほとんどに対応してるみたい。 (公式)
+# ソフトバンクと au から発売されたのは、他社の Band を削ったもの？
+# (ドコモからは発売されてない)
 
 *** BlackBerry KEYone
 
@@ -1792,7 +1810,7 @@ VAIO 製。
 # JPEG -> HEIF (High Efficiency Image File Format, H.265 pools)
 # HDR
 # FLAC (Free Lossless Audio Codec)
-# Opus ([[http://tools.ietf.org/html/rfc6716][RFC 6716]]), Core Audio Format (.caf)
+# Opus ([[http://tools.ietf.org/html/rfc6716][RFC 6716]], .caf container)
 # ARKit (VR->AR)
 # Spatial audio (B-format, Higher Order Ambisonic)
 # iPhone Repair Pilot Program
