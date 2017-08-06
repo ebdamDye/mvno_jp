@@ -1393,6 +1393,8 @@ LINE モバイルならパケットを消費しない。
 # 電池の最適化とかで許可してても、 Android はアプリを閉じる。
 # Doze はアプリの動作を制限するだけで、閉じてるわけじゃないから。
 # 許可したら、 Doze に対応してないアプリも動かせるだけのハズ。
+# 動作の制限が少ないことの副作用として、アプリが閉じにくくなるのかも。
+# (これを許可するのは、最後の手段？)
 
 +通話定額に必須のアプリ。+
 音声通話定額で、設定変更がいらないアプリ。
@@ -1824,6 +1826,11 @@ Mate9 が問題になってる。 (無問題了？？)
 #   一括で閉じたくないアプリはロックしとく。
 # - "天気" (プリインストールのアプリ、ウィジェット)
 #   ローマ字で他の都市を検索してみると、幸せになれるかも。
+# - "QR コードリーダー" (プリインストールのアプリ)
+#   ホーム画面の中央を下にスワイプして、検索枠の左にあるアイコン。
+#   ロック画面の一番下を上にスワイプして、右下にあるアイコン。
+#   カメラで撮って、ギャラリーで開いたらその他。
+#   ホーム画面にアイコンを出したければ、アプリでなんとかする。
 #
 # Y!mobile と提携。 (2016/10/20)
 # Huawei Japan への修理の取り次ぎを、 Y!mobile の店舗でしてくれる。
@@ -2124,35 +2131,42 @@ VAIO 製。
 
 # *** GRAND X LTE
 # 米 BLU Products 製。 (ODM)
-# 販売代理店はソフトバンクコマース＆サービス。
-# ADUPS のバックドアとスパイウェア疑惑が再燃してる。
-# このスマホ自体は、疑惑の対象外？
-# 販売代理店の声明はまだみたい。
+# 代理店はソフトバンクコマース＆サービス。
+# Adups FOTA (Firmware Over The Air) の、バックドアとスパイウェアの問題が再燃してる。
+# このスマホ自体は、問題の対象外？
+# 代理店のオンラインショップから消えた。 (2017/07/29?, 404 not found)
+# オンラインショップに戻ったけど、探しにくい？ (2017/08/04)
 #
 # GRAND M
-# 日本でも売ってる。
+# 日本では Amazon 限定で売ってる。
 # 発売日は 2017/01/13、日本では 2017/06/16 。
-# 新たに ADUPS 問題の対象になった。 (Black Hat 2017/07/25,26)
+# 新たに Adups FOTA 問題の対象になった。 (2017/07/25,26 Black Hat, Kryptowire)
 # [[https://www.blackhat.com/us-17/briefings.html#all-your-sms-and-contacts-belong-to-adups-and-others][All Your SMS & Contacts Belong to ADUPS & Others]]
-# 販売代理店は Amazon で 37 円とかにして、在庫処分。 (2017/07/29)
-# 販売代理店のサイトから消えた？
+# 代理店が Amazon で 37 円とかにして、投げ売り。 (2017/07/29)
 # Amazon は BLU のスマホを全て販売停止。 (2017/07/31)
-# BLU の見解を意訳すると、みんなやってるから気にするなって。 (2017/07/31)
+# BLU の話を意訳すると、 OTA はみんなやってるから気にするなって。 (2017/07/31)
 # [[http://www.prnewswire.com/news-releases/blu-responds-to-inaccuracies-in-several-stories-from-last-week-regarding-its-devices-300496680.html][BLU responds to inaccuracies in several stories from last week regarding its devices]]
-# OTA で送信されているのは一般的な情報で、今は極端なプライバシー問題なし？ (2017/08/02 Kryptowire)
+# 以前とは違うスマホに、まだ Adups FOTA 問題が残ってる？ (2017/08/02 Kryptowire)
 # [[https://www.kryptowire.com/observed_adups_data_collection_behavior.html][Observed ADUPS Data Collection & Data Transmission]]
-# 前のスマホに、ブラウザの履歴や通話履歴とかを送信する問題や脆弱性が残ってた？
-# FOTA から GOTA に移行するんじゃなかったのかしら？
+# 代理店が、日本向けは GOTA なので関係ないと公表。 (2017/08/04)
+# 公開された PDF は、2017/08/01 付けで BLU Products CSO の Danial Ohev-Zion が署名したもの。
+# 脆弱性のあるアプリも、すでに修正済みらしい。
+# Kryptowire による定期調査も継続するって。
+# Amazon で、投げ売り前の価格に戻して販売再開。 (2017/08/04)
+# (Cubot X16S, Life One X2, BLU Advance 5.0)
 #
 # R1 HD
 # 日本では売ってない。
 # 米国でたくさん売れてた。
-# セキュリティとプライバシーの問題が見つかった。 (2016/11/15 Kryptowire)
-# 原因は、中国 Shanghai ADUPS Technology 製のファームウェア更新アプリ。 (FOTA: Firmware Over The Air)
+# Adups FOTA による、バックドアとスパイウェアの問題が見つかった。 (2016/11/15 Kryptowire)
+# 原因は、中国 Shanghai Adups Technology 製の無効化できないファームウェア更新アプリ。
 # バックドアの他に入力したテキストや連絡帳、通話履歴にスマホの識別情報とかを中国に送信してた。
-# 更新でアプリを削除して、この問題は修正されたハズ。
+# 更新でアプリを修正して、この問題は解消されたハズ。
 # [[http://www.kryptowire.com/adups_security_analysis.html][KRYPTOWIRE DISCOVERS MOBILE PHONE FIRMWARE THAT TRANSMITTED PERSONALLY IDENTIFIABLE INFORMATION (PII) WITHOUT USER CONSENT OR DISCLOSURE]]
 # [[http://www.adups.com/article/show_article.php?id=162][News_adups fota]]
+# これまでに発売したスマホは、引き続き Adups FOTA 。
+# 今後は、 Adups FOTA をやめて GOTA (Google Over The Air) で発売する。
+# (Energy X Plus 2, Studio Touch, Advance 4.0 L2, Neo XL, Energy Diamond)
 
 # *** Ice (米 Amazon)
 # *** CAT S40 (米 Caterpillar)
