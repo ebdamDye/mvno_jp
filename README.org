@@ -132,8 +132,7 @@
 
 ソフトバンク回線の格安キャリアは、宣伝文句がおかしい。
 ソフトバンクが SIM ロックした iPhone しか使えないとも読めるよ？
-音声通話と SMS がないのは、とても先進的だけど。
-まだ高いし、夏に期待するしかないかも。
+音声通話と SMS がなかったのは、とても先進的だったのに。
 # |       | b-mobile |
 # |-------+----------|
 # | 1 GB  |      880 |
@@ -1021,8 +1020,9 @@ NTT コミュニケーションズでプロバイダをしてるところ。
 # |------------------+-----+------+------+------|
 # | パケット通信のみ | 880 | 1580 | 2980 | 4980 |
 #
-# ソフトバンク回線は割高。
-# 音声通話と SMS はできない。
+# ソフトバンク回線の、パケット料金は割高。
+# SMS 付き SIM はない。
+# 音声通話 SIM は 音声通話定額を強制される。 (+1670 円くらい)
 # ソフトバンクで SIM ロックされたスマホも使える。
 # ただし、 iPhone のことしか書いてない。
 #
@@ -1038,6 +1038,7 @@ NTT コミュニケーションズでプロバイダをしてるところ。
 #
 # 2017/03/22 ソフトバンク回線のデータ通信 SIM を開始。
 # 2017/08/16 ソフトバンク回線の音声通話 SIM を開始予定。
+#            [[http://www.j-com.co.jp/ir/pdf/press_170803a.pdf]["これにより、 MVNO 市場が 2 倍になります。"]] (IR!?)
 
 # ** Wonderlink (パナソニック)
 #
@@ -1359,7 +1360,8 @@ LINE モバイルならパケットを消費しない。
 # 格安キャリアの公式アプリとかで着信を扱えるようになるとしても、 Android O から。
 #
 # アプリで表示できる通話料は、だいたいこのくらいって目安。
-# 音声通話は格安キャリアの回線を通らないので、翌月に請求されるまで正確な通話料がわからない。
+# 音声通話は、格安キャリアの回線を通らない。
+# 翌月に請求されるまで、格安キャリアにも正確な通話料がわからない。
 #
 # 発信するときに割り込んで、プレフィックス番号を追加する非公式アプリはある。
 # 音声通話するときしか使わないアプリなので、 Android に閉じられやすい。
@@ -1368,7 +1370,7 @@ LINE モバイルならパケットを消費しない。
 # (Notification.FLAG_ONGOING_EVENT, startForeground()?)
 # ロック画面の通知はアイコンだけにできない。
 # - "MultiPrefixer"
-#   Android 7.0 まで対応。 (明示してるのはコレだけ？)
+#   Android 7.0 対応。 (7.1 だと一部の機能が使えないそうな)
 #   通話履歴からプレフィックス番号を *削除* できる。
 # - "プレフィックス plus"
 #   オープンソース。 (ライセンス不明)
@@ -1380,6 +1382,9 @@ LINE モバイルならパケットを消費しない。
 # - "mio プレフィックス"
 #   IIJmio 専用。
 #   通話履歴は番号で表示。
+# - "プレフィックスタイマー"
+#   Android 6.0 対応。
+#   通話履歴からプレフィックス番号を *削除* できる。
 # - "Biz Prefix"
 #   iOS 専用。
 #
@@ -1390,10 +1395,14 @@ LINE モバイルならパケットを消費しない。
 # パソコンと違って、使われてないアプリが無期限に動いてたりしない。
 # (Zenfone なら、 "自動起動マネージャー" で許可すればいいのかも？)
 #
+# メモリが少ないスマホなら、いらないアプリはアンインストールしとく。
+# 呼んでないのに動くような行儀の悪いアプリも、見つけ次第さよなら。
+# ある程度メモリが空いてないと、 Android にアプリを閉じられやすいから。
+#
 # 電池の最適化とかで許可してても、 Android はアプリを閉じる。
 # Doze はアプリの動作を制限するだけで、閉じてるわけじゃないから。
-# 許可したら、 Doze に対応してないアプリも動かせるだけのハズ。
-# 動作の制限が少ないことの副作用として、アプリが閉じにくくなるのかも。
+# 許可したら、 Doze に対応してないアプリが動くかもしれないだけのハズ。
+# 動作の制限が少ないことの副作用として、アプリが閉じられにくくなるのかも。
 # (これを許可するのは、最後の手段？)
 
 +通話定額に必須のアプリ。+
@@ -1552,8 +1561,10 @@ LINE モバイルならパケットを消費しない。
 ** Android (Google)
 
 Android 8 は開発者向けに、プレビュー版を公開してる。
-最新の Android 7 はこの春に新しいのが増えた。
-バージョンアップがあるとしたら Android 6 以上で、 30000 円くらいから。
+バージョンアップがあるとしたら最新の Android 7 以上？
+普及してるのは Android 6 で、 30000 円くらいを目安に考えてる。
+格安のは機能が削られてる。
+(バーゲン品や中古は除く)
 # 2017/03/21 Android O Developer Preview 1
 # 2017/05/17 Android O Developer Preview 2 (Google I/O 2017)
 # 2017/06/08 Android O Developer Preview 3 (API level 26)
@@ -1609,8 +1620,8 @@ Android 8 は開発者向けに、プレビュー版を公開してる。
 #
 # あとは、バージョンアップを保証して売ってるスマホがあるくらい？
 
-普及してるのは、少し前の Android 5 スマホで 20000 円くらい。
-もっと前の Android 4 スマホなら 10000 円くらいで買える。
+前に普及してた Android 5 スマホなら 20000 円以下くらい？
+もっと前の Android 4 スマホなら 10000 円以下くらい？
 それより前だと、アプリがあまり使えなくなる。
 # 新品として売ってるのは、まだ不具合の修正くらいはしてる？
 # いつまで続けてくれるのか不明。
@@ -1618,9 +1629,6 @@ Android 8 は開発者向けに、プレビュー版を公開してる。
 # セルスタンバイ問題は Android 6 で修正された？
 # あとはスマホの製造元が修正したかどうか。
 # Android 4 や 5 なら音声通話か SMS 付きの SIM が無難かも。
-
-格安のは機能が削られてる。
-(バーゲン品や中古は除く)
 
 VoLTE に対応したのは、ドコモが 2014 年夏頃から。
 au とソフトバンクは 2014 年冬頃から。
@@ -1799,6 +1807,7 @@ Mate9 が問題になってる。 (無問題了？？)
 # P9 lite を 14000 円台で購入。
 # まずは B170 -> B361 (EMUI 5.0) -> B380 の順に更新してリセット。
 # それから SIM 差して APN 選択、復元、その他の設定。
+# いらないアプリは削除か無効化して、空きメモリをできるだけ用意。
 # いろんなスマホにあった Android 7.0 初期の主なバグは解消されてるっぽい。
 # (以下は、検証中のメモ)
 # - 省電力モード (電池)
@@ -1829,7 +1838,7 @@ Mate9 が問題になってる。 (無問題了？？)
 # - "QR コードリーダー" (プリインストールのアプリ)
 #   ホーム画面の中央を下にスワイプして、検索枠の左にあるアイコン。
 #   ロック画面の一番下を上にスワイプして、右下にあるアイコン。
-#   カメラで撮って、ギャラリーで開いたらその他。
+#   カメラで撮って、ギャラリーで開いてその他。 (遅い)
 #   ホーム画面にアイコンを出したければ、アプリでなんとかする。
 #
 # Y!mobile と提携。 (2016/10/20)
@@ -2133,39 +2142,44 @@ VAIO 製。
 # 米 BLU Products 製。 (ODM)
 # 代理店はソフトバンクコマース＆サービス。
 # Adups FOTA (Firmware Over The Air) の、バックドアとスパイウェアの問題が再燃してる。
-# このスマホ自体は、問題の対象外？
+# このスマホは、 Adups に送信してない？
 # 代理店のオンラインショップから消えた。 (2017/07/29?, 404 not found)
 # オンラインショップに戻ったけど、探しにくい？ (2017/08/04)
 #
 # GRAND M
 # 日本では Amazon 限定で売ってる。
+# 新たに Adups FOTA 問題の対象になった。
 # 発売日は 2017/01/13、日本では 2017/06/16 。
-# 新たに Adups FOTA 問題の対象になった。 (2017/07/25,26 Black Hat, Kryptowire)
+# Adups への送信が続いてると公表。 (2017/07/25,26 Black Hat, Kryptowire)
 # [[https://www.blackhat.com/us-17/briefings.html#all-your-sms-and-contacts-belong-to-adups-and-others][All Your SMS & Contacts Belong to ADUPS & Others]]
+# CNET に掲載される。 (2017/07/26)
+# [[https://www.cnet.com/news/these-cheap-phones-are-costing-you-your-privacy/][These cheap phones come at a price -- your privacy]]
 # 代理店が Amazon で 37 円とかにして、投げ売り。 (2017/07/29)
-# Amazon は BLU のスマホを全て販売停止。 (2017/07/31)
+# Amazon は BLU のスマホを全て販売休止。 (2017/07/31)
+# [[https://www.cnet.com/news/amazon-suspends-sales-of-blu-phones-due-to-privacy-concerns/][Amazon suspends sales of Blu phones due to privacy concerns]]
 # BLU の話を意訳すると、 OTA はみんなやってるから気にするなって。 (2017/07/31)
 # [[http://www.prnewswire.com/news-releases/blu-responds-to-inaccuracies-in-several-stories-from-last-week-regarding-its-devices-300496680.html][BLU responds to inaccuracies in several stories from last week regarding its devices]]
-# 以前とは違うスマホに、まだ Adups FOTA 問題が残ってる？ (2017/08/02 Kryptowire)
+# 残ってた Adups FOTA 問題は、こっそり修正したらしい。 (2017/07/31 CNET)
+# Kryptowire が追加情報を公開。 (2017/08/02)
 # [[https://www.kryptowire.com/observed_adups_data_collection_behavior.html][Observed ADUPS Data Collection & Data Transmission]]
 # 代理店が、日本向けは GOTA なので関係ないと公表。 (2017/08/04)
 # 公開された PDF は、2017/08/01 付けで BLU Products CSO の Danial Ohev-Zion が署名したもの。
 # 脆弱性のあるアプリも、すでに修正済みらしい。
-# Kryptowire による定期調査も継続するって。
+# Kryptowire による定期調査も続けるって。
 # Amazon で、投げ売り前の価格に戻して販売再開。 (2017/08/04)
 # (Cubot X16S, Life One X2, BLU Advance 5.0)
 #
 # R1 HD
 # 日本では売ってない。
 # 米国でたくさん売れてた。
-# Adups FOTA による、バックドアとスパイウェアの問題が見つかった。 (2016/11/15 Kryptowire)
+# Adups FOTA 問題が見つかった最初のスマホ。 (2016/11/15 Kryptowire)
 # 原因は、中国 Shanghai Adups Technology 製の無効化できないファームウェア更新アプリ。
 # バックドアの他に入力したテキストや連絡帳、通話履歴にスマホの識別情報とかを中国に送信してた。
 # 更新でアプリを修正して、この問題は解消されたハズ。
 # [[http://www.kryptowire.com/adups_security_analysis.html][KRYPTOWIRE DISCOVERS MOBILE PHONE FIRMWARE THAT TRANSMITTED PERSONALLY IDENTIFIABLE INFORMATION (PII) WITHOUT USER CONSENT OR DISCLOSURE]]
 # [[http://www.adups.com/article/show_article.php?id=162][News_adups fota]]
 # これまでに発売したスマホは、引き続き Adups FOTA 。
-# 今後は、 Adups FOTA をやめて GOTA (Google Over The Air) で発売する。
+# 今後は、 GOTA (Google Over The Air) で発売するって。
 # (Energy X Plus 2, Studio Touch, Advance 4.0 L2, Neo XL, Energy Diamond)
 
 # *** Ice (米 Amazon)
