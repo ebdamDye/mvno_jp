@@ -421,6 +421,8 @@ au が売ったスマホ以外だと、 LTE NET for DATA の申し込みがい�
 ソフトバンク以外からの乗り換えだとしばらく安いけど、縛りがキツイ。
 1980 円で使えるのは最初の 1 年だけ。
 
+一部の Android スマホは SIM ロックされてない。 *(!?)*
+
 パケットの繰り越しはできない。
 
 # Wi-Fi スポットはソフトバンクと同じ。
@@ -441,26 +443,16 @@ au が売ったスマホ以外だと、 LTE NET for DATA の申し込みがい�
 |----------------------+------+------+------|
 | おしゃべり、ぴったり | 3980 | 4980 | 5980 |
 
-|            | 3GB   | 500kbps |
-|------------+-------+---------|
-| データ高速 | *980* |    1980 |
-| + 音声通話 | 1680  |    2680 |
+| データプラン | 3GB   | 500kbps |
+|--------------+-------+---------|
+| データ高速   | *980* |    1980 |
+| + 音声通話   | 1680  |    2680 |
 
 au の子会社。
 au と一緒で、使えるスマホが限られる。
 au 以外からの乗り換えだとしばらく安いけど、縛りがキツイ。
 1980 円で使えるのは最初の 1 年だけ。
 # 2014/12/18 au 回線で開始。
-
-機種変更 (追加購入) ができない。 *(!?)*
-Android スマホは SIM ロックされてない。 *(!?)*
-いずれ、以下の 3 択を迫られる。
-UQ mobile じゃないところに乗り換える。 (格安キャリアが待ってる)
-UQ mobile じゃないところでスマホを買う。 (動作確認端末一覧がある)
-電話番号が変わるけど、新規契約しなおす。 (IP 電話の番号は引き継げる)
-# 追加購入できないと、 Android 6 以上のスマホが少ない。
-# Apple 教徒しかいないのかも。
-# 数年後に期待する？
 
 (V) が付いたプランは 4G しか使えない。
 音声通話には au VoLTE と SIM ロック解除が必須。
@@ -473,6 +465,7 @@ au に SIM ロックされたスマホでも使える。
 
 データ高速プランだけは、格安キャリアの料金プランに近い。 *(!?)*
 工夫すれば、高速通信と安さを両立できる。
+ただし、データプランのみ機種変更 (追加購入) できない。
 # 音声通話なしは、 "端末購入アシスト" を使えない。
 # 音声通話ありは、 1 年縛り。
 # "端末購入アシスト" は 2 年縛り。 (スマホの選択肢が少ない)
@@ -487,6 +480,8 @@ au に SIM ロックされたスマホでも使える。
 #
 # 昼だけ UQ mobile の SIM に切り替えてる人もいるらしい。
 # DSSS のスマホなら簡単？
+
+Android スマホは SIM ロックされてない。 *(!?)*
 
 ポータルアプリでターボを OFF にすると、パケットを消費しない。
 おしゃべりとぴったりは 300kbps になる。
@@ -506,6 +501,8 @@ au に SIM ロックされたスマホでも使える。
 # メールアプリは CosmoSia が紹介されてた。
 
 # "通信の最適化" はしてない。
+
+# 2017/09/07 機種変更と口座振替を開始。
 
 
 * 格安キャリア (MVNO で低速通信)
@@ -1613,6 +1610,7 @@ OCN モバイル ONE との SIM 契約なしで使える。 (2017/09/01)
 # 2017/06/08 Android O Developer Preview 3 (API level 26)
 # 2017/07/24 Android O Developer Preview 4 (Beta -> Release Candidate)
 # 2017/08/21 Android 8.0 Oreo (Release)
+# 2017/??/?? Android 8.1 (API level 27, Pixel 2?)
 # - Background limits
 # - Project Treble (Sony, Qualcomm)
 #   Google で管理する OS から、製造元が実装するところを分離するようなもの。
@@ -1698,6 +1696,7 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 # 2015/10/29 ドコモ 3CC CA
 # 2016/06/29 ドコモ Band 42 (3.5GHz)
 # 2017/03/09 ドコモ 256QAM, 4x4MIMO
+# 2017/08/31 au 256QAM
 #
 # 4G(LTE) は名前使うの早すぎて、とても微笑ましい。
 # 1 歩でも越えたら次世代ってことかな。
@@ -1749,6 +1748,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 
 # ETWS, CBS, BroadcastSMS
 # Snapdragon, MediaTek, Kirin, Exynos, ... (SoC)
+# Hexagon 682 DSP (Digital Signal Processor, Hexagon SDK, Caffe, TensorFlow, Snapdragon 835, Qualcomm)
 # LDAC (Hi-Resolution Audio, lossy codec, Android 8, Sony)
 # PHA (Potentially Harmful Applications, Verify Apps)
 # SMS -> RCS
@@ -1793,7 +1793,7 @@ Covia 製。(OEM)
 au 回線では使えない。
 # g07+
 # CDMA2000
-# Android 7 対応予定。
+# Android 7 対応。 (CP-J55aW_20170830)
 #
 # g07
 # 20000 円くらいだった。
@@ -1824,9 +1824,10 @@ au VoLTE 対応。
 SIM フリーなら故障しても、 Y!mobile の店舗で代替機を借りられる。 *(事前契約不要!?)*
 別売の純正バッテリーもある。 (交換キット付き)
 Nexus 6P を作ってる。
+動画の特許問題で訴えられてる。 (AVC, 2017/02/15)
 Mate9 が問題になってる。 (無問題了？？)
 # EMUI 5.0 (Android 7.0)
-# Kirin (Cortex-A)
+# Kirin (Cortex-A, HiSillicon)
 # NPU (Neural network Processing Unit, Kirin 970, Mate10, IFA 2017)
 # HiCare
 # HUAWEI バックアップ
@@ -2098,7 +2099,7 @@ Android One も作ってる。
 *** Blade
 
 中国 ZTE 製。
-動画の特許問題で訴えられてる。 (AVC)
+動画の特許問題で訴えられてる。 (AVC, 2017/02/15)
 # V7 lite
 # V770 (au VoLTE 対応)
 
@@ -2225,7 +2226,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # (Energy X Plus 2, Studio Touch, Advance 4.0 L2, Neo XL, Energy Diamond)
 
 # *** Ice (米 Amazon)
-# *** CAT S40 (米 Caterpillar)
+# *** CAT S40 (英 Bullitt Mobile)
 # *** GRANBEAT (ONKYO)
 # *** NuAns NEO Reloaded (Trinity)
 
