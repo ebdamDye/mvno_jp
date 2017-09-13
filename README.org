@@ -86,11 +86,12 @@
 | 10 GB  |              |  2520 |   2560 | 2640 |        | 2300 |
 | 12 GB  |              |       |        |      |   2680 |      |
 | 20 GB  |         6300 |  3980 |        |      |   3980 | 4150 |
-| 30 GB  |         8300 |  5900 |        |      |   5380 | 6050 |
+| 30 GB  |    (*1) 8300 |  5900 |        |      |   5380 | 6050 |
 | 40 GB  |              |       |        |      |   7480 |      |
-| 50 GB  |              |       |        |      |  10300 |      |
+| 50 GB  |    (*2) 7300 |       |        |      |  10300 |      |
 
-+(*1) 2017/07/01 から 5GB は 6GB のプランに変更される。+ (2016/07/01 から)
+(*1) 2017/09/21 受け付け終了。
+(*2) 2017/09/22 受け付け開始。
 
 ソフトバンクは音声通話定額(スマ放題)が強制されるので +4200 円。
 ソフトバンク以外で音声通話をするなら +700 円くらい。(通話料は従量制)
@@ -272,9 +273,11 @@
 
 ** ソフトバンク
 
-|            |  1GB |  2GB |  5GB | 20GB | 30GB |
-|------------+------+------+------+------+------|
-| データ定額 | 3200 | 3800 | 5300 | 6300 | 8300 |
+|            |  1GB |  2GB |  5GB | 20GB | (*1) 30GB | (*2) 50GB |
+|------------+------+------+------+------+-----------+-----------|
+| データ定額 | 3200 | 3800 | 5300 | 6300 |      8300 |      7300 |
+(*1) 2017/09/21 受け付け終了。  
+(*1) 2017/09/22 受け付け開始。
 
 音声通話定額のスマ放題は +4200 円。
 ホワイトプランは割高なので省略。
@@ -1660,9 +1663,9 @@ OCN モバイル ONE との SIM 契約なしで使える。 (2017/09/01)
 VoLTE に対応したのは、ドコモが 2014 年夏頃から。
 au とソフトバンクは 2014 年冬頃から。
 まだ VoLTE 非対応なスマホも売ってる。 (更新で対応したかも)
-# 2010/12/24 にドコモの Xi で 4G(LTE) 開始。
-# 2014/06/19 に Android 4.4.4 リリース。
-# 2014/06/24 にドコモの Xi で VoLTE 開始。
+# 2010/12/24 ドコモ Xi で 4G(LTE) 開始。
+# 2014/06/19 Android 4.4.4 リリース。
+# 2014/06/24 ドコモ Xi で VoLTE 開始。
 #
 # IIJmio meeting 15
 # 原則として他のキャリアの VoLTE は使えない。
@@ -1695,8 +1698,11 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 # 2015/03/27 ドコモ PREMIUM 4G 開始。 (2CC CA、 Xi の後継)
 # 2015/10/29 ドコモ 3CC CA
 # 2016/06/29 ドコモ Band 42 (3.5GHz)
+# 2016/09/16 Softbank Massive MIMO
 # 2017/03/09 ドコモ 256QAM, 4x4MIMO
 # 2017/08/31 au 256QAM
+# 2017/09/22 au 4CC CA
+# 2017/09/22 Softbank Massive MIMO 2.0 (Distributed, MultiUser, UL MultiUser)
 #
 # 4G(LTE) は名前使うの早すぎて、とても微笑ましい。
 # 1 歩でも越えたら次世代ってことかな。
@@ -1711,7 +1717,7 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 # CC (Component Carriers: 成分搬送波)
 # C-RAN (Centralized Radio Access Network: 集中型無線アクセスネットワーク)
 # QAM (Quadrature Amplitude Modulation: 直角位相振幅変調)
-# 4x4MIMO
+# 4x4MIMO (Multiple-Input Multiple-Output)
 #
 # D-RAN (Distributed Radio Access Network: 分散型無線アクセスネットワーク)
 # CoMP (Coordinated Multi-Point: 多地点協調)
@@ -1751,7 +1757,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Hexagon 682 DSP (Digital Signal Processor, Hexagon SDK, Caffe, TensorFlow, Snapdragon 835, Qualcomm)
 # LDAC (Hi-Resolution Audio, lossy codec, Android 8, Sony)
 # PHA (Potentially Harmful Applications, Verify Apps)
-# SMS -> RCS
+# SMS -> RCS (Rich Communication Service)
 # XMPP
 # Google Assistant (AI), Allo, iPhone
 # Project Fi (Nexus)
@@ -1765,7 +1771,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Android Go (1GB memory devices, 2018)
 # Android Studio (SDK, Kotlin)
 # Android for Work (KNOX, Samsung)
-# Android Messages (SMS/MMS)
+# Android Messages (SMS/MMS/RCS)
 # Firebase (MBaaS: Mobile Backend as a Service)
 # Android Excellence
 # AOSP (Android Open Source Project)
@@ -1824,7 +1830,7 @@ au VoLTE 対応。
 SIM フリーなら故障しても、 Y!mobile の店舗で代替機を借りられる。 *(事前契約不要!?)*
 別売の純正バッテリーもある。 (交換キット付き)
 Nexus 6P を作ってる。
-動画の特許問題で訴えられてる。 (AVC, 2017/02/15)
+動画の特許問題で訴えられてる。 (H.264, 2017/02/15)
 Mate9 が問題になってる。 (無問題了？？)
 # EMUI 5.0 (Android 7.0)
 # Kirin (Cortex-A, HiSillicon)
@@ -2036,6 +2042,7 @@ SONY 製。
 # Tizen (buggy?)
 # Bixby (AI, Galaxy S8)
 # Corning Lotus NXT Glass
+# Iris Scanner (Face Recognition, Galaxy S8)
 #
 # Galaxy の SIM フリー版は、海外にしかない。
 #
@@ -2099,7 +2106,7 @@ Android One も作ってる。
 *** Blade
 
 中国 ZTE 製。
-動画の特許問題で訴えられてる。 (AVC, 2017/02/15)
+動画の特許問題で訴えられてる。 (H.264, 2017/02/15)
 # V7 lite
 # V770 (au VoLTE 対応)
 
@@ -2243,7 +2250,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 選択肢はすでに払われたのですから。
 
 # Apple SIM
-# Apple A10
+# Apple A11
 # Siri (AI)
 # IPv6 (iOS 10.3)
 # HFS+ -> APFS
@@ -2266,10 +2273,17 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # 64bit: iPhone 5s
 # 5s -> SE
 #
+# Apple Special Event (2017/09/12)
+# iPhone 8/8Plus, X
+# Apple A11 Bionic (neural engine AI chip)
+# Qi (wireless charging standard, iPhone 8)
+# Super Retina Display (OLED, Burnin-mitigation, iPhone X)
+# Touch ID -> Face ID (A11 neural engine, iPhone X)
+#
 # WWDC 2017
 # iOS 11 developer beta start (64bit only)
 # iOS 11 public beta (end of june -> 2017/06/26)
-# iOS 11 release (2017 autumn)
+# iOS 11 release (2017 autumn -> 2017/09/19)
 # H.264 -> H.265 (HEVC)
 # JPEG -> HEIF (High Efficiency Image File Format, H.265 pools)
 # HDR
@@ -2283,13 +2297,26 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 *** iPhone
 
 米 Apple 製。 (OEM)
-2 年ごとに、新しいのが発売される。
 iOS の更新は iPhone 5 以上で続けられてる。
 VoLTE は iPhone 6 以上から使える。
 SIM フリーなら、どの格安キャリアでも使えるハズ。
 製造は台湾の鴻海 (Foxconn) や Pegatron。
-# 2017 年は iPhone 10 周年で、記念モデルが出る？
 # インドでも製造を始めるみたい。 (台湾 Wistron?)
+#
+# 2007/01/09 1st generation
+# 2008/07/11 3G
+# 2009/06/19 3Gs
+# 2010/06/24 4
+# 2011/10/05 Steve Jobs Dies at 56.
+# 2011/10/14 4s
+# 2012/09/21 5
+# 2013/09/20 5s, 5c
+# 2014/09/19 6, 6 Plus
+# 2015/09/25 6S, 6S Plus
+# 2016/03/21 SE
+# 2016/09/16 7, 7 Plus
+# 2017/09/22 8, 8 Plus
+# 2017/11/03 X (10th anniversary)
 
 ** Windows 10 Mobile (Microsoft)
   
