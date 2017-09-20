@@ -382,7 +382,9 @@ au が売ったスマホ以外だと、 LTE NET for DATA の申し込みがい�
 # 月額 +200 円は、 LTE NET 料金との差額。
 # 申し込まないと、データ通信できない。
 #
-# 3G の CDMA2000 を捨てたいみたい。
+# Always 4G LTE (2014/10/27)
+# 2020 年に 3G (CDMA2000) を捨てたいみたい。
+# iPhone 8/8Plus, X は CDMA2000 に対応してるけど、 3G を使えない。
 
 5GB 以上のプランなら、パケットの繰り越しは翌月まで。 (1B 単位)
 "データチャージ" に加入してないと、パケットを繰り越せない。 (無料)
@@ -1407,19 +1409,20 @@ LINE モバイルならパケットを消費しない。
 # 他とは無関係で、バックグラウンドでしか動いてないようなアプリとかも閉じられやすい。
 # パソコンと違って、使われてないアプリが無期限に動いてたりしない。
 # メモリが足りなくなっても遅くなりにくいのは、この仕組みがあるから。
+# アプリを絶対に閉じさせないような、便利であぶない設定は見つけてない。
 #
-# 電池の最適化とかで許可してても、 Android はアプリを閉じる。
+# 電池の最適化とかで許可しても、 Android はアプリを閉じる。
 # Doze はアプリの動作を制限するだけで、閉じてるわけじゃないから。
 # 許可したら、 Doze に対応してないアプリが動くかもしれないだけのハズ。
 # (長いこと更新されてないアプリは避けたい)
 #
-# Android にアプリを閉じさせないような、便利であぶない設定は見つけてない。
-# スマホを使ったときに動くアプリは、閉じてないように見えるかもしれないけど。
-# それは画面ロック解除とかしたときに、ウィジェットが呼ばれるアプリだけ？
+# ウィジェットを表示しても、 Android はアプリを閉じる。
+# スマホを使ったときに動くアプリなら、閉じてないように見えるけど。
+# それは画面ロック解除とかしたときに、ウィジェットが呼ばれてるから。
 # ウィジェットは、ホームアプリに機能を追加するもの。
 # アプリにウィジェットがあるとは限らない。
 # ウィジェットが呼ばれるように、アプリが作られてるとも限らない。
-# (AppWidgetProvider::onReceive, android.intent.action.USER_PRESENT, AndroidManifest.xml)
+# (android.intent.action.USER_PRESENT)
 #
 # Android にアプリを閉じられにくいのは、常にある程度の空きメモリが残ってるとき。
 # 遅いアプリは避ける。
@@ -1427,6 +1430,16 @@ LINE モバイルならパケットを消費しない。
 # 閉じられにくくできてるアプリを探す。
 # メモリがたくさん載ったスマホを買う。
 # めんどくさいので、おとなしく公式アプリを使った方がいいかも。
+#
+# 例外として、ユーザー補助で許可したアプリは Android に閉じられにくい。 (アクセシビリティ)
+# アプリをシステムに関連付ける、唯一の設定？
+# 自動では許可されない。 (Dengerous Permission)
+# 許可できるように、アプリが作られてるとも限らない。
+# 本来は、視覚や聴覚を補助するためのもの。
+# キーロガーとしても悪用できるのは、 Android の仕様。 (a11y)
+# "他のアプリの上に重ねて表示" を許可されたアプリは、画面を乗っ取れる。 (draw on top, SYSTEM_ALERT_WINDOW, =<7.1.2)
+# 両方を許可されたアプリは、なんでもできそう。 (Cloak and Dagger)
+# (android.permission.BIND_ACCESSIBILITY_SERVICE)
 
 +通話定額に必須のアプリ。+
 音声通話定額で、設定変更がいらないアプリ。
@@ -1753,7 +1766,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # (以前から法人向けに eSIM の提供はしてた)
 
 生体認証は、人っぽいのかを確認してるだけ。
-誰もいないところでは、生体認証にならない。
+誰かに見られてないと、生体認証にならない。
 変なのを使って突破すると、話題になるかも。
 # ID を公開してるのに、流出すると困る。
 # ID なので、生きてる必要がない。
@@ -1763,7 +1776,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 #
 # パスワード認証は、見られるだけで困るけど。
 # iPhone X の Face ID も、これから突破される予定。
-# そのうち AI に、お前は誰だとか言われる日がくるかも。
+# そのうち AI に、 "お前は誰だ" とか言われる日がくるかも。
 
 # ETWS, CBS, BroadcastSMS
 # Snapdragon, MediaTek, Kirin, Exynos, ... (SoC)
@@ -1800,6 +1813,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Antutu
 # Noroot Firewall
 # FilterProxy
+# Termux
 #
 # Google Experience Device, Google Play Edition (EOL)
 
@@ -1984,6 +1998,7 @@ Mate9 が問題になってる。 (無問題了？？)
 台湾 ASUS 製。
 格安キャリアと契約のときに、セットで買えるところが多い。
 回線を使い回しやすいのも多い。
+# ZenUI
 # MyASUS (app)
 # [[https://chat-apac.asus.com/chatservice/index.htm?tenant=JP&lang=ja-jp][オンラインチャット]]
 # 自動起動マネージャー
@@ -1998,14 +2013,14 @@ Mate9 が問題になってる。 (無問題了？？)
 # au VoLTE 対応。
 #
 # Zenfone 3
+# | Max   | Android 7 | 大容量バッテリー、窓ガラスなので割れやすい |
+# | Laser | Android 7 | ゴーストタッチが心配                       |
+# au VoLTE 対応。
 # 全て Android 8 にバージョンアップする？
-# | 3 Max   | Android 6              | 大容量バッテリー、窓ガラスなので割れやすい |
-# | 3 Laser | Android 7 (日本版待ち) | ゴーストタッチが心配                       |
-# 3 Max は 5.5inch(ZC553KL) モデルだけが au VoLTE 対応。
 #
 # Zenfone 2
-# | Go      | Android 5 まで         | バッテリー交換できる、 2 の廉価版？        |
-# | 2 Laser | Android 6 まで         | ロングセラー                               |
+# | Go    | Android 5 まで         | バッテリー交換できる、 2 の廉価版？ |
+# | Laser | Android 6 まで         | ロングセラー                        |
 # Laser は レーザーオートフォーカス。
 # ゴリラガラス。 (Corning)
 # 2 (ZE551ML) は Android では世界初の 4GB メモリを載せたスマホ。
@@ -2082,6 +2097,8 @@ SONY 製。
 ワンセグやおサイフケータイがある。
 らくらくスマートフォンはホームアプリ？
 (富士通の子会社だけど、売却されそう)
+# Iris Passport
+#
 # M04
 # Android 7.1
 # au 回線でも使える。
@@ -2106,6 +2123,8 @@ Android One も作ってる。
 # 以前のスマホは Android 4.4 。
 # 標準搭載のエコ技は寡黙で強引だけど、バッテリーと財布にやさしかった。
 # 他の独自機能は BrightKeep を ON にしてたくらい。
+#
+# AQUOS R Compact
 #
 # AQUOS R
 # Android 7.1
@@ -2182,9 +2201,13 @@ au VoLTE 対応。
 防水おサイフ。
 SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 
-# *** Xiaomi (小米科技、シャオミ)
-#
+# *** Mi A1
+# 中国 Xiaomi (小米科技、シャオミ) 製。
+# Mi 5X ベース。
+# Android One なのに高性能。
 # TJC が代理店。 (上陸する？)
+#
+# Xiaomi MIUI Forum
 
 # *** Oppo (中)
 # *** Vivo (中)
@@ -2203,6 +2226,8 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # Andy Rubin の手によるスマホ。
 # 製造は台湾 FIH Mobile ? (台湾鴻海の子会社)
 # 商標を使わないようにと、 Spigen が文書を送ったらしい。
+# Android 7.1.1
+# au VoLTE 対応？
 #
 # 2003 年 Android を設立。 (Andy Rubin は創業者の一人で開発者)
 # 2005 年 Google が買収。
@@ -2289,6 +2314,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # App Store Review Guideline
 # Horizon Machine (Apple Store/Authorized third-party repair center)
 # Secure Enclave
+# In-App Purchase
 #
 # App Store でも 32bit アプリを段階的に廃止。 (2018 年から)
 # 32bit: iPhone 5/5c
@@ -2300,7 +2326,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # Apple A11 Bionic (neural engine AI chip)
 # Qi (wireless charging standard, iPhone 8)
 # Super Retina Display (OLED, Burnin-mitigation, iPhone X)
-# Touch ID -> Face ID (A11 neural engine, infrared 3D mesh, iPhone X)
+# Touch ID -> Face ID (A11 neural engine, infrared 3D dot mesh, iPhone X)
 #
 # WWDC 2017
 # iOS 11 developer beta start (64bit only)
