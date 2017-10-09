@@ -96,10 +96,17 @@
 
 格安キャリアの通信速度は、大手キャリアの 1/10 になることもある。
 場所や時間帯、スマホの対応する電波に大きく左右されてしまう。
-# 春はキャンペーンで、加入者が増減しやすい。
+# 春はキャンペーンは、加入者が増減しやすい。
 # 総務省による、通信速度の調査と公表も控えてる。
 # しばらく当てにならないかも。
 # 張った見栄の数々は、いろんな人たちが特定してる。
+#
+# スピートテストだけ速い。
+# 通知がこない。 (keepalive)
+# IP 電話が使いにくい。 (遅延、パケロス)
+# 通信の最適化。 (劣化)
+# Google Play まで規制。
+# ...
 
 # 通信速度の表示には、総務省の実効速度に関するガイドラインがある。
 # ("移動系通信事業者が提供するインターネット接続サービスの
@@ -372,7 +379,7 @@ DSDS 対応スマホで音声通話定額を利用するならドコモがおす
 パケットと、音声通話と、スマホ本体の料金が分離された。
 音声通話定額はデータ定額よりも 1200 円安くなる。 (5 分無料の 500 円と、無制限の 1500 円)
 音声通話定額なしも選択できる。
-スマホは、機種によって別料金が加算される。 (iPhone は 2017/09/22 から)
+スマホは、機種によって別料金が加算される。
 (au の光回線とかを契約するのが前提の料金表示が多いので注意)
 # 総務省は、スマホの購入に合理的な負担を求めてる。
 # ("スマートフォンの端末購入補助の適正化に関するガイドライン")
@@ -834,6 +841,8 @@ au 回線にだけ、従量制のエコプランがある。 (SMS 付き)
 # 総務省がどういう観点で比べたのかわからないので、広告には使いにくい。
 # (見当くらいは付いてるよね？)
 
+# IIJmio meeting 17
+
 # 2012/02/27 ドコモ回線で開始。
 # 2012/05/22 IPv6 対応。
 # 2014/11/27 DMARC 対応。
@@ -1232,6 +1241,7 @@ Facebook のアプリはバッテリー消費が激しいらしい。
 # Opus or G.711 (browser)
 #
 # Messenger Lite は通話できない。
+# バッテリー消費は改善された？
 
 *** WhatsApp (WhatsApp)
 
@@ -1427,7 +1437,7 @@ LINE モバイルならパケットを消費しない。
 # Android は、アプリを自動で閉じるようにできてる。 (ライフサイクル)
 # アプリを閉じようなんて、考えなくていい。
 # メモリが足りなかったら、使われてないアプリを順に閉じる。
-# 閉じられたら勝手に起きるアプリでも、メモリが足りないときは OS を優先。 (START_STICKY)
+# 閉じられたら自動で起きるアプリも、メモリが足りないときは OS を優先。 (START_STICKY)
 # 他とは無関係で、バックグラウンドでしか動いてないようなアプリとかも閉じられやすい。
 # パソコンと違って、使われてないアプリが無期限に動いてたりしない。
 # メモリが足りなくなっても遅くなりにくいのは、この仕組みがあるから。
@@ -1650,7 +1660,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # 2017/06/08 Android O Developer Preview 3 (API level 26)
 # 2017/07/24 Android O Developer Preview 4 (Beta -> Release Candidate)
 # 2017/08/21 Android 8.0 Oreo (Release)
-# 2017/10/04? Android 8.1? (API level 27, Pixel 2?)
+# 201?/??/?? Android 8.1? (API level 27?, Google APK beta 7.11)
 # - Background limits
 # - Project Treble (Sony, Qualcomm)
 #   Google で管理する OS から、製造元が実装するところを分離するようなもの。
@@ -1810,7 +1820,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # PHA (Potentially Harmful Applications, Verify Apps)
 # SMS -> RCS (Rich Communication Service)
 # XMPP
-# Google Assistant (AI), Allo, iPhone
+# Google Assistant (AI, Pixel Buds), Allo, iPhone
 # Project Fi (Nexus)
 # Andromeda
 # VR, AR, HMD
@@ -1828,6 +1838,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # AOSP (Android Open Source Project)
 # NFC (Android 2.3, 2010/12/26)
 # DMARC (Domain-based Message Authentication - Reporting and Conformance, RFC 7489)
+# Android Beta Program (Nexus, Pixel)
 #
 # ServiceMode
 # custom ROM
@@ -1868,7 +1879,8 @@ au 回線では使えない。
 Nexus と名の付いたスマホは Google の発注したモデル。
 # LG 製の日本向け SIM フリーは最近でてない？
 #
-# Pixel XL 2?
+# Pixel 2 XL
+# 日本では売ってない。
 
 *** Android One
 
@@ -1889,7 +1901,7 @@ SIM フリーなら故障しても、 Y!mobile の店舗で代替機を借りら
 Nexus 6P を作ってた。
 動画の特許問題で訴えられてる。 (H.264, 2017/02/15)
 Mate9 が問題になってる。 (無問題了？？)
-# EMUI 5.0 (Android 7.0)
+# EMUI 6.0 (Android 8.0)
 # Kirin (Cortex-A, HiSillicon)
 # NPU (Neural network Processing Unit, Kirin 970, Mate10, IFA 2017)
 # HiCare
@@ -1901,7 +1913,7 @@ Mate9 が問題になってる。 (無問題了？？)
 #
 # P9 lite メモ。 (検証中)
 # 14000 円台で購入。
-# まずは B170 -> B361 (EMUI 5.0) -> B380 の順に更新してリセット。
+# まずは B170 -> B361 (EMUI 5.0, Android 7.0) -> B380 の順に更新してリセット。
 # それから SIM 差して APN 選択、復元、その他の設定。
 # いろんなスマホにあった Android 7.0 初期の主なバグは解消されてるっぽい。
 # 使うアプリによるけど、空きメモリの不足でバックグラウンドアプリは閉じられやすいかも。
@@ -1930,6 +1942,16 @@ Mate9 が問題になってる。 (無問題了？？)
 #   一括で閉じたくないアプリはロックしとく。
 # - 他のアプリの上に重ねて表示 (アプリ-下設定歯車-特別なアクセス)
 #   あぶないので、できるだけ許可しない。 (draw on top)
+# - メモリクリーンアップ対象外 (メモリとストレージ-ストレージクリーナー-右上歯車)
+#   いつも使ってるアプリだけスキップ。
+# - 自動クリーンアップ (メモリとストレージ-ストレージクリーナー-右上歯車)
+#   アプリを選択できないけど許可してる。
+#   大量のキャッシュがいるアプリは避けてるから。
+#   読み込みに時間がかかるアプリとか使ってるなら、許可しない方が快適かも？
+# - スリープ時に Wi-Fi を維持 (電池-右上歯車)
+#   許可しとく。
+# - スリープ時にモバイルデータ通信を維持 (電池-右上歯車)
+#   許可しとく。
 # - "天気" (プリインストールのアプリ、ウィジェット)
 #   ローマ字で他の都市を検索してみると、幸せになれるかも。
 # - "QR コードリーダー" (プリインストールのアプリ)
@@ -1945,6 +1967,8 @@ Mate9 が問題になってる。 (無問題了？？)
 # Y!mobile との SIM 契約がなくてもいい。
 # SIM フリーな Huawei 製スマホ限定。
 # (受け付けてない店舗もある)
+#
+# honor 9
 #
 # P10 lite
 # au VoLTE 対応。 (B112)
@@ -1975,6 +1999,7 @@ Mate9 が問題になってる。 (無問題了？？)
 # au 回線では使えない。
 # 樹脂フレームと曲面強化ガラスなので割れそう。 (日本電気硝子？)
 # 純正バッテリーと交換キットを売ってる。
+# for Y!mobile はソフトバンク VoLTE に対応。 (608HW)
 #
 # P10, P10 Plus
 # 金属フレームとゴリラガラス。 (Corning)
@@ -2066,9 +2091,12 @@ Android 8 に更新される予定。
 更新に積極的なのは、 Google の頃から？
 素の Android に近いらしい。 (AOSP)
 Nexus 6 を作ってた。
+# *#*#86583#*#*
+# 非公式だけど、ドコモと au の VoLTE が使えるみたい。
+#
 # G5S Plus
 # Android 7.1.1 -> 8 更新予定。
-# au VoLTE 対応。
+# au VoLTE 対応。 (非公式？)
 # DSDS 対応。
 # ゴリラガラス。 (Corning)
 # ドコモ、 au 、ソフトバンクの回線を使い回せる。 *(!?)*
@@ -2149,6 +2177,8 @@ SONY 製。
 # ドコモ VoLTE 対応。
 # au VoLTE 対応。
 # 防水ワンセグおサイフ。
+#
+# TONE m17 (TSUTAYA)
 
 *** AQUOS SH-M04
 
@@ -2175,8 +2205,13 @@ Android One も作ってる。
 # ドコモ VoLTE 対応。
 # 防水おサイフ。
 # au 回線向けの L2 は、 au VoLTE 対応。
+
+# *** Nokia 6
 #
-# Nokia 6
+# フィンランド HMD Global 製。
+# 製造は台湾 FIH Mobile 。 (台湾鴻海の子会社)
+# マイクロソフトの Nokia ブランドを、 10 年間使うための契約をした。 (2016/05/18)
+# Nokia 3,5,6,8 を Android P に更新する予定。
 
 *** Blade
 
@@ -2188,21 +2223,42 @@ Android One も作ってる。
 # V7 lite
 # V770 (au VoLTE 対応)
 
-*** HTC
+*** Pixel
 
 台湾 HTC 製。
-以前は au 回線の 3G にも対応してた。
-Google の発注する Pixel/Pixel XL を作ってる。 (Nexus の後継、日本では売ってない)
-# 日本向け SIM フリーは最近でてない。
+日本で売ってない。
+Pixel と名の付いたスマホは Google の発注したモデル。
+Nexus の後継。
+# HTC 製の日本向け SIM フリーは最近でてない。
 # Google へ Pixel に関係するものを売却すると発表。 (2017/09/21)
 #
-# Pixel 2?
+# Pixel 2
+# ほんやくコンニャクの材料。 (Google Translate on Pixel, Pixel Buds)
+# eSIM 対応。 (nano SIM スロットもある)
+# 3 年間の更新保証。 (バージョンアップも)
+# ソフトバンク回線なら使えそう。
+# 技適なし。 *(!?)*
+# 日本では売ってない。 (年内の発売もなさそう？)
+# Nexus は発売から 2 年を過ぎたので、たぶん Beta は降ってこない。
+# Android One にも Beta 提供はない。
+# 日本在住の開発者は、手軽に最新 Android を試せるスマホがなくなりそう。
+# iPhone を使ってくれという、 Google からのメッセージだと誤解されてる。
+# Google 日本法人が iPhone まみれなだけに違いない。
+# 法改正を迫ってるとか？
+# Google 本社で流行の多様性排除？
+# 海外で人気がないと、日本で売れない？
+# Pixel がなければ、 Android がもっと売れそう？
+# 大手キャリアの布教活動が、不当な取引制限になってる？
+# [[https://www.jftc.go.jp/houdou/pressrelease/h28/aug/160802.html][携帯電話市場における競争政策上の課題について(概要)]] (2016/08/02 公正取引委員会)
 #
 # U11
 # 大手キャリアの 2017 夏モデル。
 # 日本 Band のほとんどに対応してるみたい。 (公式)
 # ソフトバンクと au から発売されたのは、他社の Band を削ったもの？
 # (ドコモからは発売されてない)
+#
+# Pixel XL
+# 日本では売ってない。
 
 *** BlackBerry KEYone
 
@@ -2250,7 +2306,10 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 #
 # Xiaomi MIUI Forum
 
-# *** Oppo (中)
+# *** OPPO (中)
+# OPPO Japan 設立。 (2017/08/30 Emilai?)
+# OPPO Digital Japan とは違う。
+
 # *** Vivo (中)
 # *** OnePlus (中)
 
@@ -2262,7 +2321,8 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # 技適も取得するみたい。
 # Pro モデルもある。
 #
-# ヴェルテ (ドゥモア) は Unihertz と代理店契約してない。
+# ヴェルテ (ドゥモア) は Unihertz と代理店契約してない。 (2017/10/02)
+# 正規代理店との発表が多いけど、予定と書いてるとこもある。 (2017/05/22)
 # 技適を後日アップデートで表示？
 # [[http://welte.jp/ca7/71/p-r-s/][世界で2番目に小さいLTEスマホ「JellyPro」]]
 
@@ -2345,6 +2405,8 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # "できる限り" と発表したのに、修正してなかった。 (@hosinity, 代表取締役)
 # 目標らしいので、もっと長くなるといいな。 (セキュリティパッチまだかしら？)
 # [[https://neo.nuans.jp/reloaded/detail/][機能詳細]]
+# Android 7.1.2 検証中で、 Android 8 も検討してはいるみたい。
+# [[http://trinity.jp/blog/2017/10/nuans_neo_reloadedos.html][NuAns NEO %5BReloaded%5DにおけるOS、セキュリティ、ファームウェアアップデートについて]]
 
 # *** UPQ Phone A01X
 #
@@ -2356,8 +2418,10 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # *** TaigaPhone (露 InfoWatch)
 # 社長の Natalya Kaspersky は、 Kaspersky Lab 創業者の一人だった。
 
-# *** Venus Z10 (土 Vestel)
+# *** Venus Z10 (トルコ Vestel)
 # ロック画面に広告を表示。
+
+# *** Every Phone (YAMADA)
 
 ** iOS (Apple)
 
@@ -2450,6 +2514,9 @@ VoLTE 非対応がほとんど。
 # Microsoft SIM
 # Creators update 非対応なのがある。
 # Windows Phone 8.1 までは、メインストリームサポートを終了。 (2017/07/11)
+# Windows 10 Mobile は 2019 年末で終了予定。
+# Bill Gates が Android を使ってる。
+# "But building new features/hw aren't the focus." (2017/10/08 @joebelfiore)
 
 *** Elite X3
 
