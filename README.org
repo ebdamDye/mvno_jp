@@ -96,14 +96,14 @@
 
 格安キャリアの通信速度は、大手キャリアの 1/10 になることもある。
 場所や時間帯、スマホの対応する電波に大きく左右されてしまう。
-# 春はキャンペーンは、加入者が増減しやすい。
+# 春はキャンペーンで、加入者が増減しやすい。
 # 総務省による、通信速度の調査と公表も控えてる。
 # しばらく当てにならないかも。
 # 張った見栄の数々は、いろんな人たちが特定してる。
 #
 # スピートテストだけ速い。
 # 通知がこない。 (keepalive)
-# IP 電話が使いにくい。 (遅延、パケロス)
+# 通話アプリとかが使いにくい。 (遅延、パケロス)
 # 通信の最適化。 (劣化)
 # Google Play まで規制。
 # ...
@@ -723,6 +723,7 @@ au 回線だと Android 6 以上のスマホが少ない。
 # 2015/09/01 ドコモ回線を開始。
 # 2017/06/01 名義変更 (譲渡) の受け付けを開始。
 # 2017/07/28 LINE で公式アカウントの提供を開始。
+# 2017/10/02 020 番号開始。 (ドコモ回線)
 
 ** IIJmio
 
@@ -816,7 +817,7 @@ au 回線にだけ、従量制のエコプランがある。 (SMS 付き)
 # 自前 SIM は 2017 年度末くらいから。 (IoT 向け？)
 # eSIM もやりたい。 (ドコモ待ち)
 # 中継の再配信はしない。
-# 次回 10/7 大阪、 10/14 東京。
+# 次回 10/07 大阪、 10/14 東京。
 #
 # 端末補償オプションは、申し込みの翌日に発送。
 # 受け取りのときにスマホを交換。 (リフレッシュ品)
@@ -842,12 +843,60 @@ au 回線にだけ、従量制のエコプランがある。 (SMS 付き)
 # (見当くらいは付いてるよね？)
 
 # IIJmio meeting 17
+# #iijmio のツイートとスライドしか見てない。
+# おみやげは DSDS 対応スマホ。 (or OREO とロゴシールに IIJ 水)
+# 東京では honor 9 と Zenfone 4 に Zenfone 4 Selfie Pro 。
+# 大阪では Zenfone 4 Selfie Pro だった。
+# OREO にドロイド君の姿はなかった。
+# 25 周年 [[https://www.youtube.com/watch?v%3Dq4oOiatLwQ0][PV の機材には、社員の私物もある。]]
+# IPv6 スピードテストは、イベント向けに勢いで作ったものを放置。
+# 技適のないスマホのことを聞いてはいけない。
+# コミコミセットはテストマーケティングで 2017/11 月末まで。
+# 郵便局に置いてるカタログから、申し込みできる。
+# Twitter の中の人は、佐々木さん。
+# 電話で周さんとお話しするのは、難易度が高い。 (指名はダメらしい)
+# チャットやメールによる問い合わせ窓口もある。
+# Xi (4G) と FOMA (3G) で POI は別なので、混雑度も違う。
+# 020 番号の SIM は準備中。 (ユニバーサルサービス料がいらない)
+# 次回 01/13 大阪、 01/20 東京。
+#
+# J アラートはあくまでも、政府や自治体からキャリアに通知する仕組み。 (自治体やマスコミにも)
+# ETWS が、キャリアからスマホとかに通知する仕組み。 (緊急地震速報・自治体防災情報・国民保護に関する情報)
+# SIM フリーのスマホは、ETWS 非対応が多い。 (緊急地震速報だけは鳴るかも)
+# 大手キャリアは、エリアメールや緊急速報メールと呼んでる。 (仕様は非公開)
+#
+# 電気通信事業法は法律なので国会。
+# 電気通信事業法施行令とかの政令は閣議。
+# 電気通信事業法施行規則とかの省令は総務省。
+# ガイドラインはただの文書、指針。 (違反したら改善命令とか書いてるけど)
+# スマホとかのサービスを、基地局なしに料金を決めて提供してるとこが MVNO 。 (電気通信事業報告規則)
+# 事業者間接続は、接続約款にない契約をできない。 (データ通信のみ)
+# 卸電気通信役務なら、標準プラン以外の契約もできる。 (音声通話と SMS もある)
+# 事業者間接続と卸電気通信役務は技術的には同じで、 L2 と L3 のどっちでもいい。
+# IIJmio は、ドコモや au (KDDI) と卸電気通信役務契約してる。
+# フル MVNO は、ドコモと卸電気通信役務契約を結ぶ予定。
+# | 年度 | 接続料 (10Mbps/JPY) |
+# |------+---------------------|
+# | 2010 |             7458418 |
+# | 2011 |             4843632 |
+# | 2012 |              284647 |
+# | 2013 |              123491 |
+# | 2014 |              945059 |
+# | 2015 |              784887 |
+# | 2016 |              674818 |
+#
+# DSDS は、どちらの SIM も位置登録。 (Attach)
+# 着信 (Paging) は、間欠受信。 (DRX: Discontinuous Reception, eDRX, 不連続受信)
+# DSDV (Dual SIM Dual VoLTE) は、 Qualcomm と MediaTek が MWC 2017 で展示。 (Dual 4G)
+# | DSSS (Passive) | (MODEM + RF) * 1 | 手動で SIM を切り替え                            |
+# | DSDS           | (MODEM + RF) * 1 | 時間を空けて、短時間で着信を確認する (DRX)       |
+# | DSDA           | (MODEM + RF) * 2 | 常に 2 つともアクティブ (バッテリー消費が増える) |
 
 # 2012/02/27 ドコモ回線で開始。
 # 2012/05/22 IPv6 対応。
 # 2014/11/27 DMARC 対応。
 # 2016/10/01 au 回線を開始。
-# 2017 年内に、国内初のフル MVNO になる予定。 (HLR, HSS)
+# 2017 年度内に、国内初のフル MVNO になる予定。 (HLR, HSS)
 # 新規でも LINE の年齢認証ができるようになる。 (いらない？)
 
 ** LINE モバイル
@@ -1147,6 +1196,8 @@ NTT コミュニケーションズでプロバイダをしてるところ。
 # Android の標準 "電話" アプリ v9.0 は、緊急通報の時に現在地を表示する。
 # Android 6 以降の Nexus, Android One, Pixel のみ。
 # 110, 119, 118 限定。
+#
+# "119番映像通報サービス" は、アプリと Web 版サービスを提供予定。 (2018/04/?? 日立)
 
 # 認証の時に音声通話や SMS 、または SNS を使うのがある。
 # 通話アプリじゃないけど、キャリアメール (MMS) を要求する銀行とかもある。
@@ -1289,6 +1340,7 @@ mineo ならパケットを消費しない。 (無料通話が 100 円)
 設定からの "お試しコール" で通話品質を確認できる。 (登録不要、無料)
 # G.729
 # Doze 対応済み
+# CallKit 対応
 
 *** 050 plus (NTT)
 
@@ -1632,7 +1684,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 
 ** Android (Google)
 
-最新の Android 8 が公開されたけど、まだ Oreo 食べてない。
+最新の Android 8 が公開されたけど、まだ OREO 食べてない。
 バージョンアップがあるとしたら Android 7 以上？
 普及してるのは Android 6 で、 30000 円くらいを目安に考えてる。
 格安のは機能が削られてる。
@@ -1660,14 +1712,19 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # 2017/06/08 Android O Developer Preview 3 (API level 26)
 # 2017/07/24 Android O Developer Preview 4 (Beta -> Release Candidate)
 # 2017/08/21 Android 8.0 Oreo (Release)
-# 201?/??/?? Android 8.1? (API level 27?, Google APK beta 7.11)
+# 201?/??/?? Android 8.1? (API level 27?, Google APK beta 7.11, Android SDK)
 # - Background limits
+#   バックグラウンドのアプリは、閉じるのがデフォルトになった。
+#   閉じないように作ったアプリには、制限を追加する。
+#   対象はまだ API level 26 向けのアプリだけ。 (設定変更で全部にできる)
 # - Project Treble (Sony, Qualcomm)
 #   Google で管理する OS から、製造元が実装するところを分離するようなもの。
 #   テストも簡単になるので、もっと更新してくれるようになるといいな。
 #   CDD (Compatibility Definition Document)
 #   CTS (Compatibility Test Suite)
 #   VTS (Vendor Test Suite)
+# - [[https://twitter.com/petezin/status/899706388095651842][OREO]]
+#   ドロイド君パッケージの OREO は、発表会のノベルティだけ？
 #
 # Google はどのくらい更新してるかを調べてる。
 # スマホの製造元を、ランク付けして公表するかも。
@@ -1813,7 +1870,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # iPhone X の Face ID も、これから突破される予定。
 # そのうち AI に、 "お前は誰だ" とか言われる日がくるかも。
 
-# ETWS, CBS, BroadcastSMS
+# ETWS (Earthquake Tsunami Warning System), CBS, BroadcastSMS
 # Snapdragon, MediaTek, Kirin, Exynos, ... (SoC)
 # Hexagon 682 DSP (Digital Signal Processor, Hexagon SDK, Caffe, TensorFlow, Snapdragon 835, Qualcomm)
 # LDAC (Hi-Resolution Audio, lossy codec, Android 8, Sony)
@@ -1839,6 +1896,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # NFC (Android 2.3, 2010/12/26)
 # DMARC (Domain-based Message Authentication - Reporting and Conformance, RFC 7489)
 # Android Beta Program (Nexus, Pixel)
+# eSIM Manager (com.google.android.euicc)
 #
 # ServiceMode
 # custom ROM
@@ -1945,11 +2003,11 @@ Mate9 が問題になってる。 (無問題了？？)
 # - メモリクリーンアップ対象外 (メモリとストレージ-ストレージクリーナー-右上歯車)
 #   いつも使ってるアプリだけスキップ。
 # - 自動クリーンアップ (メモリとストレージ-ストレージクリーナー-右上歯車)
-#   アプリを選択できないけど許可してる。
-#   大量のキャッシュがいるアプリは避けてるから。
+#   アプリを選べない。
+#   大量のキャッシュがいるアプリを避けてるのなら、許可しとく。
 #   読み込みに時間がかかるアプリとか使ってるなら、許可しない方が快適かも？
 # - スリープ時に Wi-Fi を維持 (電池-右上歯車)
-#   許可しとく。
+#   安定した Wi-Fi 環境があれば、常時にしとく。
 # - スリープ時にモバイルデータ通信を維持 (電池-右上歯車)
 #   許可しとく。
 # - "天気" (プリインストールのアプリ、ウィジェット)
@@ -1967,6 +2025,9 @@ Mate9 が問題になってる。 (無問題了？？)
 # Y!mobile との SIM 契約がなくてもいい。
 # SIM フリーな Huawei 製スマホ限定。
 # (受け付けてない店舗もある)
+#
+# Mate 10
+# Android 8
 #
 # honor 9
 #
@@ -2057,6 +2118,7 @@ Mate9 が問題になってる。 (無問題了？？)
 # 自動起動マネージャー
 #
 # Zenfone 4
+# | Selfie Lite |
 # 全て Android 8 にバージョンアップする？
 # Pro は 11ad 対応予定？
 #
@@ -2092,7 +2154,7 @@ Android 8 に更新される予定。
 素の Android に近いらしい。 (AOSP)
 Nexus 6 を作ってた。
 # *#*#86583#*#*
-# 非公式だけど、ドコモと au の VoLTE が使えるみたい。
+# 非公式だけど、ドコモと au の VoLTE が使えるみたい。 (Z/Z Play/G5/G5 Plus)
 #
 # G5S Plus
 # Android 7.1.1 -> 8 更新予定。
@@ -2192,7 +2254,9 @@ Android One も作ってる。
 # 標準搭載のエコ技は寡黙で強引だけど、バッテリーと財布にやさしかった。
 # 他の独自機能は BrightKeep を ON にしてたくらい。
 #
+# 発売後 2 年間のバージョンアップを約束してる。
 # AQUOS R Compact
+# AQUOS sense
 #
 # AQUOS R
 # Android 7.1
@@ -2301,7 +2365,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # *** Mi A1
 # 中国 Xiaomi (小米科技、シャオミ) 製。
 # Mi 5X ベース。
-# Android One なのに高性能。
+# Android One の割に高性能。
 # TJC が代理店。 (上陸する？)
 #
 # Xiaomi MIUI Forum
@@ -2310,8 +2374,11 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # OPPO Japan 設立。 (2017/08/30 Emilai?)
 # OPPO Digital Japan とは違う。
 
-# *** Vivo (中)
 # *** OnePlus (中)
+# OxygenOS
+# ユーザーエクスペリエンスプログラムに参加がデフォルト。
+
+# *** Vivo (中)
 
 # *** Jelly
 # 中国 Unihertz 製。
@@ -2510,13 +2577,13 @@ SIM フリーなら、どの格安キャリアでも使えるハズ。
 VoLTE 非対応がほとんど。
 
 # VoLTE 対応はできる？ (Snapdragon だし)
-# Cortana (AI)
+# Cortana (AI, Skype)
 # Microsoft SIM
 # Creators update 非対応なのがある。
 # Windows Phone 8.1 までは、メインストリームサポートを終了。 (2017/07/11)
 # Windows 10 Mobile は 2019 年末で終了予定。
 # Bill Gates が Android を使ってる。
-# "But building new features/hw aren't the focus." (2017/10/08 @joebelfiore)
+# [[https://twitter.com/joebelfiore/status/917071399541391360]["But building new features/hw aren't the focus."]] (2017/10/08 @joebelfiore)
 
 *** Elite X3
 
@@ -2543,7 +2610,7 @@ au VoLTE 対応。
 2015/05/01 より前に買ったスマホは、解除できないことになってるのが多い。
 
 解除なしでも、同じ回線を使う格安キャリアで使えるようになったハズ。
-対象は 2017/08/01 以降に発売されたスマホ。 (まだ iPhone 8/8Plus だけ)
+対象は 2017/08/01 以降に発売されたスマホ。 (iPhone 8 以降の2017 年秋モデルから)
 それ以前のスマホは、大手キャリアによって違う。
 ドコモのスマホは解除なしで使える。
 au も 4G 対応してて VoLTE 非対応なら解除なしで使える。
@@ -2639,6 +2706,15 @@ au は最初から、格安キャリアで 3G のパケット通信ができな�
 # (4G とかの電波は暗号化してる)
 #
 # 提供する相手がわからないところには、つながない。
+#
+# Key Reinstallation AttaCK (KRACK)
+# 他人に鍵を変えられちゃう。 *(!?)*
+# 平文の通信は盗聴される。 (中間者攻撃もある)
+# Android 6.0 以降は注意。 (wpa_supplicant のバージョンによる)
+# 古いルーターとかは、セキュリティパッチが提供されない？ (不要なのもある)
+# 応急処置としては、 VPN を使うくらいしかない？
+# Black Hat Europe 2017 で講演予定。 (2017/12/06,07 @vanhoefm)
+# [[https://www.krackattacks.com/][KRACK Attacks: Breaking WPA2]] (2017/10/16)
 #
 # ** 提携スポット
 #
