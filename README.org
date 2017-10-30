@@ -1725,7 +1725,6 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # 2017/06/08 Android O Developer Preview 3 (API level 26)
 # 2017/07/24 Android O Developer Preview 4 (Beta -> Release Candidate)
 # 2017/08/21 Android 8.0 Oreo (Release)
-# 201?/??/?? Android 8.1? (API level 27?, Google APK beta 7.11, Android SDK)
 # - Background limits
 #   バックグラウンドのアプリは、閉じるのがデフォルトになった。
 #   閉じないように作ったアプリには、制限を追加する。
@@ -1738,6 +1737,12 @@ OCN モバイル ONE との SIM 契約なしで使える。
 #   VTS (Vendor Test Suite)
 # - [[https://twitter.com/petezin/status/899706388095651842][OREO]]
 #   ドロイド君パッケージの OREO は、発表会のノベルティだけ？
+# 2017/10/25 Android 8.1 Developer Preview (API level 27)
+# 2017/12/?? Android 8.1?
+# - Neural Networks API (NNAPI)
+#   DSP/GPU/CPU を使う機械学習ライブラリ向け。 (AI)
+# - Improved targeting for low-RAM devices
+#   RAM 1GB 以下のスマホ向け。 (Android Go, FEATURE_RAM_LOW)
 #
 # Google はどのくらい更新してるかを調べてる。
 # スマホの製造元を、ランク付けして公表するかも。
@@ -1802,10 +1807,11 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 音声通話はドコモなどで定額にして、パケット通信は格安キャリアと契約とか。
 契約と設定が面倒なのは仕方ない。
 
-有機 EL (OLED) はこれから増えるらしい。
+有機 EL ディスプレイはこれから増えるらしい。 (OLED)
 液晶と比べるとまだ寿命が短かく、軽薄ですぐ曲がる上に、バッテリーを使いたがらない。
 たぶん iPhone X のせい。
 まともに評価できるのは数年後かも。
+# OLED (Organic Light Emitting Diode)
 
 5G スマホのデモが ZTE のブースであった。 (MWC 2017)
 2020 年ごろから導入されるのかも。
@@ -1914,6 +1920,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Easter Egg
 # [[https://landing.google.com/advancedprotection/][Advanced Protection Program]]
 # Google Play Security Reward Program (HackerOne)
+# Pixel Visual Core (Pixel2)
 #
 # ServiceMode
 # custom ROM
@@ -1952,10 +1959,12 @@ au 回線では使えない。
 
 韓国 LG が作ってた。
 Nexus と名の付いたスマホは Google の発注したモデル。
+# POLED (Plastic OLED)
 # LG 製の日本向け SIM フリーは最近でてない？
 #
 # Pixel 2 XL
 # 日本では売ってない。
+# POLED の焼き付き問題は、更新で輝度の上限をちょっと下げる？
 
 *** Android One
 
@@ -2180,9 +2189,10 @@ Android 8 に更新される予定。
 更新に積極的なのは、 Google の頃から？
 素の Android に近いらしい。 (AOSP)
 Nexus 6 を作ってた。
+# Moto Mods (Moto Z series, Amazon Alexa, AI)
+#
 # *#*#86583#*#*
 # 非公式だけど、ドコモと au の VoLTE が使えるみたい。 (Z/Z Play/G5/G5 Plus)
-# Moto Mods (Moto Z series, Amazon Alexa, AI)
 #
 # G5S, G5S Plus
 # Android 7.1.1 -> 8 更新予定。
@@ -2199,7 +2209,7 @@ Nexus 6 を作ってた。
 #
 # G5
 # Android 7.0 -> 8 更新予定。
-# DSDS 対応。
+# DSDS 対応予定。 (2017 夏以降に更新すると書いてる)
 # 窓ガラスなので割れやすい。
 # 別売のバッテリーがでれば、交換できるようになる。
 
@@ -2225,6 +2235,7 @@ SONY 製。
 +韓国 Sumsung 製。+
 有機 EL で、エッジスクリーン。
 バッテリーや経営者の問題で爆発中。
+# AMOLED (Active Matrix OLED)
 # KNOX
 # Exynos
 # Tizen (buggy?)
@@ -2337,7 +2348,7 @@ Nexus の後継。
 # ソフトバンク回線なら使えそう。
 # 技適なし。 *(!?)*
 # 日本では売ってない。 (年内の発売もなさそう？)
-# Nexus は発売から 2 年を過ぎたので、たぶん Beta は降ってこない。
+# Nexus は発売から 2 年を過ぎたので、たぶん Android P Beta は降ってこない。
 # Android One にも Beta 提供はない。
 # 日本在住の開発者は、手軽に最新 Android を試せるスマホがなくなりそう。
 # iPhone を使ってくれという、 Google からのメッセージだと誤解されてる。
@@ -2419,7 +2430,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # クラウドファンディング商品。 (米 Kickstarter)
 # 世界最小 2.45inch の 4G スマホ。 (Soyes 7S が発表されて、 2 番目になる予定)
 # 多言語対応。
-# 技適も取得するみたい。
+# 技適も取得するみたい？
 # Pro モデルもある。
 #
 # ヴェルテ (ドゥモア) は Unihertz と代理店契約してない。 (2017/10/02)
@@ -2552,6 +2563,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # Apple ID
 # [[https://opensource.apple.com/][Apple Open Source]]
 # [[https://github.com/apple/darwin-xnu][The Darwin Kernel (mirror)]]
+# Apple Beta Software Program
 #
 # App Store でも 32bit アプリを段階的に廃止。 (2018 年から)
 # 32bit: iPhone 5/5c
@@ -2745,11 +2757,11 @@ au は最初から、格安キャリアで 3G のパケット通信ができな�
 # Key Reinstallation AttaCK (KRACK)
 # Wi-Fi でやりとりできる範囲から、誰にでも暗号の鍵を変えられちゃう。
 # 同じ鍵を共有して、平文の通信を盗聴できる。 (中間者攻撃もある)
-# WPA/WPA2 規格の穴なので、設定変更しても防げない。 *(!?)*
+# WPA/WPA2 規格の穴で、設定変更しても防げない。 *(!?)*
 # かなりの数の Wi-Fi 機器が対象。
 # 特に Android 6.0 以降は注意。 (wpa_supplicant のバージョンによる)
 # Android のセキュリティパッチは 2017/11/06 の予定。 (降ってこないかも)
-# iPhone は Beta 版で対処済みなので、リリース待ち。
+# iPhone は Beta 版で対処済みなので、リリース待ち。 (iOS 11.1)
 # Windows 10 Mobile のセキュリティパッチは 2017/10/10 に配信済み。
 # 古いルーターとかは、セキュリティパッチが提供されない？ (不要なのもある)
 # 応急処置としては、 VPN を使うくらい？
