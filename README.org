@@ -1570,6 +1570,7 @@ LINE モバイルならパケットを消費しない。
 # キーロガーとしても悪用できるのは、 Android の仕様。 (a11y, AndroRATIntern)
 # "他のアプリの上に重ねて表示" を許可されたアプリは、画面を乗っ取れる。 (draw on top, SYSTEM_ALERT_WINDOW, =<7.1.2)
 # 両方を許可されたアプリは、なんでもできそう。 ([[http://cloak-and-dagger.org/][Cloak and Dagger]], God mode)
+# これから制限されるみたい。 [[http://www.androidpolice.com/2017/11/12/google-will-remove-play-store-apps-use-accessibility-services-anything-except-helping-disabled-users/][(メールで確認中？)]]
 # (android.permission.BIND_ACCESSIBILITY_SERVICE)
 
 +通話定額に必須のアプリ。+
@@ -1920,13 +1921,14 @@ H.265(HEVC) はパテントプールで溺れてる。
 #
 # ISO/IEC JTC 1/SC 37 - Biometrics
 #
+# 生体認証は、どれも突破されてる。
 # パスワード認証は、見られるだけで困るけど。
-# iPhone X の Face ID も、これから突破される予定。
 # そのうち AI に、 "お前は誰だ" とか言われる日がくるかも。
 
 # ETWS (Earthquake Tsunami Warning System), CBS, BroadcastSMS
 # Snapdragon, MediaTek, Kirin, Exynos, ... (SoC)
 # Hexagon 682 DSP (Digital Signal Processor, Hexagon SDK, Caffe, TensorFlow, Snapdragon 835, Qualcomm)
+# TensorFlow Lite developer preview (NNAPI, 2017/11/14)
 # LDAC (Hi-Resolution Audio, lossy codec, Android 8, Sony)
 # PHA (Potentially Harmful Applications, Verify Apps)
 # SMS -> RCS (Rich Communication Service)
@@ -1956,7 +1958,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Google Play Security Reward Program (HackerOne)
 # Pixel Visual Core (Pixel2, HDR+, Camera HAL)
 #
-# ServiceMode
+# ServiceMode, EngineerMode
 # custom ROM
 # Anbox (Android in the box)
 # Android Terminal Emulator (adb, tethering, APN lock)
@@ -2270,6 +2272,8 @@ Nexus 6 を作ってた。
 プラスワン・マーケティング製。 (OEM)
 不具合が多いらしい。
 格安キャリア FREETEL をやってたけど、楽天モバイルに売却。 (2017/11/01)
+# REI 2 Dual
+# MIYABI 2 Dual
 
 *** Xperia
 
@@ -2278,6 +2282,7 @@ SONY 製。
 海外でも知られている日本製のスマホはこれだけかも。
 # Sony Open Devices Program (AOSP)
 # [[https://nnabla.org/][Neural Network Libraries]] (オープンソース)
+# 3D Creator
 #
 # Xperia の SIM フリー版は、海外にしかない。
 
@@ -2471,17 +2476,29 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 #
 # Xiaomi MIUI Forum
 
-# *** OPPO (中)
+# *** OPPO (オッポ、欧珀)
+# 中国 BBK の子会社。
 # OPPO Japan 設立。 (2017/08/30 Emilai?)
 # OPPO Digital Japan とは違う。
 
-# *** OnePlus (中)
-# OxygenOS
-# ユーザーエクスペリエンスプログラムに参加がデフォルト。
-#
+# *** OnePlus (一加)
+# 中国 OPPO の子会社。
+# ユーザーエクスペリエンスプログラムに参加がデフォルトだった。 (2017/10/?? まで)
 # KRACK に対応するセキュリティパッチを先行配信。 (OxygenOS 4.5.14, 2017/11/02)
+#
+# [[http://downloads.oneplus.net/][OxygenOS]] 5.0 (Android 8.0)
+# OnePlus Switch
+#
+# EngineerMode (OxygenOS 4.5.1/4.5.14, Qualcomm?)
+# adb shell am start -n com.android.engineeringmode/.qualcomm.DiagEnabled --es "code" "angela"
+# プリインストールアプリで、管理者権限が提供されてた。 (@fs0c131y, 2017/11/13)
+# デフォルトでは無効になってる。
+# 更新で修正すると OnePlus がコメント。 (2017/11/14)
+# Qualcomm が無効にしてた機能？ (2017/11/15)
+# [[http://www.androidpolice.com/2017/11/15/oneplus-left-backdoor-devices-capable-root-access/][OnePlus left a backdoor in its devices capable of root access]]
 
-# *** Vivo (中)
+# *** Vivo (ビーボ、維沃)
+# 中国 BBK の子会社。
 
 # *** Jelly
 # 中国 Unihertz 製。
@@ -2504,6 +2521,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # Android 7.1.1
 # au VoLTE 対応？
 # KRACK に対応するセキュリティパッチを先行配信。 (NMJ20D, 2017/10/31)
+# 技適を取得したみたい。 (Android 8.0 Beta 1, OPM1.170911.130, 2017/11/14)
 #
 # 2003 年 Android を設立。 (Andy Rubin は創業者の一人で開発者)
 # 2005 年 Google が買収。
@@ -2824,8 +2842,8 @@ au は最初から、格安キャリアで 3G のパケット通信ができな�
 # かなりの数の Wi-Fi 機器が対象。
 # 特に Android 6.0 以降は注意。 (wpa_supplicant のバージョンによる)
 # Android のセキュリティパッチは 2017/11/06 に公開されたけど、降ってこないかも。 (5.0.2 以上向け)
-# iPhone のセキュリティパッチは 2017/10/31 に配信済み。 (iOS 11.1)
-# Windows 10 Mobile のセキュリティパッチは 2017/10/10 に配信済み。
+# iPhone のセキュリティパッチは 2017/10/31 に配信された。 (iOS 11.1)
+# Windows 10 Mobile のセキュリティパッチは公表前に配信済み。 (2017/10/10)
 # 古いルーターとかは、セキュリティパッチが提供されない？ (不要なのもある)
 # 応急処置としては、 VPN を使うくらい？
 # Black Hat Europe 2017 とかで講演予定。 (2017/12/06,07 @vanhoefm)
