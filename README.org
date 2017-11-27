@@ -1243,6 +1243,18 @@ NTT コミュニケーションズでプロバイダをしてるところ。
 #
 # "119番映像通報サービス" は、アプリと Web 版サービスを提供予定。 (2018/04/?? 日立)
 
+# Cell ID は、基地局にあるアンテナごとに割り当てられてる番号。
+# スマホの位置は、基地局の半径 400m 以内くらい。
+# 近くの基地局と電波強度がわかれば、もっと絞り込める。
+# 国内では、 GPS を使えないケータイからの緊急通報とかで使われてる。
+#
+# Android は近くの Cell ID を Google に送信してる。 (FCM, 2017/01/??-2017/11/??)
+# 位置情報 (GPS) をオフにしても止められない。
+# Google のプライバシーポリシーにも、オフのとき送信しないとは書いてないけど。
+# 送信しないように修正されるみたい。 (選択できない不透明な収集だから？)
+# (アプリにも現在地送信機能とかある)
+# [[https://qz.com/1131515/google-collects-android-users-locations-even-when-location-services-are-disabled/][Google collects Android users' locations even when location services are disabled]] (Quartz, 2017/11/21)
+
 # 認証の時に音声通話や SMS 、または SNS を使うのがある。
 # 通話アプリじゃないけど、キャリアメール (MMS) を要求する銀行とかもある。
 
@@ -1765,6 +1777,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # - Project Treble (Sony, Qualcomm)
 #   Google で管理する OS から、製造元が実装するところを分離するようなもの。
 #   テストも簡単になるので、もっと更新してくれるようになるといいな。
+#   バージョンアップで Android 8 になったスマホは、対応してないかも。
 #   CDD (Compatibility Definition Document)
 #   CTS (Compatibility Test Suite)
 #   VTS (Vendor Test Suite)
@@ -1959,7 +1972,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Pixel Visual Core (Pixel2, HDR+, Camera HAL)
 #
 # ServiceMode, EngineerMode
-# custom ROM
+# custom ROM (LineageOS, Paranoid, ...)
 # Anbox (Android in the box)
 # Android Terminal Emulator (adb, tethering, APN lock)
 # WiFiAnalyzer (open-source)
@@ -2080,13 +2093,11 @@ Mate9 が問題になってる。 (無問題了？？)
 #   一括で閉じたくないアプリはロックしとく。
 # - 他のアプリの上に重ねて表示 (アプリ-下設定歯車-特別なアクセス)
 #   あぶないので、できるだけ許可しない。 (draw on top)
-# - メモリクリーンアップ対象外 (メモリとストレージ-ストレージクリーナー-右上歯車)
-#   いつも使ってるアプリだけスキップ。
-#   自動クリーンアップの対象を選択してる？
 # - 自動クリーンアップ (メモリとストレージ-ストレージクリーナー-右上歯車)
-#   アプリを選べない？
-#   大量のキャッシュがいるアプリを避けてるのなら、許可しとく。
-#   読み込みに時間がかかるアプリとか使ってるなら、許可しない方が快適かも？
+#   使わないアプリのキャッシュはいらないので、許可しとく。
+#   キャッシュとかがいるアプリは、メモリクリーンアップ対象外からスキップ。
+# - メモリクリーンアップ対象外 (メモリとストレージ-ストレージクリーナー-右上歯車)
+#   よく使ってるのと、読み込みに時間がかかるアプリだけスキップ。
 # - スリープ時に Wi-Fi を維持 (電池-右上歯車)
 #   安定した Wi-Fi 環境があれば、常時にしとく。
 # - スリープ時にモバイルデータ通信を維持 (電池-右上歯車)
@@ -2302,6 +2313,7 @@ SONY 製。
 # DeX (Linux on Galaxy)
 # Samsung Enterprise Alliance Program (SEAP)
 # Galaxy Apps
+# Galaxy Ai UX (S9?)
 #
 # Galaxy の SIM フリー版は、海外にしかない。
 #
@@ -2460,6 +2472,13 @@ VAIO 製。
 # バッテリー交換できる。
 # au VoLTE 対応だけど、 au 回線にはつながりにくいかも。
 # Android 6
+# くまモンのすまフォン (くまモバイル、コムテクノ)
+#
+# View
+# Android 7
+# 国内大手キャリアの VoLTE に全て対応。 *(!?)*
+# DSDS 対応。 (SIMx2 + MicroSD)
+# バッテリー交換できる。
 
 *** DIGNO V
 
@@ -2522,6 +2541,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # au VoLTE 対応？
 # KRACK に対応するセキュリティパッチを先行配信。 (NMJ20D, 2017/10/31)
 # 技適を取得したみたい。 (Android 8.0 Beta 1, OPM1.170911.130, 2017/11/14)
+# Android 8.0 更新予定。
 #
 # 2003 年 Android を設立。 (Andy Rubin は創業者の一人で開発者)
 # 2005 年 Google が買収。
@@ -2678,7 +2698,7 @@ iOS の更新は iPhone 5s 以上で続けられてる。
 VoLTE は iPhone 6 以上から使える。
 SIM フリーなら、どの格安キャリアでも使えるハズ。
 製造は台湾の鴻海 (Foxconn) や Pegatron。
-# インドでも製造を始めるみたい。 (台湾 Wistron?)
+# インドでも製造を始めたみたい。 (台湾 Wistron)
 #
 # 2007/01/09 1st generation
 # 2008/07/11 3G
@@ -2696,6 +2716,7 @@ SIM フリーなら、どの格安キャリアでも使えるハズ。
 # 2016/09/16 7, 7 Plus
 # 2017/09/22 8, 8 Plus
 # 2017/11/03 X (10th anniversary)
+# 2018/??/?? SE2?
 
 ** Windows 10 Mobile (Microsoft)
   
