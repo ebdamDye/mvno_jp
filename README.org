@@ -676,6 +676,7 @@ au 回線だと Android 6 以上のスマホが少ない。
 # 2017/08/01 BB.excite モバイル LTE をエキサイトモバイルに統合。
 # 2017/11/01 楽天モバイルが FREETEL を買収。 (2018/01/?? 統合予定)
 # 2017/11/30 ぷららモバイル LTE がサービス終了。
+# 2018/02/01 QT モバイルが大手キャリア 3 回線の取り扱いを開始予定。 (国内初)
 
 ** mineo (マイネオ)
 
@@ -1184,6 +1185,13 @@ NTT コミュニケーションズでプロバイダをしてるところ。
 #
 # どちらも音声通話と SMS なし。
 
+# ** イプシム (WITH Networks)
+#
+# 固定されたグローバル IP アドレスを使える。 (IPv4)
+# ドコモ回線。
+#
+# # 2017/10/02 ドコモ回線でサービス開始。
+
 # ** FREETEL (プラスワン・マーケティング)
 #
 # 消費者庁から "景品表示法に基づく措置命令" を受けた。 (2017/04/21)
@@ -1227,12 +1235,16 @@ NTT コミュニケーションズでプロバイダをしてるところ。
 # 所在地も怪しげな代理店からで、プレミアモバイルとの契約を書いてない。
 # 第一人者 (premier) になれないので、律儀に社名を変えたりするのかも。
 
-# ** イプシム (WITH Networks)
+# o'zzio モバイル LTE (PC DEPOT)
 #
-# 固定されたグローバル IP アドレスを使える。 (IPv4)
-# ドコモ回線。
+# 社長の野島隆久は、ノジマの社長の弟。
+# PC DEPOT とノジマの関係は、親族が大株主ってくらい？
+# 元消費者庁長官もアドバイザーに就いてる、東証 1 部上場企業。 (7618)
 #
-# # 2017/10/02 ドコモ回線でサービス開始。
+# 光回線とかの解約で、また 20 万円以上を請求。 (2017/11/??)
+# 前にも、解約トラブルを報じられたことがある。 (2016/08/??)
+# 優雅な暮らし (ozio) のために、さまざまなオプションと手数料を提供？
+# [[https://www.pcdepot.co.jp/info/information171206.pdf][正規の対応]] に注意。 (2017/12/06)
 
 
 * 通話アプリ
@@ -1594,7 +1606,7 @@ LINE モバイルならパケットを消費しない。
 # キーロガーとしても悪用できるのは、 Android の仕様。 (a11y, AndroRATIntern)
 # "他のアプリの上に重ねて表示" を許可されたアプリは、画面を乗っ取れる。 (draw on top, SYSTEM_ALERT_WINDOW, =<7.1.2)
 # 両方を許可されたアプリは、なんでもできそう。 ([[http://cloak-and-dagger.org/][Cloak and Dagger]], God mode)
-# これから制限されるみたい。 [[http://www.androidpolice.com/2017/11/12/google-will-remove-play-store-apps-use-accessibility-services-anything-except-helping-disabled-users/][(メールで確認中？)]]
+# これから制限されるみたい。 [[http://www.androidpolice.com/2017/12/07/google-pauses-accessibility-app-ban-considers-responsible-innovative-use-accessibility-services/][(開発者にはメールで確認)]]
 # (android.permission.BIND_ACCESSIBILITY_SERVICE)
 
 +通話定額に必須のアプリ。+
@@ -1797,11 +1809,11 @@ OCN モバイル ONE との SIM 契約なしで使える。
 #   ドロイド君パッケージの OREO は、発表会のノベルティだけ？
 # 2017/10/25 Android 8.1 Developer Preview 1 (API level 27)
 # 2017/11/27 Android 8.1 Developer Preview 2 (Release Candidate)
-# 2017/12/?? Android 8.1?
+# 2017/12/05 Android 8.1 Oreo (Release)
 # - Neural Networks API (NNAPI)
 #   スマホの DSP/GPU/CPU を使う機械学習ライブラリ向け。 (AI)
-# - Improved targeting for low-RAM devices
-#   RAM 1GB 以下のスマホ向け。 (Android Go, FEATURE_RAM_LOW)
+# - Android Oreo (Go edition)
+#   RAM 1GB 以下のスマホ向け。 (FEATURE_RAM_LOW)
 #
 # Google はどのくらい更新してるかを調べてる。
 # スマホの製造元を、ランク付けして公表するかも。
@@ -1916,7 +1928,7 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 # 4G まで非公開だったけど、 5G ではじめて公開された。 (Apple のおかげ？)
 # まだ 5G の規格が定まってないので、予定？
 # 販売価格 3 万円のスマホなら、 Qualcomm の特許使用料は 2475 円くらい。 (あとは交渉次第？)
-# 内訳は必須特許群が 3.25% (最大 US$ 16.25) に、他の特許群の 5% を加えたもの。
+# 内訳は必須特許群の 3.25% (上限 US$16.25) に、他の特許群の 5% を加えたもの。
 # [[https://www.qualcomm.com/documents/qualcomm-5g-nr-royalty-terms-statement][Qualcomm 5G NR Royalty Terms Statement]] (2017/11/19)
 # [[https://www.ericsson.com/assets/local/networked-society/innovation/patents--licensing/frand-licensing-terms-for-5g-nr-in-3gpp-release-15.pdf][FRAND licensing terms for 5G/NR in 3GPP Release 15 - Ericsson]] (2017/03/03)
 
@@ -1924,7 +1936,7 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 HDR は再生できるだけで、輝度とか足りない。
 H.265(HEVC) はパテントプールで溺れてる。
 人助けがしたいならどうぞ。
-# 2017/12/?? "ColorEdge PROMINENCE CG3145" を発売予定。
+# "ColorEdge PROMINENCE CG3145" を 285 万円で発売予定。 (2017/12/18)
 # EIZO 製のリファレンスモニタ。
 # 液晶パネルはパナソニック製。
 # 31.1inch, 4K, HDR
@@ -1961,8 +1973,16 @@ H.265(HEVC) はパテントプールで溺れてる。
 
 # ETWS (Earthquake Tsunami Warning System), CBS, BroadcastSMS
 # Snapdragon, MediaTek, Kirin, Exynos, ... (SoC)
-# Hexagon 682 DSP (Digital Signal Processor, Hexagon SDK, Caffe, TensorFlow, Snapdragon 835, Qualcomm)
-# TensorFlow Lite developer preview (NNAPI, 2017/11/14)
+# SPU (Secure Processing Unit, Snapdragon 845, Qualcomm)
+# Hexagon 682 DSP (Digital Signal Processor, Hexagon SDK, Snapdragon 835, Qualcomm)
+#
+# TensorFlow Lite developer preview (NNAPI, 2017/11/14, Google)
+# NPE (Neural Processing Engine, SDK, AI, Snapdragon 845, Qualcomm)
+# Caffe2, PyTorch (AI, Facebook)
+# CNTK (Cognitive Toolkit, AI, Microsoft)
+# ONNX (Open Neural Network Exhange, AI, Microsoft, Facebook)
+# Apache MXNet (AI, Amazon)
+#
 # LDAC (Hi-Resolution Audio, lossy codec, Android 8, Sony)
 # PHA (Potentially Harmful Applications, Verify Apps)
 # SMS -> RCS (Rich Communication Service)
@@ -1976,7 +1996,6 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Android Security Year In Review
 # USB OTG (On The Go, dual-role device)
 # USB Type-C
-# Android Go (1GB memory devices, 2018)
 # Android Studio (SDK, Kotlin)
 # Android for Work (KNOX, Samsung)
 # Android Messages (SMS/MMS/RCS)
@@ -1992,6 +2011,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Google Play Security Reward Program (HackerOne)
 # Pixel Visual Core (Pixel2, HDR+, Camera HAL, Android 8.1)
 # Datally (VPN)
+# Google Play Protect
 #
 # ServiceMode, EngineerMode
 # custom ROM (LineageOS, Paranoid, ...)
@@ -2161,7 +2181,7 @@ Mate9 が問題になってる。 (無問題了？？)
 # EMUI 8.0 (Android 8.0)
 # Kirin 970 (NPU)
 # 世界初の 5CC CA 対応スマホ。 (1.2Gbps, LTE Cat.18)
-# 世界初の DSDV 対応。 (ソフトバンク VoLTE のみ対応)
+# 世界初の DSDV 対応。 (まだソフトバンク VoLTE のみ、あとは更新で対応予定)
 # 防水。 (無印は防滴)
 # OLED は、中国 BOE 製。
 #
@@ -2261,8 +2281,10 @@ Mate9 が問題になってる。 (無問題了？？)
 # 自動起動マネージャー
 #
 # Zenfone 4
-# | Selfie Lite |
+# | Max         | Android 7 | 大容量バッテリー、 DSDS+microSD |
+# | Selfie Lite | Android 7 |                                 |
 # 全て Android 8 にバージョンアップする？
+# Max は更新で、 au とソフトバンクの VoLTE に対応予定。 (どの回線でも使える)
 # Pro は 11ad 対応予定？
 #
 # Zenfone AR
@@ -2361,6 +2383,7 @@ SONY 製。
 # Samsung Enterprise Alliance Program (SEAP)
 # Galaxy Apps
 # Galaxy Ai UX (S9?)
+# Secure Wi-Fi (VPN)
 #
 # Galaxy の SIM フリー版は、海外にしかない。
 #
@@ -2910,7 +2933,8 @@ au は最初から、格安キャリアで 3G のパケット通信ができな�
 # かなりの数の Wi-Fi 機器が対象。
 # 特に Android 6.0 以降は注意。 (wpa_supplicant のバージョンによる)
 # Android のセキュリティパッチは 2017/11/06 に公開されたけど、降ってこないかも。 (5.0.2 以上向け)
-# iPhone のセキュリティパッチは 2017/10/31 に配信された。 (iOS 11.1)
+# iPhone 7 以降のセキュリティパッチが 2017/10/31 に配信された。 (iOS 11.1)
+# iPhone 5s 以降のセキュリティパッチは 2017/12/02 に配信された。 (iOS 11.2)
 # Windows 10 Mobile のセキュリティパッチは公表前に配信済み。 (2017/10/10)
 # 古いルーターとかは、セキュリティパッチが提供されない？ (不要なのもある)
 # 応急処置としては、 VPN を使うくらい？
