@@ -541,6 +541,8 @@ Android スマホは SIM ロックされてない。 *(!?)*
 
 # 2017/09/07 機種変更と口座振替を開始。
 
+# ** [[https://corp.rakuten.co.jp/news/press/2017/1214_02.html][楽天？]]
+
 
 * 格安キャリア (MVNO で低速通信)
 
@@ -1805,6 +1807,10 @@ OCN モバイル ONE との SIM 契約なしで使える。
 #   CDD (Compatibility Definition Document)
 #   CTS (Compatibility Test Suite)
 #   VTS (Vendor Test Suite)
+# - Wide color profiles
+#   アプリで使える色が増えた。
+#   表示できるディスプレイを載せたスマホがいるけど。
+#   Adobe RGB, Display P3, DCI-P3, BT.2020, ... (ColorSpace.Named)
 # - [[https://twitter.com/petezin/status/899706388095651842][OREO]]
 #   ドロイド君パッケージの OREO は、発表会のノベルティだけ？
 # 2017/10/25 Android 8.1 Developer Preview 1 (API level 27)
@@ -1936,15 +1942,45 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 HDR は再生できるだけで、輝度とか足りない。
 H.265(HEVC) はパテントプールで溺れてる。
 人助けがしたいならどうぞ。
-# "ColorEdge PROMINENCE CG3145" を 285 万円で発売予定。 (2017/12/18)
-# EIZO 製のリファレンスモニタ。
-# 液晶パネルはパナソニック製。
-# 31.1inch, 4K, HDR
-# ITU-R BT.2100, SMPTE ST2084
+# | TV      | 1440x1080i |  15Mbps | H.262, MPEG-2 |
+# | BD      | 1980x1080i |  25Mbps | H.262, MPEG-2 |
+# | Youtube | 1980x1080p |   5Mbps | H.264, AVC    |
+# | Youtube | 3840x2160p |  12Mbps | WebM          |
+# | 4K      | 3840x2160p |  25Mbps | H.265, HEVC   |
+# | 8K      | 7680x4320p | 100Mbps | H.265, HEVC   |
+# 4K と 8K のビットレートは、 BD を基準に単純計算しただけ。
+
+# HDR (High Dynamic Range) は、たくさんあってややこしい。
+# めんどくさいので、 HDR を BT.2100 に限定しとく。 (HDR-TV)
+# スマホの仕様とかに HDR と書いてあっても、 BT.2100 対応とは限らない。
+# (写真撮影の HDR モードは、まったく違うもの)
 #
-# 液晶モニタでは世界で初めて HDR *表示* に対応する。
-# NHK 技研公開 2017 で見れた。 (展示 19)
+# ITU-R BT.2100 (2017/07/05)
+# FullHD, 4K, 8K
+# >= 1000cd/m^2 (peak luminance)
+# <= 0.005cd/m^2 (black level)
+# BT.2020 (color space)
+# 10, 12bit (bit depth)
+# ...
 #
+# 今の TV は、輝度が 0.05~100cd/m^2 以上。
+# 色は BT.709 。(8bit)
+# ほどほどの明暗で、表示できない色が多い。 (これもデータ圧縮)
+#
+# よその HDR になら対応してるかも。
+# HDR10, Mobile HDR Premium, ...
+# |                   | display        | cd/m^2    | color space (*1) |
+# |-------------------+----------------+-----------+------------------|
+# | Xperia XZ Premium | 4K LCD         | (*2) 495  | DCI-P3           |
+# | Galaxy Note8      | OLED           | (*3) 423  | DCI-P3           |
+# | Mate10 Pro        | OLED           | (*4) 420? | BT.2020          |
+# | iPhone X          | OLED (Samsung) | (*5) 634  | Display P3       |
+# (*1) BT.2020 > DCI-P3, Display P3 > BT.709
+# (*2) [[https://www.phileweb.com/review/article/201706/22/2575.html][【測定】AVファンも注目のソニー「Xperia XZ Premium」。4K/HDR対応ディスプレイはもはや“マスモニ”レベル]] (DCI-P3 では測定してない)
+# (*3) [[http://www.displaymate.com/Galaxy_Note8_ShootOut_100.htm][Galaxy Note8 OLED Display Technology Shoot-Out]] (ピークが 1200cd/m^2 を越えることもある)
+# (*4) [[https://www.androidauthority.com/best-of-android-2017-display-821800/][Best of Android 2017: Which phone has the best display?]] (2017/12/11)
+# (*5) [[http://www.displaymate.com/iPhoneX_ShootOut_1a.htm][iPhone X OLED Display Technology Shoot-Out]] (Apple は 625cd/m^2 と書いてる)
+
 # ふえるパテントプール。 (H.265)
 # MPEG LA, HEVC Advance, Technicolor SA, Velos Media, ...?
 
@@ -1970,6 +2006,10 @@ H.265(HEVC) はパテントプールで溺れてる。
 # 生体認証は、どれも突破される予定。
 # パスワード認証は、見られるだけで困るけど。
 # そのうち AI に、 "お前は誰だ" とか言われる日がくるかも。
+#
+# 次は、ディスプレイで指紋を読み取るモジュールの番？
+# "Clear ID" (FS9500, optical, Synaptics)
+# "Qualcomm Fingerprint Sensors" (sound waves, Qualcomm)
 
 # ETWS (Earthquake Tsunami Warning System), CBS, BroadcastSMS
 # Snapdragon, MediaTek, Kirin, Exynos, ... (SoC)
@@ -2190,6 +2230,7 @@ Mate9 が問題になってる。 (無問題了？？)
 #
 # honor 9
 # EMUI 5.1 (Android 7.0)
+# EMUI 8.0 (Android 8.0) に更新予定。
 #
 # P10 lite
 # au VoLTE 対応。 (B112)
@@ -2662,8 +2703,19 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # 今後は、 GOTA (Google Over The Air) で発売するって。
 # (Energy X Plus 2, Studio Touch, Advance 4.0 L2, Neo XL, Energy Diamond)
 
+# *** CAT S60
+#
+# 英 Bullitt Mobile 製。
+# 許可を得て、建設機械とかを作ってる Caterpillar の名前で売ってる。
+# 代理店は、オンキヨー＆パイオニアマーケティング。
+# 工事現場向けの機能がある。
+# Android 6
+# App Toolbox
+# サーマルカメラ。 (FLIR, 写真に低解像度の温度分布を合成)
+# SOS ボタン。 (Location Alert)
+# 防水。
+
 # *** Ice (米 Amazon)
-# *** CAT S40 (英 Bullitt Mobile)
 # *** GRANBEAT (ONKYO)
 
 # *** NuAns NEO [Reloaded]
@@ -2783,7 +2835,7 @@ SIM フリーなら、どの格安キャリアでも使えるハズ。
 # 2014/09/19 6, 6 Plus
 # 2015/09/25 6S, 6S Plus
 # 2016/03/21 SE
-# 2016/09/16 7, 7 Plus
+# 2016/09/16 7, 7 Plus (Display P3)
 # 2017/09/22 8, 8 Plus
 # 2017/11/03 X (10th anniversary)
 # 2018/??/?? SE2?
