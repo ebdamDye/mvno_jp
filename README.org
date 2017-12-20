@@ -1966,6 +1966,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # 今の TV は、輝度が 0.05~100cd/m^2 以上。
 # 色は BT.709 。(8bit)
 # ほどほどの明暗で、表示できない色が多い。 (これもデータ圧縮)
+# アナログの頃は、色が BT.601 (NTSC) だった。 (表示できてないけど)
 #
 # よその HDR になら対応してるかも。
 # HDR10, Mobile HDR Premium, ...
@@ -1973,9 +1974,9 @@ H.265(HEVC) はパテントプールで溺れてる。
 # |-------------------+----------------+-----------+------------------|
 # | Xperia XZ Premium | 4K LCD         | (*2) 495  | DCI-P3           |
 # | Galaxy Note8      | OLED           | (*3) 423  | DCI-P3           |
-# | Mate10 Pro        | OLED           | (*4) 420? | BT.2020          |
+# | Mate10 Pro        | OLED (BOE)     | (*4) 420? | NTSC             |
 # | iPhone X          | OLED (Samsung) | (*5) 634  | Display P3       |
-# (*1) BT.2020 > DCI-P3, Display P3 > BT.709
+# (*1) BT.2020 > NTSC, DCI-P3, Display P3 > BT.709
 # (*2) [[https://www.phileweb.com/review/article/201706/22/2575.html][【測定】AVファンも注目のソニー「Xperia XZ Premium」。4K/HDR対応ディスプレイはもはや“マスモニ”レベル]] (DCI-P3 では測定してない)
 # (*3) [[http://www.displaymate.com/Galaxy_Note8_ShootOut_100.htm][Galaxy Note8 OLED Display Technology Shoot-Out]] (ピークが 1200cd/m^2 を越えることもある)
 # (*4) [[https://www.androidauthority.com/best-of-android-2017-display-821800/][Best of Android 2017: Which phone has the best display?]] (2017/12/11)
