@@ -166,13 +166,22 @@
 他に 30 社くらいすぐに見つかったけど、全部は見てない。
 # ドコモ回線がほとんど。
 #
-# 電気通信サービスの契約数及びシェアに関する四半期データの公表 (2017/09/22 総務省)
-# 331 + 382 = 713 社。 (1 次 + 2 次以降の MVNO)
+# 電気通信サービスの契約数及びシェアに関する四半期データの公表 (2017/12/22 総務省)
 # SIM カード型の契約数における事業者別のシェアは、 IIJmio がトップ。
-# | IIJmio           | 14.3% |
-# | OCN モバイル ONE | 12.6% |
-# | mineo            |  8.2% |
-# | Sony 系          |  5.2% | (0SIM?)
+# |                  | 2017/06 | 2017/09 |
+# |------------------+---------+---------|
+# | IIJmio           |   14.3% |   14.1% |
+# | OCN モバイル ONE |   12.6% |   12.3% |
+# | 楽天             |   10.8% |   11.6% | (2017Q3, +FREETEL)
+# | mineo            |    8.2% |    8.7% |
+# | Sony 系          |    5.2% |    5.0% | (0SIM?)
+#
+# MVNO は 753 社くらい。
+# |          | 2017/06 | 2017/09 |
+# |----------+---------+---------|
+# | 1 次     |     331 |     355 |
+# | 2 次以降 |     382 |     398 |
+# | 計       |     713 |     753 |
 
 
 * 大手キャリア (MNO で高速通信)
@@ -303,7 +312,8 @@
 | データ定額 | 3200 | 3800 | 5300 | 6300 | 7300 |
 
 音声通話定額のスマ放題は +4200 円。
-ホワイトプランは割高なので省略。
+ホワイトプランと標準プランは、音声通話定額なし。
+パケット通信なしにはできない。
 
 1GB のプランでも *月額 7400 円* 以上になる。
 2 年後解約自由なら月額 6200 円。
@@ -345,12 +355,12 @@
 
 ** ドコモ
 
-|                |  2GB |  5GB | 20GB | 30GB |
-|----------------+------+------+------+------|
-| パケットパック | 3800 | 5300 | 6300 | 8300 |
+|              |  2GB |  5GB | 20GB | 30GB |
+|--------------+------+------+------+------|
+| データパック | 3800 | 5300 | 6300 | 8300 |
 
 料金はソフトバンクと大差ない。 (30GB を除く)
-音声通話定額の契約が必須。
+音声通話定額なしや、パケット通信なしにできる。
 DSDS 対応スマホで音声通話定額を利用するならドコモがおすすめ。
 
 5GB 以上のプランなら、パケットの繰り越しは翌月まで。 (1GB 単位)
@@ -388,7 +398,7 @@ DSDS 対応スマホで音声通話定額を利用するならドコモがおす
 | フラット          |      |      |      |      | 6000 | 8000 |
 
 データ定額の料金はソフトバンクと大差ない。 (30GB を除く)
-音声通話定額の契約が必須。
+ピタットとフラットは、音声通話定額なしにできる。
 # 不公平なプランとして問題視されてる。 (大手キャリア共通)
 # どのスマホを買っても月額料金が同じ。
 # スマホ本体の料金を払い終えても、月額料金が安くならない。
@@ -457,6 +467,7 @@ au が売ったスマホ以外だと、 LTE NET for DATA の申し込みがい�
 ソフトバンクに吸収合併されてた。
 ソフトバンク以外からの乗り換えだとしばらく安いけど、縛りがキツイ。
 1980 円で使えるのは最初の 1 年だけ。
+音声通話定額なしにできない。
 
 一部の Android スマホは SIM ロックされてない。 *(!?)*
 
@@ -503,6 +514,7 @@ au に SIM ロックされたスマホでも使える。
 データ高速プランだけは、格安キャリアの料金プランに近い。 *(!?)*
 工夫すれば、高速通信と安さを両立できる。
 ただし、データプランのみ機種変更 (追加購入) できない。
+制限はあるけど、音声通話定額なしにできる。
 # 音声通話なしは、 "端末購入アシスト" を使えない。
 # 音声通話ありは、 1 年縛り。
 # "端末購入アシスト" は 2 年縛り。 (スマホの選択肢が少ない)
@@ -1347,7 +1359,7 @@ NTT コミュニケーションズでプロバイダをしてるところ。
 
 *** SkyPhone (クアッドシステム)
 
-機能は無料通話のみ。
+無料通話などができる。
 ユーザ登録や利用料は不要。
 初回起動時に SkyPhone 専用番号が決まる。
 スマホを変えると SkyPhone 専用番号も変わる。
@@ -1779,7 +1791,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # "更新" は全部まとめたもの。
 # ということにして書く。
 #
-# Android 6 -> 7 のようなバージョンアップは年 1 回？
+# Android 6 -> 7 のようなバージョンアップは年 1 回？ (新しいデザートのリリース)
 # Android 7.0 -> 7.1 のようなバージョンアップは不定期。
 # 不具合の修正も不定期。
 # セキュリティパッチは月 1 回。
@@ -1789,6 +1801,9 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # 海外の製造元の方が積極的みたい。 (例外は Xperia だけ？)
 # 海外でも一部のスマホしか、毎月降ってきたりはしないけど。
 # これからに期待。
+#
+# Android P メモ。
+# Kotlin
 #
 # Android 8 メモ。
 # 2017/03/21 Android O Developer Preview 1
@@ -1845,6 +1860,12 @@ OCN モバイル ONE との SIM 契約なしで使える。
 #
 # あとは、バージョンアップを保証して売ってるスマホがあるくらい？
 
+# Google Play
+# 2018/08/?? 新しいアプリは、 Android 8.0 (API26) 対応が必須。 (targetSdkVersion)
+# 2018/11/?? アプリの更新で、 Android 8.0 (API26) 対応が必須。
+# 2019/08/?? 新しいアプリやアプリの更新で、 64bit 対応が必須。 (multiple APK)
+# 2019/??/?? デザート (e.g. O,P,Q) に、 1 年以内の対応が必須？ (minSdkVersion)
+
 前に普及してた Android 5 スマホなら 20000 円以下くらい？
 Android 4 以前だと、Google によるセキュリティパッチの公開もない。 (2017/10/05 が最後)
 # 新品として売ってるのは、まだ不具合の修正くらいはしてる？
@@ -1892,26 +1913,33 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 5G スマホのデモが ZTE のブースであった。 (MWC 2017)
 2020 年ごろから導入されるのかも。
 4G 初期のような通信障害を期待できる。
-# 2014/05/21 au 4G LTE CA 開始。 (2CC CA、 au 4G LTE の後継)
-# 2014/09/26 Softbank 4G で CA 開始。 (2CC CA、モバイル Wi-Fi ルータ)
-# 2015/03/27 ドコモ PREMIUM 4G 開始。 (2CC CA、 Xi の後継)
-# 2015/10/29 ドコモ 3CC CA
-# 2016/06/29 ドコモ Band 42 (3.5GHz)
-# 2016/09/16 Softbank Massive MIMO
-# 2016/10/28 Softbank 256QAM (AQUOS Xx3)
-# 2017/03/09 ドコモ 256QAM, 4x4MIMO
-# 2017/08/31 au 256QAM
-# 2017/09/22 au 4CC CA
-# 2017/09/22 Softbank Massive MIMO 2.0 (Distributed, MultiUser, UL MultiUser)
-# 2017/10/?? ドコモ 4CC CA (下旬)
+| 2011/06/08 | 3GPP     | LTE-Advanced     | 4G, Release 10                                          |
+| 2014/05/21 | au       | 4G LTE CA        | 2CC CA, au 4G LTE の後継                                |
+| 2014/09/26 | Softbank | Softbank 4G      | 2CC CA、モバイル Wi-Fi ルータ                           |
+| 2015/03/27 | ドコモ   | PREMIUM 4G       | 2CC CA、 Xi の後継                                      |
+| 2015/10/29 | ドコモ   |                  | 3CC CA                                                  |
+| 2016/03/11 | 3GPP     | LTE-Advanced Pro | 4.5G, Release 13                                        |
+| 2016/06/29 | ドコモ   |                  | Band 42 (3.5GHz)                                        |
+| 2016/09/16 | Softbank |                  | Massive MIMO                                            |
+| 2016/10/28 | Softbank |                  | 256QAM (AQUOS Xx3)                                      |
+| 2017/03/09 | ドコモ   |                  | 256QAM, 4x4MIMO                                         |
+| 2017/08/31 | au       |                  | 256QAM                                                  |
+| 2017/09/22 | au       |                  | 4CC CA                                                  |
+| 2017/09/22 | Softbank |                  | Massive MIMO 2.0 (Distributed, MultiUser, UL MultiUser) |
+| 2017/10/?? | ドコモ   |                  | 4CC CA (下旬)                                           |
+| 2018/12/21 | 3GPP     | NSA 5G NR        | early drop of Release 15                                |
+| 2018/06/?? | 3GPP     | SA 5G NR         | Release 15                                              |
+| 2019/06/?? | 3GPP     |                  | Release 16 -> IMT-2020                                  |
 #
-# 4G(LTE) は名前使うの早すぎて、とても微笑ましい。
+# 4G(LTE=3.9G) は名前使うの早すぎて、とても微笑ましい。
 # 1 歩でも越えたら次世代ってことかな。
 # 今の 4G(LTE-Advanced) は、受信の実効速度が 97-162Mbps 。 (ドコモの公称値)
 # まだ 4CC CA だけど 5CC CA まである。
 #
-# 4.5G(LTE-Advanced Pro?)
 # 5G(LTE-Evolution?, IMT-2020)
+# NSA (Non-StandAlone) は、 4G 回線も使って通信速度の上限を上げる。
+# 5G 単独はまだ。 (SA: StandAlone)
+# 繋がりやすくなるのもまだ。
 # 先に名前を使いたい人たちが、もぞもぞしてる。
 #
 # CA (Carrier Aggregation: 搬送波集合)
@@ -1927,13 +1955,15 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 # NOMA (Non-Orthogonal Multiple Access: 非直交多元接続方式)
 # MUIC (Multi-user interference cancellation: マルチユーザ干渉キャンセル)
 # URLLC (Ultra-Reliable and Low Latency Communications: 高信頼低遅延通信)
+# eMBB (Enhanced Mobile Broadband)
+# mMTC (Massive Machine Type Communication: 多数同時接続)
 #
 # WTP2017 (Wireless Technology Park, 2017/05/24,25,26)
 #
 # Qualcomm Tax (5G multi-mode)
 # 4G まで非公開だったけど、 5G ではじめて公開された。 (Apple のおかげ？)
 # まだ 5G の規格が定まってないので、予定？
-# 販売価格 3 万円のスマホなら、 Qualcomm の特許使用料は 2475 円くらい。 (あとは交渉次第？)
+# 販売価格 3 万円のスマホなら、 Qualcomm の特許だけで 2475 円くらい。 (あとは交渉次第？)
 # 内訳は必須特許群の 3.25% (上限 US$16.25) に、他の特許群の 5% を加えたもの。
 # [[https://www.qualcomm.com/documents/qualcomm-5g-nr-royalty-terms-statement][Qualcomm 5G NR Royalty Terms Statement]] (2017/11/19)
 # [[https://www.ericsson.com/assets/local/networked-society/innovation/patents--licensing/frand-licensing-terms-for-5g-nr-in-3gpp-release-15.pdf][FRAND licensing terms for 5G/NR in 3GPP Release 15 - Ericsson]] (2017/03/03)
@@ -1945,7 +1975,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # | TV      | 1440x1080i |  15Mbps | H.262, MPEG-2 |
 # | BD      | 1980x1080i |  25Mbps | H.262, MPEG-2 |
 # | Youtube | 1980x1080p |   5Mbps | H.264, AVC    |
-# | Youtube | 3840x2160p |  12Mbps | WebM          |
+# | Youtube | 3840x2160p |  12Mbps | VP9,   WebM   |
 # | 4K      | 3840x2160p |  25Mbps | H.265, HEVC   |
 # | 8K      | 7680x4320p | 100Mbps | H.265, HEVC   |
 # 4K と 8K のビットレートは、 BD を基準に単純計算しただけ。
@@ -1964,7 +1994,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # ...
 #
 # 今の TV は、輝度が 0.05~100cd/m^2 以上。
-# 色は BT.709 。(8bit)
+# 色は BT.709 。(sRGB, 8bit)
 # ほどほどの明暗で、表示できない色が多い。 (これもデータ圧縮)
 # アナログの頃は、色が BT.601 (NTSC) だった。 (表示できてないけど)
 #
@@ -1974,6 +2004,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # |-------------------+----------------+-----------+------------------|
 # | Xperia XZ Premium | 4K LCD         | (*2) 495  | DCI-P3           |
 # | Galaxy Note8      | OLED           | (*3) 423  | DCI-P3           |
+# | LG V30            | OLED           | (*4) 415? | DCI-P3           |
 # | Mate10 Pro        | OLED (BOE)     | (*4) 420? | NTSC             |
 # | iPhone X          | OLED (Samsung) | (*5) 634  | Display P3       |
 # (*1) BT.2020 > NTSC, DCI-P3, Display P3 > BT.709
@@ -1984,6 +2015,10 @@ H.265(HEVC) はパテントプールで溺れてる。
 
 # ふえるパテントプール。 (H.265)
 # MPEG LA, HEVC Advance, Technicolor SA, Velos Media, ...?
+#
+# Alliance for Open Media (2015/09/01)
+# VP10 -> AV1 (AOMedia Video 1, royalty-free)
+# 規格ができたら、 Youtube はこっちに移行するみたい。
 
 # 2017/05/25 dtab Compact d-01J タブレット発売。 (Huawei MediaPad M3 ベース)
 # 消費者向けとしては初の eSIM 搭載。
@@ -2037,7 +2072,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Android Security Year In Review
 # USB OTG (On The Go, dual-role device)
 # USB Type-C
-# Android Studio (SDK, Kotlin)
+# Android Studio (SDK, Emulator)
 # Android for Work (KNOX, Samsung)
 # Android Messages (SMS/MMS/RCS)
 # Firebase (MBaaS: Mobile Backend as a Service)
@@ -2108,7 +2143,7 @@ Nexus と名の付いたスマホは Google の発注したモデル。
 #
 # Pixel 2 XL
 # 日本では売ってない。
-# POLED の焼き付き問題は、更新で輝度の上限をちょっと下げる？
+# POLED の焼き付き問題は、更新で輝度の上限をちょっと下げた。 (-50cd/m^2)
 # OS なしで出荷してくれる。
 #
 # X screen
@@ -2168,6 +2203,7 @@ Mate9 が問題になってる。 (無問題了？？)
 # いろんなスマホにあった Android 7.0 初期の主なバグは解消されてるっぽい。
 # 使うアプリによるけど、空きメモリの不足でバックグラウンドアプリは閉じられやすいかも。
 # 2017/09/13 に公表された、脆弱性 BlueBorne のセキュリティパッチは B386 。 (2017/10/??)
+# 2017/10/16 に公表された、脆弱性 KRACK のセキュリティパッチは B389 。 (2017/12/??)
 # - 省電力モード (電池)
 #   遅くなったりするけど、バッテリーのために ON 。
 #   バッテリーセーバーとして Android 5 で追加されたもの。
@@ -2323,6 +2359,7 @@ Mate9 が問題になってる。 (無問題了？？)
 # 自動起動マネージャー
 #
 # Zenfone 4
+# | Max Pro     | Android 7 | 大容量バッテリー、 DSDS+microSD |
 # | Max         | Android 7 | 大容量バッテリー、 DSDS+microSD |
 # | Selfie Lite | Android 7 |                                 |
 # 全て Android 8 にバージョンアップする？
@@ -2612,6 +2649,11 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # 中国 BBK の子会社。
 # OPPO Japan 設立。 (2017/08/30 Emilai?)
 # OPPO Digital Japan とは違う。
+#
+# ColorOS 3.1 (Android 7)
+#
+# R11 (Android 7)
+# A77 (Android 6, ColorOS 3.0)
 
 # *** OnePlus (一加)
 # 中国 OPPO の子会社。
@@ -2831,15 +2873,24 @@ SIM フリーなら、どの格安キャリアでも使えるハズ。
 # 2011/10/14 4s
 # 2012/09/21 5
 # 2013/09/20 5c
-# ---
+# --- iOS 11
 # 2013/09/20 5s (64bit)
 # 2014/09/19 6, 6 Plus
-# 2015/09/25 6S, 6S Plus
+# 2015/09/25 6s, 6s Plus
 # 2016/03/21 SE
 # 2016/09/16 7, 7 Plus (Display P3)
 # 2017/09/22 8, 8 Plus
 # 2017/11/03 X (10th anniversary)
 # 2018/??/?? SE2?
+#
+# バッテリーの劣化によって、最高速度がだんだん遅くなる。 (iOS 10.2.1, 11.2)
+# 速く動くには電力が足りなくて、突然電源が落ちる問題への対処みたい。
+# 遅くなっても、バッテリーのせいとは限らないけど。
+# 遅いからって、新しいのを買い直した人たちもいるらしい？
+# Apple は説明もしてなかったので、集団訴訟になってる。
+# [[https://9to5mac.com/2017/12/10/iphone-6s-slow-down-battery-fix/][PSA: If you have an older iPhone with slow performance, a new battery could solve your problems]] (2017/12/10)
+# [[https://www.geekbench.com/blog/2017/12/iphone-performance-and-battery-age/][iPhone Performance and Battery Age]] (2017/12/18)
+# [[https://techcrunch.com/2017/12/20/apple-addresses-why-people-are-saying-their-iphones-with-older-batteries-are-running-slower/][Apple addresses why people are saying their iPhones with older batteries are running `slower']] (2017/12/20)
 
 ** Windows 10 Mobile (Microsoft)
   
