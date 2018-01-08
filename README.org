@@ -90,8 +90,8 @@
 | 40 GB  |              |       |        |      |   7480 |      |
 | 50 GB  |         7300 |       |        |      |  10300 |      |
 
-ソフトバンクは音声通話定額(スマ放題)が強制されるので +4200 円。
-ソフトバンク以外で音声通話をするなら +700 円くらい。(通話料は従量制)
+ソフトバンクは音声通話定額が +4200 円。 (スマ放題の 2 年縛りなし)
+格安キャリアで音声通話をするなら +700 円くらい。(通話料は従量制)
 パケット通信のみで SMS を使うなら +120 円くらい。 (送信料は従量制)
 
 格安キャリアの通信速度は、大手キャリアの 1/10 になることもある。
@@ -101,8 +101,8 @@
 # しばらく当てにならないかも。
 # 張った見栄の数々は、いろんな人たちが特定してる。
 #
-# スピートテストだけ速い。
-# 通知がこない。 (keepalive)
+# スピードテストだけ速い。
+# 通知がこない。 (keepalive, CG-NAT)
 # 通話アプリとかが使いにくい。 (遅延、パケロス)
 # 通信の最適化。 (劣化)
 # Google Play まで規制。
@@ -168,20 +168,24 @@
 #
 # 電気通信サービスの契約数及びシェアに関する四半期データの公表 (2017/12/22 総務省)
 # SIM カード型の契約数における事業者別のシェアは、 IIJmio がトップ。
-# |                  | 2017/06 | 2017/09 |
-# |------------------+---------+---------|
-# | IIJmio           |   14.3% |   14.1% |
-# | OCN モバイル ONE |   12.6% |   12.3% |
-# | 楽天             |   10.8% |   11.6% | (2017Q3, +FREETEL)
-# | mineo            |    8.2% |    8.7% |
-# | Sony 系          |    5.2% |    5.0% | (0SIM?)
+# |           | IIJmio |   OCN |       楽天 | mineo | Sony 系 |
+# |-----------+--------+-------+------------+-------+---------|
+# | 2017/06   |  14.3% | 12.6% |      10.8% |  8.2% |    5.2% |
+# | 2017/09   |  14.1% | 12.3% |      11.6% |  8.7% |    5.0% |
+# | (2017/12) |        |       | (+FREETEL) |       |         |
+#
+# MVNO の契約数は、 10% くらい。
+# 2 次以降との重複や、 Y!mobile と UQ mobile を除いたもの。
+# |         | MVNO    | NNO      | MVNO/MNO |
+# |---------+---------+----------+----------|
+# | 2017/06 | 1636 万 | 16405 万 |     9.7% |
+# | 2017/09 | 1687 万 | 16534 万 |    10.0% |
 #
 # MVNO は 753 社くらい。
-# |          | 2017/06 | 2017/09 |
-# |----------+---------+---------|
-# | 1 次     |     331 |     355 |
-# | 2 次以降 |     382 |     398 |
-# | 計       |     713 |     753 |
+# |         | 1 次 | 2 次以降 |  計 |
+# |---------+------+----------+-----|
+# | 2017/06 |  331 |      382 | 713 |
+# | 2017/09 |  355 |      398 | 753 |
 
 
 * 大手キャリア (MNO で高速通信)
@@ -192,12 +196,12 @@
 スマホは SIM ロックされてる。
 例外は UQ mobile の Android スマホと、 Y!mobile の Android スマホの一部。
 
-# 5G frequency band (2019~)
-# | band | freq (MHz)     |
-# |------+----------------|
-# |      | (3600-4200?)   |
-# |      | (4400-4900?)   |
-# |      | (27500-29500?) |
+# NR frequency band 38.101 (Rel 15 Dec 2017), 2019~
+# | band      | freq (MHz)     |     |
+# |-----------+----------------+-----|
+# | n77 (n78) | (3600-4200?)   | TDD |
+# | n79       | (4400-4900?)   | TDD |
+# | n257      | (27500-29500?) | TDD |
 
 # LTE frequency band (FDD 36.101, Rel 14 Dec 2016)
 # |   band |      freq (MHz) |          softbank |        docomo |             au | UQ (WiMAX 2+) | WCP (AXGP) |          |
@@ -271,8 +275,9 @@
 # FDMA(Frequency Division Multiple Access: 周波数分割多元接続, 1G)
 # TDMA(Time Division Multiple Access: 時分割多元接続, 2G)
 # CDMA(Code Division Multiple Access: 符号分割多元接続, 3G)
-# OFDMA(Orthogonal Frequency Division Multiple Access, over 3.9G DL)
-# SC-FDMA(Single Carrier Frequency Division Multiple Access, over 3.9G UL)
+# OFDMA(Orthogonal Frequency Division Multiple Access, 直交周波数分割多元接続, WiMAX)
+# SC-FDMA(Single Carrier Frequency Division Multiple Access, 単一搬送波周波数分割多元接続, 4G UL)
+# OFDM(Orthogonal Frequency Division Multiplexing, 直交周波数分割多重, 4G DL, 5G DL/UL)
 
 # IOT != IoT
 # IOT(Inter-Operability Test: 相互接続性試験)
@@ -311,7 +316,7 @@
 |------------+------+------+------+------+------|
 | データ定額 | 3200 | 3800 | 5300 | 6300 | 7300 |
 
-音声通話定額のスマ放題は +4200 円。
+音声通話定額のスマ放題は +4200 円。 (2 年縛りなし)
 ホワイトプランと標準プランは、音声通話定額なし。
 パケット通信なしにはできない。
 
@@ -398,7 +403,6 @@ DSDS 対応スマホで音声通話定額を利用するならドコモがおす
 | フラット          |      |      |      |      | 6000 | 8000 |
 
 データ定額の料金はソフトバンクと大差ない。 (30GB を除く)
-ピタットとフラットは、音声通話定額なしにできる。
 # 不公平なプランとして問題視されてる。 (大手キャリア共通)
 # どのスマホを買っても月額料金が同じ。
 # スマホ本体の料金を払い終えても、月額料金が安くならない。
@@ -1752,6 +1756,73 @@ OCN モバイル ONE との SIM 契約なしで使える。
 
 # 上場したら、ホームページに載ってなかった役員が...
 
+# Meltdown and Spectre (Google's Project Zero, 2018/01/03)
+# メモリのどこでも読み放題な脆弱性があると公表された。
+# どちらも、 CPU を待たせないための先読みが原因。 (speculative execution: 投機的実行)
+# CPU の仕様で、修正しにくい。 *(!?)*
+# 問題はスマホに限らないので注意。
+# 公開予定は 2018/01/09 だったけど、年末からの騒ぎで早まった？ (CES 2018)
+# [[https://meltdownattack.com/][Meltdown and Spectre]] (2018/01/03)
+# [[https://security.googleblog.com/2018/01/todays-cpu-vulnerability-what-you-need.html][Today's CPU vulnerability: what you need to know]] (Google, 2018/01/03)
+# [[http://d.hatena.ne.jp/Kango/20180104/1515094046][CPUの脆弱性 MeltdownとSpectreについてまとめてみた]] (2018/01/05)
+#
+# スマホの CPU は SoC の中にある。
+# そのほとんどは Arm の Cortex-A と、その互換品。
+# 互換品を除いて、表にない CPU は問題ないらしい。
+# | Cortex | Meltdown | Spectre |
+# |--------+----------+---------|
+# | R7     |          | x       |
+# | R8     |          | x       |
+# | A8     |          | x       |
+# | A9     |          | x       |
+# | A15    | x        | x       |
+# | A17    |          | x       |
+# | A57    | x        | x       | (64bit)
+# | A72    | x        | x       |
+# | A73    |          | x       |
+# | A75    | x        | x       |
+# [[https://developer.arm.com/support/security-update][Arm Processor Security Update - Arm Developer]] (2018/01/03)
+#
+# Meltdown の対象は、 1995 年以降の Intel CPU だけじゃない。 (Arm も)
+# Spectre の対象は、いろんな CPU 。 (Arm, Intel, ...)
+# OS のセキュリティパッチで緩和はできる。 (KPTI: Kernel Page-Table Isolation)
+# アプリにも緩和のための修正がいるので厄介。 (ブラウザとか)
+# セキュリティパッチによっては、ちょっと遅くなるかも。
+#
+# Meltdown のセキュリティパッチ。
+# iPhone は 2017/12/02 に配信された。 (iOS 11.2)
+# Android は 2018/01/03 に公開されたけど、降ってこないかも。 (v5.1.1 以上向け)
+# Windows 10 Mobile はまだ。
+#
+# Spectre のセキュリティパッチ。
+# Android は 2018/01/03 に公開されたけど、降ってこないかも。 (v5.1.1 以上向け)
+# iPhone はまだ。
+# Windows 10 Mobile はまだ。
+#
+# ついでにブラウザの対応。 (Javascript)
+# Firefox は 2018/01/03 に配信された。 (57.0.4)
+# Chrome は 2018/01/23 の予定。 (64)
+# Safari は数日中？
+# Edge はまだ。 (Android 向けも)
+#
+# Intel CEO Brian Krzanich による、余念のなさすぎる経営が話題になってる。 (集団訴訟)
+# 大口顧客の計画や費用は、あまり変わらないね？
+# 小口顧客はセキュリティパッチだけでいいよね？
+# よそにも脆弱性あるし、顧客の流出もないよね？
+# 買い替え需要もあるし、株主の損害も少ないね？
+# | ~2017/07/28 | Google が脆弱性を事前通知                            |
+# |  2017/08/21 | 脆弱性を放置した Kaby Lake Refresh を発売 (前倒し？) |
+# |  2017/10/05 | 脆弱性を放置した Coffee Lake を発売 (前倒し？)       |
+# |  2017/11/29 | CEO が上昇してた自社株を大量に売却 (2015 年に計画？) |
+# |  2018/01/03 | Google が脆弱性を公表                                |
+
+# 5G band
+# | freq (MHz) |
+# |------------|
+# |    (3700?) |
+# |    (4500?) |
+# |   (28000?) |
+
 # 4G band
 # | freq (MHz) | softbank | docomo |       au |                 |
 # |------------+----------+--------+----------+-----------------|
@@ -1835,6 +1906,15 @@ OCN モバイル ONE との SIM 契約なしで使える。
 #   スマホの DSP/GPU/CPU を使う機械学習ライブラリ向け。 (AI)
 # - Android Oreo (Go edition)
 #   RAM 1GB 以下のスマホ向け。 (FEATURE_RAM_LOW)
+# - ETWS (Earthquake Tsunami Warning System), CBS, BroadcastSMS
+#   大手キャリア独自の緊急速報とかを受信できるようになってた。 (Android 8.0 から)
+#   あとはスマホの製造元次第。 (CellBroadcastReceiver)
+#   |          | message ID (PLMN operator specific)           |
+#   |----------+-----------------------------------------------|
+#   | softbank | 0xA800, 0xAFEE, 0xAC00-0xAFED, 0xA802, 0xA804 |
+#   | docomo   | 0xA001-0xA002, 0xA004-0xA3FF                  |
+#   | au       | 0xA003                                        |
+#   [[http://www.tca.or.jp/topics/2017/1225_844.html][Android™における緊急速報「エリアメール」及び「緊急速報メール」の共通受信仕様を策定]] (TCA, 2017/12/25)
 #
 # Google はどのくらい更新してるかを調べてる。
 # スマホの製造元を、ランク付けして公表するかも。
@@ -1911,32 +1991,32 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 # OLED (Organic Light Emitting Diode)
 
 5G スマホのデモが ZTE のブースであった。 (MWC 2017)
-2020 年ごろから導入されるのかも。
+2020 年頃から導入されるのかも。
 4G 初期のような通信障害を期待できる。
-| 2011/06/08 | 3GPP     | LTE-Advanced     | 4G, Release 10                                          |
-| 2014/05/21 | au       | 4G LTE CA        | 2CC CA, au 4G LTE の後継                                |
-| 2014/09/26 | Softbank | Softbank 4G      | 2CC CA、モバイル Wi-Fi ルータ                           |
-| 2015/03/27 | ドコモ   | PREMIUM 4G       | 2CC CA、 Xi の後継                                      |
-| 2015/10/29 | ドコモ   |                  | 3CC CA                                                  |
-| 2016/03/11 | 3GPP     | LTE-Advanced Pro | 4.5G, Release 13                                        |
-| 2016/06/29 | ドコモ   |                  | Band 42 (3.5GHz)                                        |
-| 2016/09/16 | Softbank |                  | Massive MIMO                                            |
-| 2016/10/28 | Softbank |                  | 256QAM (AQUOS Xx3)                                      |
-| 2017/03/09 | ドコモ   |                  | 256QAM, 4x4MIMO                                         |
-| 2017/08/31 | au       |                  | 256QAM                                                  |
-| 2017/09/22 | au       |                  | 4CC CA                                                  |
-| 2017/09/22 | Softbank |                  | Massive MIMO 2.0 (Distributed, MultiUser, UL MultiUser) |
-| 2017/10/?? | ドコモ   |                  | 4CC CA (下旬)                                           |
-| 2018/12/21 | 3GPP     | NSA 5G NR        | early drop of Release 15                                |
-| 2018/06/?? | 3GPP     | SA 5G NR         | Release 15                                              |
-| 2019/06/?? | 3GPP     |                  | Release 16 -> IMT-2020                                  |
+# | 2011/06/08 | 3GPP     | LTE-Advanced     | 4G, Release 10                                          |
+# | 2014/05/21 | au       | 4G LTE CA        | 2CC CA, au 4G LTE の後継                                |
+# | 2014/09/26 | Softbank | Softbank 4G      | 2CC CA、モバイル Wi-Fi ルータ                           |
+# | 2015/03/27 | ドコモ   | PREMIUM 4G       | 2CC CA、Xi の後継                                       |
+# | 2015/10/29 | ドコモ   |                  | 3CC CA                                                  |
+# | 2016/03/11 | 3GPP     | LTE-Advanced Pro | 4.5G, Release 13                                        |
+# | 2016/06/29 | ドコモ   |                  | Band 42 (3.5GHz)                                        |
+# | 2016/09/16 | Softbank |                  | Massive MIMO                                            |
+# | 2016/10/28 | Softbank |                  | 256QAM (AQUOS Xx3)                                      |
+# | 2017/03/09 | ドコモ   |                  | 256QAM, 4x4MIMO                                         |
+# | 2017/08/31 | au       |                  | 256QAM                                                  |
+# | 2017/09/22 | au       |                  | 4CC CA                                                  |
+# | 2017/09/22 | Softbank |                  | Massive MIMO 2.0 (Distributed, MultiUser, UL MultiUser) |
+# | 2017/10/?? | ドコモ   |                  | 4CC CA (下旬)                                           |
+# | 2018/12/21 | 3GPP     | NSA 5G NR        | early drop of Release 15                                |
+# | 2018/06/?? | 3GPP     | SA 5G NR         | Release 15                                              |
+# | 2019/06/?? | 3GPP     |                  | Release 16 -> ITU-R IMT-2020                            |
 #
 # 4G(LTE=3.9G) は名前使うの早すぎて、とても微笑ましい。
 # 1 歩でも越えたら次世代ってことかな。
 # 今の 4G(LTE-Advanced) は、受信の実効速度が 97-162Mbps 。 (ドコモの公称値)
 # まだ 4CC CA だけど 5CC CA まである。
 #
-# 5G(LTE-Evolution?, IMT-2020)
+# 5G(NR, ITU-R IMT-2020)
 # NSA (Non-StandAlone) は、 4G 回線も使って通信速度の上限を上げる。
 # 5G 単独はまだ。 (SA: StandAlone)
 # 繋がりやすくなるのもまだ。
@@ -1974,11 +2054,18 @@ H.265(HEVC) はパテントプールで溺れてる。
 人助けがしたいならどうぞ。
 # | TV      | 1440x1080i |  15Mbps | H.262, MPEG-2 |
 # | BD      | 1980x1080i |  25Mbps | H.262, MPEG-2 |
-# | Youtube | 1980x1080p |   5Mbps | H.264, AVC    |
-# | Youtube | 3840x2160p |  12Mbps | VP9,   WebM   |
-# | 4K      | 3840x2160p |  25Mbps | H.265, HEVC   |
-# | 8K      | 7680x4320p | 100Mbps | H.265, HEVC   |
-# 4K と 8K のビットレートは、 BD を基準に単純計算しただけ。
+# | 4K (*1) | 3840x2160p |  25Mbps | H.265, HEVC   |
+# | 8K (*1) | 7680x4320p | 100Mbps | H.265, HEVC   |
+# (*1) 4K と 8K のビットレートは、 BD を基準に単純計算しただけ。
+#
+# Youtube
+# | FullHD | 1980x1080p |   2Mbps | H.264, AVC    |
+# | FullHD | 1980x1080p |   3Mbps | VP9,   WebM   |
+# | 4K     | 3840x2160p |  23Mbps | H.264, AVC    |
+# | 4K     | 3840x2160p |  17Mbps | VP9,   WebM   |
+# | 8K     | 7680x4320p |  78Mbps | H.264, AVC    |
+# | 8K     | 7680x4320p |  21Mbps | VP9,   WebM   |
+# [[https://www.tutorialguidacomefare.com/test-video-quality-720p-1080p-1440p-2160p-max-bitrate-which-compresses-youtube/][Test video quality 720p 1080p 1440p 2160p 4320p max bitrate which compresses youtube]] (2017/12/27)
 
 # HDR (High Dynamic Range) は、たくさんあってややこしい。
 # めんどくさいので、 HDR を BT.2100 に限定しとく。 (HDR-TV)
@@ -2006,12 +2093,14 @@ H.265(HEVC) はパテントプールで溺れてる。
 # | Galaxy Note8      | OLED           | (*3) 423  | DCI-P3           |
 # | LG V30            | OLED           | (*4) 415? | DCI-P3           |
 # | Mate10 Pro        | OLED (BOE)     | (*4) 420? | NTSC             |
-# | iPhone X          | OLED (Samsung) | (*5) 634  | Display P3       |
+# | Pixel 2 XL        | OLED (LG)      | (*5) 474  | DCI-P3           |
+# | iPhone X          | OLED (Samsung) | (*6) 634  | Display P3       |
 # (*1) BT.2020 > NTSC, DCI-P3, Display P3 > BT.709
 # (*2) [[https://www.phileweb.com/review/article/201706/22/2575.html][【測定】AVファンも注目のソニー「Xperia XZ Premium」。4K/HDR対応ディスプレイはもはや“マスモニ”レベル]] (DCI-P3 では測定してない)
 # (*3) [[http://www.displaymate.com/Galaxy_Note8_ShootOut_100.htm][Galaxy Note8 OLED Display Technology Shoot-Out]] (ピークが 1200cd/m^2 を越えることもある)
 # (*4) [[https://www.androidauthority.com/best-of-android-2017-display-821800/][Best of Android 2017: Which phone has the best display?]] (2017/12/11)
-# (*5) [[http://www.displaymate.com/iPhoneX_ShootOut_1a.htm][iPhone X OLED Display Technology Shoot-Out]] (Apple は 625cd/m^2 と書いてる)
+# (*5) [[https://www.xda-developers.com/pixel-2-xl-xda-display-analysis/][Pixel 2 XL XDA Display Analysis: A Well-Calibrated Package with Some Critical Mistakes]] (焼き付き問題で -50cd/m^2 された、 Pixel 2 は 432cd/m^2)
+# (*6) [[http://www.displaymate.com/iPhoneX_ShootOut_1a.htm][iPhone X OLED Display Technology Shoot-Out]] (Apple は 625cd/m^2 と書いてる)
 
 # ふえるパテントプール。 (H.265)
 # MPEG LA, HEVC Advance, Technicolor SA, Velos Media, ...?
@@ -2047,7 +2136,6 @@ H.265(HEVC) はパテントプールで溺れてる。
 # "Clear ID" (FS9500, optical, Synaptics)
 # "Qualcomm Fingerprint Sensors" (sound waves, Qualcomm)
 
-# ETWS (Earthquake Tsunami Warning System), CBS, BroadcastSMS
 # Snapdragon, MediaTek, Kirin, Exynos, ... (SoC)
 # SPU (Secure Processing Unit, Snapdragon 845, Qualcomm)
 # Hexagon 682 DSP (Digital Signal Processor, Hexagon SDK, Snapdragon 835, Qualcomm)
@@ -2202,8 +2290,9 @@ Mate9 が問題になってる。 (無問題了？？)
 # それから SIM 差して APN 選択、復元、その他の設定。
 # いろんなスマホにあった Android 7.0 初期の主なバグは解消されてるっぽい。
 # 使うアプリによるけど、空きメモリの不足でバックグラウンドアプリは閉じられやすいかも。
-# 2017/09/13 に公表された、脆弱性 BlueBorne のセキュリティパッチは B386 。 (2017/10/??)
-# 2017/10/16 に公表された、脆弱性 KRACK のセキュリティパッチは B389 。 (2017/12/??)
+# 2017/09/13 に公表された、脆弱性 BlueBorne のセキュリティパッチは B386 。 (2017/10/?? 配信)
+# 2017/10/16 に公表された、脆弱性 KRACK のセキュリティパッチは B389 。 (2017/12/?? 配信)
+# 2018/01/03 に公表された、脆弱性 Meltdown and Spectre の対象外かも？ (Kirin650 は Cortex-A53)
 # - 省電力モード (電池)
 #   遅くなったりするけど、バッテリーのために ON 。
 #   バッテリーセーバーとして Android 5 で追加されたもの。
@@ -2348,23 +2437,26 @@ Mate9 が問題になってる。 (無問題了？？)
 # | LPDDR3  |             800 |         1.2 |
 # | LPDDR4  |            1600 |         1.1 |
 
-*** Zenfone
+*** Zenfone 4 Max
 
 台湾 ASUS 製。
-格安キャリアと契約のときに、セットで買えるところが多い。
-回線を使い回しやすいのも多い。
+大容量バッテリー。
+DSDS 対応。 (SIMx2 + MicroSD スロット)
+au とソフトバンクの VoLTE に対応予定。
+以前から、回線を使い回しやすいのが多い。
 # ZenUI
 # MyASUS (app)
 # [[https://chat-apac.asus.com/chatservice/index.htm?tenant=JP&lang=ja-jp][オンラインチャット]]
 # 自動起動マネージャー
 #
 # Zenfone 4
-# | Max Pro     | Android 7 | 大容量バッテリー、 DSDS+microSD |
-# | Max         | Android 7 | 大容量バッテリー、 DSDS+microSD |
-# | Selfie Lite | Android 7 |                                 |
+# | Max Pro | Android 7 | 大容量バッテリー、 DSDS+microSD | (ビックカメラ独占販売)
+# | Max     | Android 7 | 大容量バッテリー、 DSDS+microSD |
+# | Selfie  | Android 7 | 広角カメラ                      |
 # 全て Android 8 にバージョンアップする？
 # Max は更新で、 au とソフトバンクの VoLTE に対応予定。 (どの回線でも使える)
-# Pro は 11ad 対応予定？
+# Max Pro は更新で、 au とソフトバンクの VoLTE に対応。 (BICCAM_ZC554KL_14.2016.1712.224_20171218, どの回線でも使える)
+# Pro の 11ad 対応は海外版のみ。
 #
 # Zenfone AR
 #
@@ -2426,11 +2518,13 @@ Nexus 6 を作ってた。
 
 プラスワン・マーケティング製。 (OEM)
 不具合が多いらしい。
-格安キャリア FREETEL をやってたけど、楽天モバイルに売却。 (2017/11/01)
-民事再生法に基づく、再生手続開始の申立てをしたと公表。 (マヤシステムと協議中、 2017/12/04)
+格安キャリア事業を、楽天モバイルに売却。 (2017/11/01)
+FREETEL の名前とスマホ製造販売は、マヤシステムに売却する予定。 (民事再生手続中、 2018/01/09)
 # REI 2 Dual
 # MIYABI 2 Dual
 # Priori 5
+#
+# あとは、官民ファンドが支援しちゃった海外事業だけ？ (JICT, 2017/03/28)
 
 *** Xperia
 
@@ -2448,9 +2542,9 @@ SONY 製。
 *** Galaxy
 
 韓国 Samsung 製。
-+韓国 Sumsung 製。+
-有機 EL で、エッジスクリーン。
-バッテリーや経営者の問題で爆発中。
+世界で一番売れてるところ。 (2017)
+有機 EL ディスプレイで、エッジスクリーン。
+Note7 は、バッテリーの爆発で回収されたけど。
 # AMOLED (Active Matrix OLED)
 # KNOX
 # Exynos
@@ -2484,10 +2578,12 @@ SONY 製。
 *** arrows M04
 
 富士通コネクテッドテクノロジーズ製。 (2016/02/01 会社分割)
-ワンセグやおサイフケータイがある。
+au VoLTE 対応。
+防水ワンセグおサイフ。
 らくらくスマートフォンはホームアプリ？
 (富士通の子会社だけど、売却されそう)
 # Iris Passport
+# ワンセグ (|\||-||< 受信料)
 #
 # M04
 # Android 7.1
@@ -2504,21 +2600,26 @@ SONY 製。
 #
 # TONE m17 (TSUTAYA)
 
-*** AQUOS SH-M04
+*** AQUOS sense lite SH-M05
 
 シャープ製。
 台湾 "鴻海(ホンハイ)" の子会社。
-ワンセグやおサイフケータイがある。
-Android One も作ってる。
+防水おサイフ。
 # エモパー (emopa, AI)
+# ワンセグ (|\||-||< 受信料)
 #
 # 以前のスマホは Android 4.4 。
 # 標準搭載のエコ技は寡黙で強引だけど、バッテリーと財布にやさしかった。
 # 他の独自機能は BrightKeep を ON にしてたくらい。
 #
 # 発売後 2 年間のバージョンアップを約束してる。
-# AQUOS R Compact
+# AQUOS R (大手キャリアのみ)
+# AQUOS R Compact (SH-M06? のベース？)
 # AQUOS sense (lite SH-M05 や Android One S3 のベース)
+#
+# AQUOS R Compact SH-M06? (2018/03/??)
+# Android 8.0?
+# 防水おサイフ？
 #
 # AQUOS sense lite SH-M05
 # Android 7.1
@@ -2543,13 +2644,20 @@ Android One も作ってる。
 # マイクロソフトの Nokia ブランドを、 10 年間使うための契約をした。 (2016/05/18)
 # Nokia 3,5,6,8 を Android P に更新する予定。
 
-*** Blade
+*** Blade V8
 
 中国 ZTE 製。
+au VoLTE 対応。
 動画の特許問題で訴えられてる。 (H.264, 2017/02/15)
 # MyFavor UI
 #
-# E02 (au VoLTE 対応)
+# V8
+# Android 7
+# au VoLTE 対応。
+# DSDS 対応。
+#
+# E02
+# au VoLTE 対応。
 # バッテリー交換できる。
 #
 # V7 lite
@@ -2567,6 +2675,7 @@ Nexus の後継。
 # Pixel 2
 # ほんやくコンニャクの材料。 (Google Translate on Pixel, Pixel Buds)
 # eSIM 対応。 (nano SIM スロットもある)
+# OLED は、韓国 Samsung 製。
 # 3 年間の更新保証。 (バージョンアップも)
 # ソフトバンク回線なら使えそう。
 # 技適なし。 *(!?)*
@@ -2587,7 +2696,8 @@ Nexus の後継。
 # 大手キャリアの 2017 夏モデルだった。 (ドコモからは発売されてない)
 # 日本 Band のほとんどに対応してるみたい。 (公式)
 # ソフトバンクと au から発売されたのは、他社の Band を削ったもの？
-# SIM フリーも発売されることになった。 (2018/01/??-2018/02/??)
+# SIM フリーも発売されることになった。 (2018/02/??)
+# おサイフ。
 #
 # Pixel XL
 # 日本では売ってない。
@@ -2643,6 +2753,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # Android One の割に高性能。
 # TJC が代理店。 (上陸する？)
 #
+# Pinecone (Surge, SoC)
 # Xiaomi MIUI Forum
 
 # *** OPPO (オッポ、欧珀)
@@ -2695,7 +2806,8 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # au VoLTE 対応？
 # KRACK に対応するセキュリティパッチを先行配信。 (NMJ20D, 2017/10/31)
 # 技適を取得したみたい。 (Android 8.0 Beta 1, OPM1.170911.130, 2017/11/14)
-# Android 8.0 更新予定。
+# Meltdown と Spectre に対応するセキュリティパッチを即配信。 (NMJ88C, 2018/01/06)
+# Android 8.0 更新予定。 (beta2)
 #
 # 2003 年 Android を設立。 (Andy Rubin は創業者の一人で開発者)
 # 2005 年 Google が買収。
@@ -2805,7 +2917,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 選択肢はすでに払われたのですから。
 
 # Apple SIM
-# Apple A11
+# Apple A11 Bionic (10nm) -> A12? (7nm?) -> (5nm?) -> (3nm?), TSMC
 # Siri (AI)
 # IPv6 (iOS 10.3)
 # HFS+ -> APFS
@@ -2867,30 +2979,34 @@ SIM フリーなら、どの格安キャリアでも使えるハズ。
 #
 # 2007/01/09 1st generation
 # 2008/07/11 3G
-# 2009/06/19 3Gs
+# 2009/06/19 3Gs (Softbank)
 # 2010/06/24 4
 # 2011/10/05 Steve Jobs Dies at 56.
-# 2011/10/14 4s
+# 2011/10/14 4s (au)
 # 2012/09/21 5
-# 2013/09/20 5c
+# 2013/09/20 5c (docomo)
 # --- iOS 11
-# 2013/09/20 5s (64bit)
-# 2014/09/19 6, 6 Plus
+# 2013/09/20 5s (64bit, Touch ID)
+# 2014/09/19 6, 6 Plus (VoLTE)
 # 2015/09/25 6s, 6s Plus
 # 2016/03/21 SE
 # 2016/09/16 7, 7 Plus (Display P3)
 # 2017/09/22 8, 8 Plus
-# 2017/11/03 X (10th anniversary)
+# 2017/11/03 X (10th anniversary, OLED, Face ID)
 # 2018/??/?? SE2?
 #
 # バッテリーの劣化によって、最高速度がだんだん遅くなる。 (iOS 10.2.1, 11.2)
 # 速く動くには電力が足りなくて、突然電源が落ちる問題への対処みたい。
-# 遅くなっても、バッテリーのせいとは限らないけど。
-# 遅いからって、新しいのを買い直した人たちもいるらしい？
 # Apple は説明もしてなかったので、集団訴訟になってる。
+# 遅くなったからって、本体ごと買い直した人たちもいるらしい？ (バッテリーのせいとは限らないけど)
+# Apple が掲載した、謝罪の内容は 3 つ。 (2017/12/28)
+# - iPhone 6 以降に、 2018 年のバッテリー交換キャンペーンをご案内。 (8800->3200 円)
+# - 更新で、バッテリーの影響がわかりやすくなる？
+# - 機種変更キャンペーンは、もちろん継続される。
 # [[https://9to5mac.com/2017/12/10/iphone-6s-slow-down-battery-fix/][PSA: If you have an older iPhone with slow performance, a new battery could solve your problems]] (2017/12/10)
 # [[https://www.geekbench.com/blog/2017/12/iphone-performance-and-battery-age/][iPhone Performance and Battery Age]] (2017/12/18)
 # [[https://techcrunch.com/2017/12/20/apple-addresses-why-people-are-saying-their-iphones-with-older-batteries-are-running-slower/][Apple addresses why people are saying their iPhones with older batteries are running `slower']] (2017/12/20)
+# [[https://www.apple.com/iphone-battery-and-performance/][A Message to Our Customers about iPhone Batteries and Performance]] (Apple, 2017/12/28)
 
 ** Windows 10 Mobile (Microsoft)
   
@@ -2969,7 +3085,7 @@ UQ mobile はガイドラインを履行。 (2017/12/01)
 
 # 今の大手キャリアでしか売ってないスマホは、解除しても違う回線ではつながりにくいかも。
 # 違う回線の電波に対応してないから。 (俗称プラチナバンド)
-# 例外なのは Nexus と iPhone に、 Zenfone くらい？
+# 例外なのは Nexus と iPhone くらい？
 #
 # スマホの内蔵アンテナ自体は、だいたいの電波を拾えるハズ。
 # 積んでるフィルタとかの違いで、スマホが扱える電波は決まる。
