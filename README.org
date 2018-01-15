@@ -204,7 +204,7 @@
 # | n257      | (27500-29500?) | TDD |
 
 # LTE frequency band (FDD 36.101, Rel 14 Dec 2016)
-# |   band |      freq (MHz) |          softbank |        docomo |             au | UQ (WiMAX 2+) | WCP (AXGP) |          |
+# |   band |      freq (MHz) |          SoftBank |        docomo |             au | UQ (WiMAX 2+) | WCP (AXGP) |          |
 # |--------+-----------------+-------------------+---------------+----------------+---------------+------------+----------|
 # |      1 |       1920-1980 |         1960-1980 |     1940-1960 | (*1) 1920-1940 |               |            | uplink   |
 # |      1 |       2110-2170 |         2150-2170 |     2130-2150 |      2110-2130 |               |            | downlink |
@@ -246,7 +246,7 @@
 # |   42 | 3480-3600 -> 3400-3600?     | TDD      |
 
 # UMTS frequency band (FDD 25.101, W-CDMA)
-# | band |    freq (MHz) | softbank | docomo | au |          |
+# | band |    freq (MHz) | SoftBank | docomo | au |          |
 # |------+---------------+----------+--------+----+----------|
 # |    1 |     1920-1980 |          |        |    | uplink   |
 # |    1 |     2110-2170 |          |        |    | downlink |
@@ -262,7 +262,7 @@
 # |   19 |       875-890 |          |        |    | downlink |
 
 # CDMA frequency band (3GPP2 C.S0057-E, CDMA-2000)
-# |    band | freq (MHz) | softbank | docomo | au |          |
+# |    band | freq (MHz) | SoftBank | docomo | au |          |
 # |---------+------------+----------+--------+----+----------|
 # | class 0 |    815-849 |          |        |    | uplink   |
 # | class 0 |    860-894 |          |        |    | downlink |
@@ -355,7 +355,7 @@
 # 本人確認は、契約よりも優先されるハードな業務の一つ。
 # ドコモや au も、以前に同じ是正命令を受けてた。
 
-# 2017/08/09 LINE の公式アカウントと My Softbank アカウントを連携。
+# 2017/08/09 LINE の公式アカウントと My SoftBank アカウントを連携。
 # 2017/09/22 eSIM プラットフォームを提供開始。
 
 ** ドコモ
@@ -692,7 +692,7 @@ au 回線だと Android 6 以上のスマホが少ない。
 # 2017/01/31 au(KDDI) が BIGLOBE を買収。
 # 2017/04/01 ノジマが NifMo(ニフティ) を買収。
 # 2017/08/01 BB.excite モバイル LTE をエキサイトモバイルに統合。
-# 2017/11/01 楽天モバイルが FREETEL を買収。 (2018/01/?? 統合予定)
+# 2017/11/01 楽天モバイルが FREETEL を買収。 (2018/01/15 統合)
 # 2017/11/30 ぷららモバイル LTE がサービス終了。
 # 2018/02/01 QT モバイルが大手キャリア 3 回線の取り扱いを開始予定。 (国内初)
 
@@ -1279,7 +1279,7 @@ NTT コミュニケーションズでプロバイダをしてるところ。
 # 通話アプリは最初から、呼び返しで受ければいいのかも？
 # 通報する人の操作は、電話を掛けるのと同じにしとけばいいし。
 #
-# Android の標準 "電話" アプリ v9.0 は、緊急通報の時に現在地を表示する。
+# Android の標準 "電話" アプリ 9.0 は、緊急通報の時に現在地を表示する。
 # Android 6 以降の Nexus, Android One, Pixel のみ。
 # 110, 119, 118 限定。
 #
@@ -1355,7 +1355,7 @@ NTT コミュニケーションズでプロバイダをしてるところ。
 全員が "Letter Sealing" を on にしてないと、ロックアイコンが出ない。
 暗号化された無料通話などができる。
 連絡帳の送信がデフォルト。
-# トークの一括バックアップは、 Google ドライブか iCloud が楽。 (v7.5.0)
+# トークの一括バックアップは、 Google ドライブか iCloud が楽。 (7.5.0)
 # ローカルで引き継ごうとすると、めんどくさい。
 #
 # ECDH over Curve25519, AES-256-CBC, SHA-256
@@ -1388,6 +1388,7 @@ Apple 機器専用。
 Facebook のアプリはバッテリー消費が激しいらしい。
 # Opus, iSAC, ISAC Low Complexity
 # Opus or G.711 (browser)
+# Signal Protocol
 #
 # Messenger Lite は通話できない。
 # バッテリー消費は改善された？
@@ -1399,6 +1400,7 @@ Facebook のアプリはバッテリー消費が激しいらしい。
 Facebook に買収された。
 アカウント情報は Facebook と共有されてしまう。
 # SILK
+# Signal Protocol
 #
 # 欧州連合競争法 (EU Competition Law)
 # ビッグデータが競争を阻害することも懸念されてる。
@@ -1413,6 +1415,7 @@ Facebook に買収された。
 米サンフランシスコの非営利組織によるもの。
 オープンソース。
 # Speex -> Opus
+# Signal Protocol (e2e encryption) は、他のアプリにも使われてる。
 
 *** Google Duo (Google)
 
@@ -1482,13 +1485,15 @@ LINE モバイルならパケットを消費しない。
 # 番号通知や不在着信通知の代わりに、 SMS の送信はできる。 (別料金)
 # 特許出願中。 (特願 2015-075409 、特開 2016-195365)
 
-*** Skype Out (マイクロソフト)
+*** Skype (マイクロソフト)
 
 電話番号に掛けたら従量制。
 同じアプリを利用する相手とは、暗号化された無料通話ができる。
 サインインが必要なのは面倒かも。
 # リアルタイム翻訳 (PC)
 # SILK
+#
+# Private Conversations (Signal Protocol)
 
 *** ハングアウトダイヤル (Google)
 
@@ -1786,24 +1791,24 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # Meltdown の対象は、 1995 年以降の Intel CPU だけじゃない。 (Arm も)
 # Spectre の対象は、いろんな CPU 。 (Arm, Intel, ...)
 # OS のセキュリティパッチで緩和はできる。 (KPTI: Kernel Page-Table Isolation)
-# アプリにも緩和のための修正がいるので厄介。 (ブラウザとか)
+# アプリにも緩和のためのセキュリティパッチがいるので厄介。 (ブラウザとか)
 # セキュリティパッチによっては、ちょっと遅くなるかも。
 #
 # Meltdown のセキュリティパッチ。
 # iPhone は 2017/12/02 に配信された。 (iOS 11.2)
-# Android は 2018/01/03 に公開されたけど、降ってこないかも。 (v5.1.1 以上向け)
-# Windows 10 Mobile はまだ。
+# Android は 2018/01/05 に公開されたけど、降ってこないかも。 (5.1.1 以上向け)
+# Windows 10 Mobile は 2018/01/06 に配信された。 (2018/01/04 の更新に追加)
 #
 # Spectre のセキュリティパッチ。
-# Android は 2018/01/03 に公開されたけど、降ってこないかも。 (v5.1.1 以上向け)
-# iPhone はまだ。
-# Windows 10 Mobile はまだ。
+# Android は 2018/01/05 に公開されたけど、降ってこないかも。 (5.1.1 以上向け)
+# Windows 10 Mobile は 2018/01/06 に配信された。 (2018/01/04 の更新に追加)
+# iPhone は 2018/01/08 に配信された。 (iOS 11.2.2)
 #
-# ついでにブラウザの対応。 (Javascript)
+# ついでにブラウザの対応。 (JavaScript)
 # Firefox は 2018/01/03 に配信された。 (57.0.4)
+# Edge は 2018/01/06 に配信された。 (2018/01/04 の更新に追加、 Android 向けは？)
+# Safari は 2018/01/08 に配信された。 (iOS 11.2.2, WebKit)
 # Chrome は 2018/01/23 の予定。 (64)
-# Safari は数日中？
-# Edge はまだ。 (Android 向けも)
 #
 # Intel CEO Brian Krzanich による、余念のなさすぎる経営が話題になってる。 (集団訴訟)
 # 大口顧客の計画や費用は、あまり変わらないね？
@@ -1824,7 +1829,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # |   (28000?) |
 
 # 4G band
-# | freq (MHz) | softbank | docomo |       au |                 |
+# | freq (MHz) | SoftBank | docomo |       au |                 |
 # |------------+----------+--------+----------+-----------------|
 # |        700 |          |    28B |    28(A) |                 |
 # |        800 |          |   *19* | *18(26)* |                 |
@@ -1836,7 +1841,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # |       3500 |       42 |     42 |       42 | 総務省では 3400 |
 
 # 3G band
-# | freq (MHz) | softbank  | docomo  | au (CDMA2000) |
+# | freq (MHz) | SoftBank  | docomo  | au (CDMA2000) |
 # |------------+-----------+---------+---------------|
 # |        700 |           |         |               |
 # |        800 |           | 6, *19* | *class 0*     |
@@ -1853,7 +1858,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 
 最新の Android 8 が公開されたけど、まだ OREO 食べてない。
 バージョンアップがあるとしたら Android 7 以上？
-普及してるのは Android 6 で、 30000 円くらいを目安に考えてる。
+普及してるのはまだ Android 6 で、 30000 円くらいを目安に考えてる。
 格安のは機能が削られてる。
 (バーゲン品や中古は除く)
 # 機能を変えるための "バージョンアップ" 。
@@ -1911,7 +1916,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 #   あとはスマホの製造元次第。 (CellBroadcastReceiver)
 #   |          | message ID (PLMN operator specific)           |
 #   |----------+-----------------------------------------------|
-#   | softbank | 0xA800, 0xAFEE, 0xAC00-0xAFED, 0xA802, 0xA804 |
+#   | SoftBank | 0xA800, 0xAFEE, 0xAC00-0xAFED, 0xA802, 0xA804 |
 #   | docomo   | 0xA001-0xA002, 0xA004-0xA3FF                  |
 #   | au       | 0xA003                                        |
 #   [[http://www.tca.or.jp/topics/2017/1225_844.html][Android™における緊急速報「エリアメール」及び「緊急速報メール」の共通受信仕様を策定]] (TCA, 2017/12/25)
@@ -1924,9 +1929,10 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # 大手キャリアは、 OS を更新するパケットが無料なことがある。
 # スマホによって違うので、確認がいる。
 #
-# Google に更新を保証されてるのは Nexus, Android One, Pixel だけ。
+# Google に更新を保証されてるのは Nexus, Android One だけ。
 # バージョンアップは発売から最低 2 年間を保証。 (Android One は 18 ヶ月間、最低 1 回)
 # セキュリティパッチは発売から最低 3 年間を保証。 (Android One は 2 年間)
+# (国内では Pixel を売ってない)
 #
 # Huawei は 2 年間の更新を保証。 (Honor8 以降)
 #
@@ -1995,17 +2001,17 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 4G 初期のような通信障害を期待できる。
 # | 2011/06/08 | 3GPP     | LTE-Advanced     | 4G, Release 10                                          |
 # | 2014/05/21 | au       | 4G LTE CA        | 2CC CA, au 4G LTE の後継                                |
-# | 2014/09/26 | Softbank | Softbank 4G      | 2CC CA、モバイル Wi-Fi ルータ                           |
+# | 2014/09/26 | SoftBank | SoftBank 4G      | 2CC CA、モバイル Wi-Fi ルータ                           |
 # | 2015/03/27 | ドコモ   | PREMIUM 4G       | 2CC CA、Xi の後継                                       |
 # | 2015/10/29 | ドコモ   |                  | 3CC CA                                                  |
 # | 2016/03/11 | 3GPP     | LTE-Advanced Pro | 4.5G, Release 13                                        |
 # | 2016/06/29 | ドコモ   |                  | Band 42 (3.5GHz)                                        |
-# | 2016/09/16 | Softbank |                  | Massive MIMO                                            |
-# | 2016/10/28 | Softbank |                  | 256QAM (AQUOS Xx3)                                      |
+# | 2016/09/16 | SoftBank |                  | Massive MIMO                                            |
+# | 2016/10/28 | SoftBank |                  | 256QAM (AQUOS Xx3)                                      |
 # | 2017/03/09 | ドコモ   |                  | 256QAM, 4x4MIMO                                         |
 # | 2017/08/31 | au       |                  | 256QAM                                                  |
 # | 2017/09/22 | au       |                  | 4CC CA                                                  |
-# | 2017/09/22 | Softbank |                  | Massive MIMO 2.0 (Distributed, MultiUser, UL MultiUser) |
+# | 2017/09/22 | SoftBank |                  | Massive MIMO 2.0 (Distributed, MultiUser, UL MultiUser) |
 # | 2017/10/?? | ドコモ   |                  | 4CC CA (下旬)                                           |
 # | 2018/12/21 | 3GPP     | NSA 5G NR        | early drop of Release 15                                |
 # | 2018/06/?? | 3GPP     | SA 5G NR         | Release 15                                              |
@@ -2151,7 +2157,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # PHA (Potentially Harmful Applications, Verify Apps)
 # SMS -> RCS (Rich Communication Service)
 # XMPP
-# Google Assistant (AI, Pixel Buds), Allo, iPhone
+# Google Assistant (AI, Pixel Buds), Allo (Signal Protocol), iPhone
 # Project Fi (Nexus)
 # Andromeda
 # VR, AR, HMD
@@ -2166,7 +2172,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Firebase (MBaaS: Mobile Backend as a Service)
 # Android Excellence
 # AOSP (Android Open Source Project)
-# NFC (Android 2.3, 2010/12/26)
+# NFC (+Android Pay+, +Google Wallet+, Google Pay, Android 2.3, 2010/12/26)
 # DMARC (Domain-based Message Authentication - Reporting and Conformance, RFC 7489)
 # Android Beta Program (Nexus, Pixel)
 # eSIM Manager (com.google.android.euicc)
@@ -2283,6 +2289,7 @@ Mate9 が問題になってる。 (無問題了？？)
 # 純正交換用バッテリー (内蔵電池パック) + 自分で交換キット (P9, P9 lite, nova lite, P10 lite)
 # PC Mode
 # Huawei AppStore (2018)
+# Huawei Pay
 #
 # P9 lite メモ。 (検証中)
 # 14000 円台で購入。
@@ -2454,8 +2461,9 @@ au とソフトバンクの VoLTE に対応予定。
 # | Max     | Android 7 | 大容量バッテリー、 DSDS+microSD |
 # | Selfie  | Android 7 | 広角カメラ                      |
 # 全て Android 8 にバージョンアップする？
-# Max は更新で、 au とソフトバンクの VoLTE に対応予定。 (どの回線でも使える)
 # Max Pro は更新で、 au とソフトバンクの VoLTE に対応。 (BICCAM_ZC554KL_14.2016.1712.224_20171218, どの回線でも使える)
+# Max は更新で、 au とソフトバンクの VoLTE に対応。 (JP_14.2016.1712.367_20171225, どの回線でも使える)
+# Selfie は更新で、 au とソフトバンクの VoLTE に対応。 (WW_14.0400.1801.186_20171229, どの回線でも使える)
 # Pro の 11ad 対応は海外版のみ。
 #
 # Zenfone AR
@@ -2516,20 +2524,26 @@ Nexus 6 を作ってた。
 
 *** Priori 4
 
-プラスワン・マーケティング製。 (OEM)
+旧プラスワン・マーケティング製。 (OEM)
+マヤシステムに事業譲渡された。 (2018/01/09)
+FREETEL の名前でスマホの製造販売を続ける？
 不具合が多いらしい。
-格安キャリア事業を、楽天モバイルに売却。 (2017/11/01)
-FREETEL の名前とスマホ製造販売は、マヤシステムに売却する予定。 (民事再生手続中、 2018/01/09)
+# プラスワン・マーケティングは、民事再生手続中。
+# 国内格安キャリア事業を、楽天モバイルに売却。 (2017/11/01)
+# 民事再生法に基づく再生手続開始の申立て。 (2017/12/04)
+# FREETEL の名前とスマホの製造販売を、マヤシステムに事業譲渡。 (2018/01/09)
+# ...
+# あとは、官民ファンドが支援しちゃった海外事業だけ？ (JICT, 2017/03/28)
+#
 # REI 2 Dual
 # MIYABI 2 Dual
 # Priori 5
-#
-# あとは、官民ファンドが支援しちゃった海外事業だけ？ (JICT, 2017/03/28)
 
 *** Xperia
 
-SONY 製。
-4K HDR 。
+ソニーモバイルコミュニケーションズ製。
+SONY の子会社。
+4K HDR?
 海外でも知られている日本製のスマホはこれだけかも。
 # Sony Open Devices Program (AOSP)
 # [[https://nnabla.org/][Neural Network Libraries]] (オープンソース)
@@ -2537,7 +2551,7 @@ SONY 製。
 #
 # Xperia の SIM フリー版は、ほぼ海外にしかない。
 # J1 Compact (2015/04/20)
-# XZ Premium (2017/11/28, nuro)
+# XZ Premium (2017/11/28, nuro 限定)
 
 *** Galaxy
 
@@ -2607,29 +2621,26 @@ au VoLTE 対応。
 防水おサイフ。
 # エモパー (emopa, AI)
 # ワンセグ (|\||-||< 受信料)
+# OLED?
 #
 # 以前のスマホは Android 4.4 。
 # 標準搭載のエコ技は寡黙で強引だけど、バッテリーと財布にやさしかった。
 # 他の独自機能は BrightKeep を ON にしてたくらい。
 #
-# 発売後 2 年間のバージョンアップを約束してる。
-# AQUOS R (大手キャリアのみ)
-# AQUOS R Compact (SH-M06? のベース？)
+# 発売後 2 年間のバージョンアップを約束してる。 (大手キャリア)
+# AQUOS R
+# AQUOS R Compact (SH-M06 のベース)
 # AQUOS sense (lite SH-M05 や Android One S3 のベース)
 #
-# AQUOS R Compact SH-M06? (2018/03/??)
-# Android 8.0?
-# 防水おサイフ？
+# AQUOS R Compact SH-M06 (2018/01/??)
+# Android 8.0
+# 防水ワンセグおサイフ。
+# 発売後 2 年間に、最大 2 回のバージョンアップを約束してる。
 #
 # AQUOS sense lite SH-M05
 # Android 7.1
 # 防水おサイフ。
-#
-# AQUOS R
-# Android 7.1
-# 大手キャリアの 2017 夏モデル。
-# 発売後 2 年間のバージョンアップを約束してる。
-# 買った大手キャリアの VoLTE には対応。 (他の回線は？)
+# 発売後 2 年間に、最大 2 回のバージョンアップを約束してる。
 #
 # SH-M04, SH-M04-A
 # Android 6.0
@@ -2746,6 +2757,9 @@ VAIO 製。
 au VoLTE 対応。
 防水おサイフ。
 SIM フリーは、 UQ mobile と mineo でしか扱ってない？
+# Kyocera DuraForce PRO
+# Android 7.1.2
+# VoLTE?
 
 # *** Mi A1
 # 中国 Xiaomi (小米科技、シャオミ) 製。
@@ -2769,7 +2783,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # *** OnePlus (一加)
 # 中国 OPPO の子会社。
 # ユーザーエクスペリエンスプログラムに参加がデフォルトだった。 (2017/10/?? まで)
-# KRACK に対応するセキュリティパッチを先行配信。 (OxygenOS 4.5.14, 2017/11/02)
+# 脆弱性 KRACK に対応するセキュリティパッチを先行配信。 (OxygenOS 4.5.14, 2017/11/02)
 #
 # [[http://downloads.oneplus.net/][OxygenOS]] 5.0 (Android 8.0)
 # OnePlus Switch
@@ -2804,9 +2818,9 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # 商標を使わないようにと、 Spigen が文書を送ったらしい。
 # Android 7.1.1
 # au VoLTE 対応？
-# KRACK に対応するセキュリティパッチを先行配信。 (NMJ20D, 2017/10/31)
+# 脆弱性 KRACK に対応するセキュリティパッチを先行配信。 (NMJ20D, 2017/10/31)
 # 技適を取得したみたい。 (Android 8.0 Beta 1, OPM1.170911.130, 2017/11/14)
-# Meltdown と Spectre に対応するセキュリティパッチを即配信。 (NMJ88C, 2018/01/06)
+# 脆弱性 Meltdown and Spectre に対応するセキュリティパッチを即配信。 (NMJ88C, 2018/01/05)
 # Android 8.0 更新予定。 (beta2)
 #
 # 2003 年 Android を設立。 (Andy Rubin は創業者の一人で開発者)
@@ -2979,7 +2993,7 @@ SIM フリーなら、どの格安キャリアでも使えるハズ。
 #
 # 2007/01/09 1st generation
 # 2008/07/11 3G
-# 2009/06/19 3Gs (Softbank)
+# 2009/06/19 3Gs (SoftBank)
 # 2010/06/24 4
 # 2011/10/05 Steve Jobs Dies at 56.
 # 2011/10/14 4s (au)
@@ -3000,7 +3014,7 @@ SIM フリーなら、どの格安キャリアでも使えるハズ。
 # Apple は説明もしてなかったので、集団訴訟になってる。
 # 遅くなったからって、本体ごと買い直した人たちもいるらしい？ (バッテリーのせいとは限らないけど)
 # Apple が掲載した、謝罪の内容は 3 つ。 (2017/12/28)
-# - iPhone 6 以降に、 2018 年のバッテリー交換キャンペーンをご案内。 (8800->3200 円)
+# - iPhone 6 以降に、 2018 年のバッテリー交換キャンペーンをご案内。 (8800->3200 円を 1 回)
 # - 更新で、バッテリーの影響がわかりやすくなる？
 # - 機種変更キャンペーンは、もちろん継続される。
 # [[https://9to5mac.com/2017/12/10/iphone-6s-slow-down-battery-fix/][PSA: If you have an older iPhone with slow performance, a new battery could solve your problems]] (2017/12/10)
@@ -3017,9 +3031,17 @@ VoLTE 非対応がほとんど。
 # VoLTE 対応はできる？ (Snapdragon だし)
 # Cortana (AI, Skype)
 # Microsoft SIM
-# Creators update 非対応なのがある。
+#
 # Windows Phone 8.1 までは、メインストリームサポートを終了。 (2017/07/11)
 # Windows 10 Mobile は 2019 年末で終了予定。
+# Creators update 非対応なのがある。
+# |                             | Mainstream Support End Date |
+# |-----------------------------+-----------------------------|
+# | November Update (1511)      | 2018/01/09                  |
+# | Anniversary Update (1607)   | 2018/10/09                  |
+# | Creators Update (1703)      | 2019/06/11                  |
+# | Fall Creators Update (1709) | 2019/12/10                  |
+#
 # Bill Gates が Android を使ってる。
 # [[https://twitter.com/joebelfiore/status/917071399541391360]["But building new features/hw aren't the focus."]] (2017/10/08 @joebelfiore)
 
@@ -3161,6 +3183,13 @@ au は最初から、格安キャリアで 3G のパケット通信ができな�
 # Black Hat Europe 2017 とかで講演予定。 (2017/12/06,07 @vanhoefm)
 # [[https://www.krackattacks.com/][KRACK Attacks: Breaking WPA2]] (2017/10/16 公表)
 # [[http://d.hatena.ne.jp/Kango/20171016/1488907259][WPA2の脆弱性 KRACKsについてまとめてみた]]
+#
+# WPA3 (Wi-Fi Protected Access, 2018/??/??)
+# Simultaneous Authentication of Equals (SAE, Dragonfly)
+# Device Provision Protocol (DPP)
+# Commercial National Security Algorithm (CNSA, Suite-B, NSA set of cryptographic algorithms)
+# Opportunistic Wireless Encryption (OWE, RFC8110)
+# [[https://www.wi-fi.org/discover-wi-fi/security][Wi-Fi CERTIFIED WPA3]]
 #
 # IEEE Std 802.11 WG
 # |    |    GHz | Mbps |
