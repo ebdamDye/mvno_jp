@@ -721,6 +721,11 @@ au 回線だと Android 6 以上のスマホが少ない。
 
 パケットを、シェアしたり贈ったりできる。 (フリータンク、チップ、ギフト)
 "mineo スイッチ" アプリで節約 ON にすれば、パケットを消費しない。 (200kbps)
+# "mineo アプリ" (2018/03/??)
+# mineo レーダー搭載。 (GPS)
+# 王国警察による、位置情報の収集を公布 (事業説明会？) 。
+# 近くの王国民を表示できちゃう。 (1km^2 グリッド内の位置はランダムらしい)
+# 新しい王政 (フツー？) をつくる。 (絶対王政？)
 
 パケットの繰り越しは翌月まで。 (1MB 単位?)
 翌月は繰り越し分のパケットから利用できる。
@@ -832,6 +837,8 @@ au 回線にだけ、従量制のエコプランがある。 (SMS 付き)
 
 # IIJmio WiFi by エコネクトは、月額 +362 円。 (2017/11/01)
 # BB モバイルポイントと Wi2 に対応。
+# エコネクトは、光通信グループ。
+#
 # Wi2 (WEP)
 # Wi2_club (WPA/WPA2-PSK)
 # wifi_square (WEP)
@@ -945,6 +952,58 @@ au 回線にだけ、従量制のエコプランがある。 (SMS 付き)
 
 # IIJ Technical WEEK 2017
 # 毎年 11 月開催らしい。
+
+# IIJmio meeting 18
+# #iijmio のツイートとスライドしか見てない。
+# 大阪のおみやげは、 IIJmio 限定の Zenfone 4 カスタマイズモデル。 (or ロゴ入りどらやき 256kcal といつもの IIJ 水)
+# 東京では honor 9 と AQUOS sense lite も。
+# バックパネルは、できてうれしいので持ってきた。
+# 5G は、まだどうなるかわからない。
+# 次回 04/07 大阪、 04/14 東京。 (フル MVNO のお話？)
+#
+# 景品表示法。 ("不当景品類及び不当表示防止法" のこと)
+# 優良誤認。
+# 二重価格表示。
+# 景品規制。
+# 広告で気にするのはコレ。
+#
+# 青少年インターネット環境整備法が改正された。 (2017/06/23 公布、 2018/02/01 施行)
+# (青少年が安全に安心してインターネットを利用できる環境の整備等に関する法律" のこと)
+# 通信をフィルタリングされてるスマホを売るのが義務になった。
+# もっとフィルタリングしやすい OS を開発する努力義務も発生。 (外部から通信に介入しやすい OS?)
+# 対象になる青少年は、 6~18 歳の未婚者のこと。
+# 解除には保護者の同意がいる。 (フィルタリングは、保護者の意思ですること)
+# Wi-Fi もフィルタリングするために、アプリのインストールが主流。
+# IIJmio では、 "i-フィルター" アプリを有料で提供。 (デジタルアーツ製、有効にしたあとの申告制)
+# ファクトリーリセットとかでさよなら。
+#
+# SIM (Subscriber Identification Module: 加入者識別部品)
+# キャリアが、スマホから誰が通信してるかを見分けるための部品。
+# UICC と呼ばれてる IC カードが一般的。 (Universal Integrated Circuit Card)
+# 接触型の IC カードとして規格化されてる。 (ICC, ISO/IEC 7816)
+# クレジットカードとかを小さくしたモノ。 (1FF: 1 Form Factor)
+# 標準の miniSIM や、 microSIM と nanoSIM がある。 (2FF, 3FF, 4FF)
+# (IC チップサイズのコンピュータの中で、スマホから独立した OS が動いてる)
+#
+# eSIM (eUICC)
+# スマホの操作で、リモート書き換えできる SIM のこと。 (RSP: Remote SIM Provisioning, OTA)
+# RSP v3.0 が 2018Q2 策定の予定。 (GSMA, SGP.22, Pull)
+# 組み込みとは限らない。 (embedded SIM, MFF2: M2M Form Factor 2, Push)
+# 取り外せる IC カードもある。 (オプション)
+# Apple SIM の RSP は標準化されてない。
+# 普及は 2020 年頃？
+#
+# 他にも SIM がある。
+# | TEE (*1) based SIM | スマホのメモリ上で動く                     |
+# | ソフト SIM         | SIM をアプリにする                         |
+# | iUICC              | Integrated SIM, Qualcomm が SoC に組み込み |
+# (*1) TEE は、生体認証や NFC で使われてる。 (Trusted Execution Environment, 信頼済み実行環境)
+#      分割して保護したメモリの上で、 Android とは別の OS が動いてる。
+#      [[https://googleprojectzero.blogspot.jp/2017/07/trust-issues-exploiting-trustzone-tees.html][Trust Issues: Exploiting TrustZone TEEs]] (2017/07/24, Gal Beniamini, Google's Project Zero)
+#
+# 技適の R は、電波を発するものに必要な技術基準適合証明。 (電波法)
+# 技適の T は、電気通信設備に繋ぐものに必要な技術基準適合認定。 (電気通信事業法)
+# スマホには、両方必須。
 
 # 2008/??/?? L3 接続で 3G 開始。 (国内初)
 # 2009/??/?? L2 接続で 3G 開始。 (国内初)
@@ -1415,7 +1474,7 @@ Facebook に買収された。
 米サンフランシスコの非営利組織によるもの。
 オープンソース。
 # Speex -> Opus
-# Signal Protocol (e2e encryption) は、他のアプリにも使われてる。
+# Signal Protocol は、他のアプリにも使われてる。 (e2e encryption)
 
 *** Google Duo (Google)
 
@@ -1787,12 +1846,13 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # | A73    |          | x       |
 # | A75    | x        | x       |
 # [[https://developer.arm.com/support/security-update][Arm Processor Security Update - Arm Developer]] (2018/01/03)
+# [[https://www.techarp.com/guides/complete-meltdown-spectre-cpu-list/3/][ARM CPUs Vulnerable to Meltdown / Spectre]] (2018/01/08)
 #
 # Meltdown の対象は、 1995 年以降の Intel CPU だけじゃない。 (Arm も)
 # Spectre の対象は、いろんな CPU 。 (Arm, Intel, ...)
 # OS のセキュリティパッチで緩和はできる。 (KPTI: Kernel Page-Table Isolation)
-# アプリにも緩和のためのセキュリティパッチがいるので厄介。 (ブラウザとか)
-# セキュリティパッチによっては、ちょっと遅くなるかも。
+# アプリにも緩和のための更新がいるので厄介。 (retpoline compiler, ...)
+# スマホの動作が、ちょっと遅くなるかも。
 #
 # Meltdown のセキュリティパッチ。
 # iPhone は 2017/12/02 に配信された。 (iOS 11.2)
@@ -1995,6 +2055,9 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 たぶん iPhone X のせい。
 まともに評価できるのは数年後かも。
 # OLED (Organic Light Emitting Diode)
+# JDI は 2019 年から生産？
+#
+# mini LED-backlit panel
 
 5G スマホのデモが ZTE のブースであった。 (MWC 2017)
 2020 年頃から導入されるのかも。
@@ -2249,14 +2312,14 @@ Nexus と名の付いたスマホは Google の発注したモデル。
 *** Android One
 
 Google モデルを元に各国向けに作り替えたもの。
-日本向けは Y!mobile でしか売ってない。
+日本向けは、ソフトバンクと Y!mobile でしか売ってない。
 新興国向けは安いのに。
-シャープ製と京セラ製がある。
+シャープ、京セラ、 HTC 製がある。
 発売から 2 年間の更新を保証。
 # Android 8
 # X2 (HTC U11 life)
 # X3 (京セラ)
-# S3 (シャープ)
+# S3 (シャープ、 SoftBank はコレだけ)
 # S4 (京セラ)
 #
 # Android 7
@@ -2549,6 +2612,9 @@ SONY の子会社。
 # [[https://nnabla.org/][Neural Network Libraries]] (オープンソース)
 # 3D Creator
 #
+# Xperia XZ Pro?
+# 4K OLED? (5.7inch?, LG?)
+#
 # Xperia の SIM フリー版は、ほぼ海外にしかない。
 # J1 Compact (2015/04/20)
 # XZ Premium (2017/11/28, nuro 限定)
@@ -2621,7 +2687,7 @@ au VoLTE 対応。
 防水おサイフ。
 # エモパー (emopa, AI)
 # ワンセグ (|\||-||< 受信料)
-# OLED?
+# OLED? (2018/??/??)
 #
 # 以前のスマホは Android 4.4 。
 # 標準搭載のエコ技は寡黙で強引だけど、バッテリーと財布にやさしかった。
@@ -2777,7 +2843,10 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 #
 # ColorOS 3.1 (Android 7)
 #
-# R11 (Android 7)
+# R11s
+# Android 7
+# OLED は、韓国 Samsung 製。
+#
 # A77 (Android 6, ColorOS 3.0)
 
 # *** OnePlus (一加)
@@ -2821,7 +2890,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # 脆弱性 KRACK に対応するセキュリティパッチを先行配信。 (NMJ20D, 2017/10/31)
 # 技適を取得したみたい。 (Android 8.0 Beta 1, OPM1.170911.130, 2017/11/14)
 # 脆弱性 Meltdown and Spectre に対応するセキュリティパッチを即配信。 (NMJ88C, 2018/01/05)
-# Android 8.0 更新予定。 (beta2)
+# Android 8.0 更新予定。
 #
 # 2003 年 Android を設立。 (Andy Rubin は創業者の一人で開発者)
 # 2005 年 Google が買収。
@@ -3017,10 +3086,12 @@ SIM フリーなら、どの格安キャリアでも使えるハズ。
 # - iPhone 6 以降に、 2018 年のバッテリー交換キャンペーンをご案内。 (8800->3200 円を 1 回)
 # - 更新で、バッテリーの影響がわかりやすくなる？
 # - 機種変更キャンペーンは、もちろん継続される。
+# 献金をためらわない敬虔な Apple 教徒には、常に最速であることが赦される。 (iOS 11.3~, 2018/01/17)
 # [[https://9to5mac.com/2017/12/10/iphone-6s-slow-down-battery-fix/][PSA: If you have an older iPhone with slow performance, a new battery could solve your problems]] (2017/12/10)
 # [[https://www.geekbench.com/blog/2017/12/iphone-performance-and-battery-age/][iPhone Performance and Battery Age]] (2017/12/18)
 # [[https://techcrunch.com/2017/12/20/apple-addresses-why-people-are-saying-their-iphones-with-older-batteries-are-running-slower/][Apple addresses why people are saying their iPhones with older batteries are running `slower']] (2017/12/20)
-# [[https://www.apple.com/iphone-battery-and-performance/][A Message to Our Customers about iPhone Batteries and Performance]] (Apple, 2017/12/28)
+# [[https://www.apple.com/iphone-battery-and-performance/][A Message to Our Customers about iPhone Batteries and Performance]] (Apple, 2017/12/28)
+# [[https://9to5mac.com/2018/01/17/turn-off-iphone-battery-performance-throttling/][Tim Cook says users will be able to turn off iPhone battery performance throttling in future iOS update]] (2018/01/17)
 
 ** Windows 10 Mobile (Microsoft)
   
