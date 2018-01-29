@@ -558,6 +558,8 @@ Android スマホは SIM ロックされてない。 *(!?)*
 # 2017/09/07 機種変更と口座振替を開始。
 
 # ** [[https://corp.rakuten.co.jp/news/press/2017/1214_02.html][楽天？]]
+#
+# 楽天モバイルネットワーク (2018/01/10 設立)
 
 
 * 格安キャリア (MVNO で低速通信)
@@ -723,7 +725,7 @@ au 回線だと Android 6 以上のスマホが少ない。
 "mineo スイッチ" アプリで節約 ON にすれば、パケットを消費しない。 (200kbps)
 # "mineo アプリ" (2018/03/??)
 # mineo レーダー搭載。 (GPS)
-# 王国警察による、位置情報の収集を公布 (事業説明会？) 。
+# 王国警察による、位置情報の収集を布告 (事業説明会？) 。
 # 近くの王国民を表示できちゃう。 (1km^2 グリッド内の位置はランダムらしい)
 # 新しい王政 (フツー？) をつくる。 (絶対王政？)
 
@@ -961,10 +963,21 @@ au 回線にだけ、従量制のエコプランがある。 (SMS 付き)
 # 5G は、まだどうなるかわからない。
 # 次回 04/07 大阪、 04/14 東京。 (フル MVNO のお話？)
 #
+# 電気通信事業法。
+# 検閲の禁止と通信の秘密は大事。
+# IIJ は登録電気通信事業者。 (審査がある)
+# 届出電気通信事業者でも格安キャリアはできる。
+#
+# 電波法。
+# 大手キャリアとスマホは、無線局。
+# 大手キャリアとスマホを使う人は、無線従事者。
+# 格安キャリアは、どちらでもない。 (スマホ <-無線-> 大手キャリア <-有線-> 格安キャリア)
+# (大手キャリアの包括免許で、スマホを使うのに免許がいらない)
+#
 # 景品表示法。 ("不当景品類及び不当表示防止法" のこと)
-# 優良誤認。
-# 二重価格表示。
-# 景品規制。
+# サービスやスマホを、実際より良く書くとダメ。 (優良誤認)
+# ほぼ売ってたことがない価格からの割引はダメ。 (二重価格表示)
+# サービスやスマホよりも、豪華なおまけはダメ。 (景品規制)
 # 広告で気にするのはコレ。
 #
 # 青少年インターネット環境整備法が改正された。 (2017/06/23 公布、 2018/02/01 施行)
@@ -1868,7 +1881,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # Firefox は 2018/01/03 に配信された。 (57.0.4)
 # Edge は 2018/01/06 に配信された。 (2018/01/04 の更新に追加、 Android 向けは？)
 # Safari は 2018/01/08 に配信された。 (iOS 11.2.2, WebKit)
-# Chrome は 2018/01/23 の予定。 (64)
+# Chrome は 2018/01/24 に配信された。 (64)
 #
 # Intel CEO Brian Krzanich による、余念のなさすぎる経営が話題になってる。 (集団訴訟)
 # 大口顧客の計画や費用は、あまり変わらないね？
@@ -1878,8 +1891,12 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # | ~2017/07/28 | Google が脆弱性を事前通知                            |
 # |  2017/08/21 | 脆弱性を放置した Kaby Lake Refresh を発売 (前倒し？) |
 # |  2017/10/05 | 脆弱性を放置した Coffee Lake を発売 (前倒し？)       |
+# |  2017/10/30 | CEO の自社株を売却するプランを設定 (Form4)           |
 # |  2017/11/29 | CEO が上昇してた自社株を大量に売却 (2015 年に計画？) |
+# |  2017/11/29 | Intel が OEM に脆弱性を事前通知 (CNDA)               |
 # |  2018/01/03 | Google が脆弱性を公表                                |
+# [[https://www.bloomberg.com/news/articles/2018-01-08/intel-ceo-krzanich-s-stock-sales-seen-warranting-sec-examination][Intel CEO’s Stock Sales May Warrant SEC Examination]] (2018/01/08)
+# [[http://www.lemagit.fr/actualites/252433746/Le-jour-ou-son-CEO-vendait-ses-actions-Intel-prevenait-les-constructeurs-de-la-faille-Spectre][Le jour où son CEO vendait ses actions, Intel prévenait les constructeurs de la faille Spectre]] (2018/01/24)
 
 # 5G band
 # | freq (MHz) |
@@ -2225,7 +2242,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Andromeda
 # VR, AR, HMD
 # OTA (Over The Air)
-# Google I/O
+# Google I/O (2018/05/08~10)
 # Android Security Year In Review
 # USB OTG (On The Go, dual-role device)
 # USB Type-C
@@ -2426,7 +2443,7 @@ Mate9 が問題になってる。 (無問題了？？)
 #
 # honor 9
 # EMUI 5.1 (Android 7.0)
-# EMUI 8.0 (Android 8.0) に更新予定。
+# EMUI 8.0 (Android 8.0, Project Treble) に更新予定。
 #
 # P10 lite
 # au VoLTE 対応。 (B112)
@@ -2445,6 +2462,7 @@ Mate9 が問題になってる。 (無問題了？？)
 #
 # P9, P9 Plus
 # ゴリラガラス。 (Corning)
+# EMUI 8.0 (Android 8.0) に更新予定。
 #
 # nova
 # au VoLTE 対応。
@@ -2474,7 +2492,7 @@ Mate9 が問題になってる。 (無問題了？？)
 # 深圳市消費者委員会も、気にするなって。
 # 日本でも発売された。 (日本版は UFS2.1 が多い？)
 # ソフトバンク VoLTE にも対応。 (B162)
-# EMUI 8.0 (Android 8.0) に更新予定。
+# EMUI 8.0 (Android 8.0, Project Treble) に更新予定。
 #
 # Mate9
 # 日本でも売ってる。
@@ -2495,7 +2513,7 @@ Mate9 が問題になってる。 (無問題了？？)
 # "仕様です" の一言で済ませるのは、万国共通。
 # 当たりハズレの差が大きい。
 # オススメしにくくなったので、値崩れが待たれる。
-# EMUI 8.0 (Android 8.0) に更新予定。
+# EMUI 8.0 (Android 8.0, Project Treble) に更新予定。
 #
 # | storage | max read (MB/s) |
 # |---------+-----------------|
@@ -2534,6 +2552,7 @@ au とソフトバンクの VoLTE に対応予定。
 # Zenfone Live
 # Android 6.0
 # au VoLTE 対応。
+# ソフトバンク VoLTE 対応。 (JP_13.1407.1711.51_20180103)
 #
 # Zenfone 3
 # | Max   | Android 7 | 大容量バッテリー、窓ガラスなので割れやすい |
@@ -2617,7 +2636,7 @@ SONY の子会社。
 #
 # Xperia の SIM フリー版は、ほぼ海外にしかない。
 # J1 Compact (2015/04/20)
-# XZ Premium (2017/11/28, nuro 限定)
+# XZ Premium (2017/11/28, nuro 限定, Android 8 更新予定)
 
 *** Galaxy
 
@@ -2654,6 +2673,7 @@ Note7 は、バッテリーの爆発で回収されたけど。
 # 今のところ S8 の Snapdragon モデルだけが、 UFS2.0 みたい。
 # 最新の Galaxy にすら、 UFS2.1 を用意できなかったのかしら？
 # 日本でも発売された。 (日本版は UFS2.1 が多い？)
+# Android 8 更新予定。 (Project Treble)
 
 *** arrows M04
 
@@ -2664,6 +2684,8 @@ au VoLTE 対応。
 (富士通の子会社だけど、売却されそう)
 # Iris Passport
 # ワンセグ (|\||-||< 受信料)
+#
+# 売却先はポラリス？ (ファンド)
 #
 # M04
 # Android 7.1
@@ -2698,8 +2720,9 @@ au VoLTE 対応。
 # AQUOS R Compact (SH-M06 のベース)
 # AQUOS sense (lite SH-M05 や Android One S3 のベース)
 #
-# AQUOS R Compact SH-M06 (2018/01/??)
+# AQUOS R Compact SH-M06
 # Android 8.0
+# DCI-P3 (LCD)
 # 防水ワンセグおサイフ。
 # 発売後 2 年間に、最大 2 回のバージョンアップを約束してる。
 #
@@ -2775,6 +2798,7 @@ Nexus の後継。
 # ソフトバンクと au から発売されたのは、他社の Band を削ったもの？
 # SIM フリーも発売されることになった。 (2018/02/??)
 # おサイフ。
+# Android 8 更新予定。
 #
 # Pixel XL
 # 日本では売ってない。
@@ -2801,21 +2825,22 @@ VAIO 製。
 ノートパソコンや Apple Watch も作ってるところ。
 # ドコモ VoLTE (非公式), DSDS, CA
 
-# *** Tommy
+*** View
+
+仏ベンチャー Wiko (ウイコウ) 製。
+中国 TINNO の子会社。 (ODM?)
+国内大手キャリアの VoLTE に全て対応。 *(!?)*
+DSDS 対応。 (SIMx2 + MicroSD)
+バッテリー交換できる。
+# View
+# Android 7
 #
-# 仏ベンチャー Wiko (ウイコウ) 製。
-# 中国 TINNO の子会社。 (ODM?)
+# Tommy
 # 1 万円くらい。
 # バッテリー交換できる。
 # au VoLTE 対応だけど、 au 回線にはつながりにくいかも。
 # Android 6
 # くまモンのすまフォン (くまモバイル、コムテクノ)
-#
-# View
-# Android 7
-# 国内大手キャリアの VoLTE に全て対応。 *(!?)*
-# DSDS 対応。 (SIMx2 + MicroSD)
-# バッテリー交換できる。
 
 *** DIGNO V
 
@@ -2836,16 +2861,14 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # Pinecone (Surge, SoC)
 # Xiaomi MIUI Forum
 
-# *** OPPO (オッポ、欧珀)
+# *** R11s
+# 中国 OPPO (オッポ、欧珀) 製。
 # 中国 BBK の子会社。
-# OPPO Japan 設立。 (2017/08/30 Emilai?)
-# OPPO Digital Japan とは違う。
-#
-# ColorOS 3.1 (Android 7)
-#
-# R11s
-# Android 7
+# Android 7 (ColorOS 3.2)
 # OLED は、韓国 Samsung 製。
+#
+# OPPO Japan 設立。 (2017/08/?? Emilai?)
+# OPPO Digital Japan とは違う。
 #
 # A77 (Android 6, ColorOS 3.0)
 
@@ -2867,6 +2890,12 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 
 # *** Vivo (ビーボ、維沃)
 # 中国 BBK の子会社。
+#
+# X20 Plus UD (2018/02/01?)
+# Funtouch OS 3.2 (Android 7)
+# OLED
+# DSDS 対応。
+# 世界初のディスプレイ指紋認証の予定。 (Clear ID)
 
 # *** Jelly Pro
 # 中国 Unihertz 製。
@@ -2890,7 +2919,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # 脆弱性 KRACK に対応するセキュリティパッチを先行配信。 (NMJ20D, 2017/10/31)
 # 技適を取得したみたい。 (Android 8.0 Beta 1, OPM1.170911.130, 2017/11/14)
 # 脆弱性 Meltdown and Spectre に対応するセキュリティパッチを即配信。 (NMJ88C, 2018/01/05)
-# Android 8.0 更新予定。
+# Android 8.0 更新予定。 (Project Treble)
 #
 # 2003 年 Android を設立。 (Andy Rubin は創業者の一人で開発者)
 # 2005 年 Google が買収。
