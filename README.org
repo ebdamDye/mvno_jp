@@ -557,9 +557,13 @@ Android スマホは SIM ロックされてない。 *(!?)*
 
 # 2017/09/07 機種変更と口座振替を開始。
 
-# ** [[https://corp.rakuten.co.jp/news/press/2017/1214_02.html][楽天？]]
+# ** 楽天？
 #
-# 楽天モバイルネットワーク (2018/01/10 設立)
+# 2017/12/14 [[https://corp.rakuten.co.jp/news/press/2017/1214_02.html][携帯キャリア事業への新規参入表明に関するお知らせ]]
+# 2018/01/10 楽天モバイルネットワークを設立。
+# 2018/01/15 FREETEL を統合。
+# 2018/02/01 "楽天でんわかけ放題 by 楽天モバイル" の終了を告知。 (2018/02/28 予定)
+#            (2017/04/24 から提供してた、時間無制限の音声通話定額は 10 ヶ月で終了)
 
 
 * 格安キャリア (MVNO で低速通信)
@@ -614,7 +618,7 @@ au 回線には UQ mobile と同じ制限がある。
 
 機種変更 (追加購入) できるとこは少ない。
 ドコモ回線なら、スマホの買い替えには困らない。
-au 回線だと Android 6 以上のスマホが少ない。
+au 回線だと、音声通話には au VoLTE 対応のスマホがいる。
 # 直営の通販サイトとかもあったりする。
 # 保証サービスとかは、機種変更したら手続きがいるとこもある。
 
@@ -696,7 +700,8 @@ au 回線だと Android 6 以上のスマホが少ない。
 # 2017/08/01 BB.excite モバイル LTE をエキサイトモバイルに統合。
 # 2017/11/01 楽天モバイルが FREETEL を買収。 (2018/01/15 統合)
 # 2017/11/30 ぷららモバイル LTE がサービス終了。
-# 2018/02/01 QT モバイルが大手キャリア 3 回線の取り扱いを開始予定。 (国内初)
+# 2018/02/01 QT モバイルが大手キャリア 3 回線の取り扱いを開始。 (国内初)
+# 2018/03/?? LINE モバイルがソフトバンクの子会社になる？ (第三者割当増資と業務提携)
 
 ** mineo (マイネオ)
 
@@ -1108,6 +1113,7 @@ LINE のビデオ通話は、なぜかカウントフリーの対象になって
 
 ドコモ回線を利用する。
 韓国 NAVER (ネイバー) の子会社。
+増資して、ソフトバンクの子会社になるみたい。 (2018/03/?? 予定)
 
 # 2016/10/01 ドコモ回線で開始。 (OCN)
 
@@ -1294,7 +1300,7 @@ NTT コミュニケーションズでプロバイダをしてるところ。
 # 2017/09/26 会社分割して、国内 MVNO 事業のほとんどを楽天モバイルに売却すると発表。 (-1?)
 #            これからもスマホは作る？ (2017/02/01 RAIJIN)
 # 2017/11/01 楽天モバイルに売却。
-# 2018/01/?? 統合される予定。
+# 2018/01/15 楽天モバイルに統合。
 
 # ** Smart Mobile Phone (スマートモバイルコミュニケーションズ)
 #
@@ -1879,7 +1885,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 #
 # ついでにブラウザの対応。 (JavaScript)
 # Firefox は 2018/01/03 に配信された。 (57.0.4)
-# Edge は 2018/01/06 に配信された。 (2018/01/04 の更新に追加、 Android 向けは？)
+# Edge は 2018/01/06 に配信された。 (2018/01/04 の更新に追加、 Android/iOS 向けは？)
 # Safari は 2018/01/08 に配信された。 (iOS 11.2.2, WebKit)
 # Chrome は 2018/01/24 に配信された。 (64)
 #
@@ -2225,6 +2231,8 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Snapdragon, MediaTek, Kirin, Exynos, ... (SoC)
 # SPU (Secure Processing Unit, Snapdragon 845, Qualcomm)
 # Hexagon 682 DSP (Digital Signal Processor, Hexagon SDK, Snapdragon 835, Qualcomm)
+# UFS3.0 (Universal Flash Storage, 11.6Gbps x2, 2.5V, JEDEC, 2018/01/30)
+# eMMC5.2 (embedded Multi Media Card, final?)
 #
 # TensorFlow Lite developer preview (NNAPI, 2017/11/14, Google)
 # NPE (Neural Processing Engine, SDK, AI, Snapdragon 845, Qualcomm)
@@ -2452,6 +2460,7 @@ Mate9 が問題になってる。 (無問題了？？)
 # 金属フレームと曲面強化ガラス。 (日本電気硝子？)
 # 純正バッテリーと交換キットを売ってる。
 # ソフトバンク VoLTE にも対応。 (B172)
+# EMUI 8.0 (Android 8.0) に更新予定。
 #
 # P9 lite
 # 金属フレームと曲面強化ガラス。 (日本電気硝子？)
@@ -2462,7 +2471,6 @@ Mate9 が問題になってる。 (無問題了？？)
 #
 # P9, P9 Plus
 # ゴリラガラス。 (Corning)
-# EMUI 8.0 (Android 8.0) に更新予定。
 #
 # nova
 # au VoLTE 対応。
@@ -2515,10 +2523,10 @@ Mate9 が問題になってる。 (無問題了？？)
 # オススメしにくくなったので、値崩れが待たれる。
 # EMUI 8.0 (Android 8.0, Project Treble) に更新予定。
 #
-# | storage | max read (MB/s) |
-# |---------+-----------------|
-# | eMMC5.0 | 400             |
-# | UFS2.0  | 583 (x2)        |
+# | storage | max read (Mbps) | voltage (V) |
+# |---------+-----------------+-------------|
+# | eMMC5.0 | 400             |     2.7-3.6 |
+# | UFS2.0  | 583 (x2)        |     2.7-3.6 |
 #
 # | memory  | bus clock (MHz) | voltage (V) |
 # |---------+-----------------+-------------|
@@ -2681,11 +2689,12 @@ Note7 は、バッテリーの爆発で回収されたけど。
 au VoLTE 対応。
 防水ワンセグおサイフ。
 らくらくスマートフォンはホームアプリ？
-(富士通の子会社だけど、売却されそう)
+ポラリス・キャピタル・グループに売却される予定。 (ファンド、 2018/03/30)
 # Iris Passport
 # ワンセグ (|\||-||< 受信料)
 #
-# 売却先はポラリス？ (ファンド)
+# 富士通周辺機も分社化して、工場をポラリスに売却する予定。
+# 製造は、新会社のジャパン・イーエム・ソリューションズになる。 (ODM)
 #
 # M04
 # Android 7.1
@@ -2707,6 +2716,7 @@ au VoLTE 対応。
 シャープ製。
 台湾 "鴻海(ホンハイ)" の子会社。
 防水おサイフ。
+発売後 2 年間に、最大 2 回のバージョンアップを約束してる。
 # エモパー (emopa, AI)
 # ワンセグ (|\||-||< 受信料)
 # OLED? (2018/??/??)
@@ -2770,7 +2780,7 @@ au VoLTE 対応。
 Pixel と名の付いたスマホは Google の発注したモデル。
 Nexus の後継。
 # HTC 製の日本向け SIM フリーは最近でてない。
-# Google へ Pixel に関係するものを売却すると発表。 (2017/09/21)
+# Google へ Pixel に関係するものを売却。 (2018/01/30)
 #
 # Pixel 2
 # ほんやくコンニャクの材料。 (Google Translate on Pixel, Pixel Buds)
@@ -2792,11 +2802,14 @@ Nexus の後継。
 # 大手キャリアの布教活動が、不当な取引制限になってる？
 # [[https://www.jftc.go.jp/houdou/pressrelease/h28/aug/160802.html][携帯電話市場における競争政策上の課題について(概要)]] (2016/08/02 公正取引委員会)
 #
+# U11 life (Android One X2 のベース)
+# SIM フリーで発売される？
+#
 # U11
 # 大手キャリアの 2017 夏モデルだった。 (ドコモからは発売されてない)
 # 日本 Band のほとんどに対応してるみたい。 (公式)
 # ソフトバンクと au から発売されたのは、他社の Band を削ったもの？
-# SIM フリーも発売されることになった。 (2018/02/??)
+# SIM フリーも発売されることになった。 (2018/03/??)
 # おサイフ。
 # Android 8 更新予定。
 #
@@ -2865,10 +2878,16 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # 中国 OPPO (オッポ、欧珀) 製。
 # 中国 BBK の子会社。
 # Android 7 (ColorOS 3.2)
+# DSDS 対応。
 # OLED は、韓国 Samsung 製。
+# カメラで顔認証っぽいことができる。 (128 facial features points, 指紋認証もできる)
+# 国内大手キャリアの VoLTE に全て対応。 *(!?)*
 #
 # OPPO Japan 設立。 (2017/08/?? Emilai?)
 # OPPO Digital Japan とは違う。
+# 2018/02/09 に R11s を発売予定。 (日本上陸)
+#
+# O-Share?
 #
 # A77 (Android 6, ColorOS 3.0)
 
@@ -2891,11 +2910,11 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # *** Vivo (ビーボ、維沃)
 # 中国 BBK の子会社。
 #
-# X20 Plus UD (2018/02/01?)
+# X20 Plus UD (2018/02/01)
 # Funtouch OS 3.2 (Android 7)
 # OLED
 # DSDS 対応。
-# 世界初のディスプレイ指紋認証の予定。 (Clear ID)
+# 世界初のディスプレイ指紋認証。 (Clear ID)
 
 # *** Jelly Pro
 # 中国 Unihertz 製。
@@ -2906,7 +2925,8 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 #
 # ヴェルテ (ドゥモア) は Unihertz と代理店契約してない。 (2017/10/02)
 # 正規代理店との発表が多いけど、予定と書いてるとこもある。 (2017/05/22)
-# 技適を後日アップデートで表示？
+# 技適を後日アップデートで表示？ (やめたかも？)
+# いまだに発送されてない分があるっぽい。 (2018/02/05)
 # [[http://welte.jp/ca7/71/p-r-s/][世界で2番目に小さいLTEスマホ「JellyPro」]]
 
 # *** Essential PH-1
@@ -2915,11 +2935,12 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # 製造は台湾 FIH Mobile 。 (台湾鴻海の子会社)
 # 商標を使わないようにと、 Spigen が文書を送ったらしい。
 # Android 7.1.1
-# au VoLTE 対応？
+# 国内大手キャリアの VoLTE に全て対応。
 # 脆弱性 KRACK に対応するセキュリティパッチを先行配信。 (NMJ20D, 2017/10/31)
 # 技適を取得したみたい。 (Android 8.0 Beta 1, OPM1.170911.130, 2017/11/14)
 # 脆弱性 Meltdown and Spectre に対応するセキュリティパッチを即配信。 (NMJ88C, 2018/01/05)
-# Android 8.0 更新予定。 (Project Treble)
+# Android 8.1 更新予定。 (Project Treble)
+# ヴェルテ (ドゥモア) が、輸入代行しちゃうみたい。 (2018/02/02 予約開始)
 #
 # 2003 年 Android を設立。 (Andy Rubin は創業者の一人で開発者)
 # 2005 年 Google が買収。
@@ -3045,7 +3066,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # Apple Pay
 # iCloud (free 5GB)
 # App Store Review Guideline
-# Horizon Machine (Apple Store/Authorized third-party repair center)
+# Apple Store (Genius Bar, Authorized third-party repair center, Horizon Machine)
 # Secure Enclave
 # In-App Purchase
 # Apple ID
@@ -3063,7 +3084,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # Apple A11 Bionic (neural engine AI chip)
 # Qi (wireless charging standard, iPhone 8)
 # Super Retina Display (OLED, Burnin-mitigation, iPhone X)
-# Touch ID -> Face ID (A11 neural engine, infrared 3D dot mesh, iPhone X)
+# Touch ID -> Face ID (A11 neural engine, infrared 30000 dots, 3D mesh, iPhone X)
 #
 # WWDC 2017
 # iOS 11 developer beta start (64bit only)
@@ -3106,7 +3127,15 @@ SIM フリーなら、どの格安キャリアでも使えるハズ。
 # 2017/09/22 8, 8 Plus
 # 2017/11/03 X (10th anniversary, OLED, Face ID)
 # 2018/??/?? SE2?
-#
+
+# iPhone 7 に、エリア内でも圏外とか表示される問題があれば無償修理すると案内。 (A1779, 2018/02/02)
+# メインロジックボードのコンポーネントの故障が原因らしい。
+# 有償修理してた人には返金する。
+# 機内モードから戻ったら通信できなくなる問題は、発売当初からあった。 (Genius Bar で新しいのに交換、 2016/09/19)
+# [[https://www.macrumors.com/2016/09/19/iphone-7-no-service-airplane-mode-issue/][Apple Investigating iPhone 7 Bug Causing 'No Service' After Turning Off Airplane Mode]] (2016/09/19)
+# [[https://support.apple.com/en-us/HT201415][If you see No Service or Searching on your iPhone or iPad]] (2017/11/02)
+# [[https://www.apple.com/support/iphone-7-no-service/][iPhone 7 Repair Program for "No Service" Issues]] (2018/02/02)
+
 # バッテリーの劣化によって、最高速度がだんだん遅くなる。 (iOS 10.2.1, 11.2)
 # 速く動くには電力が足りなくて、突然電源が落ちる問題への対処みたい。
 # Apple は説明もしてなかったので、集団訴訟になってる。
