@@ -1502,6 +1502,12 @@ Facebook に買収された。
 定期的に連絡帳と位置情報を Google に送信されてしまう。
 # Opus (WebRTC, QUIC over UDP)
 
+# *** Ring (GNU)
+# G711u, G711a, G.722, GSM, Speex, Opus
+# OpenDHT Proxy, WebRTC
+# e2e encryption
+# GPLv3
+
 ** IP 電話 (050)
 
 クレジットカードの登録が必要。
@@ -1941,7 +1947,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 
 最新の Android 8 が公開されたけど、まだ OREO 食べてない。
 バージョンアップがあるとしたら Android 7 以上？
-普及してるのはまだ Android 6 で、 30000 円くらいを目安に考えてる。
+30000 円くらいを目安に考えてる。
 格安のは機能が削られてる。
 (バーゲン品や中古は除く)
 # 機能を変えるための "バージョンアップ" 。
@@ -1962,7 +1968,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # これからに期待。
 #
 # Android P メモ。
-# Kotlin
+# Kotlin (Android KTX)
 #
 # Android 8 メモ。
 # 2017/03/21 Android O Developer Preview 1
@@ -2035,7 +2041,8 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # 2019/08/?? 新しいアプリやアプリの更新で、 64bit 対応が必須。 (multiple APK)
 # 2019/??/?? デザート (e.g. O,P,Q) に、 1 年以内の対応が必須？ (minSdkVersion)
 
-前に普及してた Android 5 スマホなら 20000 円以下くらい？
+前に普及してた Android 6 なら、 20000 円くらい？
+Android 5 スマホなら 10000 円くらい？
 Android 4 以前だと、Google によるセキュリティパッチの公開もない。 (2017/10/05 が最後)
 # 新品として売ってるのは、まだ不具合の修正くらいはしてる？
 # いつまで続けてくれるのか不明。
@@ -2355,11 +2362,10 @@ Google モデルを元に各国向けに作り替えたもの。
 # Android 6
 # 507SH (シャープ)
 
-*** P10 lite
+*** nova lite 2
 
 中国 "華為(ファーウェイ、 Huawei)" 製。
-au VoLTE 対応。
-ソフトバンク VoLTE にも対応。 (主に Y!mobile 向け)
+ソフトバンク VoLTE 対応。 (主に Y!mobile 向け)
 発売から 2 年間の更新を保証。 (2016/07/18 の Honor8 以降のみ)
 SIM フリーなら故障しても、 Y!mobile の店舗で代替機を借りられる。 *(事前契約不要!?)*
 別売の純正バッテリーもある。 (交換キット付き)
@@ -2437,6 +2443,12 @@ Mate9 が問題になってる。 (無問題了？？)
 # Y!mobile との SIM 契約がなくてもいい。
 # SIM フリーな Huawei 製スマホ限定。
 # (受け付けてない店舗もある)
+#
+# nova lite 2
+# EMUI 8.0 (Android 8.0)
+# ソフトバンク VoLTE 対応。
+# 更新で顔認証っぽいことができるようになる予定。
+# au 回線では使えない。
 #
 # Mate10 Pro
 # EMUI 8.0 (Android 8.0)
@@ -2612,22 +2624,40 @@ Nexus 6 を作ってた。
 # 窓ガラスなので割れやすい。
 # 別売のバッテリーがでれば、交換できるようになる。
 
-*** Priori 4
+*** REI 2 Dual
 
-旧プラスワン・マーケティング製。 (OEM)
-マヤシステムに事業譲渡された。 (2018/01/09)
-FREETEL の名前でスマホの製造販売を続ける？
-不具合が多いらしい。
+マヤシステム製。 (OEM)
+FREETEL の名前でスマホの製造販売を続ける。
+国内大手キャリアの VoLTE に全て対応。 *(!?)*
+(旧プラスワン・マーケティングで作ってたスマホ)
 # プラスワン・マーケティングは、民事再生手続中。
 # 国内格安キャリア事業を、楽天モバイルに売却。 (2017/11/01)
 # 民事再生法に基づく再生手続開始の申立て。 (2017/12/04)
+# 海外事業は、官民ファンドが支援を撤回。 (JICT, 2017/12/12)
 # FREETEL の名前とスマホの製造販売を、マヤシステムに事業譲渡。 (2018/01/09)
 # ...
-# あとは、官民ファンドが支援しちゃった海外事業だけ？ (JICT, 2017/03/28)
+# 破産？
+#
+# FREETEL UI 3.0
+#
+# MIYABI 2 Dual
 #
 # REI 2 Dual
-# MIYABI 2 Dual
+# Android 7
+# DSDS 対応。
+# 国内大手キャリアの VoLTE に全て対応。 *(!?)*
+# 旧プラスワン・マーケティング製だけど、発売はマヤシステム。
+#
 # Priori 5
+# Android 7
+# DSDS 対応。
+# ドコモとソフトバンクの VoLTE に対応。
+# バッテリー交換できる。
+# 旧プラスワン・マーケティング製だけど、発売はマヤシステム。
+#
+# Priori 4
+# 不具合が多いらしい。
+# 旧プラスワン・マーケティング製。
 
 *** Xperia
 
@@ -2880,7 +2910,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # Android 7 (ColorOS 3.2)
 # DSDS 対応。
 # OLED は、韓国 Samsung 製。
-# カメラで顔認証っぽいことができる。 (128 facial features points, 指紋認証もできる)
+# カメラで顔認証っぽいことができる。 (128 facial features points, 2D, 指紋認証もできる)
 # 国内大手キャリアの VoLTE に全て対応。 *(!?)*
 #
 # OPPO Japan 設立。 (2017/08/?? Emilai?)
@@ -2935,7 +2965,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # 製造は台湾 FIH Mobile 。 (台湾鴻海の子会社)
 # 商標を使わないようにと、 Spigen が文書を送ったらしい。
 # Android 7.1.1
-# 国内大手キャリアの VoLTE に全て対応。
+# 国内大手キャリアの VoLTE に全て対応。 *(!?)*
 # 脆弱性 KRACK に対応するセキュリティパッチを先行配信。 (NMJ20D, 2017/10/31)
 # 技適を取得したみたい。 (Android 8.0 Beta 1, OPM1.170911.130, 2017/11/14)
 # 脆弱性 Meltdown and Spectre に対応するセキュリティパッチを即配信。 (NMJ88C, 2018/01/05)
@@ -3054,7 +3084,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # Siri (AI)
 # IPv6 (iOS 10.3)
 # HFS+ -> APFS
-# jailbreak
+# jailbreak (iBoot)
 # activation lock
 # AppleCare
 # Celluler Payload (APN)
@@ -3145,6 +3175,7 @@ SIM フリーなら、どの格安キャリアでも使えるハズ。
 # - 更新で、バッテリーの影響がわかりやすくなる？
 # - 機種変更キャンペーンは、もちろん継続される。
 # 献金をためらわない敬虔な Apple 教徒には、常に最速であることが赦される。 (iOS 11.3~, 2018/01/17)
+# (Battery Health, Peak Performance Capability, iOS 11.3 beta2)
 # [[https://9to5mac.com/2017/12/10/iphone-6s-slow-down-battery-fix/][PSA: If you have an older iPhone with slow performance, a new battery could solve your problems]] (2017/12/10)
 # [[https://www.geekbench.com/blog/2017/12/iphone-performance-and-battery-age/][iPhone Performance and Battery Age]] (2017/12/18)
 # [[https://techcrunch.com/2017/12/20/apple-addresses-why-people-are-saying-their-iphones-with-older-batteries-are-running-slower/][Apple addresses why people are saying their iPhones with older batteries are running `slower']] (2017/12/20)
@@ -3193,7 +3224,8 @@ au VoLTE 対応。
 # "SIM ロック解除の円滑な実施に関するガイドライン" として含まれてる。
 #
 # 契約してない人の相手をしろとは書いてない。
-# 解除したら、機能制限もなくなるよう努めることが適当って書いてある。 (テザリングとか？)
+# 解除したら、機能制限もなくなるよう努めることが適当って書いてある。
+# (テザリングや APN ロックとか？)
 
 大手キャリアが売ってるスマホのほとんどは、 SIM ロックされてる。
 解除しないと違う回線に移るとき、スマホを使い回せない。
