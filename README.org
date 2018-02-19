@@ -292,9 +292,9 @@
 # 覆面調査では、説明義務のある初期契約解除制度 (確認措置) について説明しないとこが多かった。
 # 契約書に書いとけば OK ってことにしてた？
 # ドコモは、消費者から契約書に書いてあるって言われなければ違約金を取ることにしてた。
-# (確認措置だとよくわからないので、初期契約解除制度と書く)
+# (確認措置だとよくわからないので、初期契約解除制度と書いとく)
 #
-# "電気通信事業法の消費者保護ルールに関するガイドライン" がある。
+# "電気通信事業法の消費者保護ルールに関するガイドライン" がある。 (光回線とかにも適用される)
 # 説明義務。 (契約前はもちろん、 2 年縛りの更新とかも事前に告知する義務がある)
 # 契約後の書面交付義務。 (口頭で済ませるのはナシ)
 # 初期契約解除制度。 (つながらなかったり説明が不十分なら、契約から 8 日以内は違約金なしで解約できる)
@@ -302,13 +302,46 @@
 # 勧誘継続行為の禁止。 (しつこいのはイヤ)
 # 代理店に対する指導などの措置義務。 (消費者は代理店と契約するワケじゃない)
 # 苦情処理義務。 (苦情を増やすのやめて)
-#
-# 格安キャリアとのスマホ契約は、初期契約解除制度の対象外。
-# (ガイドラインは、光回線とかにも適用される)
+# (ただし、格安キャリアは初期契約解除制度の対象外)
 #
 # 総務省からの "電気通信事業法に基づく指導" を、大手キャリアは仲良く受けた。 (2017/06/28)
-# (UQ mobile は覆面調査されてないので、除外)
 # ドコモは、さかのぼって初期契約解除制度での解約を受け付けてる。 (2017/07/14)
+# (UQ mobile は覆面調査されてないので、除外)
+#
+# 消費者保護ルール実施状況のモニタリング定期会合 4 (2018/02/16 総務省)
+# 格安キャリアとのスマホ契約も、初期契約解除制度の対象になりそう。
+
+# IoT 機器に関する脆弱性調査等の実施 (2017/09/05 総務省)
+# 円滑なインターネット利用環境の確保に関する検討会対応の方向性 (案) に対する意見募集 (2017/12/26 総務省)
+#
+# 電気通信事業法及び国立研究開発法人情報通信研究機構法の一部を改正する法律案 (2018/01/19 総務省)
+# 第 196 回国会 (常会) に、総務省が提出を予定してる法律案。 (まだ条文が見れない)
+# 総務省所管の情報通信研究機構 (NICT) が、調査ってことにして攻撃してくる？ (委託先からも？)
+# 不正アクセス禁止法の対象外にしちゃう？ (民間扱いの独立行政法人がすべてのアカウントを所有する？、事前許諾？、立ち会い？)
+# 電気通信事業者じゃないから、検閲の禁止と通信の秘密もおかまいなし？ (見て盗むだけって？)
+# 対象の拡大が予定されてそう？ (デフォルトの ID とパスワードのままになってる機器だけ？)
+#
+# 不正アクセス禁止法。 (不正アクセス行為の禁止等に関する法律のこと)
+# 勝手にログインとかしたらダメ。
+# 不正に ID やパスワードを手に入れるのもダメ。 (フィッシングとか)
+#
+# 刑法にもいくつか。
+# 電磁的記録不正作出及び供用。 (161 条 2)
+# 支払用カード電磁的記録不正作出等。 (163 条 2)
+# 不正指令電磁的記録作成等。 (168 条 2 の 2 項、ウイルス作成罪、遠隔操作)
+# 電子計算機損壊等業務妨害。 (234 条 2)
+# 電子計算機使用詐欺。 (246 条 2)
+# ...
+# (電磁的記録は、アプリとかも含めたデータ)
+# (電子計算機は、スマホとかも含む)
+# (作出は作る、供用は使う)
+#
+# 他いろいろ。
+# サイバーセキュリティ基本法。
+# 個人情報保護法。 (個人情報の保護に関する法律のこと)
+# 不正競争防止法。
+# 通信傍受法。 (犯罪捜査のための通信傍受に関する法律のこと、また対象を拡大したそう？)
+# ...
 
 ** ソフトバンク
 
@@ -559,11 +592,22 @@ Android スマホは SIM ロックされてない。 *(!?)*
 
 # ** 楽天？
 #
+# 基地局の場所が足りない。 (都市部)
+# 単独の大手キャリアとしては、設備投資が足りない。
+# UQ mobile みたいになりたいのかも？ (周波数の貸し借り？)
+#
 # 2017/12/14 [[https://corp.rakuten.co.jp/news/press/2017/1214_02.html][携帯キャリア事業への新規参入表明に関するお知らせ]]
+#            (資金調達の予定は 7 年分で 6000 億円だけど、ドコモの設備投資 1 年分しかない)
+# 2017/12/26 第 4 世代移動通信システムの普及のための周波数の割当てに関する意見募集の結果及び電波監理審議会からの答申 (総務省)
+#            (基地局鉄塔とかを安く貸与して欲しいと要望)
 # 2018/01/10 楽天モバイルネットワークを設立。
 # 2018/01/15 FREETEL を統合。
+# 2018/01/26 第 4 世代移動通信システムの普及のための特定基地局の開設計画に係る認定申請の受付 (総務省)
+#            (事業譲渡とかしたら、今回の割り当て周波数は返却させられる)
 # 2018/02/01 "楽天でんわかけ放題 by 楽天モバイル" の終了を告知。 (2018/02/28 予定)
 #            (2017/04/24 から提供してた、時間無制限の音声通話定額は 10 ヶ月で終了)
+# 2018/02/13 2017 年度通期及び第 4 四半期決算説明会。
+#            (ローミングで全国カバーも検討、楽天モバイルの利用者には移行してもらう)
 
 
 * 格安キャリア (MVNO で低速通信)
@@ -657,7 +701,7 @@ au 回線だと、音声通話には au VoLTE 対応のスマホがいる。
 # バッテリーやパケットを節約したいとか、紐付けがイヤなら手間が増えてく。
 #
 # iOS や Windows 10 Mobile なら、アプリも丸ごと同期できる。
-# Android は 6 からアプリのデータも同期できる。 (アプリごとに 25MB まで)
+# Android は 6 からアプリのデータも同期できる。 (Auto Backup for Apps, アプリごとに 25MB まで)
 # 大きいアプリや Android 5 とかだと、アプリごとに移行作業をするしかない。
 # アプリにバックアップ機能とかがあるとは限らないけど。
 # (adb backup がオススメとは言えない)
@@ -1180,6 +1224,7 @@ SIM タイプ2 はパケット通信のみ。 (OCN)
 # 2014/09/02 イオンスマホとして代理店を開始。
 # 2016/02/26 イオンモバイルとして、 IIJ 回線で開始。 (MVNO)
 # 2016/12/15 OCN 回線を開始。
+# 2018/03/01 au 回線を、同額で開始予定。 (IIJ 回線？)
 
 ** OCN モバイル ONE
 
@@ -1433,6 +1478,7 @@ NTT コミュニケーションズでプロバイダをしてるところ。
 全員が "Letter Sealing" を on にしてないと、ロックアイコンが出ない。
 暗号化された無料通話などができる。
 連絡帳の送信がデフォルト。
+スマホの動作が遅くなるかも。
 # トークの一括バックアップは、 Google ドライブか iCloud が楽。 (7.5.0)
 # ローカルで引き継ごうとすると、めんどくさい。
 #
@@ -1463,13 +1509,11 @@ Apple 機器専用。
 
 メッセージアプリ。
 無料通話などができる。
-Facebook のアプリはバッテリー消費が激しいらしい。
 # Opus, iSAC, ISAC Low Complexity
 # Opus or G.711 (browser)
 # Signal Protocol
 #
 # Messenger Lite は通話できない。
-# バッテリー消費は改善された？
 
 *** WhatsApp (WhatsApp)
 
@@ -1822,6 +1866,9 @@ OCN モバイル ONE との SIM 契約なしで使える。
 
 # IMSI キャッチャー検知装置
 # [[https://github.com/seaglass-project/seaglass][SeaGlass]]
+#
+# 米諜報機関オススメのスマホはどれかしら？
+# [[https://www.cnbc.com/2018/02/13/chinas-hauwei-top-us-intelligence-chiefs-caution-americans-away.html][Six top US intelligence chiefs caution against buying Huawei phones]] (Senate Intelligence Committee: 米上院情報委員会, 2018/02/13)
 
 # 金盾ならいつでも体験できる。
 
@@ -2087,7 +2134,9 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 # OLED (Organic Light Emitting Diode)
 # JDI は 2019 年から生産？
 #
-# mini LED-backlit panel
+# mini LED-backlit panel (2018?)
+# mLED (micro LED, μLED)
+# QLED (Quantum-dot Light Emitting Diode)
 
 5G スマホのデモが ZTE のブースであった。 (MWC 2017)
 2020 年頃から導入されるのかも。
@@ -2151,11 +2200,13 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 HDR は再生できるだけで、輝度とか足りない。
 H.265(HEVC) はパテントプールで溺れてる。
 人助けがしたいならどうぞ。
-# | TV      | 1440x1080i |  15Mbps | H.262, MPEG-2 |
-# | BD      | 1980x1080i |  25Mbps | H.262, MPEG-2 |
-# | 4K (*1) | 3840x2160p |  25Mbps | H.265, HEVC   |
-# | 8K (*1) | 7680x4320p | 100Mbps | H.265, HEVC   |
+# | TV      | 1440x1080i |  15Mbps | H.262, MPEG-2 (*2) |
+# | BD      | 1980x1080i |  25Mbps | H.262, MPEG-2 (*2) |
+# | 4K (*1) | 3840x2160p |  25Mbps | H.265, HEVC        |
+# | 8K (*1) | 7680x4320p | 100Mbps | H.265, HEVC        |
 # (*1) 4K と 8K のビットレートは、 BD を基準に単純計算しただけ。
+# (*2) 特許の期限を過ぎたので、フリーになった。
+#      [[http://www.mpegla.com/main/programs/M2/Pages/PatentList.aspx][MPEG-2 Patent List]] (2018/02/13)
 #
 # Youtube
 # | FullHD | 1980x1080p |   2Mbps | H.264, AVC    |
@@ -2240,6 +2291,8 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Hexagon 682 DSP (Digital Signal Processor, Hexagon SDK, Snapdragon 835, Qualcomm)
 # UFS3.0 (Universal Flash Storage, 11.6Gbps x2, 2.5V, JEDEC, 2018/01/30)
 # eMMC5.2 (embedded Multi Media Card, final?)
+# ARM OD (Object Detection, AI chip, Project Trillium)
+# ARM ML (Machine Learning, AI chip, Project Trillium)
 #
 # TensorFlow Lite developer preview (NNAPI, 2017/11/14, Google)
 # NPE (Neural Processing Engine, SDK, AI, Snapdragon 845, Qualcomm)
@@ -2247,6 +2300,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # CNTK (Cognitive Toolkit, AI, Microsoft)
 # ONNX (Open Neural Network Exhange, AI, Microsoft, Facebook)
 # Apache MXNet (AI, Amazon)
+# Arm NN (Neural Network, SDK, Project Trillium)
 #
 # LDAC (Hi-Resolution Audio, lossy codec, Android 8, Sony)
 # PHA (Potentially Harmful Applications, Verify Apps)
@@ -2364,7 +2418,7 @@ Google モデルを元に各国向けに作り替えたもの。
 
 *** nova lite 2
 
-中国 "華為(ファーウェイ、 Huawei)" 製。
+中国 Huawei Technologies 製。 (ファーウェイ、華為技術)
 ソフトバンク VoLTE 対応。 (主に Y!mobile 向け)
 発売から 2 年間の更新を保証。 (2016/07/18 の Honor8 以降のみ)
 SIM フリーなら故障しても、 Y!mobile の店舗で代替機を借りられる。 *(事前契約不要!?)*
@@ -2449,6 +2503,7 @@ Mate9 が問題になってる。 (無問題了？？)
 # ソフトバンク VoLTE 対応。
 # 更新で顔認証っぽいことができるようになる予定。
 # au 回線では使えない。
+# 格安キャリアでしか扱ってない。
 #
 # Mate10 Pro
 # EMUI 8.0 (Android 8.0)
@@ -2457,6 +2512,8 @@ Mate9 が問題になってる。 (無問題了？？)
 # 世界初の DSDV 対応。 (まだソフトバンク VoLTE のみ、あとは更新で対応予定)
 # 防水。 (無印は防滴)
 # OLED は、中国 BOE 製。
+# スマホを無料提供して、よその通販サイトにレビューを投稿させてた。 (今回は米 Best Buy の予約受付中)
+# [[https://9to5google.com/2018/02/12/huawei-mate-10-fake-best-buy-reviews/][Huawei solicited 100+ fake Mate 10 Pro reviews on Best Buy to entice ‘beta testers]] (2018/02/12)
 #
 # Mate10 Lite
 # EMUI 5.1 (Android 7.0)
@@ -2483,6 +2540,10 @@ Mate9 が問題になってる。 (無問題了？？)
 #
 # P9, P9 Plus
 # ゴリラガラス。 (Corning)
+# カメラのレンズは中国 Sunny Optical Technology 製。 (独 Leica は設計と画像処理)
+# Google+ (SNS) のサンプル写真で、共同開発した Leica じゃなくて Canon の一眼レフを宣伝しちゃった。 (EXIF)
+# [[https://www.androidpolice.com/2016/04/21/huawei-and-leica-release-joint-statement-detailing-collaboration-on-p9-camera-but-its-still-pretty-vague/][Huawei And Leica Release Joint Statement Detailing Collaboration On P9 Camera, But It's Still Pretty Vague]] (2016/04/21)
+# [[https://www.androidpolice.com/2016/07/04/huawei-publishes-implied-p9-camera-sample-but-exif-data-reveals-4500-camera-took-it/][Huawei publishes implied P9 camera sample, but EXIF data reveals $4500 camera took it]] (2016/07/04)
 #
 # nova
 # au VoLTE 対応。
@@ -2557,6 +2618,14 @@ au とソフトバンクの VoLTE に対応予定。
 # [[https://chat-apac.asus.com/chatservice/index.htm?tenant=JP&lang=ja-jp][オンラインチャット]]
 # 自動起動マネージャー
 #
+# Zenfone Max Plus (M1)
+# Android 7
+# ソフトバンク VoLTE 対応。
+# DSDS 対応。 (SIMx2 + microSD スロット)
+# 大容量バッテリー。
+# インカメラで顔認証っぽいことができる。 (2D, 指紋認証もできる)
+# au 回線では使えない。
+#
 # Zenfone 4
 # | Max Pro | Android 7 | 大容量バッテリー、 DSDS+microSD | (ビックカメラ独占販売)
 # | Max     | Android 7 | 大容量バッテリー、 DSDS+microSD |
@@ -2592,8 +2661,7 @@ au とソフトバンクの VoLTE に対応予定。
 
 *** Moto G5S
 
-+米モトローラ製。+
-中国 Lenovo 製。
+中国 Lenovo 製。 (レノボ、聯想集団) +米モトローラ製。+
 Motorola -> Google (2012/05/22) -> Lenovo (2014/10/30)
 Android 8 に更新される予定。
 どの回線でも使える。 *(!?)*
@@ -2694,6 +2762,7 @@ Note7 は、バッテリーの爆発で回収されたけど。
 # Galaxy Apps
 # Galaxy Ai UX (S9?)
 # Secure Wi-Fi (VPN)
+# Samsung Pay
 #
 # Galaxy の SIM フリー版は、海外にしかない。
 #
@@ -2786,7 +2855,7 @@ au VoLTE 対応。
 
 *** Blade V8
 
-中国 ZTE 製。
+中国 ZTE 製。 (中興通訊)
 au VoLTE 対応。
 動画の特許問題で訴えられてる。 (H.264, 2017/02/15)
 # MyFavor UI
@@ -2805,7 +2874,7 @@ au VoLTE 対応。
 
 *** Pixel
 
-台湾 HTC 製。
+台湾 HTC 製。 (宏達国際電子)
 日本で売ってない。
 Pixel と名の付いたスマホは Google の発注したモデル。
 Nexus の後継。
@@ -2896,7 +2965,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # VoLTE?
 
 # *** Mi A1
-# 中国 Xiaomi (小米科技、シャオミ) 製。
+# 中国 Xiaomi 製。 (シャオミ、小米科技)
 # Mi 5X ベース。
 # Android One の割に高性能。
 # TJC が代理店。 (上陸する？)
@@ -2905,12 +2974,12 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # Xiaomi MIUI Forum
 
 # *** R11s
-# 中国 OPPO (オッポ、欧珀) 製。
+# 中国 OPPO 製。 (オッポ、欧珀)
 # 中国 BBK の子会社。
 # Android 7 (ColorOS 3.2)
 # DSDS 対応。
 # OLED は、韓国 Samsung 製。
-# カメラで顔認証っぽいことができる。 (128 facial features points, 2D, 指紋認証もできる)
+# インカメラで顔認証っぽいことができる。 (128 facial features points, 2D, 指紋認証もできる)
 # 国内大手キャリアの VoLTE に全て対応。 *(!?)*
 #
 # OPPO Japan 設立。 (2017/08/?? Emilai?)
@@ -2946,17 +3015,25 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # DSDS 対応。
 # 世界初のディスプレイ指紋認証。 (Clear ID)
 
-# *** Jelly Pro
-# 中国 Unihertz 製。
-# クラウドファンディング商品。 (米 Kickstarter)
-# 世界最小 2.45inch の 4G スマホ。 (Soyes 7S が発表されて、 2 番目になる予定)
-# 多言語対応。
-# 技適を取得する予定。 ([https://twitter.com/Unihertz/status/933542679366967296][Pro モデルのみ？]])
+*** Jelly Pro
+
+中国 Unihertz 製。 (Shanghai Unihertz E-Commerce, 上海集赫電子商務)
+クラウドファンディング商品。 (米 Kickstarter)
+世界最小 2.45inch で、名刺くらいの大きさの 4G スマホ。
+多言語対応。
+国内での正規販売は、 Amazon 経由なので注意。
+# Android 7
+# ドコモ VoLTE 対応らしい。
+# au 回線では使えない。
+# [[https://twitter.com/Unihertz/status/950567270681518080][技適]] を取得。 (2018/01/09)
+# 国内で正規販売開始。 (Amazon, 2018/01/30)
 #
 # ヴェルテ (ドゥモア) は Unihertz と代理店契約してない。 (2017/10/02)
 # 正規代理店との発表が多いけど、予定と書いてるとこもある。 (2017/05/22)
-# 技適を後日アップデートで表示？ (やめたかも？)
-# いまだに発送されてない分があるっぽい。 (2018/02/05)
+# 技適を後日アップデートで表示？
+# 出荷は開始してるハズ。 (2017/09/28)
+# いまだに発送してない分があるっぽい。 (2018/02/05)
+# [[http://welte.jp/law][当店は仕様、品質、納品、納期の保証、補償はしません。]] *(!?)*
 # [[http://welte.jp/ca7/71/p-r-s/][世界で2番目に小さいLTEスマホ「JellyPro」]]
 
 # *** Essential PH-1
@@ -2970,6 +3047,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # 技適を取得したみたい。 (Android 8.0 Beta 1, OPM1.170911.130, 2017/11/14)
 # 脆弱性 Meltdown and Spectre に対応するセキュリティパッチを即配信。 (NMJ88C, 2018/01/05)
 # Android 8.1 更新予定。 (Project Treble)
+#
 # ヴェルテ (ドゥモア) が、輸入代行しちゃうみたい。 (2018/02/02 予約開始)
 #
 # 2003 年 Android を設立。 (Andy Rubin は創業者の一人で開発者)
@@ -3103,11 +3181,19 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # [[https://opensource.apple.com/][Apple Open Source]]
 # [[https://github.com/apple/darwin-xnu][The Darwin Kernel (mirror)]]
 # Apple Beta Software Program
+# Xcode (iOS simulator)
 #
 # App Store でも 32bit アプリを段階的に廃止。 (2018 年から)
 # 32bit: iPhone 5/5c
 # 64bit: iPhone 5s
 # 5s -> SE
+#
+# 2018/04/?? 新しいアプリは、 iPhone X と iOS 11 SDK への対応が必須になる。
+# [[https://developer.apple.com/ios/submit/][Submitting iOS apps to the App Store]]
+# [[https://9to5mac.com/2018/02/15/apple-require-new-apps-support-iphone-x/][Apple will require all new apps to natively support iPhone X display from April]] (2018/02/15)
+#
+# WWDC 2018 (2018/06/04~08?)
+# iOS 12?
 #
 # Apple Special Event (2017/09/12)
 # iPhone 8/8Plus, X
@@ -3116,7 +3202,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # Super Retina Display (OLED, Burnin-mitigation, iPhone X)
 # Touch ID -> Face ID (A11 neural engine, infrared 30000 dots, 3D mesh, iPhone X)
 #
-# WWDC 2017
+# WWDC 2017 (2017/06/05~09)
 # iOS 11 developer beta start (64bit only)
 # iOS 11 public beta (end of june -> 2017/06/26)
 # iOS 11 release (2017 autumn -> 2017/09/19)
@@ -3361,6 +3447,7 @@ au は最初から、格安キャリアで 3G のパケット通信ができな�
 # | n  | 2.4, 5 |  600 |
 # | ac |      5 | 6933 |
 # | ad |     60 | 6700 |
+# | ax | 2.4, 5 | 9608 | (draft 2.0)
 #
 # 陸上無線通信委員会報告 (案) に対する意見募集。 (2017/10/17 総務省)
 # 一時的に 5.2GHz, 1W で高出力のアクセスポイントを使えるようにする？ (五輪とか)
