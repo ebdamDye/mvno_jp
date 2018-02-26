@@ -388,8 +388,9 @@
 # 本人確認は、契約よりも優先されるハードな業務の一つ。
 # ドコモや au も、以前に同じ是正命令を受けてた。
 
-# 2017/08/09 LINE の公式アカウントと My SoftBank アカウントを連携。
+# 2017/08/09 LINE のソフトバンク公式アカウントと My SoftBank アカウントを連携。
 # 2017/09/22 eSIM プラットフォームを提供開始。
+# 2018/02/22 LINE からパケットを追加購入できるようになった。
 
 ** ドコモ
 
@@ -537,7 +538,6 @@ au の子会社。
 au と一緒で、使えるスマホが限られる。
 au 以外からの乗り換えだとしばらく安いけど、縛りがキツイ。
 1980 円で使えるのは最初の 1 年だけ。
-# 2014/12/18 au 回線で開始。
 
 (V) が付いたプランは 4G しか使えない。
 音声通話には au VoLTE と SIM ロック解除が必須。
@@ -555,6 +555,7 @@ au に SIM ロックされたスマホでも使える。
 # 音声通話なしは、 "端末購入アシスト" を使えない。
 # 音声通話ありは、 1 年縛り。
 # "端末購入アシスト" は 2 年縛り。 (スマホの選択肢が少ない)
+# つながる端末保証は、匠ワランティアンドプロテクション提供。 (光通信グループ)
 #
 # これも IIJ の方がボヤいてた理由だよね？
 # そのうち遅くなったり、なくなったりするのかも。
@@ -588,6 +589,7 @@ Android スマホは SIM ロックされてない。 *(!?)*
 
 # "通信の最適化" はしてない。
 
+# 2014/12/18 au 回線で開始。
 # 2017/09/07 機種変更と口座振替を開始。
 
 # ** 楽天？
@@ -603,11 +605,13 @@ Android スマホは SIM ロックされてない。 *(!?)*
 # 2018/01/10 楽天モバイルネットワークを設立。
 # 2018/01/15 FREETEL を統合。
 # 2018/01/26 第 4 世代移動通信システムの普及のための特定基地局の開設計画に係る認定申請の受付 (総務省)
-#            (事業譲渡とかしたら、今回の割り当て周波数は返却させられる)
+#            (新規事業者に有利だけど、事業譲渡とかしたら今回の割り当て周波数は返納させられる)
 # 2018/02/01 "楽天でんわかけ放題 by 楽天モバイル" の終了を告知。 (2018/02/28 予定)
 #            (2017/04/24 から提供してた、時間無制限の音声通話定額は 10 ヶ月で終了)
 # 2018/02/13 2017 年度通期及び第 4 四半期決算説明会。
 #            (ローミングで全国カバーも検討、楽天モバイルの利用者には移行してもらう)
+# 2018/02/26 開設計画を提出。 (期限)
+# 2018/03/?? 認定されれば、周波数の割り当て。
 
 
 * 格安キャリア (MVNO で低速通信)
@@ -625,6 +629,14 @@ au 回線には UQ mobile と同じ制限がある。
 
 # キャリアメール (MMS) を使えない。
 # 大手キャリアの間で規格がバラバラなんだし、歓迎したい。
+#
+# 大手キャリアの間で、 RCS 導入が合意された？ (2018/04/?? 共同発表？)
+# 格安キャリアの接続料は？
+# 利用料金は？
+# Universal Profile 2.0? (2017/07/28)
+# SMS fallback?
+# [[http://tech.nikkeibp.co.jp/atcl/nxt/column/18/00001/00076/][［特報］NTT ドコモと au 、ソフトバンクが打倒 LINE で結託]] (2018/02/22)
+# [[http://tech.nikkeibp.co.jp/atcl/nxt/news/18/00208/][KDDIとソフトバンクが正式に認める、打倒LINEの新サービス導入]] (2018/02/23)
 
 # E-mail アドレスはあったりなかったりする。
 # 絵文字はだんだん増えそう。 (Unicode)
@@ -797,11 +809,17 @@ au 回線だと、音声通話には au VoLTE 対応のスマホがいる。
 # プレミアムコースは？
 # 晴れてるのに遅いなら、王国のせいではないと判別できる？
 
-# 王国では、平日のお昼休みに 1 Mbps、夕方に3 Mbps が目安。 (スタッフブログ)
+# 王国では、平日のお昼休みに 1Mbps、夕方に 3Mbps が目標。 (Ookla スピードテスト、 Osaka サーバ固定)
 # 計測は王国本庁舎の近くだけ。
 # 王国から離れるほど、これより遅くなりやすい。
 # ただし王国との距離は、地理的な距離には比例しない。
 # 回線にも距離のようなものがある。
+# [[https://king.mineo.jp/magazines/special/468][10月のネットワーク状況とトラフィック分析について]] (2016/11/11)
+#
+# 本庁舎を移転してから、計測方法が変更された。 (2017/01/22)
+# 3 つに増やした計測アプリは非開示で、平日のお昼休みは平均で 0.5Mbps くらい。
+# [[http://www.k-opti.com/press/2017/press49.html][株式会社ケイ・オプティコム本社移転のお知らせ]] (2018/01/04)
+# [[https://king.mineo.jp/magazines/special/750][12月～1月のmineoのネットワーク状況について]] (2018/01/22)
 #
 # 即位式 (CM?) で資金難なのかな。
 # あるいは、領事館 (店舗?) を増やしたせい？
@@ -931,7 +949,7 @@ au 回線にだけ、従量制のエコプランがある。 (SMS 付き)
 # IIJmio で代替機は用意してない。
 # IIJmio でスマホを買うときだけ契約できて、解約したら再契約できない。
 # データのバックアップや移行とかは、自分でやる。
-# (つながる端末保証は別のサービス)
+# (つながる端末保証は、光通信グループの匠ワランティアンドプロテクション提供)
 #
 # パケットを破棄すると遅くなるし、再送でパケット消費も増える。 (設備は安上りになるけど)
 # 再送の仕組みがないプロトコルもあるし、できるだけ一定の遅延で対応。 (UDP とか)
@@ -1107,7 +1125,8 @@ LINE のビデオ通話は、なぜかカウントフリーの対象になって
 
 # E-mail アドレスはない。
 
-# 提携する Wi-Fi スポットはない。
+# Secured Wi-Fi は、月額 +200 円。 (2018/02/21)
+# 0001_Secured_Wi-Fi (WPA2-EAP, EAP-TTLS)
 
 # LINE の新規利用者が ID 検索できるのは、格安キャリアではまだここだけ。
 # 大手キャリアの SIM を一時的に差して、年齢認証を済ませる方法はある。
@@ -1160,6 +1179,8 @@ LINE のビデオ通話は、なぜかカウントフリーの対象になって
 増資して、ソフトバンクの子会社になるみたい。 (2018/03/?? 予定)
 
 # 2016/10/01 ドコモ回線で開始。 (OCN)
+# 2018/03/?? ソフトバンクの子会社になる？
+# 2018/04/?? ソフトバンク回線の提供開始を予定？
 
 ** イオンモバイル
 
@@ -1421,7 +1442,7 @@ NTT コミュニケーションズでプロバイダをしてるところ。
 # [[https://qz.com/1131515/google-collects-android-users-locations-even-when-location-services-are-disabled/][Google collects Android users' locations even when location services are disabled]] (Quartz, 2017/11/21)
 
 # 認証の時に音声通話や SMS 、または SNS を使うのがある。
-# 通話アプリじゃないけど、キャリアメール (MMS) を要求する銀行とかもある。
+# 通話アプリじゃないけど、キャリアメールを要求する銀行とかもある。
 
 ビデオ通話は、パケットをたくさん必要とする。
 アプリ専用通話や IP 電話同士なら、低速モードで無料通話できる。
@@ -1504,6 +1525,7 @@ NTT コミュニケーションズでプロバイダをしてるところ。
 Apple 機器専用。
 相手の電話番号かメールアドレスが必要。
 # AAC-ELD?
+# Apple ID
 
 *** Messenger (Facebook)
 
@@ -1526,7 +1548,7 @@ Facebook に買収された。
 #
 # 欧州連合競争法 (EU Competition Law)
 # ビッグデータが競争を阻害することも懸念されてる。
-# データ保護指令 -> 一般データ保護規則 (GDPR: General Data Protection Regulation)
+# データ保護指令 -> 一般データ保護規則 (GDPR: General Data Protection Regulation, 2018/05/25)
 # 買収のときには、アカウント情報を共有しないと言ってた。
 # 欧州委員会は Facebook に罰金を科しただけみたい。 (2017/05/18)
 
@@ -1869,6 +1891,12 @@ OCN モバイル ONE との SIM 契約なしで使える。
 #
 # 米諜報機関オススメのスマホはどれかしら？
 # [[https://www.cnbc.com/2018/02/13/chinas-hauwei-top-us-intelligence-chiefs-caution-americans-away.html][Six top US intelligence chiefs caution against buying Huawei phones]] (Senate Intelligence Committee: 米上院情報委員会, 2018/02/13)
+#
+# ネット中立性を廃止。 (network neutrality, 2018/04/23~)
+# ネットが公共インフラじゃなくなる。
+# プロバイダが一部の通信を優遇したり、阻止や制限もできちゃう。
+# 迂遠な地球温暖化対策なのかも？
+# [[https://www.federalregister.gov/documents/2018/02/22/2018-03464/restoring-internet-freedom][Restoring Internet Freedom]] (2018/02/22)
 
 # 金盾ならいつでも体験できる。
 
@@ -2155,7 +2183,7 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 # | 2017/09/22 | au       |                  | 4CC CA                                                  |
 # | 2017/09/22 | SoftBank |                  | Massive MIMO 2.0 (Distributed, MultiUser, UL MultiUser) |
 # | 2017/10/?? | ドコモ   |                  | 4CC CA (下旬)                                           |
-# | 2018/12/21 | 3GPP     | NSA 5G NR        | early drop of Release 15                                |
+# | 2017/12/21 | 3GPP     | NSA 5G NR        | early drop of Release 15                                |
 # | 2018/06/?? | 3GPP     | SA 5G NR         | Release 15                                              |
 # | 2019/06/?? | 3GPP     |                  | Release 16 -> ITU-R IMT-2020                            |
 #
@@ -2172,11 +2200,14 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 #
 # CA (Carrier Aggregation: 搬送波集合)
 # CC (Component Carriers: 成分搬送波)
-# C-RAN (Centralized Radio Access Network: 集中型無線アクセスネットワーク)
 # QAM (Quadrature Amplitude Modulation: 直角位相振幅変調)
 # 4x4MIMO (Multiple-Input Multiple-Output)
 #
+# C-RAN (Centralized Radio Access Network: 集中型無線アクセスネットワーク)
 # D-RAN (Distributed Radio Access Network: 分散型無線アクセスネットワーク)
+# CU (Central Unit: 集約基地局)
+# DU (Distributed Unit: 分散基地局、リモート基地局)
+# AAS (Active Antenna System)
 # CoMP (Coordinated Multi-Point: 多地点協調)
 # Massive MIMO
 # HPUE (High Power User Equipment)
@@ -2286,16 +2317,24 @@ H.265(HEVC) はパテントプールで溺れてる。
 # "Clear ID" (FS9500, optical, Synaptics)
 # "Qualcomm Fingerprint Sensors" (sound waves, Qualcomm)
 
-# Snapdragon, MediaTek, Kirin, Exynos, ... (SoC)
+# SoC (Snapdragon, MediaTek, Kirin, Exynos, ...)
+# | tier    | Snapdragon |
+# |---------+------------|
+# | premium | 8??        |
+# | high    | 6??        |
+# | mid     | 4??        |
+# | low     | 2??        |
+#
 # SPU (Secure Processing Unit, Snapdragon 845, Qualcomm)
 # Hexagon 682 DSP (Digital Signal Processor, Hexagon SDK, Snapdragon 835, Qualcomm)
 # UFS3.0 (Universal Flash Storage, 11.6Gbps x2, 2.5V, JEDEC, 2018/01/30)
 # eMMC5.2 (embedded Multi Media Card, final?)
-# ARM OD (Object Detection, AI chip, Project Trillium)
-# ARM ML (Machine Learning, AI chip, Project Trillium)
+# Arm OD (Object Detection, AI chip, Project Trillium)
+# Arm ML (Machine Learning, AI chip, Project Trillium)
+# iSIM (integrated SIM, Kigen OS, CryptoIsland, Arm, MWC 2018)
 #
 # TensorFlow Lite developer preview (NNAPI, 2017/11/14, Google)
-# NPE (Neural Processing Engine, SDK, AI, Snapdragon 845, Qualcomm)
+# NPE (Neural Processing Engine, SDK, Snapdragon 845, Qualcomm AI Engine)
 # Caffe2, PyTorch (AI, Facebook)
 # CNTK (Cognitive Toolkit, AI, Microsoft)
 # ONNX (Open Neural Network Exhange, AI, Microsoft, Facebook)
@@ -2315,13 +2354,15 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Android Security Year In Review
 # USB OTG (On The Go, dual-role device)
 # USB Type-C
+# Micro-USB (EU Standard, Power Adaptor)
 # Android Studio (SDK, Emulator)
 # Android for Work (KNOX, Samsung)
-# Android Messages (SMS/MMS/RCS)
+# Android Messages (SMS/MMS/RCS, Jibe)
 # Firebase (MBaaS: Mobile Backend as a Service)
 # Android Excellence
 # AOSP (Android Open Source Project)
-# NFC (+Android Pay+, +Google Wallet+, Google Pay, Android 2.3, 2010/12/26)
+# NFC (Android 2.3, 2010/12/26)
+# Google Pay (NFC, +Google Wallet+, +Android Pay+, 2018/02/21)
 # DMARC (Domain-based Message Authentication - Reporting and Conformance, RFC 7489)
 # Android Beta Program (Nexus, Pixel)
 # eSIM Manager (com.google.android.euicc)
@@ -2331,6 +2372,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Pixel Visual Core (Pixel2, HDR+, Camera HAL, Android 8.1)
 # Datally (VPN)
 # Google Play Protect
+# [[https://www.android.com/enterprise/recommended/][Android Enterprise Recommended]] (MDM->EMM, Enterprise Mobility Management provider, zero-touch enrollment)
 #
 # ServiceMode, EngineerMode
 # custom ROM (LineageOS, Paranoid, ...)
@@ -2542,6 +2584,7 @@ Mate9 が問題になってる。 (無問題了？？)
 # ゴリラガラス。 (Corning)
 # カメラのレンズは中国 Sunny Optical Technology 製。 (独 Leica は設計と画像処理)
 # Google+ (SNS) のサンプル写真で、共同開発した Leica じゃなくて Canon の一眼レフを宣伝しちゃった。 (EXIF)
+# スマホ発売後には、 Leica 本社内に共同運営の研究開発センターを設立。 (Max Berek Innovation Lab, 2016/09/23)
 # [[https://www.androidpolice.com/2016/04/21/huawei-and-leica-release-joint-statement-detailing-collaboration-on-p9-camera-but-its-still-pretty-vague/][Huawei And Leica Release Joint Statement Detailing Collaboration On P9 Camera, But It's Still Pretty Vague]] (2016/04/21)
 # [[https://www.androidpolice.com/2016/07/04/huawei-publishes-implied-p9-camera-sample-but-exif-data-reveals-4500-camera-took-it/][Huawei publishes implied P9 camera sample, but EXIF data reveals $4500 camera took it]] (2016/07/04)
 #
@@ -2763,6 +2806,8 @@ Note7 は、バッテリーの爆発で回収されたけど。
 # Galaxy Ai UX (S9?)
 # Secure Wi-Fi (VPN)
 # Samsung Pay
+# Opera Max -> Samsung Max (browser)
+# Uhssup (SNS?)
 #
 # Galaxy の SIM フリー版は、海外にしかない。
 #
@@ -2793,7 +2838,7 @@ au VoLTE 対応。
 # ワンセグ (|\||-||< 受信料)
 #
 # 富士通周辺機も分社化して、工場をポラリスに売却する予定。
-# 製造は、新会社のジャパン・イーエム・ソリューションズになる。 (ODM)
+# 製造は、新会社のジャパン・イーエム・ソリューションズになる。 (ODM, 2018/02/?? JEMS 設立)
 #
 # M04
 # Android 7.1
@@ -2860,6 +2905,11 @@ au VoLTE 対応。
 動画の特許問題で訴えられてる。 (H.264, 2017/02/15)
 # MyFavor UI
 #
+# M Z-01K
+# Android 7
+# 2 画面折りたたみ。
+# ドコモの 2017 年冬モデル。 (ドコモと共同開発)
+#
 # V8
 # Android 7
 # au VoLTE 対応。
@@ -2908,7 +2958,7 @@ Nexus の後継。
 # 大手キャリアの 2017 夏モデルだった。 (ドコモからは発売されてない)
 # 日本 Band のほとんどに対応してるみたい。 (公式)
 # ソフトバンクと au から発売されたのは、他社の Band を削ったもの？
-# SIM フリーも発売されることになった。 (2018/03/??)
+# SIM フリーも発売される予定。 (2018/03/16)
 # おサイフ。
 # Android 8 更新予定。
 #
@@ -2917,7 +2967,7 @@ Nexus の後継。
 
 *** BlackBerry KEYone
 
-中国 TCL 製。 (ODM)
+中国 TCL Communication Technology 製。 (TCL 通訊科技)
 QWERTY 配列のキーボードが特徴。
 オバマ大統領の愛用品として有名だった製品の Android 版。
 # 仏 Alcatel は TCL の子会社。
@@ -2925,7 +2975,7 @@ QWERTY 配列のキーボードが特徴。
 # Alcatel SHINE LITE (au VoLTE 対応)
 # ドラゴントレイルガラス。 (旭化成)
 #
-# Vertu と提携
+# Vertu と提携。
 
 *** VAIO Phone A
 
@@ -2937,15 +2987,26 @@ VAIO 製。
 ノートパソコンや Apple Watch も作ってるところ。
 # ドコモ VoLTE (非公式), DSDS, CA
 
-*** View
+*** g08
 
-仏ベンチャー Wiko (ウイコウ) 製。
-中国 TINNO の子会社。 (ODM?)
+仏ベンチャー Wiko 製。 (ウイコウ)
+親会社の中国 Tinno Mobile Technology が製造してる。 (天瓏移動技術、 ODM)
 国内大手キャリアの VoLTE に全て対応。 *(!?)*
 DSDS 対応。 (SIMx2 + MicroSD)
-バッテリー交換できる。
+# ウイコウ・ジャパンを設立。 (2016/01/25)
+# 2017/02/25 に Tommy を発売。 (日本上陸)
+#
+# g08
+# Android 7
+# DSDS 対応。 (SIMx2 + microSD スロット)
+# 国内大手キャリアの VoLTE に全て対応。 *(!?)*
+# (View Prime がベース)
+#
 # View
 # Android 7
+# DSDS 対応。 (SIMx2 + microSD スロット)
+# 国内大手キャリアの VoLTE に全て対応。 *(!?)*
+# バッテリー交換できる。
 #
 # Tommy
 # 1 万円くらい。
@@ -2984,7 +3045,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 #
 # OPPO Japan 設立。 (2017/08/?? Emilai?)
 # OPPO Digital Japan とは違う。
-# 2018/02/09 に R11s を発売予定。 (日本上陸)
+# 2018/02/09 に R11s を発売。 (日本上陸)
 #
 # O-Share?
 #
@@ -3022,6 +3083,9 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 世界最小 2.45inch で、名刺くらいの大きさの 4G スマホ。
 多言語対応。
 国内での正規販売は、 Amazon 経由なので注意。
+# DuraSpeed
+#
+# Jelly Pro
 # Android 7
 # ドコモ VoLTE 対応らしい。
 # au 回線では使えない。
@@ -3152,6 +3216,22 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # *** Every Phone (YAMADA)
 # *** Mode1 RS (ピーアップ)
 
+# Android Go Edition
+#
+# Alcatel 1X (TCL)
+# MWC 2018
+# EUR100
+# ソフトバンク回線なら使えそう。
+#
+# Nokia 1
+# MWC 2018
+# US$85
+# ソフトバンク回線なら使えそう。
+#
+# Tempo Go (ZTE)
+# US$79.99
+# 国内では使えない。
+
 ** iOS (Apple)
 
 迷うことはありません。
@@ -3182,6 +3262,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # [[https://github.com/apple/darwin-xnu][The Darwin Kernel (mirror)]]
 # Apple Beta Software Program
 # Xcode (iOS simulator)
+# iMessage
 #
 # App Store でも 32bit アプリを段階的に廃止。 (2018 年から)
 # 32bit: iPhone 5/5c
@@ -3444,9 +3525,9 @@ au は最初から、格安キャリアで 3G のパケット通信ができな�
 # | a  |      5 |   54 |
 # | b  |    2.4 |   11 |
 # | g  |    2.4 |   54 |
-# | n  | 2.4, 5 |  600 |
-# | ac |      5 | 6933 |
-# | ad |     60 | 6700 |
+# | n  | 2.4, 5 |  600 | (Vantage)
+# | ac |      5 | 6933 | (Vantage)
+# | ad |     60 | 6700 | (WiGig)
 # | ax | 2.4, 5 | 9608 | (draft 2.0)
 #
 # 陸上無線通信委員会報告 (案) に対する意見募集。 (2017/10/17 総務省)
@@ -3472,7 +3553,7 @@ au は最初から、格安キャリアで 3G のパケット通信ができな�
 # 接続アプリは iOS 向けのみ。
 #
 # # 0001softbank (暗号化なし)
-# # 0002softbank (WPA2 エンタープライズ, 5GHz)
+# # 0002softbank (WPA2-EAP, 5GHz)
 # # mobilepoint (WEP)
 #
 # *** docomo Wi-Fi
@@ -3482,7 +3563,7 @@ au は最初から、格安キャリアで 3G のパケット通信ができな�
 # SIM 認証や ID/ パスワード認証で接続できる。
 #
 # # 0000docomo (WPA2)
-# # 0001docomo (IEEE802.1x)
+# # 0001docomo (WPA2-EAP)
 # # docomo (WEP) は廃止。
 #
 # *** au Wi-Fi
@@ -3491,7 +3572,7 @@ au は最初から、格安キャリアで 3G のパケット通信ができな�
 # 一部のプランで月額 +467 円。
 # 接続アプリがある。
 #
-# # au_Wi-Fi2 (WPA2エンタープライズ)
+# # au_Wi-Fi2 (WPA2-EAP)
 # # au_Wi-Fi (WPA2)
 # # Wi2premium_club (WPA2)
 # # Wi2_club (WPA2)
