@@ -427,6 +427,7 @@ DSDS 対応スマホで音声通話定額を利用するならドコモがおす
 # 2017/05/25 eSIM プラットフォームを提供開始。 (開発の発表は 2017/02/23)
 # 2017/??/?? 夏以降に発売されるスマホは、 IPv6 のデフォルト提供を予定。 (240a:6b::/32)
 # 2017/11/28 マルチプロファイル SIM を開発したと発表。 (渡航者向け？)
+# 2018/04/?? d 払いで、 QR コード決済を開始予定。
 
 ** au
 
@@ -496,10 +497,12 @@ au が売ったスマホ以外だと、 LTE NET for DATA の申し込みがい�
 | 音声通話込み     |  1GB |  3GB |  7GB |
 |------------------+------+------+------|
 | スマホベーシック | 5480 | 6480 | 8480 |
+# 2 年以上の縛りを受け入れるなら、月額で -2500 円。
 
 |                  |  1GB |  7GB |
 |------------------+------+------|
 | データベーシック | 3980 | 5696 |
+# 2 年以上の縛りを受け入れるなら、月額で -2000 円。
 
 +ソフトバンクの子会社。+
 ソフトバンクに吸収合併されてた。
@@ -605,13 +608,13 @@ Android スマホは SIM ロックされてない。 *(!?)*
 # 2018/01/10 楽天モバイルネットワークを設立。
 # 2018/01/15 FREETEL を統合。
 # 2018/01/26 第 4 世代移動通信システムの普及のための特定基地局の開設計画に係る認定申請の受付 (総務省)
-#            (新規事業者に有利だけど、事業譲渡とかしたら今回の割り当て周波数は返納させられる)
+#            (新規事業者は加点されるけど、事業譲渡とかしたら今回の割り当て周波数は返納させられる)
 # 2018/02/01 "楽天でんわかけ放題 by 楽天モバイル" の終了を告知。 (2018/02/28 予定)
 #            (2017/04/24 から提供してた、時間無制限の音声通話定額は 10 ヶ月で終了)
 # 2018/02/13 2017 年度通期及び第 4 四半期決算説明会。
 #            (ローミングで全国カバーも検討、楽天モバイルの利用者には移行してもらう)
 # 2018/02/26 開設計画を提出。 (期限)
-# 2018/03/?? 認定されれば、周波数の割り当て。
+# 2018/03/?? 認定されれば、周波数の割り当て。 (ソフトバンク、ドコモ、 au と競合)
 
 
 * 格安キャリア (MVNO で低速通信)
@@ -1179,6 +1182,7 @@ LINE のビデオ通話は、なぜかカウントフリーの対象になって
 増資して、ソフトバンクの子会社になるみたい。 (2018/03/?? 予定)
 
 # 2016/10/01 ドコモ回線で開始。 (OCN)
+# 2017/01/24 LINY Pay で QR コード決済を開始。
 # 2018/03/?? ソフトバンクの子会社になる？
 # 2018/04/?? ソフトバンク回線の提供開始を予定？
 
@@ -1894,29 +1898,53 @@ OCN モバイル ONE との SIM 契約なしで使える。
 #
 # ネット中立性を廃止。 (network neutrality, 2018/04/23~)
 # ネットが公共インフラじゃなくなる。
-# プロバイダが一部の通信を優遇したり、阻止や制限もできちゃう。
+# プロバイダが一部の通信を優遇したり、阻止や制限もできちゃう。 (実施したら公表ってことにはしてある)
 # 迂遠な地球温暖化対策なのかも？
 # [[https://www.federalregister.gov/documents/2018/02/22/2018-03464/restoring-internet-freedom][Restoring Internet Freedom]] (2018/02/22)
+#
+# Cellebrite は、御用達のアンロックサービス。 (Android, iOS)
+# サン電子が買収した、イスラエルの会社。 (2007/07/??)
+# スマホのロックに、プライバシーの保護とかはできない。
+# [[https://www.cellebrite.com/en/cas-sales-inquiry/][Advanced Unlocking & Extraction Sales Inquiry]]
+
 
 # 金盾ならいつでも体験できる。
+#
+# サイバーセキュリティ安全法を施行。 (網絡安全法、 2017/06/01)
+# 実名登録が必須になった。 (検閲もあるよ)
+# データローカライゼーション規制。
+# 国内で収集した個人情報は、国外に送信しちゃダメ。
+# 関係ない個人情報を扱うのもダメ。
+# 重要ってことにされたデータは、国外送信に審査がある。 (漏洩しそう？)
+# 国の基準に合った設備じゃないとダメ。
+# (国外に別のデータセンターがいる？)
+#
+# 憲法 79 条 3 項の一部を削除する？ (全国人民代表大会、 2018/03/05~20)
+# 鄧小平が作った、国家主席と副主席の退職制度がなくなる。 (これも毛沢東リバイバル？)
+# 汚職を摘発しまくったら、人材難で皇帝に？ (プラトフとパクウンに、プーさん？)
+# (改革開放の一環で、底も開放？)
 
 # "電気通信事業における個人情報保護に関するガイドライン" がある。
-#
 # ケーサツが勝手に位置情報を取得しても、通知しなくなった。 (2016/06/24 告示から)
 # 大手キャリアの販売するスマホには、公式バックドアをもれなくプリインストール。
 # ドコモは 2016 年夏モデルから。
 # それ以前のモデルも "ドコモ位置情報" アプリで対応。 (2016/05/19 に導入されたアプリ)
 # 次は外部から位置情報を ON にしたいそうな。
-#
 # 日本製のスマホが敬遠される理由の一つにもなった。
 # iPhone では動かないし、 SIM フリーのスマホにはプリインストールされてない。
 # 海外の製造元には、日本の公式バックドアに協力という汚名を着る理由ないし。
-#
 # 令状があれば位置情報の取得を制限なしにして、ケーサツを甘やかす予定だった。
 # 最高裁でこれまでの GPS 捜査が違法になったけど。 (2017/03/15 大法廷で全員一致の棄却)
 # 新たな立法措置で制限される？
-#
 # 監督官庁が自ら、大手キャリアの iPhone 販売ノルマ達成に協力しただけな気もする。
+#
+# 総務省で運営してる認証局は、ブラウザから信頼されなかった。 (ApplicationCA2 Root, Mozilla)
+# 認証業務は、ちゃんと手順を守れないと信頼されない。
+# おかしな証明書を破棄するように求められて、放っておけば期限切れになるよねって返事しちゃった。 (利用者が危険)
+# 担当職員の日給と通勤手当が心配されてる。 (8000 円？)
+# GPKI (Government Public Key Infrastructur, 政府認証基盤、政府公開鍵基盤)
+# [[https://bugzilla.mozilla.org/show_bug.cgi?id=870185][870185 - Add Renewed Japanese Government Application CA Root certificate>]] (WONTFIX: 修正されない、 2018/02/28)
+# [[http://yumetodo.hateblo.jp/entry/2018/02/28/232939][GPKIよ、おととい来やがれ！(タイトルで煽るスタイル)]] (2018/02/28)
 
 # 上場したら、ホームページに載ってなかった役員が...
 
@@ -2214,7 +2242,7 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 # NOMA (Non-Orthogonal Multiple Access: 非直交多元接続方式)
 # MUIC (Multi-user interference cancellation: マルチユーザ干渉キャンセル)
 # URLLC (Ultra-Reliable and Low Latency Communications: 高信頼低遅延通信)
-# eMBB (Enhanced Mobile Broadband)
+# eMBB (Enhanced Mobile Broadband: 高速大容量通信)
 # mMTC (Massive Machine Type Communication: 多数同時接続)
 #
 # WTP2017 (Wireless Technology Park, 2017/05/24,25,26)
@@ -2321,29 +2349,33 @@ H.265(HEVC) はパテントプールで溺れてる。
 # | tier    | Snapdragon |
 # |---------+------------|
 # | premium | 8??        |
+# | ?       | (700?)     |
 # | high    | 6??        |
 # | mid     | 4??        |
-# | low     | 2??        |
+# | low     | 2??        | (Qualcomm Mobile, entry)
 #
 # SPU (Secure Processing Unit, Snapdragon 845, Qualcomm)
-# Hexagon 682 DSP (Digital Signal Processor, Hexagon SDK, Snapdragon 835, Qualcomm)
 # UFS3.0 (Universal Flash Storage, 11.6Gbps x2, 2.5V, JEDEC, 2018/01/30)
 # eMMC5.2 (embedded Multi Media Card, final?)
+# iSIM (integrated SIM, Kigen OS, CryptoIsland, MWC 2018, Arm)
+#
+# Hexagon 682 DSP (Digital Signal Processor, Hexagon SDK, Snapdragon 835, Qualcomm)
 # Arm OD (Object Detection, AI chip, Project Trillium)
 # Arm ML (Machine Learning, AI chip, Project Trillium)
-# iSIM (integrated SIM, Kigen OS, CryptoIsland, Arm, MWC 2018)
+# AIE (Artificial Intelligence Engine, Snapdragon 845, Qualcomm)
+# Mobile APU (AI Processing Unit, NeuroPilot SDK, NNAPI, Helio P60, MediaTek)
 #
 # TensorFlow Lite developer preview (NNAPI, 2017/11/14, Google)
 # NPE (Neural Processing Engine, SDK, Snapdragon 845, Qualcomm AI Engine)
 # Caffe2, PyTorch (AI, Facebook)
 # CNTK (Cognitive Toolkit, AI, Microsoft)
-# ONNX (Open Neural Network Exhange, AI, Microsoft, Facebook)
+# ONNX (Open Neural Network Exhange, AI, Microsoft, Facebook, Qualcomm, MediaTek)
 # Apache MXNet (AI, Amazon)
 # Arm NN (Neural Network, SDK, Project Trillium)
 #
 # LDAC (Hi-Resolution Audio, lossy codec, Android 8, Sony)
 # PHA (Potentially Harmful Applications, Verify Apps)
-# SMS -> RCS (Rich Communication Service)
+# SMS -> RCS (Rich Communication Service, Jibe)
 # XMPP
 # Google Assistant (AI, Pixel Buds), Allo (Signal Protocol), iPhone
 # Project Fi (Nexus)
@@ -2357,7 +2389,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Micro-USB (EU Standard, Power Adaptor)
 # Android Studio (SDK, Emulator)
 # Android for Work (KNOX, Samsung)
-# Android Messages (SMS/MMS/RCS, Jibe)
+# Android Messages (SMS/MMS/RCS)
 # Firebase (MBaaS: Mobile Backend as a Service)
 # Android Excellence
 # AOSP (Android Open Source Project)
@@ -2373,6 +2405,9 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Datally (VPN)
 # Google Play Protect
 # [[https://www.android.com/enterprise/recommended/][Android Enterprise Recommended]] (MDM->EMM, Enterprise Mobility Management provider, zero-touch enrollment)
+# [[https://flutter.io/][Flutter SDK]] (beta1, Android and iOS cross-platform frameworks)
+# Fuchsia OS
+# Dart
 #
 # ServiceMode, EngineerMode
 # custom ROM (LineageOS, Paranoid, ...)
@@ -2385,6 +2420,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Noroot Firewall
 # FilterProxy
 # Termux
+# SUNBLAZE OS (Android Go Edition?, 4YFN, Amegumi)
 #
 # Google Experience Device, Google Play Edition (EOL)
 
@@ -2808,6 +2844,7 @@ Note7 は、バッテリーの爆発で回収されたけど。
 # Samsung Pay
 # Opera Max -> Samsung Max (browser)
 # Uhssup (SNS?)
+# Intelligent Scan (iris and face, 2D, Galaxy S9)
 #
 # Galaxy の SIM フリー版は、海外にしかない。
 #
@@ -2815,7 +2852,7 @@ Note7 は、バッテリーの爆発で回収されたけど。
 # 折りたたみできる？
 #
 # Note7->NoteFE
-# Note7 のバッテリー交換して再販予定。
+# Note7 のバッテリー交換して再販。
 #
 # S8, S8+
 # Exynos と Snapdragon のモデルがある。
@@ -3216,21 +3253,33 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # *** Every Phone (YAMADA)
 # *** Mode1 RS (ピーアップ)
 
-# Android Go Edition
+# Android Go Edition (MWC 2018~)
 #
 # Alcatel 1X (TCL)
-# MWC 2018
 # EUR100
 # ソフトバンク回線なら使えそう。
 #
 # Nokia 1
-# MWC 2018
 # US$85
 # ソフトバンク回線なら使えそう。
 #
 # Tempo Go (ZTE)
 # US$79.99
 # 国内では使えない。
+#
+# Tommy 3 (Wiko)
+# EUR99.99
+# ソフトバンク回線なら使えそう。
+#
+# Huawei Y5 Lite (2018)
+#
+# GM 8 Go (General Mobile, トルコ)
+# LAVA Z50 (Lava International, インド)
+# BHARAT GO (Micromax, インド)
+# TECNO, itel, Spice (TRANSSION, アフリカ)
+# A5 (China Mobile, 中国移動)
+# ...
+
 
 ** iOS (Apple)
 
@@ -3252,7 +3301,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # Micro LED
 # CallKit
 # Apple Pay
-# iCloud (free 5GB)
+# iCloud (free 5GB, Amazon S3, Google Cloud Platform, Microsoft Azure?, 雲上貴州大数据産業発展)
 # App Store Review Guideline
 # Apple Store (Genius Bar, Authorized third-party repair center, Horizon Machine)
 # Secure Enclave
@@ -3263,6 +3312,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # Apple Beta Software Program
 # Xcode (iOS simulator)
 # iMessage
+# Swift
 #
 # App Store でも 32bit アプリを段階的に廃止。 (2018 年から)
 # 32bit: iPhone 5/5c
