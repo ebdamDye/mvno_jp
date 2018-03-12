@@ -315,15 +315,30 @@
 # 円滑なインターネット利用環境の確保に関する検討会対応の方向性 (案) に対する意見募集 (2017/12/26 総務省)
 #
 # 電気通信事業法及び国立研究開発法人情報通信研究機構法の一部を改正する法律案 (2018/01/19 総務省)
-# 第 196 回国会 (常会) に、総務省が提出を予定してる法律案。 (まだ条文が見れない)
-# 総務省所管の情報通信研究機構 (NICT) が、調査ってことにして攻撃してくる？ (委託先からも？)
-# 不正アクセス禁止法の対象外にしちゃう？ (民間扱いの独立行政法人がすべてのアカウントを所有する？、事前許諾？、立ち会い？)
-# 電気通信事業者じゃないから、検閲の禁止と通信の秘密もおかまいなし？ (見て盗むだけって？)
-# 対象の拡大が予定されてそう？ (デフォルトの ID とパスワードのままになってる機器だけ？)
+# 第 196 回国会 (常会) に、総務省が提出。 (2018/03/06 閣議決定)
+# 総務省所管の情報通信研究機構 (NICT) が、調査ってことにして攻撃してくる。 (委託先からも)
+# NICT が委託できるのは、電気通信事業者が設立して総務大臣に認定された一般社団法人。
+# 勝手に ID とパスワードを入力してくるみたい。
+# 特定アクセスってことにして、不正アクセス禁止法の対象外にしちゃう。 *(!?)*
+# DDoS 攻撃とかに参加してる IP アドレスを特定することになってる。 (建前)
+# 特定できたら、電気通信事業者に通知して対処を求める。
+# 攻撃対象は、総務省令の基準未満な機器。 (これから制定)
+# NICT と委託先は、検閲の禁止と通信の秘密の対象になる。 (電気通信事業者扱い)
+# 5 年間の時限措置。 (拡大して延長したそう？)
+#
+# あぶない機器なら、勝手にログインしても不正アクセス禁止法とかに反しないというお墨付き？
+# 総務大臣による計画の認可が、機器の持ち主による事前承諾と同じ扱いにちゃう？
+# 総務省令で、コンピュータ不正アクセス対策基準を無視できちゃう？
+# 対象の機器は、デフォルトのまま放置されてるのとは限らない？
+# 民間扱いの独立行政法人が、すべてのアカウントを共有する？
+# よく使われてるパスワードとかも試す？ (brute-force?)
+# 攻撃で発生するパケットの料金とかは、誰が負担するのかしら？
+# [[https://github.com/danielmiessler/SecLists][OWASP SecLists Project]] (使っちゃダメなパスワードの一覧)
 #
 # 不正アクセス禁止法。 (不正アクセス行為の禁止等に関する法律のこと)
 # 勝手にログインとかしたらダメ。
 # 不正に ID やパスワードを手に入れるのもダメ。 (フィッシングとか)
+# コンピュータ不正アクセス対策基準とかもある。 (2000/12/28 の通商産業省告示 950 号)
 #
 # 刑法にもいくつか。
 # 電磁的記録不正作出及び供用。 (161 条 2)
@@ -342,6 +357,25 @@
 # 不正競争防止法。
 # 通信傍受法。 (犯罪捜査のための通信傍受に関する法律のこと、また対象を拡大したそう？)
 # ...
+
+# LTEInspector
+#
+# - Attach Procedure
+#   Authentication Synchronization Failure Attack
+#   Traceability Attack
+#   Numb Attack
+#   Authentication Relay Attack
+# - Paging Procedure
+#   Paging Channel Hijacking Attack
+#   Stealthy Kicking-off Attack
+#   Panic Attack
+#   Energy Depletion Attack
+#   Linkability Attack
+# - Detach Procedure
+#   Detach/Downgrade Attack
+#
+# [[http://www.zdnet.com/article/new-lte-attacks-eavesdrop-on-messages-track-locations-spoof-alerts/][New LTE attacks can snoop on messages, track locations and spoof emergency alerts]] (2018/03/02)
+# [[https://www.documentcloud.org/documents/4392401-4G-LTE-attacks-paper.html][4G LTE attacks paper]] (NDSS, 2018/02/18~21)
 
 ** ソフトバンク
 
@@ -614,6 +648,8 @@ Android スマホは SIM ロックされてない。 *(!?)*
 # 2018/02/13 2017 年度通期及び第 4 四半期決算説明会。
 #            (ローミングで全国カバーも検討、楽天モバイルの利用者には移行してもらう)
 # 2018/02/26 開設計画を提出。 (期限)
+# 2018/03/06 [[https://corp.rakuten.co.jp/news/press/2018/0306_01.html][楽天と東京電力グループ、携帯キャリア事業用基地局の設置における設備活用で合意]]
+#            (SITE LOCATOR?, 電力会社の鉄塔とかを借りるだけで十分とは書いてない)
 # 2018/03/?? 認定されれば、周波数の割り当て。 (ソフトバンク、ドコモ、 au と競合)
 
 
@@ -1094,6 +1130,7 @@ au 回線にだけ、従量制のエコプランがある。 (SMS 付き)
 # 2012/05/22 IPv6 対応。
 # 2014/11/27 DMARC 対応。
 # 2016/10/01 au 回線を開始。
+# 2018/03/01 020 番号開始。 (ドコモ回線)
 # 2018/03/?? 国内初のフル MVNO になる予定。 (HLR, HSS)
 #            新規でも LINE の年齢認証ができるようになる？ (いらない？)
 
@@ -1138,10 +1175,6 @@ LINE のビデオ通話は、なぜかカウントフリーの対象になって
 いつでもヘルプの AI が、トークで 24 時間サポートしてる。
 公式アカウントにいる AI 女子高生の "りんな" は、マイクロソフトの子。
 
-# "みどりくじ" は公式キャンペーン。
-# 開封すると、 LINE Pay アカウントを作成される。 (解約はできる)
-# クリックラップ契約としても、確認しにくいので非難された。
-
 # LINE Transparency Report (2017/04/24)
 # 情報透明性リポートの 2016 年下半期分。
 # 捜査機関からの開示請求は 1719 件。
@@ -1182,7 +1215,6 @@ LINE のビデオ通話は、なぜかカウントフリーの対象になって
 増資して、ソフトバンクの子会社になるみたい。 (2018/03/?? 予定)
 
 # 2016/10/01 ドコモ回線で開始。 (OCN)
-# 2017/01/24 LINY Pay で QR コード決済を開始。
 # 2018/03/?? ソフトバンクの子会社になる？
 # 2018/04/?? ソフトバンク回線の提供開始を予定？
 
@@ -1504,11 +1536,20 @@ NTT コミュニケーションズでプロバイダをしてるところ。
 暗号化された無料通話などができる。
 連絡帳の送信がデフォルト。
 スマホの動作が遅くなるかも。
+# AMR-WB or G.723.1a-L or G.723.1a-H?
+# ECDH over Curve25519, AES-256-CBC, SHA-256
+#
 # トークの一括バックアップは、 Google ドライブか iCloud が楽。 (7.5.0)
 # ローカルで引き継ごうとすると、めんどくさい。
 #
-# ECDH over Curve25519, AES-256-CBC, SHA-256
-# AMR-WB or G.723.1a-L or G.723.1a-H?
+# "みどりくじ" は公式キャンペーン。
+# 開封すると、 LINE Pay アカウントを作成される。 (解約はできる)
+# クリックラップ契約としても、確認しにくいので非難された。
+#
+# 2014/12/16 LINE Pay を開始。
+# 2017/01/24 LINE Pay で QR コード決済を開始。
+# 2018/03/06 LINE 請求書払いを開始。 (8.2.1)
+# 2018/03/07 LINE ウォレットを開始。 (8.3.0)
 
 *** SkyPhone (クアッドシステム)
 
@@ -1906,7 +1947,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # サン電子が買収した、イスラエルの会社。 (2007/07/??)
 # スマホのロックに、プライバシーの保護とかはできない。
 # [[https://www.cellebrite.com/en/cas-sales-inquiry/][Advanced Unlocking & Extraction Sales Inquiry]]
-
+# [[https://graykey.grayshift.com/][Grayshift]] (unlock tool, GrayKey)
 
 # 金盾ならいつでも体験できる。
 #
@@ -1917,10 +1958,11 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # 関係ない個人情報を扱うのもダメ。
 # 重要ってことにされたデータは、国外送信に審査がある。 (漏洩しそう？)
 # 国の基準に合った設備じゃないとダメ。
+# ...
 # (国外に別のデータセンターがいる？)
 #
-# 憲法 79 条 3 項の一部を削除する？ (全国人民代表大会、 2018/03/05~20)
-# 鄧小平が作った、国家主席と副主席の退職制度がなくなる。 (これも毛沢東リバイバル？)
+# 憲法 79 条 3 項の一部を削除。 (全国人民代表大会、 2018/03/11)
+# 鄧小平が作った、国家主席と副主席の退職制度がなくなった。 (これも毛沢東リバイバル？)
 # 汚職を摘発しまくったら、人材難で皇帝に？ (プラトフとパクウンに、プーさん？)
 # (改革開放の一環で、底も開放？)
 
@@ -1939,12 +1981,16 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # 監督官庁が自ら、大手キャリアの iPhone 販売ノルマ達成に協力しただけな気もする。
 #
 # 総務省で運営してる認証局は、ブラウザから信頼されなかった。 (ApplicationCA2 Root, Mozilla)
-# 認証業務は、ちゃんと手順を守れないと信頼されない。
+# 認証業務は、ちゃんと手順を守れないと信頼されない。 (BR 1.5.4)
 # おかしな証明書を破棄するように求められて、放っておけば期限切れになるよねって返事しちゃった。 (利用者が危険)
 # 担当職員の日給と通勤手当が心配されてる。 (8000 円？)
 # GPKI (Government Public Key Infrastructur, 政府認証基盤、政府公開鍵基盤)
 # [[https://bugzilla.mozilla.org/show_bug.cgi?id=870185][870185 - Add Renewed Japanese Government Application CA Root certificate>]] (WONTFIX: 修正されない、 2018/02/28)
 # [[http://yumetodo.hateblo.jp/entry/2018/02/28/232939][GPKIよ、おととい来やがれ！(タイトルで煽るスタイル)]] (2018/02/28)
+# [[https://cabforum.org/baseline-requirements-documents/][Baseline Requirements Documents]] (BR, CA Browser Forum)
+#
+# 個人情報保護法は、認定個人情報保護団体にすら運用されてないらしい。
+# [[http://takagi-hiromitsu.jp/diary/20180307.html][個人情報保護委員会ゥァア゛ーッ ドガシャア]] (2018/03/07)
 
 # 上場したら、ホームページに載ってなかった役員が...
 
@@ -2071,7 +2117,41 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # これからに期待。
 #
 # Android P メモ。
-# Kotlin (Android KTX)
+# 2018/03/07 Developer Preview 1 (initial release, alpha, *Pixel only*)
+# 2018/05/?? Developer Preview 2 (incremental update, beta, Google I/O 2018?)
+# 2018/06/?? Developer Preview 3 (final APIs and official SDK, Play publishing, beta)
+# 2018/06/?? Developer Preview 4 (release candidate for testing)
+# 2018/07/?? Developer Preview 5 (release candidate for final testing)
+# 2018/Q3    Final release to AOSP and ecosystem
+# - SensorManager
+#   バックグラウンドアプリが、センサーにアクセスするのを制限できる。 (カメラやマイクも)
+# - Data cost sensitivity (JobScheduler)
+#   ネットワークが混雑してたら、プリフェッチをやめたりできる。
+# - Client-side encryption (Backup Service)
+#   スマホで暗号化してからバックアップできる。 (復号化もスマホで)
+#   パスワードか PIN がいる。
+# - Network Security Configuration (network_security_config.xml)
+#   平文の通信は、ブロックするのがデフォルトになる。
+#   明示的に許可したところとだけ、平文でも通信できる。
+#   (ネットワークセキュリティ構成を使ってるアプリだけ)
+# - Wi-Fi RTT (Round-Trip-Time, IEEE 802.11mc)
+#   Wi-Fi だけでも位置情報を使える。 (接続しなくていい)
+#   RTT に対応してるアクセスポイントが、近くに 3 つ以上あればだけど。
+# - Do Not Disturb (PRIORITY_CATEGORY_ALARMS)
+#   アラームとそれ以外の通知を区別する。 (アラームは妨げない)
+# - FingerprintDialog
+#   指紋認証用の新しい API 。
+# - GlobalPlatform Open Mobile API (OMAPI)
+#   NFC のための新しい API 。
+# - HDR VP9 Profile 2, HEIF
+#   表示できるディスプレイを載せたスマホがいる。
+# - Private DNS (DNS-over-TLS)
+# - Dynamically MAC address
+# - StrongBox Keymaster (TEE, Hardware security module)
+# - Call Blocking? (DP2~?)
+# - Neural Networks API 1.1
+# - Kotlin (Android KTX)
+#   公式言語になる。
 #
 # Android 8 メモ。
 # 2017/03/21 Android O Developer Preview 1
@@ -2375,7 +2455,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 #
 # LDAC (Hi-Resolution Audio, lossy codec, Android 8, Sony)
 # PHA (Potentially Harmful Applications, Verify Apps)
-# SMS -> RCS (Rich Communication Service, Jibe)
+# SMS -> RCS (Rich Communication Service, Jibe, GSMA)
 # XMPP
 # Google Assistant (AI, Pixel Buds), Allo (Signal Protocol), iPhone
 # Project Fi (Nexus)
@@ -2408,6 +2488,8 @@ H.265(HEVC) はパテントプールで溺れてる。
 # [[https://flutter.io/][Flutter SDK]] (beta1, Android and iOS cross-platform frameworks)
 # Fuchsia OS
 # Dart
+# Java SE (Oracle JDK, ~Android 6)
+# OpenJDK (Java Development Kit, Android 7~)
 #
 # ServiceMode, EngineerMode
 # custom ROM (LineageOS, Paranoid, ...)
@@ -2421,8 +2503,16 @@ H.265(HEVC) はパテントプールで溺れてる。
 # FilterProxy
 # Termux
 # SUNBLAZE OS (Android Go Edition?, 4YFN, Amegumi)
+# Apache Cordova (Android, iOS, ...)
 #
 # Google Experience Device, Google Play Edition (EOL)
+
+# Android.Triada.231 (Trojan, Zygote process, from Shanghai)
+#
+# Leagoo, Doogee, Vertex, Advan, Cherry Mobile, ...
+# Poland, Indonesia, China, the Chezh Republic, Mexico, Kazakhstan, Serbia.
+# [[https://www.2-spyware.com/triada-banking-trojan-found-in-42-models-of-android-smartphones][Triada banking Trojan found in 42 models of Android smartphones]] (2018/03/05)
+# [[https://news.drweb.com/show/?i=11749&c=5&lng=en&p=0][over 40 models of Android devices delivered already infected from the manufacturers]] (Dr.Web, 2018/03/01)
 
 *** g06+
 
@@ -2579,7 +2669,7 @@ Mate9 が問題になってる。 (無問題了？？)
 # nova lite 2
 # EMUI 8.0 (Android 8.0)
 # ソフトバンク VoLTE 対応。
-# 更新で顔認証っぽいことができるようになる予定。
+# 更新で顔認証っぽいことができるようになった。 (FIG-LA1 8.0.0.126(C635), 2D)
 # au 回線では使えない。
 # 格安キャリアでしか扱ってない。
 #
@@ -2687,7 +2777,7 @@ Mate9 が問題になってる。 (無問題了？？)
 
 *** Zenfone 4 Max
 
-台湾 ASUS 製。
+台湾 ASUSTeK Computer 製。 (エイスース、華碩電脳)
 大容量バッテリー。
 DSDS 対応。 (SIMx2 + MicroSD スロット)
 au とソフトバンクの VoLTE に対応予定。
@@ -2975,10 +3065,10 @@ Nexus の後継。
 # 3 年間の更新保証。 (バージョンアップも)
 # ソフトバンク回線なら使えそう。
 # 技適なし。 *(!?)*
-# 日本では売ってない。 (年内の発売もなさそう？)
-# Nexus は発売から 2 年を過ぎたので、たぶん Android P Beta は降ってこない。
+# 日本では売ってない。 (発売しない？)
+# Nexus は発売から 2 年を過ぎたので、 Android P Beta は降ってこない。
 # Android One にも Beta 提供はない。
-# 日本在住の開発者は、手軽に最新 Android を試せるスマホがなくなりそう。
+# 日本在住の開発者は、手軽に最新 Android を試せるスマホがなくなった。
 # iPhone を使ってくれという、 Google からのメッセージだと誤解されてる。
 # Google 日本法人が iPhone まみれなだけに違いない。
 # 法改正を迫ってるとか？
@@ -2987,6 +3077,7 @@ Nexus の後継。
 # Pixel がなければ、 Android がもっと売れそう？
 # 大手キャリアの布教活動が、不当な取引制限になってる？
 # [[https://www.jftc.go.jp/houdou/pressrelease/h28/aug/160802.html][携帯電話市場における競争政策上の課題について(概要)]] (2016/08/02 公正取引委員会)
+# [[http://www8.cao.go.jp/kisei-kaikaku/suishin/meeting/wg/toushi/20180131/agenda.html][第13回投資等ワーキング・グループ 議事次第]] (2018/01/31 内閣府に、経団連が技適未取得の無線設備の国内持込みに係る規制緩和を要望)
 #
 # U11 life (Android One X2 のベース)
 # SIM フリーで発売される？
@@ -3063,7 +3154,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # VoLTE?
 
 # *** Mi A1
-# 中国 Xiaomi 製。 (シャオミ、小米科技)
+# 中国 Xiaomi Technology 製。 (シャオミ、小米科技)
 # Mi 5X ベース。
 # Android One の割に高性能。
 # TJC が代理店。 (上陸する？)
@@ -3072,7 +3163,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # Xiaomi MIUI Forum
 
 # *** R11s
-# 中国 OPPO 製。 (オッポ、欧珀)
+# 中国 OPPO Mobile Telecommunications 製。 (オッポ、欧珀移動通信)
 # 中国 BBK の子会社。
 # Android 7 (ColorOS 3.2)
 # DSDS 対応。
@@ -3252,6 +3343,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 
 # *** Every Phone (YAMADA)
 # *** Mode1 RS (ピーアップ)
+# *** CELL R1020? (mixi)
 
 # Android Go Edition (MWC 2018~)
 #
@@ -3277,9 +3369,8 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # LAVA Z50 (Lava International, インド)
 # BHARAT GO (Micromax, インド)
 # TECNO, itel, Spice (TRANSSION, アフリカ)
-# A5 (China Mobile, 中国移動)
+# A5 (China Mobile, 中国)
 # ...
-
 
 ** iOS (Apple)
 
@@ -3312,7 +3403,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # Apple Beta Software Program
 # Xcode (iOS simulator)
 # iMessage
-# Swift
+# Objective-C -> Swift
 #
 # App Store でも 32bit アプリを段階的に廃止。 (2018 年から)
 # 32bit: iPhone 5/5c
@@ -3408,6 +3499,7 @@ VoLTE 非対応がほとんど。
 # VoLTE 対応はできる？ (Snapdragon だし)
 # Cortana (AI, Skype)
 # Microsoft SIM
+# Xamarin (Android, iOS, ...)
 #
 # Windows Phone 8.1 までは、メインストリームサポートを終了。 (2017/07/11)
 # Windows 10 Mobile は 2019 年末で終了予定。
