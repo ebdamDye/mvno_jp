@@ -166,13 +166,13 @@
 他に 30 社くらいすぐに見つかったけど、全部は見てない。
 # ドコモ回線がほとんど。
 #
-# 電気通信サービスの契約数及びシェアに関する四半期データの公表 (2017/12/22 総務省)
-# SIM カード型の契約数における事業者別のシェアは、 IIJmio がトップ。
-# |           | IIJmio |   OCN |       楽天 | mineo | Sony 系 |
-# |-----------+--------+-------+------------+-------+---------|
-# | 2017/06   |  14.3% | 12.6% |      10.8% |  8.2% |    5.2% |
-# | 2017/09   |  14.1% | 12.3% |      11.6% |  8.7% |    5.0% |
-# | (2017/12) |        |       | (+FREETEL) |       |         |
+# 電気通信サービスの契約数及びシェアに関する四半期データの公表 (2018/03/16 総務省)
+# SIM カード型の契約数における事業者別のシェアは、楽天モバイルがトップ。
+# |         |       楽天 | IIJmio |   OCN | mineo | Sony 系 |
+# |---------+------------+--------+-------+-------+---------|
+# | 2017/06 |      10.8% |  14.3% | 12.6% |  8.2% |    5.2% |
+# | 2017/09 |      11.6% |  14.1% | 12.3% |  8.7% |    5.0% |
+# | 2017/12 | (*1) 15.4% |  14.0% | 11.8% |  9.3% |    5.2% | (*1) +FREETEL
 #
 # MVNO の契約数は、 10% くらい。
 # 2 次以降との重複や、 Y!mobile と UQ mobile を除いたもの。
@@ -180,12 +180,14 @@
 # |---------+---------+----------+----------|
 # | 2017/06 | 1636 万 | 16405 万 |     9.7% |
 # | 2017/09 | 1687 万 | 16534 万 |    10.0% |
+# | 2017/12 | 1764 万 | 16727 万 |    10.3% |
 #
-# MVNO は 753 社くらい。
+# MVNO は 817 社くらい。
 # |         | 1 次 | 2 次以降 |  計 |
 # |---------+------+----------+-----|
 # | 2017/06 |  331 |      382 | 713 |
 # | 2017/09 |  355 |      398 | 753 |
+# | 2017/12 |  403 |      414 | 817 |
 
 
 * 大手キャリア (MNO で高速通信)
@@ -327,7 +329,7 @@
 # 5 年間の時限措置。 (拡大して延長したそう？)
 #
 # あぶない機器なら、勝手にログインしても不正アクセス禁止法とかに反しないというお墨付き？
-# 総務大臣による計画の認可が、機器の持ち主による事前承諾と同じ扱いにちゃう？
+# 総務大臣による計画の認可が、機器の持ち主による事前承諾と同じ扱いになってる？
 # 総務省令で、コンピュータ不正アクセス対策基準を無視できちゃう？
 # 対象の機器は、デフォルトのまま放置されてるのとは限らない？
 # 民間扱いの独立行政法人が、すべてのアカウントを共有する？
@@ -359,6 +361,7 @@
 # ...
 
 # LTEInspector
+# IMSI とか公開しちゃダメ。
 #
 # - Attach Procedure
 #   Authentication Synchronization Failure Attack
@@ -954,6 +957,15 @@ au 回線にだけ、従量制のエコプランがある。 (SMS 付き)
 
 # @IIJ_doumae (てくろぐ)
 
+# IIJ Technical WEEK (2017/11/08)
+# 毎年 11 月開催らしい。
+#
+# IIJ Technical NIGHT (2018/03/14)
+# 年 2 回開催らしい。
+#
+# IIJmio meeting
+# 年 4 回開催らしい。
+
 # IIJmio meeting 14
 # 2016/12/19 PLMN 440-03 取得。 (MCC-MNC)
 # 2017/01/15 ITU Operational Bulletin No. 1116
@@ -1058,9 +1070,6 @@ au 回線にだけ、従量制のエコプランがある。 (SMS 付き)
 # | DSDS           | (MODEM + RF) * 1 | 時間を空けて、短時間で着信を確認する (DRX)       |
 # | DSDA           | (MODEM + RF) * 2 | 常に 2 つともアクティブ (バッテリー消費が増える) |
 
-# IIJ Technical WEEK 2017
-# 毎年 11 月開催らしい。
-
 # IIJmio meeting 18
 # #iijmio のツイートとスライドしか見てない。
 # 大阪のおみやげは、 IIJmio 限定の Zenfone 4 カスタマイズモデル。 (or ロゴ入りどらやき 256kcal といつもの IIJ 水)
@@ -1131,7 +1140,11 @@ au 回線にだけ、従量制のエコプランがある。 (SMS 付き)
 # 2014/11/27 DMARC 対応。
 # 2016/10/01 au 回線を開始。
 # 2018/03/01 020 番号開始。 (ドコモ回線)
-# 2018/03/?? 国内初のフル MVNO になる予定。 (HLR, HSS)
+# 2018/03/15 法人向けにフル MVNO 開始。 (HLR, HSS, ドコモ回線で国内初)
+# 2018/04/02 プリペイド SIM でフル MVNO 開始予定。 (Japan Travel SIM)
+#            SIM ロックされたスマホじゃ使えないので注意。 *(for Unlocked phone)*
+#            同じ回線なら解除なしでも使える、これまでのプリペイド SIM も提供を続けるみたい。
+# 2018/夏?   個人向けのフル MVNO 開始予定。 (データ通信 SIM のみ)
 #            新規でも LINE の年齢認証ができるようになる？ (いらない？)
 
 ** LINE モバイル
@@ -2126,7 +2139,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # - SensorManager
 #   バックグラウンドアプリが、センサーにアクセスするのを制限できる。 (カメラやマイクも)
 # - Data cost sensitivity (JobScheduler)
-#   ネットワークが混雑してたら、プリフェッチをやめたりできる。
+#   ネットが混雑してたら、先読みをやめたりできる。
 # - Client-side encryption (Backup Service)
 #   スマホで暗号化してからバックアップできる。 (復号化もスマホで)
 #   パスワードか PIN がいる。
@@ -2508,11 +2521,18 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Google Experience Device, Google Play Edition (EOL)
 
 # Android.Triada.231 (Trojan, Zygote process, from Shanghai)
+# 上海のソフトウェア開発会社が、ウイルスを入れてた。 (製造段階)
 #
 # Leagoo, Doogee, Vertex, Advan, Cherry Mobile, ...
 # Poland, Indonesia, China, the Chezh Republic, Mexico, Kazakhstan, Serbia.
 # [[https://www.2-spyware.com/triada-banking-trojan-found-in-42-models-of-android-smartphones][Triada banking Trojan found in 42 models of Android smartphones]] (2018/03/05)
 # [[https://news.drweb.com/show/?i=11749&c=5&lng=en&p=0][over 40 models of Android devices delivered already infected from the manufacturers]] (Dr.Web, 2018/03/01)
+
+# RottenSys
+#
+# 販売店が、売るスマホを開封して不正なアプリをインストールしてた？ (中国)
+# 国内でも、開封してアプリをインストールをしてくるとこはあるけど。 (大手キャリアや楽天にゲオとか)
+# [[https://research.checkpoint.com/rottensys-not-secure-wi-fi-service/][RottenSys: Not a Secure Wi-Fi Service At All]] (Check Point Software Technologies, 2018/03/14)
 
 *** g06+
 
@@ -2787,6 +2807,8 @@ au とソフトバンクの VoLTE に対応予定。
 # [[https://chat-apac.asus.com/chatservice/index.htm?tenant=JP&lang=ja-jp][オンラインチャット]]
 # 自動起動マネージャー
 #
+# Zenfone 5 Lite?
+#
 # Zenfone Max Plus (M1)
 # Android 7
 # ソフトバンク VoLTE 対応。
@@ -3037,6 +3059,10 @@ au VoLTE 対応。
 # 2 画面折りたたみ。
 # ドコモの 2017 年冬モデル。 (ドコモと共同開発)
 #
+# V8Q
+# Android 7
+# DSDS 対応。
+#
 # V8
 # Android 7
 # au VoLTE 対応。
@@ -3083,12 +3109,13 @@ Nexus の後継。
 # SIM フリーで発売される？
 #
 # U11
-# 大手キャリアの 2017 夏モデルだった。 (ドコモからは発売されてない)
-# 日本 Band のほとんどに対応してるみたい。 (公式)
-# ソフトバンクと au から発売されたのは、他社の Band を削ったもの？
-# SIM フリーも発売される予定。 (2018/03/16)
+# Android 8
+# 国内大手キャリアの VoLTE に全て対応。 *(!?)*
+# どの回線でも使える。 *(!?)*
 # おサイフ。
-# Android 8 更新予定。
+# SIM フリー版が発売された。 (2018/03/16)
+# 大手キャリアの 2017 夏モデルもある。 (Android 7, ドコモからは発売されてない)
+# ソフトバンクと au から発売されたのは、他社の Band を削ったもの。
 #
 # Pixel XL
 # 日本では売ってない。
@@ -3149,9 +3176,11 @@ DSDS 対応。 (SIMx2 + MicroSD)
 au VoLTE 対応。
 防水おサイフ。
 SIM フリーは、 UQ mobile と mineo でしか扱ってない？
-# Kyocera DuraForce PRO
+# DURA FORCE(R) PRO
 # Android 7.1.2
 # VoLTE?
+# 防水。 (MIL-STD-810G)
+# IP トランシーバー。
 
 # *** Mi A1
 # 中国 Xiaomi Technology 製。 (シャオミ、小米科技)
@@ -3215,6 +3244,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 #
 # Jelly Pro
 # Android 7
+# Android 8.1 更新予定。
 # ドコモ VoLTE 対応らしい。
 # au 回線では使えない。
 # [[https://twitter.com/Unihertz/status/950567270681518080][技適]] を取得。 (2018/01/09)
@@ -3222,9 +3252,11 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 #
 # ヴェルテ (ドゥモア) は Unihertz と代理店契約してない。 (2017/10/02)
 # 正規代理店との発表が多いけど、予定と書いてるとこもある。 (2017/05/22)
-# 技適を後日アップデートで表示？
 # 出荷は開始してるハズ。 (2017/09/28)
-# いまだに発送してない分があるっぽい。 (2018/02/05)
+# 技適はアップデートで表示された。 (Unihertz_Jelly-Pro_20180308, 2018/03/12)
+# とうとう [[https://twitter.com/UnihertzJapan/status/973787330027905026]["全然取引がありませんよ"]] ってツイートされちゃった。 (@UnihertzJapan, 2018/03/13)
+# いまだに発送してない分があるっぽい。 (2018/03/19)
+# 少なめの発注でより多くのキャンセル料をってこと？
 # [[http://welte.jp/law][当店は仕様、品質、納品、納期の保証、補償はしません。]] *(!?)*
 # [[http://welte.jp/ca7/71/p-r-s/][世界で2番目に小さいLTEスマホ「JellyPro」]]
 
@@ -3235,10 +3267,11 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # 商標を使わないようにと、 Spigen が文書を送ったらしい。
 # Android 7.1.1
 # 国内大手キャリアの VoLTE に全て対応。 *(!?)*
+# 世界初のノッチディスプレイ。
 # 脆弱性 KRACK に対応するセキュリティパッチを先行配信。 (NMJ20D, 2017/10/31)
 # 技適を取得したみたい。 (Android 8.0 Beta 1, OPM1.170911.130, 2017/11/14)
 # 脆弱性 Meltdown and Spectre に対応するセキュリティパッチを即配信。 (NMJ88C, 2018/01/05)
-# Android 8.1 更新予定。 (Project Treble)
+# Android 8.1 更新。 (OPM1.180104.092, Project Treble, 2018/03/13)
 #
 # ヴェルテ (ドゥモア) が、輸入代行しちゃうみたい。 (2018/02/02 予約開始)
 #
@@ -3291,17 +3324,23 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # 今後は、 GOTA (Google Over The Air) で発売するって。
 # (Energy X Plus 2, Studio Touch, Advance 4.0 L2, Neo XL, Energy Diamond)
 
-# *** CAT S60
+# *** CAT S41
 #
 # 英 Bullitt Mobile 製。
 # 許可を得て、建設機械とかを作ってる Caterpillar の名前で売ってる。
 # 代理店は、オンキヨー＆パイオニアマーケティング。
+# Android 7
+# DSSS 対応。
+# バッテリーシェア。 (USB Type-A)
+# 防水。 (MIL-STD-810G)
+#
+# CAT S60
 # 工事現場向けの機能がある。
 # Android 6
 # App Toolbox
 # サーマルカメラ。 (FLIR, 写真に低解像度の温度分布を合成)
 # SOS ボタン。 (Location Alert)
-# 防水。
+# 防水。 (MIL-STD-810G)
 
 # *** Ice (米 Amazon)
 # *** GRANBEAT (ONKYO)
@@ -3414,7 +3453,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # [[https://developer.apple.com/ios/submit/][Submitting iOS apps to the App Store]]
 # [[https://9to5mac.com/2018/02/15/apple-require-new-apps-support-iphone-x/][Apple will require all new apps to natively support iPhone X display from April]] (2018/02/15)
 #
-# WWDC 2018 (2018/06/04~08?)
+# WWDC 2018 (2018/06/04~08)
 # iOS 12?
 #
 # Apple Special Event (2017/09/12)
