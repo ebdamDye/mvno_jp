@@ -105,7 +105,7 @@
 # 通知がこない。 (keepalive, CG-NAT)
 # 通話アプリとかが使いにくい。 (遅延、パケロス)
 # 通信の最適化。 (劣化)
-# Google Play まで規制。
+# Google Play まで規制。 (DPI: Deep Packet Inspection, SPI: Stateful Packet Inspection)
 # ...
 
 # 通信速度の表示には、総務省の実効速度に関するガイドラインがある。
@@ -118,13 +118,16 @@
 # 信号強度や遅延とパケロスは、計測するけど公開しなくていい。
 #
 # 広告表示を同じにする。
-# "最高速度" は規格値。 (理論上の)
+# "最高速度" は規格値。 (理論上の上限)
 # "実効速度" は公称値。 (混雑してないときの)
 # 最高速度は、実効速度といっしょに表示する。
 #
 # 大手キャリア自身で計測してる。 (年 1 回以上)
 # ホームページのどこかで公表。
-# (アナライザを持ち歩くような人たちは、これでも喜んでるけど)
+# ソフトバンクと au のは、無線の通信速度じゃないので注意。 (2018/03/??)
+# 測定したときの上りの最高速度は、理論上の上限を越えてる。 *(!?)*
+# スマホで圧縮して送ったデータを、途中で元に戻して届けるのが原因。 (UDC: Uplink Data Compression)
+# (アナライザを持ち歩いてそうな人たちは、これでも楽しそうだけど)
 #
 # 格安キャリアはこれから。
 # より小規模なだけ？
@@ -652,10 +655,12 @@ Android スマホは SIM ロックされてない。 *(!?)*
 # 2018/02/13 2017 年度通期及び第 4 四半期決算説明会。
 #            (ローミングで全国カバーも検討、楽天モバイルの利用者には移行してもらう)
 # 2018/02/26 開設計画を提出。 (期限)
+#            (ソフトバンク、ドコモ、 au と競合)
 # 2018/03/06 [[https://corp.rakuten.co.jp/news/press/2018/0306_01.html][楽天と東京電力グループ、携帯キャリア事業用基地局の設置における設備活用で合意]]
 #            (SITE LOCATOR?, 電力会社の鉄塔とかを借りるだけで十分とは書いてない)
 # 2018/03/23 [[https://corp.rakuten.co.jp/news/press/2018/0323_01.html][携帯キャリア事業用基地局の設置における中部電力の電力設備活用について]]
-# 2018/03/?? 認定されれば、周波数の割り当て。 (ソフトバンク、ドコモ、 au と競合)
+# 2018/03/27 [[https://corp.rakuten.co.jp/news/press/2018/0327_01.html][楽天、携帯キャリア事業用基地局の設置において関西電力グループの設備を活用]]
+# 2018/??/?? 認定されれば、周波数の割り当て。
 
 
 * 格安キャリア (MVNO で低速通信)
@@ -795,8 +800,8 @@ au 回線だと、音声通話には au VoLTE 対応のスマホがいる。
 # MVNOに係る電気通信事業法及び電波法の適用関係に関するガイドラインの改定 (2017/09/28 総務省)
 # 運用開始。
 
-# 4G の L2 接続料は年度末に改定。 (JPY/10Mbps)
-# |      |   ドコモ |      au | ソフトバンク |
+# L2 接続料は年度末に改定。 (JPY/10Mbps)
+# |   4G |   ドコモ |      au | ソフトバンク |
 # |------+----------+---------+--------------|
 # | 2008 | 12671760 |         |              |
 # | 2009 |  9396038 |         |              |
@@ -807,7 +812,7 @@ au 回線だと、音声通話には au VoLTE 対応のスマホがいる。
 # | 2014 |   945059 | 1166191 |      1352562 |
 # | 2015 |   784887 |  967983 |      1166697 |
 # | 2016 |   674818 |  858335 |       948803 |
-# | 2017 |          |         |              |
+# | 2017 |   552075 |  765638 |       773519 |
 
 # 2017/01/31 au(KDDI) が BIGLOBE を買収。
 # 2017/04/01 ノジマが NifMo(ニフティ) を買収。
@@ -842,11 +847,12 @@ au 回線だと、音声通話には au VoLTE 対応のスマホがいる。
 
 パケットを、シェアしたり贈ったりできる。 (フリータンク、チップ、ギフト)
 "mineo スイッチ" アプリで節約 ON にすれば、パケットを消費しない。 (200kbps)
-# "mineo アプリ" (2018/03/??)
-# mineo レーダー搭載。 (GPS)
-# 王国警察による、位置情報の収集を布告 (事業説明会？) 。
+# "mineo アプリ"  (2018/03/29)
+# mineo レーダー搭載予定。 (GPS, 2018/04/??)
+# 王国警察による、位置情報の収集を布告。 (事業説明会？)
 # 近くの王国民を表示できちゃう。 (1km^2 グリッド内の位置はランダムらしい)
 # 新しい王政 (フツー？) をつくる。 (絶対王政？)
+# [[https://twitter.com/biz4g/status/979238630701936640][起動直後から数秒毎にomnitureに平文で端末情報を送っててお行儀よくない]] (@biz4g, 2018/03/29)
 
 パケットの繰り越しは翌月まで。 (1MB 単位?)
 翌月は繰り越し分のパケットから利用できる。
@@ -1148,7 +1154,7 @@ au 回線にだけ、従量制のエコプランがある。 (SMS 付き)
 # 2016/10/01 au 回線を開始。
 # 2018/03/01 020 番号開始。 (ドコモ回線)
 # 2018/03/15 法人向けにフル MVNO 開始。 (HLR, HSS, ドコモ回線で国内初)
-# 2018/04/02 プリペイド SIM でフル MVNO 開始予定。 (Japan Travel SIM)
+# 2018/04/02 プリペイド SIM でフル MVNO 開始。 (Japan Travel SIM)
 #            SIM ロックされたスマホじゃ使えないので注意。 *(for Unlocked phone)*
 #            同じ回線なら解除なしでも使える、これまでのプリペイド SIM も提供を続けるみたい。
 # 2018/夏?   個人向けのフル MVNO 開始予定。 (データ通信 SIM のみ)
@@ -1610,7 +1616,7 @@ Apple 機器専用。
 # 第三者がほとんど全てのデータを利用できた頃があって、そのときは FTC と和解。 (2012/08/10)
 # データを第三者と共有するときには、必ずユーザーに通知したり事前に同意を得るとかで合意してた。 (違反したら制裁金)
 # ケンブリッジ大学の Aleksandr Kogan が、作ったアプリで同意のないデータを取得。 (2013/??/??~)
-# アプリに制限を加わえて、同意のないデータの取得ができなくなった？ (2014/??/??)
+# アプリに制限を加わえて、同意のないデータは取得できなくなった？ (2014/??/??)
 # 問題のデータは、英 Cambridge Analytica に売られてたと判明。 (2015/??/??)
 # 2016 年の米大統領選挙に利用されたみたい。 (露ゲート？)
 # 米連邦取引委員会が調査中。 (FTC: Federal Trade Commission, 公正取引委員会みたいなとこ)
@@ -1904,11 +1910,11 @@ LINE モバイルならパケットを消費しない。
 # |                0035 | NTT コミュニケーションズ | できる   |
 # |                0037 | 楽天コミュニケーションズ | できる   |
 # |                0063 | ソフトバンク             | できない |
+# |                0067 | りーふねっと             | できる   | (PCI HD)
 # |              009120 | ブラステル (Brastel)     | できる   |
 # (*1) プレフィックス番号は、事業者識別番号を含んでる。
 #
 # 番号通知できない中継電話の一部。
-# |   0063 | mineo でんわ   | mineo        | できたてなのに (2017/03/01)  |
 # |   0063 | G-Call (*1)    | ジーエーピー | 会社は東京都にある (始祖？)  |
 # |   0063 | BIGLOBE でんわ | BIGLOBE      | 緊急通報とかもできる         |
 # | 非公開 | U-CALL (*2)    | U-mobile     | 緊急通報とかもできる、 0063? |
@@ -1922,10 +1928,10 @@ LINE モバイルならパケットを消費しない。
 
 月額 0 円、国内通話は全て 10 円/ 30 秒。 (1200 円/ 1 時間)
 申し込みがいる。
-固定電話に番号通知できない。
 # 0063
+# 0067-51 (NTT 固定専用？)
 #
-# 番号通知は協議中。
+# 番号通知できるようになった。 (2018/03/29)
 
 *** みおふぉんダイアル (IIJmio)
 
@@ -2256,10 +2262,47 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # あとは、バージョンアップを保証して売ってるスマホがあるくらい？
 
 # Google Play
+#
 # 2018/08/?? 新しいアプリは、 Android 8.0 (API26) 対応が必須。 (targetSdkVersion)
 # 2018/11/?? アプリの更新で、 Android 8.0 (API26) 対応が必須。
 # 2019/08/?? 新しいアプリやアプリの更新で、 64bit 対応が必須。 (multiple APK)
 # 2019/??/?? デザート (e.g. O,P,Q) に、 1 年以内の対応が必須？ (minSdkVersion)
+
+# Google が Java API の著作権を侵害したとして、 Oracle から訴えられてる。 (係争中)
+#
+# API に著作権が認められた判例として、注目されてた。 *(!?)*
+# これからは API が、必ず著作権で保護されるって判決じゃないけど。
+# 今回は、フェアユースも認められそうにない？ (公正利用なら賠償なし)
+# (認められなかった 7 件の特許権と、 9 行のソースコード無断複製については省略)
+#
+# 2008/10/22 T-Mobile G1 発売。 (Android 1.6)
+# 2010/01/27 Oracle が Sun Microsystems を買収。 (Java を含む)
+# 2010/08/12 Oracle が Google を提訴。 (Sun の頃の、 37 個の Java API を著作権侵害)
+# 2012/05/07 地裁は、著作権侵害を認めなかった。 (Oracle が控訴)
+# 2014/05/09 控訴裁は、著作権侵害を認めた。 (Google が上告)
+# 2015/06/29 最高裁で、今回は Java API が著作権で保護されると確定。 (Google のフェアユースかどうかで地裁に差し戻し)
+# 2016/05/26 地裁は、フェアユースを認めた。 (Oracle が控訴)
+# 2018/03/27 控訴裁は、フェアユースを認めなかった。 (賠償額については地裁に差し戻し、 Google は上告する？)
+# [[https://en.wikipedia.org/wiki/Oracle_America,_Inc._v._Google,_Inc.][Oracle America, Inc. v. Google, Inc. ]]
+# [[http://www.orangeitems.com/entry/2018/03/28/173616][OracleとGoogleのJava著作権侵犯裁判の現状を知る（2018年版）]] (2018/03/28)
+#
+# | Android | VM                                   | JDK                                          |
+# |---------+--------------------------------------+----------------------------------------------|
+# | 1.5~2.2 | Dalvik (Apache Harmony, interpreter) | Java SE 5                                    | (2.2~, JIT)
+# | 2.3~4.4 | Dalvik (Apache Harmony, JIT)         | Java SE 6                                    | (4.4~, AOT)
+# | 5~6     | ART (Apache Harmony, AOT)            | OpenJDK 7 (GPLv2 + Classpath Exception)      |
+# | 7~8     | ART (OpenJDK, PGC)                   | OpenJDK 8 (bundled with Android Studio 2.2~) |
+#
+# VM (Virtual Machine)
+# Apache Harmony (defunct, 2011/11/04)
+# ART (Android RunTime)
+# JIT (Just In Time compilation, アプリを実行するたびにコンパイル)
+# AOT (Ahead Of Time compilation, アプリをインストールするときにコンパイル)
+# PGC (Profile Guided Compilation, JIT+AOT, アプリを実行してみて重いとこだけコンパイル)
+#
+# JDK (Java Development Kit)
+# LTS (Long Term Support)
+# OpenJDK 11 (LTS?, 2018/09/??)
 
 前に普及してた Android 6 なら、 20000 円くらい？
 Android 5 スマホなら 10000 円くらい？
@@ -2433,7 +2476,10 @@ H.265(HEVC) はパテントプールで溺れてる。
 #
 # Alliance for Open Media (2015/09/01)
 # VP10 -> AV1 (AOMedia Video 1, royalty-free)
-# 規格ができたら、 Youtube はこっちに移行するみたい。
+# Youtube とかは、こっちに移行するみたい。
+# [[https://aomedia.org/the-alliance-for-open-media-kickstarts-video-innovation-era-with-av1-release/][The Alliance for Open Media Kickstarts Video Innovation Era with “AV1” Release]] (2018/03/28)
+#
+# AVIF (AV1 Still Image File Format)
 
 # 2017/05/25 dtab Compact d-01J タブレット発売。 (Huawei MediaPad M3 ベース)
 # 消費者向けとしては初の eSIM 搭載。
@@ -2504,7 +2550,8 @@ H.265(HEVC) はパテントプールで溺れてる。
 # USB OTG (On The Go, dual-role device)
 # USB Type-C
 # Micro-USB (EU Standard, Power Adaptor)
-# Android Studio (SDK, Emulator)
+# Android Studio (SDK: Software Development Kit, Emulator, OpenJDK)
+# Android NDK (Native Development Kit, C, C++)
 # Android for Work (KNOX, Samsung)
 # Android Messages (SMS/MMS/RCS)
 # Firebase (MBaaS: Mobile Backend as a Service)
@@ -2525,8 +2572,11 @@ H.265(HEVC) はパテントプールで溺れてる。
 # [[https://flutter.io/][Flutter SDK]] (beta1, Android and iOS cross-platform frameworks)
 # Fuchsia OS
 # Dart
-# Java SE (Oracle JDK, ~Android 6)
-# OpenJDK (Java Development Kit, Android 7~)
+# Kotlin (Android Studio 3.0~, KTX)
+# GMS (Google Mobile Services)
+# GSF ID (Google Service Framework, CTS)
+# Android ID ("settings get secure android_id", adb, generated on first boot)
+# Device certification ([[https://www.google.com/android/uncertified/]], custom ROM)
 #
 # ServiceMode, EngineerMode
 # custom ROM (LineageOS, Paranoid, ...)
@@ -2541,6 +2591,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Termux
 # SUNBLAZE OS (Android Go Edition?, 4YFN, Amegumi)
 # Apache Cordova (Android, iOS, ...)
+# [[https://play.google.com/store/apps/details?id=com.evozi.deviceid][Device ID]] (Android ID, GSF ID)
 #
 # Google Experience Device, Google Play Edition (EOL)
 
@@ -2634,8 +2685,7 @@ Google モデルを元に各国向けに作り替えたもの。
 中国 Huawei Technologies 製。 (ファーウェイ、華為技術)
 ソフトバンク VoLTE 対応。 (主に Y!mobile 向け)
 発売から 2 年間の更新を保証。 (2016/07/18 の Honor8 以降のみ)
-SIM フリーなら故障しても、 Y!mobile の店舗で代替機を借りられる。 *(事前契約不要!?)*
-別売の純正バッテリーもある。 (交換キット付き)
+Y!mobile 店舗での、スマホの修理取り次ぎや代替機の貸し出しは終了予定。 (2018/06/30)
 Nexus 6P を作ってた。
 動画の特許問題で訴えられてる。 (H.264, 2017/02/15)
 Mate9 が問題になってる。 (無問題了？？)
@@ -2709,7 +2759,8 @@ Mate9 が問題になってる。 (無問題了？？)
 # 代替機の貸し出しもある。
 # Y!mobile との SIM 契約がなくてもいい。
 # SIM フリーな Huawei 製スマホ限定。
-# (受け付けてない店舗もある)
+# 受け付けてない店舗もある。
+# 取り次ぎの受付が終了しちゃう予定。 (2018/06/30)
 #
 # nova lite 2
 # EMUI 8.0 (Android 8.0)
@@ -3561,8 +3612,8 @@ SIM フリーなら、どの格安キャリアでも使えるハズ。
 # - iPhone 6 以降に、 2018 年のバッテリー交換キャンペーンをご案内。 (8800->3200 円を 1 回)
 # - 更新で、バッテリーの影響がわかりやすくなる？
 # - 機種変更キャンペーンは、もちろん継続される。
-# 献金をためらわない敬虔な Apple 教徒には、常に最速であることが赦される。 (iOS 11.3~, 2018/01/17)
-# (Battery Health, Peak Performance Capability, iOS 11.3 beta2)
+# 献金をためらわない敬虔な Apple 教徒には、常に最速であることが赦される。 (2018/01/17)
+# iOS 11.3 から、設定に "バッテリーの状態 (ベータ)" が追加された。 (Battery Health, Peak Performance Capability, 2018/03/29)
 # [[https://9to5mac.com/2017/12/10/iphone-6s-slow-down-battery-fix/][PSA: If you have an older iPhone with slow performance, a new battery could solve your problems]] (2017/12/10)
 # [[https://www.geekbench.com/blog/2017/12/iphone-performance-and-battery-age/][iPhone Performance and Battery Age]] (2017/12/18)
 # [[https://techcrunch.com/2017/12/20/apple-addresses-why-people-are-saying-their-iphones-with-older-batteries-are-running-slower/][Apple addresses why people are saying their iPhones with older batteries are running `slower']] (2017/12/20)
