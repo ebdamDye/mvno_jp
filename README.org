@@ -72,24 +72,6 @@
 
 * パケット通信のみを月額料金で比較
 
-# |        | ソフトバンク | mineo | IIJmio | LINE | イオン |  OCN |
-# |--------+--------------+-------+--------+------+--------+------|
-# | 500 MB |              |   700 |        |      |        |      |
-# | 1 GB   |         3200 |   800 |        |  620 |    480 |      |
-# | 2 GB   |         3800 |       |        |      |    780 |      |
-# | 3 GB   |              |   900 |    900 | 1110 |        | 1100 |
-# | 4 GB   |              |       |        |      |    980 |      |
-# | 5 GB   |         5300 |       |        | 1640 |        |      |
-# | 6 GB   |              |  1580 |   1520 |      |   1480 | 1450 |
-# | 7 GB   |              |       |        | 2300 |        |      |
-# | 8 GB   |              |       |        |      |   1980 |      |
-# | 10 GB  |              |  2520 |   2560 | 2640 |        | 2300 |
-# | 12 GB  |              |       |        |      |   2680 |      |
-# | 20 GB  |         6300 |  3980 |        |      |   3980 | 4150 |
-# | 30 GB  |              |  5900 |        |      |   5380 | 6050 |
-# | 40 GB  |              |       |        |      |   7480 |      |
-# | 50 GB  |         7300 |       |        |      |  10300 |      |
-
 |        | ソフトバンク | wjroc | IIJmio | LINE | イオン |  OCN |
 |--------+--------------+-------+--------+------+--------+------|
 | 500 MB |              |   '~~ |        |      |        |      |
@@ -492,20 +474,21 @@
 # (急いで法律を作れば、裁判もなんとかなる予定？)
 # [[https://www.jilis.org/conference.html][著作権侵害サイトのブロッキング要請に関する緊急提言シンポジウム]] (議事要旨や資料が公開されてる)
 #
-# ドコモを含む NTT 4 社が、準備ができ次第ブロッキングすると表明。 (DNS, 2018/04/23)
-# 格安キャリアの通信は、ドコモにブロックキングされない。 (OCN は未定？ L3 接続は？)
-# すでに訴状を用意した人たちが、ブロッキングを待ってる。 (主婦連合会、全国地域婦人団体連絡協議会: ちふれ、 2018/04/25)
-# 中澤佑一弁護士は、ブロッキングの差し止めを求めて提訴。 (弁護士法人戸田総合法律事務所、 2018/04/26)
-# 講談社がブロッキング対象を告訴してたけど、時期は秘密。 (2018/04/27)
-# 計測してる人たちは、公開しつつブロッキングを待ってる。 (2018/04/28)
-# 故障しただけでも、ブロッキングを疑われる会社になった。 (ぷらら、 2018/05/02)
-# 緊急対策が公表される前からの準備があって、表明をした。 (持株の決算説明会、 2018/05/11)
-# NTT を訴えてもいいかって、カドのあることも言われてた。 (2017/10/?? にどこかの出版社から、 2018/05/11)
-# ブロッキングを置き土産に、持株会社の社長は交代の予定。 (持株の株主総会、 2018/06/26)
+# 2018/04/23 ドコモを含む NTT 4 社が、準備ができ次第ブロッキングすると表明。 (DNS)
+#            格安キャリアの通信は、ドコモにブロックキングされない。 (OCN は未定？ L3 接続は？)
+# 2018/04/25 すでに訴状を用意した人たちが、ブロッキングを待ってる。 (主婦連合会、全国地域婦人団体連絡協議会: ちふれ)
+# 2018/04/26 中澤佑一弁護士は、ブロッキングの差し止めを求めて提訴。 (弁護士法人戸田総合法律事務所)
+# 2018/04/27 講談社がブロッキング対象を告訴してたけど、時期は秘密。 (半年はかかる？)
+# 2018/04/28 計測してる人たちは、公開しつつブロッキングを待ってる。 (@ohkura, ...)
+# 2018/05/02 故障しただけでも、ブロッキングを疑われる会社になった。 (ぷらら)
+# 2018/05/11 緊急対策が公表される前からの準備があって、表明をした。 (持株の決算説明会)
+#            ブロッキングを置き土産に、持株会社の社長は交代の予定。 (持株の株主総会、 2018/06/26)
+# 2018/05/16 NTT を訴えてもいいかって、カドカワの社長に言われてた。 (2017/10/??, 知的財産戦略本部の本部員)
+# 2018/05/21 大手キャリアにブロッキングを要請したのは、総務審議官。 (2018/04/09~15?, 正式な書面がなければ自主的？)
 # 対象をすぐ増やしちゃう？ (CODA が、裁判所も介さずにサイトを違法と決めちゃう？)
 # 従業員は同意しちゃった？ (選任された電気通信主任技術者も？)
 # JAIPA では協議してない？ (大手キャリアも会員なのに？)
-# 総務省が電波を握るから？ (事前に審議官も動いてた？)
+# 政府による要請の最適化？ (首相補佐官に流行の職務？)
 # (どうせなら、 d なんとかに転送したい？)
 # [[https://www.nttdocomo.co.jp/info/news_release/2018/04/23_00.html][インターネット上の海賊版サイトに対するブロッキングの実施について]] (2018/04/23)
 # [[https://www.jaipa.or.jp/topics/2018/04/ntt412httpswwwjaipaorjpinformationdocs180412-1pdf.php][NTTグループのブロッキング実施の報道について]] (JAIPA, 2018/04/23)
@@ -513,18 +496,24 @@
 # [[http://shufuren.net/requests/%e3%80%8antt%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97%e3%80%8c%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%8d%e3%83%83%e3%83%88%e4%b8%8a%e3%81%ae%e6%b5%b7%e8%b3%8a%e7%89%88%e3%82%b5%e3%82%a4%e3%83%88/][NTTグループ「インターネット上の海賊版サイトに対するブロッキングの実施について」に対する意見書]] (主婦連、地婦連、 2018/04/25)
 # [[https://www.bengo4.com/internet/n_7787/][「ブロッキングは違法」中澤佑一弁護士がNTTコムを提訴]] (弁護士ドットコム、 2018/04/26)
 # [[http://www.itmedia.co.jp/news/articles/1804/27/news117.html][「漫画村、刑事告訴している」　講談社が明らかに　これまで採った対策は (1/2)]] (2018/04/27)
-# [[http://www.itmedia.co.jp/mobile/articles/1804/28/news015.html][「ベーシックパック」「ZTE問題」「ブロッキング」――ドコモ18年度決算説明会一問一答]] (ブロックしないことには次にどういうアクションを起こされるか分からない、ドコモ社長が決算会見で発言、 ITmedia, 2018/04/27)
+# [[http://www.itmedia.co.jp/mobile/articles/1804/28/news015.html][「ベーシックパック」「ZTE問題」「ブロッキング」――ドコモ18年度決算説明会一問一答]] (... ブロックしないことには、次にどういうアクションを起こされるか分からない ...、ドコモ社長が決算会見で発言、 ITmedia, 2018/04/27)
 # [[http://blocking.jp/][サイトブロッキング確認]] (@ohkura, 2018/04/28)
 # [[http://kumagi.hatenablog.com/entry/ntt-blocking-matome][NTTによるブロッキング論点の整理]] (@kumagi, 2018/04/29)
+# [[http://president.jp/articles/-/25075][出版業界は"子供はまんが無料"を検討せよ]] (... 取りまとめたのは ... 甘利明衆院議員と、内閣総理大臣補佐官の和泉洋人 ...、 プレジデントオンライン、 2018/05/02)
 # [[http://mainte.plala.or.jp/support/network/kosyo/tokyo/?entry_id=210358][【故障(復旧)】フレッツ東日本通信]] (ぷららは原因調査中のまま、 2018/05/02)
 # [[http://www.itmedia.co.jp/mobile/articles/1805/11/news136.html][ネットの自由を守り、無法地帯にしないために――NTTグループがブロッキングを決断した理由]] (... あるコンテンツ事業者が ... 訴訟の準備を進めていた ...、 ITmedia, 2018/05/11)
+# [[http://tech.nikkeibp.co.jp/atcl/nxt/column/18/00001/00469/][カドカワ川上量生社長が語る、サイトブロッキングの必要性]] (... 川上氏は2017年10月、 ... NTTを訴えさせて ... と持ちかけた ...、 日経 xTECH, 2018/05/16)
+# [[http://tech.nikkeibp.co.jp/atcl/nxt/column/18/00001/00496/][海賊版サイトのブロッキング、総務省が政府決定前に通信3社に実施要請]] (鈴木茂樹総務審議官の名前がある、 日経 xTECH, 2018/05/21)
 #
 # ソフトバンクと au は、検討中？
+#
+# 情報法制研究会シンポジウム 7 (2018/05/19)
+# 一般財団法人日本データ通信協会 (JADAC) の主催。
 #
 # 著作権法学会 研究大会 (2018/05/26 予定)
 #
 # 情報法制シンポジウム 2 (2018/06/03 予定)
-# JILIS と、情報法制学会の共催。
+# JILIS と、情報法制学会 (ALIS) の共催。
 # EU との十分性認定も？
 
 # モバイル市場の公正競争促進に関する検討会 1~5 (2017/12/25~2018/04/09 総務省)
@@ -638,6 +627,8 @@
 #            旧アプリを残さずに、新アプリで置き換え。
 #            知らないアプリだからって、削除するとメールも消える。
 #            (SoftBank と契約中の SIM が入ってなかったときも、メールが消える？)
+# 2018/05/31 "メールでかんたんログイン" を導入予定。
+#            電話番号を入力したら、 SMS で 6 桁の確認番号を受け取って入力するだけ。 (パスワードなし)
 # 2019/??/?? 米で T-mobile (Deutsche Telekom) と Sprint (SoftBank) は合併するかも。 (2018/04/30 合意発表)
 #            これが承認されたら、 Sprint が子会社じゃなくなる。 (持ち分法適用会社)
 #            (SoftBank の有利子負債が 4 兆円くらいは減る)
@@ -694,6 +685,8 @@ DSDS 対応スマホで音声通話定額を利用するなら、ドコモがお
 # 2018/04/11 マンホール型基地局を試作したと発表。 (エリア半径 90m)
 # 2018/04/25 d 払いで、 QR コード決済を開始。
 # 2018/05/09 RCS 開始。
+# 2018/05/30 音声対話 AI アプリの my daiz を提供予定。 (corevo)
+#            行動履歴を 1 ヶ月保存。 (先読み通知は有料)
 
 ** au
 
@@ -987,8 +980,8 @@ au 回線には UQ mobile と同じ制限がある。
 #
 # BIGLOBE モバイル (エンタメフリーをオフにして APN を変更すれば、回避はできる)
 # nuro モバイル (0120-062-260 から、解除はできる)
+# mineo (強制、 2018/09/末 から解除できる？)
 # 楽天モバイル (強制)
-# mineo (強制)
 # ...
 # (MVNE として回線を提供してるとこも？)
 # [[https://www.orefolder.net/blog/2018/04/mineo-data-optimization/][mineoが通信の最適化を始めたのでMVNO14社21枚のSIMで通信の最適化がされているか試してみた |  orefolder.net>]] (2018/04/27)
@@ -1126,100 +1119,25 @@ au 回線だと、音声通話には au VoLTE 対応のスマホがいる。
 
 甬イ言め取啇イヒこわ十十６つ弍．
 
-# | 通常コース       | 500MB | 1GB | 3GB |  6GB | 10GB | 20GB | 30GB |
-# |------------------+-------+-----+-----+------+------+------+------|
-# | パケット通信のみ |   700 | 800 | 900 | 1580 | 2520 | 3980 | 5900 |
-#
-# 音声通話は +700(ドコモ)/+610(au) 円で、 20 円/ 30 秒。
-# 通話アプリの "LaLa Call" などで電話するほうが安い。
-# # SMS を利用するなら最初の契約で申し込まないと、手数料が発生するので注意。
-#
-# 昼でも速いプレミアムコースがある。 (+800 円)
-# 実効速度 10Mbps 以上が *目標* らしい。
-# 6GB 以上のプラン限定。
-# 応募ページから申し込んで、抽選に当ったら加入できる。 (数ヶ月に一度)
-# 回線やプランを変更すると、通常コースに戻る。
-# # たくさん通信する人を対象にしてる。
-# # なので、実効速度の下限は通常コースの 3 倍くらいかも。
-# # これで通常コースが軽くなったらいいな。
-# # 増税されるだけ？
-# #
-# # <img ... alt="基本データ容量3GB,5GB,10GBの方対象">コース内容 ?
-# # トライアルページを流用した名残り？
-#
-# パケットを、シェアしたり贈ったりできる。 (フリータンク、チップ、ギフト)
-# "mineo スイッチ" アプリで節約 ON にすれば、パケットを消費しない。 (200kbps)
-# # "mineo アプリ"  (2018/03/29)
-# # mineo レーダー搭載。 (GPS, 2018/05/08)
-# # 王国警察による、位置情報の収集を布告。 (事業説明会？)
-# # 近くの王国民を表示できちゃう。 (半径 5~10km を表示、 2km^2 のマスに最大 9 点をランダム表示)
-# # 新しい王政 (フツー？) をつくる。 (絶対王政？)
-# # [[https://twitter.com/biz4g/status/979238630701936640][起動直後から数秒毎にomnitureに平文で端末情報を送っててお行儀よくない]] (@biz4g, Adobe Analytics SDK?, 2018/03/29)
-# # [[https://king.mineo.jp/magazines/special/832][... 自分の位置情報を送るタイミングですが、起動ボタンと更新ボタンを押したタイミングのみです。バックグラウンド起動時や、mineoアプリ内の別機能を利用している時に勝手に送信することはありません。 ...]] (2018/05/08)
-#
-# パケットの繰り越しは翌月まで。 (1MB 単位?)
-# 翌月は繰り越し分のパケットから利用できる。
-# 追加したパケットが使えるのは翌月まで。
-#
-# 機種変更 (追加購入) できる。
-#
-# # E-mail アドレスは無料。
-# # @mineo.jp にお知らせが届く。
-#
-# # 提携する Wi-Fi スポットはない。
-#
-# # パケットは大阪で受け取る。 (MVNE)
-#
-# # [[https://king.mineo.jp/stats/network][ネットワークお天気情報]]
-# # 王国設備の混雑状況。
-# # 他の原因は反映されない。
-# # プレミアムコースは？
-# # 晴れてるのに遅いなら、王国のせいではないと判別できる？
-#
-# # 王国では、平日のお昼休みに 1Mbps、夕方に 3Mbps が目標。 (Ookla スピードテスト、 Osaka サーバ固定)
-# # 計測は王国本庁舎の近くだけ。
-# # 王国から離れるほど、これより遅くなりやすい。
-# # ただし王国との距離は、地理的な距離には比例しない。
-# # 回線にも距離のようなものがある。
-# # [[https://king.mineo.jp/magazines/special/468][10月のネットワーク状況とトラフィック分析について]] (2016/11/11)
-# #
-# # 本庁舎を移転してから、計測方法が変更された。 (2017/01/22)
-# # 3 つに増やした計測アプリは非開示で、平日のお昼休みは平均で 0.5Mbps くらい。
-# # [[http://www.k-opti.com/press/2017/press49.html][株式会社ケイ・オプティコム本社移転のお知らせ]] (2018/01/04)
-# # [[https://king.mineo.jp/magazines/special/750][12月～1月のmineoのネットワーク状況について]] (2018/01/22)
-# #
-# # 即位式 (CM?) で資金難なのかな。
-# # あるいは、領事館 (店舗?) を増やしたせい？
-# # それとも、王国への移民 (加入?) が急増してるから？
-#
-# # 第 8 回評議会 (オフ会?) があった。 (2017/05)
-# # 参加した人は、王国の秘密を抱えて生きてる？
-# #
-# # 第 2 回公聴会 (ファンの集い?) があった。 (2017/07/29, 2017/08/05)
-# # 第 1 回園遊会 (Green Party?) には、先立つもの (王国コイン?) がいる。 (2017/10/30)
-#
-# ドコモか au 回線を利用できる。
-# マイネ王国の別名は、ケイ・オプティコム。 (関西電力系列)
-#
-# # IIJmio meeting 15
-# # MNP 不通期間なしの始祖。 (2014)
-#
-# # 2014/06/03 au 回線で開始。
-# # 2015/09/01 ドコモ回線を開始。
-# # 2017/06/01 名義変更 (譲渡) の受け付けを開始。
-# # 2017/07/28 LINE で公式アカウントの提供を開始。
-# # 2017/10/02 020 番号開始。 (ドコモ回線)
-# # 2018/04/10 人口 100 万突破。 (SIM 契約数？)
-# #            ついでに、通信の最適化を黙って開始しちゃった。 (約款にはあったけど)
-# #            [[https://twitter.com/mineosupport/status/989451348205858821][現状、ふくそう時には通信の最適化を実施しております。]] (@mineosupport, 2018/04/26)
-# #            [[https://twitter.com/mineosupport/status/989459310076923904][通信の最適化の解除は受け付けておりません。]] (@mineosupport, 2018/04/26)
-# #            [[https://twitter.com/mineosupport/status/989806445276299264][アップロードする場合は圧縮されません。]] (@mineosupport, 2018/04/27)
-# #            [[https://twitter.com/mineosupport/status/991566756257980416][「輻輳」の定義はございますが、非公開情報となります。]] (@mineosupport, 2018/05/01)
-# #            [[https://twitter.com/nbtass434/status/992306077235478528][... 2018/4/10から約款第35条に基づき、httpsでの通信帯域制限をし、混雑時はhttpでの一部ファイルの非可逆的ファイルの圧縮を行っている ...]] (@nbtass434, 2018/05/04)
-# #            [[https://king.mineo.jp/magazines/special/844][通信の最適化に関する事前の情報公開未実施のお詫びについて]] (2018/05/07)
-# #            [[https://king.mineo.jp/magazines/special/845][通信の最適化の実施内容について]] (最適化の適用除外も検討、 2018/05/07)
-# #            [[http://support.mineo.jp/news/685/][【A・D・AP・DP】通信の最適化について]] (2018/05/07)
-# #            [[https://twitter.com/doralme/status/993689166113259521][... 対象時間帯がかなり緩和された ...]] (@doralme, 2018/05/08)
+# 2014/06/03 au 回線で開始。
+# 2015/09/01 ドコモ回線を開始。
+# 2017/06/01 名義変更 (譲渡) の受け付けを開始。
+# 2017/07/28 LINE で公式アカウントの提供を開始。
+# 2017/10/02 020 番号開始。 (ドコモ回線)
+# 2018/04/10 人口 100 万人突破。 (SIM 契約数？)
+#            ついでに、通信の最適化を黙って開始しちゃった。 (約款にはあったけど)
+#            [[https://twitter.com/mineosupport/status/989451348205858821][現状、ふくそう時には通信の最適化を実施しております。]] (@mineosupport, 2018/04/26)
+#            [[https://twitter.com/mineosupport/status/989459310076923904][通信の最適化の解除は受け付けておりません。]] (@mineosupport, 2018/04/26)
+#            [[https://twitter.com/mineosupport/status/989806445276299264][アップロードする場合は圧縮されません。]] (@mineosupport, 2018/04/27)
+#            [[https://twitter.com/mineosupport/status/991566756257980416][「輻輳」の定義はございますが、非公開情報となります。]] (@mineosupport, 2018/05/01)
+#            [[https://twitter.com/nbtass434/status/992306077235478528][... 2018/4/10から約款第35条に基づき、httpsでの通信帯域制限をし、混雑時はhttpでの一部ファイルの非可逆的ファイルの圧縮を行っている ...]] (@nbtass434, 2018/05/04)
+#            [[https://king.mineo.jp/magazines/special/844][通信の最適化に関する事前の情報公開未実施のお詫びについて]] (2018/05/07)
+#            [[https://king.mineo.jp/magazines/special/845][通信の最適化の実施内容について]] (最適化の適用除外も検討、 2018/05/07)
+#            [[http://support.mineo.jp/news/685/][【A・D・AP・DP】通信の最適化について]] (2018/05/07)
+#            [[https://twitter.com/doralme/status/993689166113259521][... 対象時間帯がかなり緩和された ...]] (@doralme, 2018/05/08)
+#            [[https://support.mineo.jp/usqa/service/basic/saitekika/40005435_12212.html][通信の最適化の適用／非適用を選択することはできますか？]] (... 2018年9月末を目途に、適用／非適用を選択できる ..., 2018/05/17)
+#            [[https://support.mineo.jp/usqa/service/basic/saitekika/40005445_12212.html][プレミアムコースに契約していますが、通信の最適化は適用されますか？]] (... 通信の最適化が適用されておりますが、2018年9月末以降は、非適用 ..., 通常コースとの差額を返金、 2018/05/17)
+#            [[https://support.mineo.jp/usqa/service/basic/saitekika/40005443_12212.html][全てのSSL通信がペーシングの対象になっているのですか？]] (... ペーシング対象となるのは、 ... 一度に大量の通信を行うもの ..., 2018/05/17)
 
 ** IIJmio
 
@@ -1266,6 +1184,7 @@ au 回線にだけ、従量制のエコプランがある。 (SMS 付き)
 格安キャリアやプロバイダの老舗。
 
 # [[https://twitter.com/iijmio/statuses/990155953805770752][通信の最適化（画像や動画の非可逆的な圧縮）の提供は予定しておりません。]] (@IIJmio, 2018/04/28)
+# [[http://www.itmedia.co.jp/mobile/articles/1805/15/news109.html][勝社長「IIJとして通信の最適化を行う考えはない」]] (決算説明会、 2018/05/15)
 
 # ドコモ回線のパケットは、東京と大阪で受け取る。 (MVNE)
 # どちらかを選ぶことはできない。
@@ -1469,7 +1388,7 @@ au 回線にだけ、従量制のエコプランがある。 (SMS 付き)
 # 一部のデビットカードで請求が早くなった。 (今は契約できない)
 # 5 月は首脳会談で、重要インフラ工事抑制期間がある。 (設備増強できない)
 # MVNO が、キャリアメールを仕入れることはできない。 (需要もなさそう)
-# LaLa Call とは事業提携。 (Mineo)
+# LaLa Call とは事業提携。 (mineo)
 # SMS は本人確認サービスじゃない。
 # 仮想通貨との提携とかで言えることはない。 (合弁のディーカレット)
 # 買収されたくない。
@@ -1527,6 +1446,7 @@ au 回線にだけ、従量制のエコプランがある。 (SMS 付き)
 # 2018/04/02 プリペイド SIM でフル MVNO 開始。 (Japan Travel SIM)
 #            SIM ロックされたスマホじゃ使えないので注意。 *(for Unlocked phone)*
 #            同じ回線なら解除なしでも使える、これまでのプリペイド SIM も提供を続けるみたい。
+# 2018/04/?? ITU-T Study Group 3 加入。
 # 2018/夏?   個人向けのフル MVNO 開始予定。 (データ通信 SIM のみ)
 #            新規でも LINE の年齢認証ができるようになる？ (いらない？)
 
@@ -1873,6 +1793,12 @@ NTT コミュニケーションズでプロバイダをしてるところ。
 # 送信しないように修正されるみたい。 (選択できない不透明な収集だから？)
 # (アプリにも現在地送信機能とかある)
 # [[https://qz.com/1131515/google-collects-android-users-locations-even-when-location-services-are-disabled/][Google collects Android users' locations even when location services are disabled]] (Quartz, 2017/11/21)
+#
+# 米大手キャリアは、 LocationSmart に位置情報を提供してる。 (Cell ID)
+# ほとんどのスマホの位置が、第三者にリアルタイムで把握されてる。 *(!?)*
+# Securus Technologies も利用。 (米警察御用達)
+# キャリアから直接じゃなければ、米警察も位置情報を使える。 (Electronic Communications Privacy Act, 電子通信プライバシー法)
+# [[https://www.zdnet.com/article/us-cell-carriers-selling-access-to-real-time-location-data/][US cell carriers are selling access to your real-time phone location data]] (ZDNet, 2018/05/14)
 
 # 認証の時に音声通話や SMS 、または SNS を使うのがある。
 # 通話アプリじゃないけど、キャリアメールを要求する銀行とかもある。
@@ -2023,6 +1949,7 @@ Apple 機器専用。
 #            - 露 IRA が関係してそう。 (Internet Research Agency)
 # 2017/12/19 顔認識機能を、やっと off できるようになった。 (GDPR?)
 #            少し前からボットアカウントを排除する名目で、顔を撮影して送信させてるみたい。 (すぐ削除するらしい)
+# 2018/01/29 プライバシー原則を公開。
 # 2018/02/27 英議会で、 CA CEO Alexander Nix が証言。
 #            - 問題のデータを利用してない。
 # 2018/03/16 CA のアカウントを停止。 (CA がデータを削除してないと発表)
@@ -2037,6 +1964,7 @@ Apple 機器専用。
 #            - 米大統領選挙に、 CA が関与したこともアピール。 (米選挙法違反？)
 # 2018/03/20 Alexander Nix が停職。
 # 2018/03/21 CEO は、これからの対応を自身の Facebook に投稿。
+#            - とにかくアプリを調査する。
 # 2018/03/26 FTC が調査中。
 #            最大で US$2000 billion の罰金？ (5000 万人 * US$40000)
 #            Facebook の時価総額は US$464 billion くらい。 (2018/03/31)
@@ -2084,6 +2012,8 @@ Apple 機器専用。
 #            (これまでは、税金の安いアイルランド法人で管理されてた)
 # 2018/04/20 米民主党全国委員会が、選挙妨害されたとして提訴。
 #            相手は大統領の 2016 年選挙スタッフ。 (露に WikiLeaks も)
+# 2018/04/24 コミュニティ規定を更新。
+#            削除とかする基準が、前より具体的にはなった。
 # 2018/04/24 英議会で、 Aleksandr Kogan が証言。 (停職中の Alexander Nix は延期)
 #            - Facebook と秘密保持契約を結んでる。
 #            - 2014 年の春に、 CA の親会社 SCL から接触があった。
@@ -2121,6 +2051,18 @@ Apple 機器専用。
 # 2018/05/10 米下院情報特別委員会の民主党議員から、 Facebook に掲載された IRA の広告が公開された。 (3519 件)
 #            シェアされてた 8 万件の記事も、あとで公開予定。
 #            Facebook が提出したもの。
+# 2018/05/14 アプリで収集された 300 万人分のデータが、よそで共有されてた。 ("myPersonality")
+#            個人の名前を削除しただけのデータを提供。
+#            データを利用するためのアカウントとパスワードは、検索するだけでわかる。 (GitHub)
+#            CA は拒否されてた。 (2013/??/??)
+#            Aleksandr Kogan はデータを利用できた。 (2014/??/??)
+#            同意はあっても Facebook の規約違反として、アプリは停止された。 (2018/04/??)
+# 2018/05/14 英議員の招待を拒否。
+# 2018/05/14 アプリを 200 本くらいを停止。
+# 2018/05/15 コミュニティ規定への違反で削除したコンテンツの数とかを、初めて公表。 (2018/Q1 暫定)
+#            AI はヘイトスピーチの検出が、まだ苦手みたい。 (38%)
+#            (Community Standards Enforcement Report, 年 2 回の予定)
+# 2018/05/16 CEO が、 EU 議会で一部の議員と面談すると公表。 (非公開)
 # 2018/05/25 EU 一般データ保護規則が施行される予定。 (GDPR)
 # [[https://www.ftc.gov/enforcement/cases-proceedings/092-3184/facebook-inc][In the Matter of Facebook, Inc., a corporation]] (2012/08/10)
 # [[https://newsroom.fb.com/news/2018/03/suspending-cambridge-analytica/][Suspending Cambridge Analytica and SCL Group from Facebook]] (2018/03/16)
@@ -2140,6 +2082,8 @@ Apple 機器専用。
 # [[http://www.newsweek.com/what-emerdata-scl-group-executives-flee-new-firm-and-its-registered-office-909334][What Is Emerdata? As Cambridge Analytica Shuts, Directors Surface in New Firm]] (Newsweek, 2018/05/03)
 # [[https://www.eff.org/press/releases/eff-and-coalition-partners-push-tech-companies-be-more-transparent-and-accountable][EFF and Coalition Partners Push Tech Companies To Be More Transparent and Accountable About Censoring User Content]] (Santa Clara Principles, EFF, 2018/05/07)
 # [[https://democrats-intelligence.house.gov/facebook-ads/social-media-advertisements.htm][Social Media Advertisements]] (2018/05/10)
+# [[https://www.newscientist.com/article/2168713-huge-new-facebook-data-leak-exposed-intimate-details-of-3m-users/][Huge new Facebook data leak exposed intimate details of 3m users]] (New Scientist, 2018/05/14)
+# [[https://twitter.com/EP_President/status/996766251765682176][... has accepted our invitation ..., @EP_President, 2018/05/16)
 
 *** WhatsApp (WhatsApp)
 
@@ -2213,7 +2157,9 @@ Google アカウントを登録した相手には、メールアドレスで掛�
 # 復号鍵の引き渡しを拒否して、露に罰金を科された。 (FSB: Federal Security Service, 露連邦保安庁、 2017/10/16)
 # 復号鍵の引き渡しを拒否して、露にブロックされた。 (Roskomnadzor, 露連邦通信局、 2018/04/13)
 # Telegram のついでに、 VPN とかもブロックしてる。 (露政府に読めない通信をなくす？)
+# 移行先の Google や Amazon のクラウドもブロック。 (増えて続けてる、 2018/04/16~)
 # (情報拡散事業者の登録を拒否したりして、 LINE とかも露にブロックされてた)
+# [[https://github.com/zapret-info/z-i][Register of Internet Addresses filtered in Russian Federation]]
 #
 # MTProto protocol (server-client encryption, chat)
 # e2e encryption (voice call)
@@ -2480,15 +2426,6 @@ LINE モバイルならパケットを消費しない。
 # SIM 契約不要で、番号通知できるのもある。
 # だれでもカケホーダイ (FREETEL -> 楽天モバイル提供、国内 0032-8299 、国際 0032-6035)
 
-*** mineo でんわ (mineo)
-
-月額 0 円、国内通話は全て 10 円/ 30 秒。 (1200 円/ 1 時間)
-申し込みがいる。
-# 0063
-# 0067-51 (NTT 固定専用？)
-#
-# 番号通知できるようになった。 (2018/03/29)
-
 *** みおふぉんダイアル (IIJmio)
 
 月額 0 円、国内通話は全て 10 円/ 30 秒。 (1200 円/ 1 時間)
@@ -2541,6 +2478,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # プロバイダが一部の通信を優遇したり、阻止や制限もできちゃう。 (実施したら公表ってことにはしてある)
 # 迂遠な地球温暖化対策なのかも？
 # [[https://www.federalregister.gov/documents/2018/02/22/2018-03464/restoring-internet-freedom][Restoring Internet Freedom]] (2018/02/22)
+# [[https://www.washingtonpost.com/news/the-switch/wp/2018/05/16/net-neutrality-is-getting-a-big-vote-in-the-senate-today-heres-what-to-expect/][Senate approves bipartisan resolution to restore FCC net neutrality rules]] (Washington Post, 2018/05/16)
 #
 # Cellebrite は、御用達のアンロックサービス。 (Android, iOS)
 # サン電子が買収した、イスラエルの会社。 (2007/07/??)
@@ -2558,7 +2496,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://www.eff.org/deeplinks/2018/03/responsibility-deflected-cloud-act-passes][Responsibility Deflected, the CLOUD Act Passes]] (EFF: Electronic Frontier Foundation, 2018/03/23)
 # [[https://www.congress.gov/bill/115th-congress/house-bill/4943/text][Text - H.R.4943 - 115th Congress (2017-2018): CLOUD Act | Congress.gov | Library of Congress>]] (CLOUD: Clarifying Lawful Overseas Use of Data, 法的に明確なデータの国外使用)
 #
-# "責任ある暗号化" は、捜査機関とかも読める暗号のことらしい。 (responsible encryption)
+# "責任ある暗号化" は、捜査機関とかも読める暗号のことらしい。 (responsible encryption, 2017/10/10)
 # - 秘密鍵の提出制度？ (くたばれ PKI?)
 # - 新しい脆弱な暗号？
 # - 旧式の単純な暗号？
@@ -2566,6 +2504,67 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # - 大統領も捜査協力？
 # 確率的にはどこかに責任があると推定される暗号を、禁止する法案が提出された。 (Secure Data Act, 2018/05/10)
 # [[https://www.cnet.com/news/congress-introduces-bill-to-block-government-encryption-backdoors/][Congress introduces bill to block government encryption backdoors]] (CNET, 2018/05/11)
+#
+# 通信傍受のための広域監視システムが、誤解されてるらしい。 (DNI: Director of National Intelligence, 米国家情報長官)
+# 2001/09/11 米同時多発テロ。
+# 2001/10/26 米愛国者法が成立。 (USA PATRIOT Act)
+#            外国人の監視とかが、合法化された。 (国外を含む)
+# ...
+# 2009/01/20 Barack Obama 大統領が就任。
+# ...
+# 2013/06/06 米国家安全保障局とかの活動が、暴露され始める。 (NSA: National Security Agency)
+#            PRISM, XKeyscore, Tempora, ... (Guardian, Washington Post, ...)
+#            いろんな国との、協力体制がある。 (Five Eyes, third parties, ...)
+#            米大手キャリアとかも協力してる。 (Google, Apple, Microsoft, Facebook, ..., 否定はしてるけど話せない)
+#            米市民も監視してた。
+# 2013/06/09 元 CIA 職員で NSA 分析官の Edward Snowden が、内部告発者として名乗り出た。 (Guardian)
+# 2013/08/08 暗号化メールの、 Lavabit がサービスを停止。
+#            (FISA: Foreign Intelligence Surveillance Act, 外国情報監視法)
+# 2013/10/02 Lavabit 運営者による裁判の結果、 FBI の調査対象を除いて話せるようになった。
+# 2013/10/09 Lavabit 停止の経緯が明かされた。 (NANOG 59)
+#            こっそり秘密鍵を渡すよう、FBI と秘密裁判所に命じられてた。 (公表したら違法だった)
+#            秘密鍵を渡したら、全てのメールを読まれちゃう。
+#            秘密鍵は紙で提出。 (スキャンしにくいフォントとかで印刷)
+#            FBI には、再提出と罰金を科された。 (Federal Bureau of Investigation, 米連邦捜査局)
+#            再提出の前に全データを別の暗号で保存してから、無事にサービスを停止。
+# 2013/11/04 Lavabit の運営者が、 Kickstarter で資金調達。
+#            新しいメールサービスの開発を始めてる。 (e2e encryption, DIME: Dark Internet Mail Environment, Magma)
+# 2013/12/06 日本では、特定秘密保護法を強行採決。 (特定秘密の保護に関する法律のこと)
+# 2014/04/17 TLS 1.3 の草案を公開。
+#            秘密鍵とかが漏れても、解読されにくいのが前提になってる。 (Forward Secrecy, 前方秘匿性)
+# 2015/06/01 期限を何度か延長されてきた、愛国者法の監視とかに関係する条項が失効。
+# 2015/06/02 米自由法が成立。 (USA Freedom Act)
+#            米市民を監視するには、裁判所の令状がいるようになった。
+# 2016/03/17 Lavabit での調査対象が確定。
+#            裁判所が開示した資料には、 Ed_Snowden@lavabit.com とあった。 (なぜか黒塗りじゃなかった！)
+# 2017/01/20 Donald Trump 大統領が就任。
+#            Lavabit はサービス再開を告知。
+# 2017/04/24 日本に関係する 13 の文書が公開された。 (Intercept, NHK)
+#            XKeyscore とかを提供されて、トレーニングも受けてるみたい。 (NSA->DFS, 2013/04/08)
+#            (DFS: Directorate for SIGINT, SIGINT: SIGnals INTelligence, 防衛省情報本部電波部)
+# 2018/03/20 TLS 1.3 が承認された。 (IETF: Internet Engineering Task Force)
+#            やっと RSA 鍵交換を投げ捨てた。
+# [[https://edwardsnowden.com/wp-content/uploads/2017/10/SPFSIGDEVTrainingforJapanApril2013-v1-0-Redacted.pdf][(S/REL) Request for ADET SIGDEV Materials to be Used for Training the Japanese Directorate for SIGINT Personnel]] (2013/04/08)
+# [[https://www.theguardian.com/world/2013/jun/06/us-tech-giants-nsa-data][NSA Prism program taps in to user data of Apple, Google and others]] (Guardian, 2013/06/06)
+# [[https://www.theguardian.com/world/2013/jun/09/edward-snowden-nsa-whistleblower-surveillance][Edward Snowden: the whistleblower behind the NSA surveillance revelations]] (Guardian, 2013/06/09)
+# [[https://www.techdirt.com/articles/20131002/17443624734/lavabit-tried-giving-feds-its-ssl-key-11-pages-4-point-type-feds-complained-that-it-was-illegible.shtml][Lavabit Tried Giving The Feds Its SSL Key In 11 Pages Of 4-Point Type; Feds Complained That It Was Illegible]] (Techdirt, private SSL keys, P145~150, 2013/10/02)
+# [[https://github.com/tlswg/tls13-spec/commit/59a5a235cb90c1e380b025ee44931da13b2d5cbc][tlswg/tls13-spec]] (2014/04/17)
+# [[https://www.wired.com/2016/03/government-error-just-revealed-snowden-target-lavabit-case/][A Government Error Just Revealed Snowden Was the Target in the Lavabit Case]] (WIRED, 2016/03/17)
+# [[https://theintercept.com/document/2017/04/24/japan-provided-with-xkeyscore/][Japan Provided With XKEYSCORE]] (Intercept, 2017/04/24)
+# [[https://www.eff.org/deeplinks/2017/10/deputy-attorney-general-rosensteins-responsible-encryption-demand-bad-and-he][Deputy Attorney General Rosenstein’s “Responsible Encryption” Demand is Bad and He Should Feel Bad]] (EFF, 2017/10/10)
+# [[https://tools.ietf.org/html/draft-ietf-tls-tls13-28][The Transport Layer Security (TLS) Protocol Version 1.3]] (IETF, 2018/03/20)
+# [[http://www6.nhk.or.jp/special/detail/index.html?aid=20180519][日本の諜報 スクープ最高機密ファイル]] (NHK, 2018/05/19)
+#
+# 共同企業体防衛インフラ計画がある。 (JEDI: Joint Enterprise Defense Infrastructure, "Easy. Jedi business. Go back to your drinks." - Anakin)
+# C-3PO が、支援することになってた。 (Central Cloud Computing Program Office, "Die, Jedi dogs! Oh! What did I say?" - C-3PO) -> CCPM (Cloud Computing Program Manager)
+# Google の経営者たちは、ジェダイの受注を目指してる。 ("You must unlearn what you have learned." - Yoda)
+# Google の従業員たちは、反対署名を募って集団で退職。 ("All right. I'll give it a try." - Luke)
+# (軍用ドローンの Project Maven とかもある)
+# [[https://www.defense.gov/News/Article/Article/1254719/project-maven-to-deploy-computer-algorithms-to-war-zone-by-years-end/][Project Maven to Deploy Computer Algorithms to War Zone by Year’s End]] (DoD: Department of Defense, 米国防省、 2017/07/21)
+# [[https://www.fbo.gov/?s=opportunity&mode=form&tab=core&id=f3a1f46d150da999198429e8094be4aa][DRAFT DOD JEDI Cloud RFP - Federal Business Opportunities: Opportunities]] (2018/03/07~)
+# [[https://www.nytimes.com/2018/04/04/technology/google-letter-ceo-pentagon-project.html][‘The Business of War’: Google Employees Protest Work for the Pentagon]] (NYT, 2018/04/04)
+# [[https://abc.xyz/investor/other/code-of-conduct.html][Code of Conduct]] (... do the right thing ..., Alphabet, 2017/09/21)
+# [[https://abc.xyz/investor/other/google-code-of-conduct.html][Google Code of Conduct]] (... don’t be evil ..., 2018/04/05)
 
 # 金盾ならいつでも体験できる。
 #
@@ -2680,6 +2679,9 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # |  2017/11/29 | Intel が OEM に脆弱性を事前通知 (CNDA)               |
 # |  2018/01/03 | Google が脆弱性を公表                                |
 # |  2018/05/04 | 独 Heise が Spectre-NG の存在をリーク (8 つある？)   |
+# |  2018/05/13 | Cannon Lake をこっそり出荷してた (10nm)              |
+# |  2018/05/21 | Intel が Spectre-NG のパッチを公開予定 (SMM, 2/8)    |
+# |  2018/08/?? | Intel が Spectre-NG のパッチを公開予定 (4/8)         |
 # [[https://www.bloomberg.com/news/articles/2018-01-08/intel-ceo-krzanich-s-stock-sales-seen-warranting-sec-examination][Intel CEO’s Stock Sales May Warrant SEC Examination]] (2018/01/08)
 # [[http://www.lemagit.fr/actualites/252433746/Le-jour-ou-son-CEO-vendait-ses-actions-Intel-prevenait-les-constructeurs-de-la-faille-Spectre][Le jour où son CEO vendait ses actions, Intel prévenait les constructeurs de la faille Spectre]] (2018/01/24)
 # [[https://newsroom.intel.com/articles/addressing-questions-regarding-additional-security-issues/][Addressing Questions Regarding Additional Security Issues]] (2018/05/03)
@@ -2760,7 +2762,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 #   パスワードか PIN がいる。
 # - Network Security Configuration (network_security_config.xml)
 #   平文の通信は、ブロックするのがデフォルトになる。
-#   アプリの開発者が明示的に許可してるアプリは、平文でも通信できる。
+#   アプリの開発者が明示的に許可してれば、平文でも通信できる。
 #   対象はまだ Android P 向けのアプリだけ。
 # - Wi-Fi RTT (Round-Trip-Time, IEEE 802.11mc)
 #   Wi-Fi だけでも位置情報を使える。 (接続しなくていい)
@@ -2972,7 +2974,7 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 # | 2017/10/?? | ドコモ   |                  | 4CC CA (下旬)                                           |
 # | 2017/12/21 | 3GPP     | NSA 5G NR        | early drop of Release 15                                |
 # | 2018/05/18 | SoftBank |                  | 4CC CA                                                  |
-# | 2018/??/?? | ドコモ   |                  | 5CC CA (夏頃)                                           |
+# | 2018/05/18 | ドコモ   |                  | 5CC CA                                                  |
 # | 2018/06/?? | 3GPP     | SA 5G NR         | Release 15                                              |
 # | 2018/??/?? | Qualcomm | Snapdragon 855?  | Snapdragon X50 5G Modem?                                |
 # | 2019/06/?? | 3GPP     |                  | Release 16 -> ITU-R IMT-2020                            |
@@ -3274,6 +3276,7 @@ Nexus と名の付いたスマホは Google の発注したモデル。
 # POLED (Plastic OLED)
 # MLCD+ (LCD, RGB+W, LG G7 ThinQ)
 # XµLED、SµLED、XLµLED (mLED?)
+# ThinQ AI
 #
 # Pixel 2 XL
 # 日本では売ってない。
@@ -3339,6 +3342,7 @@ Mate9 が問題になってる。 (無問題了？？)
 # 2017/09/13 に公表された、脆弱性 BlueBorne のセキュリティパッチは B386 。 (2017/10/?? 配信)
 # 2017/10/16 に公表された、脆弱性 KRACK のセキュリティパッチは B389 。 (2017/12/?? 配信)
 # 2018/01/03 に公表された、脆弱性 Meltdown and Spectre の対象外かも？ (Kirin650 は Cortex-A53)
+# 2018/05/16 [[http://faq.support-huawei.com/faq/show/234?site_domain=default][Wi-Fiでアクセスポイントを検索できない ...]] (まだ "スリープ時にWi-Fi接続を維持する" しかない、 Google と協議中)
 # - 省電力モード (電池)
 #   遅くなったりするけど、バッテリーのために ON 。
 #   バッテリーセーバーとして Android 5 で追加されたもの。
@@ -3404,7 +3408,7 @@ Mate9 が問題になってる。 (無問題了？？)
 # 世界初の DSDV 対応。 (まだソフトバンク VoLTE のみ、あとは更新で対応予定)
 # 防水。 (無印は防滴)
 # OLED は、中国 BOE 製。
-# 格安キャリアで売ってる。 (ソフトバンクとドコモの 2018 年夏モデルにもなった)
+# 格安キャリアで売ってる。 (ソフトバンクの 2018 年夏モデルにもなった)
 # スマホを無料提供して、よその通販サイトにレビューを投稿させてた。 (今回は米 Best Buy の予約受付中)
 # [[https://9to5google.com/2018/02/12/huawei-mate-10-fake-best-buy-reviews/][Huawei solicited 100+ fake Mate 10 Pro reviews on Best Buy to entice ‘beta testers]] (2018/02/12)
 #
@@ -3414,7 +3418,7 @@ Mate9 が問題になってる。 (無問題了？？)
 #
 # honor 9
 # EMUI 5.1 (Android 7.0)
-# EMUI 8.0 (Android 8.0, Project Treble) に更新予定。
+# EMUI 8.0 (Android 8.0, Project Treble) に更新。 (STF-L09 8.0.0.367(C635))
 #
 # P10 lite
 # au VoLTE 対応。 (B112)
@@ -3501,19 +3505,24 @@ Mate9 が問題になってる。 (無問題了？？)
 # | LPDDR3  |             800 |         1.2 |
 # | LPDDR4  |            1600 |         1.1 |
 
-*** Zenfone 4 Max
+*** Zenfone 5Q
 
 台湾 ASUSTeK Computer 製。 (エイスース、華碩電脳)
-大容量バッテリー。
 DSDS 対応。 (SIMx2 + MicroSD スロット)
-au とソフトバンクの VoLTE に対応予定。
+国内大手キャリアの VoLTE に全て対応する予定。 (au VoLTE だけ更新待ち)
 以前から、回線を使い回しやすいのが多い。
 # ZenUI
 # MyASUS (app)
 # [[https://chat-apac.asus.com/chatservice/index.htm?tenant=JP&lang=ja-jp][オンラインチャット]]
 # 自動起動マネージャー
+# Twin apps
+# AI Boost
 #
-# Zenfone 5 Lite? (2018/05/15 国内発表？)
+# Zenfone 5Q (2018/05/18)
+# Android 7 (ZenUI 5)
+# DSDS 対応。 (SIMx2 + microSD スロット)
+# 国内大手キャリアの VoLTE に全て対応予定。 (au VoLTE だけ更新待ち)
+# どの回線でも使えるようになる予定。
 #
 # Zenfone Max Plus (M1)
 # Android 7
@@ -3779,13 +3788,17 @@ au VoLTE 対応。
 # 米スマホ市場シェアは、 12.2% で 4 位。 (米も打撃を受けそう？)
 # BIS の裁量で、執行停止を求めて交渉中。 (行政不服審査権じゃない、 2018/05/06)
 # 販売も含めた、主要な事業活動を停止中。 (研究開発はしてる？、 2018/05/09)
+# 米大統領の参加した事業に、中国も融資。 (US$500 million, MNC LIDO City, 開発計画は米大統領選挙前の 2015 年、 2018/05/10)
 # 米大統領が、中国との通商協議前に介入。 (執行猶予？、 2018/05/13)
+# Samsung から、部品の供給を受けるかも。 (Exynos, 2018/05/15)
 # (すでに生産停止？在庫部品は 1~2 ヶ月分？出荷遅延で違約金？事業売却？制裁緩和？)
 # [[https://www.federalregister.gov/documents/2016/03/08/2016-05104/additions-to-the-entity-list][Federal Register :: Additions to the Entity List]] (2016/03/08)
 # [[https://www.commerce.gov/news/press-releases/2018/04/secretary-ross-announces-activation-zte-denial-order-response-repeated][Secretary Ross Announces Activation of ZTE Denial Order in Response to Repeated False Statements to the U.S. Government]] (2018/04/16)
 # [[https://www.softbank.jp/mobile/info/personal/software/20180413-01/][キッズフォンをご利用中のお客さまへ]] (サーバー停止で更新できない、 SoftBank, 2018/04/26)
 # [[https://www.trade.gov.tw/Pages/Detail.aspx?nodeID=40&pid=637401][我商輸出貨品至中興通訊及中興康訊等2家公司之相關規定]] (MediaTek, SHTC: Strategic Hi-Tech Commodity, 戦略ハイテク物資に関する輸出入管理弁法、台湾で輸出前に許可がいる、 2018/04/27)
+# [[http://www.scmp.com/news/asia/southeast-asia/article/2145808/trump-indonesia-project-latest-stop-chinas-belt-and-road][Trump Indonesia project is latest stop on China’s Belt and Road]] (South China Morning Post, 2018/05/11)
 # [[https://twitter.com/realDonaldTrump/status/995680316458262533][... ZTE, a way to get back into business, fast. ...]] (@realDonaldTrump, 2018/05/13)
+# [[https://www.reuters.com/article/us-samsung-elec-chips-interview/samsung-in-talks-with-zte-others-to-supply-mobile-processor-chips-executive-idUSKCN1IG1HB][Samsung in talks with ZTE, others to supply mobile processor chips: executive]] (Reuters, 2018/05/15)
 #
 # M Z-01K
 # Android 7
@@ -4489,8 +4502,9 @@ au は最初から、格安キャリアで 3G のパケット通信ができな�
 #
 # 陸上無線通信委員会報告 (案) に対する意見募集。 (2017/10/17 総務省)
 # 電波法施行規則の一部を改正する省令案等に関する意見募集 (2018/03/16 総務省)
-# 一時的に 5.2GHz, 1W で高出力のアクセスポイントを使えるようにする？ (五輪とか)
-# 将来は小電力にして、免許と登録がいらなくなる？ (200mW?)
+# 電波法施行規則の一部を改正する省令案等に関する意見募集の結果及び電波監理審議会からの答申 (2018/05/09 総務省)
+# 5.2GHz, 1W で高出力のアクセスポイントを、屋外で使えるようになる。
+# 将来は小電力にして、免許と登録がいらなくなるのかも。 (200mW?)
 # | GHz | 屋内 | 屋外        | 上空                 |
 # |-----+------+-------------+----------------------|
 # | 5.2 | o    | x -> o (*1) | x                    |
@@ -4664,6 +4678,8 @@ au は最初から、格安キャリアで 3G のパケット通信ができな�
 
 おかしなこと etc...
 
+#- ブロッキング。
+#- 通信の最適化。
 - 緊急通報アプリがない。
 - すぐ更新をやめるスマホ。
 - 電話番号に掛けること。
