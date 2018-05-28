@@ -342,12 +342,15 @@
 # 攻撃対象は、総務省令の基準未満な機器。 (これから制定)
 # NICT と委託先は、検閲の禁止と通信の秘密の対象になる。 (電気通信事業者扱い)
 # 5 年間の時限措置。 (拡大して延長したそう？)
-# 衆議院本会議で可決されて、参議院へ。 (2018/04/17)
+# 成立。 (2018/05/16)
+#
+# 電気通信事業法及び国立研究開発法人情報通信研究機構法の一部を改正する法律の施行に伴う関係省令等の整備案に対する意見募集 (2018/05/25 総務省)
+# 総務省令で、コンピュータ不正アクセス対策基準の一部を無視しちゃう。
+# 対象の機器は、送信によって通信設備に障害を起こしてる機器。 (送信型対電気通信設備サイバー攻撃)
+# (特定アクセスのついでに、いろんなことしたかったのかも？)
 #
 # あぶない機器なら、勝手にログインしても不正アクセス禁止法とかに反しないというお墨付き？
 # 総務大臣による計画の認可が、機器の持ち主による事前承諾と同じ扱いになってる？
-# 総務省令で、コンピュータ不正アクセス対策基準を無視できちゃう？
-# 対象の機器は、デフォルトのまま放置されてるのとは限らない？
 # 民間扱いの独立行政法人が、すべてのアカウントを共有する？
 # よく使われてるパスワードとかも試す？ (brute-force?)
 # 攻撃で発生するパケットの料金とかは、誰が負担するのかしら？
@@ -518,6 +521,7 @@
 
 # モバイル市場の公正競争促進に関する検討会 1~5 (2017/12/25~2018/04/09 総務省)
 # モバイル市場の公正競争促進に関する検討会報告書の公表 (2018/04/27 総務省)
+# これからガイドラインとかに反映してくみたい。
 # 大手キャリア向け。
 # - パケットを、不当な差別的取り扱いしないように省令改正しとく。 (下品なミルク補給も検証する)
 # - Web サイトから MNP できるように。 (引き止めされない手順も用意しといて)
@@ -533,7 +537,8 @@
 # - 音声通話 SIM は、初期契約解除制度の対象になる。
 # - ...
 #
-# これからガイドラインとかに反映してくみたい。
+# 電気通信事業法施行規則の一部を改正する省令案に対する意見募集 (2018/05/25 総務省)
+# パケットが不当に差別されないことを、民事的に担保。 (接続約款に規定させる)
 
 # 高度情報通信ネットワーク社会推進戦略本部 (IT 総合戦略本部、首相官邸)
 # 世界最先端IT国家創造宣言。 (2013/06/14 閣議決定)
@@ -577,6 +582,14 @@
 |------------+------+------+------+------+------|
 | データ定額 | 3200 | 3800 | 5300 | 6300 | 7300 |
 # ウェブ使用料を含む。 (+300)
+#
+# 定額制のおてがるプランを開始予定。 (2018/06/29)
+# 対象機種を限定してる。
+# パケットとスマホの料金を、分離したくないらしい。
+#
+# |          |  1GB |  2GB |  3GB |
+# |----------+------+------+------|
+# | おてがる | 1480 | 2480 | 3480 |
 
 音声通話定額のスマ放題は +4200 円。 (2 年縛りなし)
 ホワイトプランと標準プランは、音声通話定額なし。
@@ -617,7 +630,7 @@
 # 本人確認は、契約よりも優先されるハードな業務の一つ。
 # ドコモや au も、以前に同じ是正命令を受けてた。
 
-# 2013/07/11 [[https://www.softbank.jp/corp/news/press/sb/2013/20130711_01/][スプリント買収（子会社化）の完了に関するお知らせ]] (US$21.6 billion は、当時 1.8 兆円くらい)
+# 2013/07/11 [[https://www.softbank.jp/corp/news/press/sb/2013/20130711_01/][スプリント買収（子会社化）の完了に関するお知らせ]] (US$ 21.6 billion は、当時 1.8 兆円くらい)
 # 2016/09/05 [[https://www.softbank.jp/corp/news/press/sb/2016/20160905_01/][ARM買収（子会社化）の完了に関するお知らせ]] (GBP24 billion は、当時 3.3 兆円くらい)
 # 2017/08/09 LINE のソフトバンク公式アカウントと My SoftBank アカウントを連携。
 # 2017/09/22 eSIM プラットフォームを提供開始。
@@ -635,19 +648,12 @@
 
 ** ドコモ
 
-|              |  2GB |  5GB | 20GB | 30GB |
-|--------------+------+------+------+------|
-| データパック | 3800 | 5300 | 6300 | 8300 |
-
-# 従量制のベーシックパックとかを開始予定。 (2018/05/25)
-# データパックがなくなる。 (2GB, 5GB)
-# ウルトラデータパックは残る。 (20GB, 30GB)
-#
-# |                               |  1GB |  3GB |  5GB | 20GB | 30GB |
-# |-------------------------------+------+------+------+------+------|
-# | ウルトラデータパック (定額制) |      |      |      | 6300 | 8300 |
-# | ベーシックパック (従量制)     | 3200 | 4300 | 5300 | 7300 |      |
+|                         |  1GB |  3GB |  5GB | 20GB | 30GB |
+|-------------------------+------+------+------+------+------|
+| ウルトラデータ (定額制) |      |      |      | 6300 | 8300 |
+| ベーシック (従量制)     | 3200 | 4300 | 5300 | 7300 |      |
 # sp モードを含む。 (+300)
+# パケットとスマホの料金を、分離したくないらしい。
 
 料金はソフトバンクと大差ない。 (30GB を除く)
 音声通話定額なしや、パケット通信なしにできる。
@@ -659,6 +665,7 @@ DSDS 対応スマホで音声通話定額を利用するなら、ドコモがお
 5GB 以上のプランなら、パケットの繰り越しは翌月まで。 (1GB 単位)
 その月のパケットを使い切らないと、繰り越し分を使えない。
 追加したパケットが使えるのは翌月まで。 (使ったら繰り越せない)
+ベーシックパックは繰り越せない。
 
 # @docomo.ne.jp
 
@@ -732,6 +739,7 @@ au が売ったスマホ以外だと、 LTE NET for DATA の申し込みがい�
 "データチャージ" に加入してないと、パケットを繰り越せない。 (無料)
 その月のパケットを使い切らないと、繰り越し分を使えない。
 追加したパケットが使えるのは 62 日間。
+ピタットプランは繰り越せない。
 
 # au Wi-Fi SPOT は無料。
 # au ステッカーが貼ってある。
@@ -1138,6 +1146,7 @@ au 回線だと、音声通話には au VoLTE 対応のスマホがいる。
 #            [[https://support.mineo.jp/usqa/service/basic/saitekika/40005435_12212.html][通信の最適化の適用／非適用を選択することはできますか？]] (... 2018年9月末を目途に、適用／非適用を選択できる ..., 2018/05/17)
 #            [[https://support.mineo.jp/usqa/service/basic/saitekika/40005445_12212.html][プレミアムコースに契約していますが、通信の最適化は適用されますか？]] (... 通信の最適化が適用されておりますが、2018年9月末以降は、非適用 ..., 通常コースとの差額を返金、 2018/05/17)
 #            [[https://support.mineo.jp/usqa/service/basic/saitekika/40005443_12212.html][全てのSSL通信がペーシングの対象になっているのですか？]] (... ペーシング対象となるのは、 ... 一度に大量の通信を行うもの ..., 2018/05/17)
+#            [[http://blog.livedoor.jp/blackwingcat/archives/1967933.html][mineo ユーザーサポートの最適化の説明が食い違う点・不適切な点]] (サンプル画像が参考にならない、 @BlackWingCat, 2018/05/25)
 
 ** IIJmio
 
@@ -1926,7 +1935,7 @@ Apple 機器専用。
 # 2011/11/29 FTC と和解案で合意。
 # 2012/08/10 FTC と和解が成立。
 #            データを第三者と共有するときは、必ずユーザーに通知したり事前に同意を得る。
-#            違反したら、最大で 1 人当り US$40000 の罰金。
+#            違反したら、最大で 1 人当り US$ 40000 の罰金。
 #            今後 20 年間の外部監査とか、他にもいろいろ。
 # 2013/??/?? 英ケンブリッジ大学の Aleksandr Kogan が、作ったアプリで同意のないデータを取得。
 #            表向きは、性格診断クイズのアプリだった。
@@ -1938,8 +1947,9 @@ Apple 機器専用。
 #            CA は Facebook に、削除したよと返事したらしい。
 # 2016/06/23 英の EU 離脱投票に利用されたみたい。 (露ゲート？、 Brexit)
 # 2016/11/08 米の大統領選挙にも利用されたみたい。 (露ゲート？)
+# 2017/01/10 EU で、 e プライバシー規則が提案された。 ("ePrivacy Regulation", EU クッキー法)
 # 2017/??/?? いろんなとこが、 CEO の証言を求めてる。
-#            応じないで、ロビー活動を強化し続けてた。 (US$11.6 million)
+#            応じないで、ロビー活動を強化し続けてた。 (US$ 11.6 million)
 #            欧州とかでも、データの悪用がないか調査されてる。 (事情聴取も？)
 # 2017/09/06 米上下院の情報委員会に、社内調査の結果を報告したと公表。
 #            露から発信された政治や社会問題をあおるような広告を、米で掲載してた。 (5200 件くらい)
@@ -1966,8 +1976,8 @@ Apple 機器専用。
 # 2018/03/21 CEO は、これからの対応を自身の Facebook に投稿。
 #            - とにかくアプリを調査する。
 # 2018/03/26 FTC が調査中。
-#            最大で US$2000 billion の罰金？ (5000 万人 * US$40000)
-#            Facebook の時価総額は US$464 billion くらい。 (2018/03/31)
+#            最大で US$ 2000 billion の罰金？ (5000 万人 * US$ 40000)
+#            Facebook の時価総額は US$ 464 billion くらい。 (2018/03/31)
 #            支払いできるように減額されるハズ。
 # 2018/03/27 英議会で、 Christopher Wylie が証言。 (CEO は拒否)
 #            - 提出した内部資料に、 Facebook のデータがあるらしい。 (5000 万人分)
@@ -1982,7 +1992,7 @@ Apple 機器専用。
 # 2018/04/08 米 CubeYou のアカウントも停止。 (CA みたいな収集してた)
 # 2018/04/09 流出したユーザーに通知を開始。
 # 2018/04/10 不正なアプリの報告に賞金を用意。 (Data Abuse Bounty)
-# 2018/04/10 米議会上院で CEO が証言。 (下院は翌日)
+# 2018/04/10 米議会上院で CEO が証言。 (下院は翌日、計 10 時間)
 #            - 2015 年のことは、 FTC に報告してない。 (ユーザーにも)
 #            - FTC との和解条項に反したと思ってない。 (CA に削除を要求しただけ？)
 #            - 広告のために、ログインしてなくても追跡してる。 (29000 項目？、 shadow profiles?)
@@ -2008,7 +2018,7 @@ Apple 機器専用。
 #            (LinkedIn, Twitter, Zillow, ...)
 # 2018/04/18 米プリンストン大学の CITP が、ソーシャルログイン機能を悪用されてると報告。
 #            (Center for Information Technology Policy, 情報技術ポリシーセンター)
-# 2018/04/19 欧州以外のデータは、規制のゆるい米にこっそり移してる。 (15 億人分くらい！？)
+# 2018/04/19 EU 以外のデータは、規制のゆるい米にこっそり移してる。 (15 億人分くらい！？)
 #            (これまでは、税金の安いアイルランド法人で管理されてた)
 # 2018/04/20 米民主党全国委員会が、選挙妨害されたとして提訴。
 #            相手は大統領の 2016 年選挙スタッフ。 (露に WikiLeaks も)
@@ -2032,7 +2042,7 @@ Apple 機器専用。
 #            - 広告主の情報を見れるようにする。 (2018/06/??)
 #            - 政治広告に、身元確認を求めて資金提供者を表示する。
 #            - 政治広告の収入は、広告全体の 1 桁台前半。
-#            - AIQ は、 EU 離脱派のために広告費を払ってた。 (US$2 million)
+#            - AIQ は、 EU 離脱派のために広告費を払ってた。 (US$ 2 million)
 #            CEO は入国したら、公式な召喚状で議会に招待してもらえる。
 # 2018/05/01 開発者会議を開催。 (F8, 翌日まで)
 #            - "Clear History" 機能を開発中。
@@ -2062,11 +2072,21 @@ Apple 機器専用。
 # 2018/05/15 コミュニティ規定への違反で削除したコンテンツの数とかを、初めて公表。 (2018/Q1 暫定)
 #            AI はヘイトスピーチの検出が、まだ苦手みたい。 (38%)
 #            (Community Standards Enforcement Report, 年 2 回の予定)
-# 2018/05/16 CEO が、 EU 議会で一部の議員と面談すると公表。 (非公開)
-# 2018/05/25 EU 一般データ保護規則が施行される予定。 (GDPR)
+# 2018/05/22 CEO が、 EU 議会で一部の議員と会合。 (80 分間)
+#            非公開の予定を批判されて、 Facebook で中継。 (録画も公開)
+#            EU 議員たちが先に質問だけを並べて、そのあと CEO がまとめて受け流した。
+#            書面で回答するらしい。
+# 2018/05/25 EU 一般データ保護規則が施行。 (GDPR)
+#            さっそく提訴された。 (Facebook, WhatsApp, Instagram, Google)
+#            利用規約とかが、同意を強制してるか争うみたい。 (GDPR 7 条)
+#            スマホの位置情報とかを送信しないと GPS が使えないのは、強制されてる？
+#            同意を強制しちゃうと、最低でも EUR 20 million の罰金。 (GDPR 83 条)
+# 2018/05/25 作者に殺されたカエルを駆除するらしい。 (Pepe the Frog)
+#            (これからは風刺も削除の対象になる？)
 # [[https://www.ftc.gov/enforcement/cases-proceedings/092-3184/facebook-inc][In the Matter of Facebook, Inc., a corporation]] (2012/08/10)
-# [[https://newsroom.fb.com/news/2018/03/suspending-cambridge-analytica/][Suspending Cambridge Analytica and SCL Group from Facebook]] (2018/03/16)
+# [[https://ec.europa.eu/digital-single-market/en/proposal-eprivacy-regulation][Proposal for an ePrivacy Regulation | Digital Single Market]] (2017/01/10)
 # [[https://newsroom.fb.com/news/2017/12/managing-your-identity-on-facebook-with-face-recognition-technology/][Managing Your Identity on Facebook with Face Recognition Technology]] (2017/12/19)
+# [[https://newsroom.fb.com/news/2018/03/suspending-cambridge-analytica/][Suspending Cambridge Analytica and SCL Group from Facebook]] (2018/03/16)
 # [[https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html][How Trump Consultants Exploited the Facebook Data of Millions]] (NYT, 2018/03/17)
 # [[https://www.ftc.gov/news-events/press-releases/2018/03/statement-acting-director-ftcs-bureau-consumer-protection][Statement by the Acting Director of FTC’s Bureau of Consumer Protection Regarding Reported Concerns about Facebook Privacy Practices]] (2018/03/26)
 # [[https://newsroom.fb.com/news/2018/04/restricting-data-access/][An Update on Our Plans to Restrict Data Access on Facebook]] (2018/04/04)
@@ -2083,7 +2103,10 @@ Apple 機器専用。
 # [[https://www.eff.org/press/releases/eff-and-coalition-partners-push-tech-companies-be-more-transparent-and-accountable][EFF and Coalition Partners Push Tech Companies To Be More Transparent and Accountable About Censoring User Content]] (Santa Clara Principles, EFF, 2018/05/07)
 # [[https://democrats-intelligence.house.gov/facebook-ads/social-media-advertisements.htm][Social Media Advertisements]] (2018/05/10)
 # [[https://www.newscientist.com/article/2168713-huge-new-facebook-data-leak-exposed-intimate-details-of-3m-users/][Huge new Facebook data leak exposed intimate details of 3m users]] (New Scientist, 2018/05/14)
-# [[https://twitter.com/EP_President/status/996766251765682176][... has accepted our invitation ..., @EP_President, 2018/05/16)
+# [[https://twitter.com/EP_President/status/996766251765682176][... CEO ... has accepted our invitation ...]] (@EP_President, 2018/05/16)
+# [[http://www.europarl.europa.eu/the-president/en/newsroom/statement-by-the-president-of-the-european-parliament-antonio-tajani-made-at-the-press-conference-held-following-the-meeting-with-mark-zuckerberg][Statement by the President of the European Parliament, Antonio Tajani, made at the press conference held following the meeting with Mark Zuckerberg]] (2018/05/22)
+# [[https://noyb.eu/][GDPR: noyb.eu filed four complaints over “forced consent” against Google, Instagram, WhatsApp and Facebook]] (2018/05/25)
+# [[https://motherboard.vice.com/en_us/article/zm8m4y/facebook-ban-pepe-frog-leaked-documents][Here’s Facebook’s Internal Policy on Pepe the Frog]] (Motherboard, 2018/05/25)
 
 *** WhatsApp (WhatsApp)
 
@@ -2471,7 +2494,10 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://github.com/seaglass-project/seaglass][SeaGlass]]
 #
 # 米諜報機関オススメのスマホはどれかしら？
+# 国防の予算を決める国防権限法案がある。 (NDAA: National Defense Authorization Act)
+# Huawei や ZTE の機器とかも利用するとこは、国防総省と契約できなくなりそう。 (DoD: Department of Defense)
 # [[https://www.cnbc.com/2018/02/13/chinas-hauwei-top-us-intelligence-chiefs-caution-americans-away.html][Six top US intelligence chiefs caution against buying Huawei phones]] (Senate Intelligence Committee: 米上院情報委員会, 2018/02/13)
+# [[https://www.congress.gov/bill/115th-congress/house-bill/5515/text][H.R.5515 - National Defense Authorization Act for Fiscal Year 2019115th Congress (2017-2018)]] (Passed House, 2018/05/24)
 #
 # 連邦通信委員会が、ネット中立性を廃止。 (network neutrality, FCC: Federal Communications Commission, 2018/04/23~)
 # ネットが公共インフラじゃなくなる。 (OMB: Office of Management and Budget, 米行政管理予算局、 2018/06/11~)
@@ -2487,6 +2513,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://www.cellebrite.com/en/cas-sales-inquiry/][Advanced Unlocking & Extraction Sales Inquiry]]
 # [[https://graykey.grayshift.com/][Grayshift]] (passcode cracking, GrayKey)
 # [[https://twitter.com/matthew_d_green/status/985885001542782978][Guide to iOS estimated passcode cracking times]] (@matthew_d_green, 2018/04/16)
+# [[https://www.washingtonpost.com/world/national-security/fbi-repeatedly-overstated-encryption-threat-figures-to-congress-public/2018/05/22/5b68ae90-5dce-11e8-a4a4-c070ef53f315_story.html?noredirect=on][FBI repeatedly overstated encryption threat figures to Congress, public]] (Washington Post, 2018/05/22)
 #
 # 国外に保存されたデータも、開示を強制できるようになった。 (CLOUD Act, 2018/03/23)
 # ついでに、国外に個人情報とかを保存しとくのも合法になる。
@@ -2512,8 +2539,8 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # ...
 # 2009/01/20 Barack Obama 大統領が就任。
 # ...
-# 2013/06/06 米国家安全保障局とかの活動が、暴露され始める。 (NSA: National Security Agency)
-#            PRISM, XKeyscore, Tempora, ... (Guardian, Washington Post, ...)
+# 2013/06/06 米国家安全保障局とかの活動が、暴露され始める。 (NSA: National Security Agency, Guardian, Washington Post, ...)
+#            広域監視システムがいろいろある。 (PRISM, XKeyscore, Tempora, ...)
 #            いろんな国との、協力体制がある。 (Five Eyes, third parties, ...)
 #            米大手キャリアとかも協力してる。 (Google, Apple, Microsoft, Facebook, ..., 否定はしてるけど話せない)
 #            米市民も監視してた。
@@ -2555,12 +2582,13 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://tools.ietf.org/html/draft-ietf-tls-tls13-28][The Transport Layer Security (TLS) Protocol Version 1.3]] (IETF, 2018/03/20)
 # [[http://www6.nhk.or.jp/special/detail/index.html?aid=20180519][日本の諜報 スクープ最高機密ファイル]] (NHK, 2018/05/19)
 #
+# 米サイバー軍が、統合軍に格上げ。 (UCC: US Cyber Command, 2017/08/18)
 # 共同企業体防衛インフラ計画がある。 (JEDI: Joint Enterprise Defense Infrastructure, "Easy. Jedi business. Go back to your drinks." - Anakin)
 # C-3PO が、支援することになってた。 (Central Cloud Computing Program Office, "Die, Jedi dogs! Oh! What did I say?" - C-3PO) -> CCPM (Cloud Computing Program Manager)
 # Google の経営者たちは、ジェダイの受注を目指してる。 ("You must unlearn what you have learned." - Yoda)
 # Google の従業員たちは、反対署名を募って集団で退職。 ("All right. I'll give it a try." - Luke)
 # (軍用ドローンの Project Maven とかもある)
-# [[https://www.defense.gov/News/Article/Article/1254719/project-maven-to-deploy-computer-algorithms-to-war-zone-by-years-end/][Project Maven to Deploy Computer Algorithms to War Zone by Year’s End]] (DoD: Department of Defense, 米国防省、 2017/07/21)
+# [[https://www.defense.gov/News/Article/Article/1254719/project-maven-to-deploy-computer-algorithms-to-war-zone-by-years-end/][Project Maven to Deploy Computer Algorithms to War Zone by Year’s End]] (DoD, 2017/07/21)
 # [[https://www.fbo.gov/?s=opportunity&mode=form&tab=core&id=f3a1f46d150da999198429e8094be4aa][DRAFT DOD JEDI Cloud RFP - Federal Business Opportunities: Opportunities]] (2018/03/07~)
 # [[https://www.nytimes.com/2018/04/04/technology/google-letter-ceo-pentagon-project.html][‘The Business of War’: Google Employees Protest Work for the Pentagon]] (NYT, 2018/04/04)
 # [[https://abc.xyz/investor/other/code-of-conduct.html][Code of Conduct]] (... do the right thing ..., Alphabet, 2017/09/21)
@@ -2626,23 +2654,29 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://security.googleblog.com/2018/01/todays-cpu-vulnerability-what-you-need.html][Today's CPU vulnerability: what you need to know]] (Google, 2018/01/03)
 # [[http://d.hatena.ne.jp/Kango/20180104/1515094046][CPUの脆弱性 MeltdownとSpectreについてまとめてみた]] (2018/01/05)
 #
+# | CVE-2017-5753 | Spectre  | Variant 1  | Bounds Check Bypass        |
+# | CVE-2017-5715 | Spectre  | Variant 2  | Branch Target Injection    |
+# | CVE-2017-5754 | Meltdown | Variant 3  | Rogue Data Cache Load      |
+# | CVE-2018-3640 | Spectre  | Variant 3a | Rogue System Register Read |
+# | CVE-2018-3639 | Spectre  | Variant 4  | Speculative Store Bypass   |
+#
 # スマホの CPU は SoC の中にある。
 # そのほとんどは Arm の Cortex-A と、その互換品。
 # 互換品を除いて、表にない CPU は問題ないらしい。
-# | Cortex | Meltdown | Spectre |
-# |--------+----------+---------|
-# | R7     |          | x       |
-# | R8     |          | x       |
-# | A8     |          | x       |
-# | A9     |          | x       |
-# | A15    | x        | x       |
-# | A17    |          | x       |
-# | A57    | x        | x       | (64bit)
-# | A72    | x        | x       |
-# | A73    |          | x       |
-# | A75    | x        | x       |
-# [[https://developer.arm.com/support/security-update][Arm Processor Security Update - Arm Developer]] (2018/01/03)
+# | Cortex | v1 | v2 | v3 | v3a | v4 |
+# |--------+----+----+----+-----+----|
+# | R7     | x  | x  |    |     |    |
+# | R8     | x  | x  |    |     |    |
+# | A8     | x  | x  |    |     |    |
+# | A9     | x  | x  |    |     |    |
+# | A15    | x  | x  |    | x   |    |
+# | A17    | x  | x  |    |     |    |
+# | A57    | x  | x  |    | x   | x  | (64bit)
+# | A72    | x  | x  |    | x   | x  |
+# | A73    | x  | x  |    |     | x  |
+# | A75    | x  | x  | x  |     | x  |
 # [[https://www.techarp.com/guides/complete-meltdown-spectre-cpu-list/3/][ARM CPUs Vulnerable to Meltdown / Spectre]] (2018/01/08)
+# [[https://developer.arm.com/support/arm-security-updates/speculative-processor-vulnerability][Speculative Processor Vulnerability]] (2018/05/21)
 #
 # Meltdown の対象は、 1995 年以降の Intel CPU だけじゃない。 (Arm も)
 # Spectre の対象は、いろんな CPU 。 (Arm, Intel, ...)
@@ -2671,17 +2705,17 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # 小口顧客はセキュリティパッチだけでいいよね？
 # よそにも脆弱性あるし、顧客の流出もないよね？
 # 買い替え需要もあるし、株主の損害も少ないね？
-# | ~2017/07/28 | Google が脆弱性を事前通知                            |
-# |  2017/08/21 | 脆弱性を放置した Kaby Lake Refresh を発売 (前倒し？) |
-# |  2017/10/05 | 脆弱性を放置した Coffee Lake を発売 (前倒し？)       |
-# |  2017/10/30 | CEO の自社株を売却するプランを設定 (Form4)           |
-# |  2017/11/29 | CEO が上昇してた自社株を大量に売却 (2015 年に計画？) |
-# |  2017/11/29 | Intel が OEM に脆弱性を事前通知 (CNDA)               |
-# |  2018/01/03 | Google が脆弱性を公表                                |
-# |  2018/05/04 | 独 Heise が Spectre-NG の存在をリーク (8 つある？)   |
-# |  2018/05/13 | Cannon Lake をこっそり出荷してた (10nm)              |
-# |  2018/05/21 | Intel が Spectre-NG のパッチを公開予定 (SMM, 2/8)    |
-# |  2018/08/?? | Intel が Spectre-NG のパッチを公開予定 (4/8)         |
+# | ~2017/07/28 | Google が脆弱性を事前通知                             |
+# |  2017/08/21 | 脆弱性を放置した Kaby Lake Refresh を発売 (前倒し？)  |
+# |  2017/10/05 | 脆弱性を放置した Coffee Lake を発売 (前倒し？)        |
+# |  2017/10/30 | CEO の自社株を売却するプランを設定 (Form4)            |
+# |  2017/11/29 | CEO が上昇してた自社株を大量に売却 (2015 年に計画？)  |
+# |  2017/11/29 | Intel が OEM に脆弱性を事前通知 (CNDA)                |
+# |  2018/01/03 | Google が脆弱性を公表                                 |
+# |  2018/05/04 | 独 Heise が Spectre-NG の存在をリーク (8 つある？)    |
+# |  2018/05/13 | Cannon Lake をこっそり出荷してた (10nm)               |
+# |  2018/05/21 | Intel が Spectre-NG のパッチを公開予定 (v3a, v4, 2/8) | (SMM: System Management Mode)
+# |  2018/08/?? | Intel が Spectre-NG のパッチを公開予定 (4/8)          |
 # [[https://www.bloomberg.com/news/articles/2018-01-08/intel-ceo-krzanich-s-stock-sales-seen-warranting-sec-examination][Intel CEO’s Stock Sales May Warrant SEC Examination]] (2018/01/08)
 # [[http://www.lemagit.fr/actualites/252433746/Le-jour-ou-son-CEO-vendait-ses-actions-Intel-prevenait-les-constructeurs-de-la-faille-Spectre][Le jour où son CEO vendait ses actions, Intel prévenait les constructeurs de la faille Spectre]] (2018/01/24)
 # [[https://newsroom.intel.com/articles/addressing-questions-regarding-additional-security-issues/][Addressing Questions Regarding Additional Security Issues]] (2018/05/03)
@@ -3015,7 +3049,7 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 # 4G まで非公開だったけど、 5G ではじめて公開された。 (Apple のおかげ？)
 # まだ 5G の規格が定まってないので、予定？
 # 販売価格 3 万円のスマホなら、 Qualcomm の特許だけで 2475 円くらい。 (あとは交渉次第？)
-# 内訳は必須特許群の 3.25% (上限 US$16.25) に、他の特許群の 5% を加えたもの。
+# 内訳は必須特許群の 3.25% (上限 US$ 16.25) に、他の特許群の 5% を加えたもの。
 # [[https://www.qualcomm.com/documents/qualcomm-5g-nr-royalty-terms-statement][Qualcomm 5G NR Royalty Terms Statement]] (2017/11/19)
 # [[https://www.ericsson.com/assets/local/networked-society/innovation/patents--licensing/frand-licensing-terms-for-5g-nr-in-3gpp-release-15.pdf][FRAND licensing terms for 5G/NR in 3GPP Release 15 - Ericsson]] (2017/03/03)
 
@@ -3224,8 +3258,8 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Google Experience Device, Google Play Edition (EOL)
 
 # Android.Triada.231 (Trojan, Zygote process, from Shanghai)
-# 上海のソフトウェア開発会社が、ウイルスを入れてた。 (製造段階)
 #
+# 上海のソフトウェア開発会社が、ウイルスを入れてた。 (製造段階)
 # Leagoo, Doogee, Vertex, Advan, Cherry Mobile, ...
 # Poland, Indonesia, China, the Chezh Republic, Mexico, Kazakhstan, Serbia.
 # [[https://www.2-spyware.com/triada-banking-trojan-found-in-42-models-of-android-smartphones][Triada banking Trojan found in 42 models of Android smartphones]] (2018/03/05)
@@ -3236,6 +3270,14 @@ H.265(HEVC) はパテントプールで溺れてる。
 # 販売店が、売るスマホを開封して不正なアプリをインストールしてた？ (中国)
 # 国内でも、開封してアプリをインストールをしてくるとこはあるけど。 (大手キャリアや楽天にゲオとか)
 # [[https://research.checkpoint.com/rottensys-not-secure-wi-fi-service/][RottenSys: Not a Secure Wi-Fi Service At All]] (Check Point Software Technologies, 2018/03/14)
+
+# Cosiloon
+#
+# 不正な広告アプリをプリインストールされてる、安いスマホがある。 (製造段階)
+# zte, meo, oysters, archos, prestigio, mediacom, telefunken, prestigio, e1031h1c, alps, navon, elink, ...
+# ZTE のスマホにも入ってた。 (日本向けには見つかってない？)
+# Google Play Protect が検出するようになった。 (Google の認証を通過してないスマホに多いけど)
+# [[https://blog.avast.com/android-devices-ship-with-pre-installed-malware][Android devices ship with pre-installed malware]] (Avast, 2018/05/24)
 
 *** g06+
 
@@ -3342,7 +3384,8 @@ Mate9 が問題になってる。 (無問題了？？)
 # 2017/09/13 に公表された、脆弱性 BlueBorne のセキュリティパッチは B386 。 (2017/10/?? 配信)
 # 2017/10/16 に公表された、脆弱性 KRACK のセキュリティパッチは B389 。 (2017/12/?? 配信)
 # 2018/01/03 に公表された、脆弱性 Meltdown and Spectre の対象外かも？ (Kirin650 は Cortex-A53)
-# 2018/05/16 [[http://faq.support-huawei.com/faq/show/234?site_domain=default][Wi-Fiでアクセスポイントを検索できない ...]] (まだ "スリープ時にWi-Fi接続を維持する" しかない、 Google と協議中)
+# 2018/05/16 [[http://faq.support-huawei.com/faq/show/234?site_domain=default][Wi-Fiでアクセスポイントを検索できない ...]] (Google Play 開発者サービスの更新で解消された、 12.6.73->12.6.85, 2018/05/10?~2018/05/19)
+# 2018/06/17 買ってから毎月セキュリティパッチがきてたけど、そろそろ発売から 2 年が経過する。 (B395 の配信は 2018/05/??)
 # - 省電力モード (電池)
 #   遅くなったりするけど、バッテリーのために ON 。
 #   バッテリーセーバーとして Android 5 で追加されたもの。
@@ -3414,11 +3457,11 @@ Mate9 が問題になってる。 (無問題了？？)
 #
 # Mate10 Lite
 # EMUI 5.1 (Android 7.0)
-# EMUI 8.0 (Android 8.0, Project Treble) に更新予定。
+# EMUI 8.0 (Android 8.0, Project Treble) に更新予定。 (2018/06/??)
 #
 # honor 9
 # EMUI 5.1 (Android 7.0)
-# EMUI 8.0 (Android 8.0, Project Treble) に更新。 (STF-L09 8.0.0.367(C635))
+# EMUI 8.0 (Android 8.0, Project Treble) に更新。 (STF-L09 8.0.0.367(C635), 2018/05/18)
 #
 # P10 lite
 # au VoLTE 対応。 (B112)
@@ -3427,14 +3470,16 @@ Mate9 が問題になってる。 (無問題了？？)
 # 金属フレームと曲面強化ガラス。 (日本電気硝子？)
 # 純正バッテリーと交換キットを売ってる。
 # ソフトバンク VoLTE にも対応。 (B172)
-# EMUI 8.0 (Android 8.0) に更新予定。
+# EMUI 8.0 (Android 8.0) に更新予定。 (2018/07/??)
+# 2017 年のロングセラー。
 #
 # P9 lite
 # 金属フレームと曲面強化ガラス。 (日本電気硝子？)
 # nova lite よりは丈夫。
 # 更新保証の対象外。
 # 純正バッテリーと交換キットを売ってる。 (P9 もいける)
-# P9 lite premium は au VoLTE 対応。 (UQ mobile のみ)
+# P9 lite premium は別物で、 au VoLTE 対応。 (UQ mobile のみ)
+# 2016 年のロングセラー。
 #
 # P9, P9 Plus
 # ゴリラガラス。 (Corning)
@@ -3458,6 +3503,7 @@ Mate9 が問題になってる。 (無問題了？？)
 # 樹脂フレームと曲面強化ガラスなので割れそう。 (日本電気硝子？)
 # 純正バッテリーと交換キットを売ってる。
 # for Y!mobile はソフトバンク VoLTE に対応。 (608HW)
+# EMUI 8.0 (Android 8.0) に更新予定。
 #
 # P10, P10 Plus
 # 金属フレームとゴリラガラス。 (Corning)
@@ -3493,7 +3539,7 @@ Mate9 が問題になってる。 (無問題了？？)
 # "仕様です" の一言で済ませるのは、万国共通。
 # 当たりハズレの差が大きい。
 # オススメしにくくなったので、値崩れが待たれる。
-# EMUI 8.0 (Android 8.0, Project Treble) に更新予定。
+# EMUI 8.0 (Android 8.0, Project Treble) に更新。 (MHA-L29B 8.0.0.361(C635), 2018/01/19)
 #
 # | storage | max read (Mbps) | voltage (V) |
 # |---------+-----------------+-------------|
@@ -3558,12 +3604,13 @@ DSDS 対応。 (SIMx2 + MicroSD スロット)
 #
 # Zenfone 2
 # | Go    | Android 5 まで | バッテリー交換できる、 2 の廉価版？ |
-# | Laser | Android 6 まで | ロングセラー                        |
+# | Laser | Android 6 まで | 2015 年のロングセラー               |
 # Laser は レーザーオートフォーカス。
 # ゴリラガラス。 (Corning)
 # 2 (ZE551ML) は Android では世界初の 4GB メモリを載せたスマホ。
 # 64bit OS への更新を予定して売ってた。
 # まだなのか、中止なのか不明。
+# 日亜化学に、白色 LED の特許侵害で訴えられてる。 (Go, Laser, 2018/05/18)
 
 *** Moto G5S
 
@@ -3675,6 +3722,8 @@ Note7 は、バッテリーの爆発で回収されたけど。
 # Intelligent Scan (iris and face, 2D, Galaxy S9)
 # internet-less (Galaxy J2 Pro, South Korea)
 #
+# デザイン特許とかの侵害で、 Apple に訴えられてる。 (2011/04/15~)
+#
 # Galaxy の SIM フリー版は、海外にしかない。
 #
 # Galaxy X
@@ -3757,6 +3806,7 @@ au VoLTE 対応。
 # Android 7.1
 # 防水おサイフ。
 # 発売後 2 年間に、最大 2 回のバージョンアップを約束してる。
+# Android 8.0 に更新予定。 (2018/06/??)
 #
 # SH-M04, SH-M04-A
 # Android 6.0
@@ -3779,7 +3829,7 @@ au VoLTE 対応。
 禁止顧客リスト入りしたので、米の部品や技術とかを使えなくなった。 *(!?)*
 # MyFavor UI
 #
-# イランや北朝鮮への輸出を制裁中にして、米と和解して罰金を払ってた。 (US$892+300 million, Entity List, 2016/03/08~2017/03/29)
+# イランや北朝鮮への輸出を制裁中にして、米と和解して罰金を払ってた。 (US$ 892+300 million, Entity List, 2016/03/08~2017/03/29)
 # 今度は禁止顧客リストに加えられたので、米と取引できなくなった。 (DPL: Denied Persons List, 2018/04/15~2025/03/13)
 # 米からの間接的な輸出や調達もできない。 (EAR: Export Administration Regulations, 輸出管理規則)
 # 和解条項の一部を、履行してないみたい。 (守らないと禁止顧客リスト入りが決まってたのに)
@@ -3788,9 +3838,10 @@ au VoLTE 対応。
 # 米スマホ市場シェアは、 12.2% で 4 位。 (米も打撃を受けそう？)
 # BIS の裁量で、執行停止を求めて交渉中。 (行政不服審査権じゃない、 2018/05/06)
 # 販売も含めた、主要な事業活動を停止中。 (研究開発はしてる？、 2018/05/09)
-# 米大統領の参加した事業に、中国も融資。 (US$500 million, MNC LIDO City, 開発計画は米大統領選挙前の 2015 年、 2018/05/10)
+# 米大統領の参加した事業に、中国も融資。 (US$ 500 million, MNC LIDO City, 開発計画は米大統領選挙前の 2015 年、 2018/05/10)
 # 米大統領が、中国との通商協議前に介入。 (執行猶予？、 2018/05/13)
 # Samsung から、部品の供給を受けるかも。 (Exynos, 2018/05/15)
+# 米議会が反対することまでは、既定路線。 (FIRRMA, CFIUS, NDAA, 2018/05/22)
 # (すでに生産停止？在庫部品は 1~2 ヶ月分？出荷遅延で違約金？事業売却？制裁緩和？)
 # [[https://www.federalregister.gov/documents/2016/03/08/2016-05104/additions-to-the-entity-list][Federal Register :: Additions to the Entity List]] (2016/03/08)
 # [[https://www.commerce.gov/news/press-releases/2018/04/secretary-ross-announces-activation-zte-denial-order-response-repeated][Secretary Ross Announces Activation of ZTE Denial Order in Response to Repeated False Statements to the U.S. Government]] (2018/04/16)
@@ -3799,6 +3850,8 @@ au VoLTE 対応。
 # [[http://www.scmp.com/news/asia/southeast-asia/article/2145808/trump-indonesia-project-latest-stop-chinas-belt-and-road][Trump Indonesia project is latest stop on China’s Belt and Road]] (South China Morning Post, 2018/05/11)
 # [[https://twitter.com/realDonaldTrump/status/995680316458262533][... ZTE, a way to get back into business, fast. ...]] (@realDonaldTrump, 2018/05/13)
 # [[https://www.reuters.com/article/us-samsung-elec-chips-interview/samsung-in-talks-with-zte-others-to-supply-mobile-processor-chips-executive-idUSKCN1IG1HB][Samsung in talks with ZTE, others to supply mobile processor chips: executive]] (Reuters, 2018/05/15)
+# [[https://twitter.com/marcorubio/status/998864161122717696][... veto-proof congressional action ...]] (@marcorubio, 2018/05/22)
+# [[https://twitter.com/realDonaldTrump/status/1000151354701213696][... $1.3 Billion ...]] (@realDonaldTrump, 2018/05/25)
 #
 # M Z-01K
 # Android 7
@@ -4054,6 +4107,10 @@ Android 8.1
 # 2005 年 Google が買収。
 # 2014 年 Google を退社。
 # 2015 年 Essential Products を設立。 (ステルス)
+#
+# 次のスマホは開発中止？
+# スマホ事業売却？
+# [[https://www.bloomberg.com/news/articles/2018-05-24/andy-rubin-s-phone-maker-essential-is-said-to-consider-sale][Android Creator Puts Essential Up for Sale, Cancels Next Phone]] (Bloomberg, 2018/05/24)
 
 # *** GRAND X LTE
 # 米 BLU Products 製。 (ODM)
@@ -4162,19 +4219,19 @@ Android 8.1
 # Android Go Edition (MWC 2018~)
 #
 # Alcatel 1X (TCL)
-# EUR100
+# EUR 100
 # ソフトバンク回線なら使えそう。
 #
 # Nokia 1
-# US$85
+# US$ 85
 # ソフトバンク回線なら使えそう。
 #
 # Tempo Go (ZTE)
-# US$79.99
+# US$ 79.99
 # 国内では使えない。
 #
 # Tommy 3 (Wiko)
-# EUR99.99
+# EUR 99.99
 # ソフトバンク回線なら使えそう。
 #
 # Huawei Y5 Lite (2018)
@@ -4219,6 +4276,7 @@ Android 8.1
 # iMessage
 # Objective-C -> Swift
 # USB Restricted Mode? (iOS 11.4?, prevent GrayKey)
+# transparency reports (twice yearly)
 #
 # App Store
 # 32bit アプリを、段階的に廃止。 (2018 年から)
@@ -4301,12 +4359,14 @@ SIM フリーなら、どの格安キャリアでも使えるハズ。
 # 献金をためらわない敬虔な Apple 教徒には、常に最速であることが赦される。 (2018/01/17)
 # iOS 11.3 から、設定に "バッテリーの状態 (ベータ)" が追加された。 (Battery Health, Peak Performance Capability, 2018/03/29)
 # バッテリー交換と修理をセットにした、 10 倍献金キャンペーンもあるみたい。 (2018/05/02)
+# iPhone 6 以降に、 2017 年のバッテリー交換キャンペーンをご案内。 (返金、 2018/05/23)
 # [[https://9to5mac.com/2017/12/10/iphone-6s-slow-down-battery-fix/][PSA: If you have an older iPhone with slow performance, a new battery could solve your problems]] (2017/12/10)
 # [[https://www.geekbench.com/blog/2017/12/iphone-performance-and-battery-age/][iPhone Performance and Battery Age]] (2017/12/18)
 # [[https://techcrunch.com/2017/12/20/apple-addresses-why-people-are-saying-their-iphones-with-older-batteries-are-running-slower/][Apple addresses why people are saying their iPhones with older batteries are running `slower']] (2017/12/20)
 # [[https://www.apple.com/iphone-battery-and-performance/][A Message to Our Customers about iPhone Batteries and Performance]] (Apple, 2017/12/28)
 # [[https://9to5mac.com/2018/01/17/turn-off-iphone-battery-performance-throttling/][Tim Cook says users will be able to turn off iPhone battery performance throttling in future iOS update]] (2018/01/17)
 # [[http://www.bbc.com/news/technology-43960267][Apple faces battery pledge complaints]] (BBC, 2018/05/02)
+# [[https://support.apple.com/iphone-out-of-warranty-battery-replacement-credit][iPhone Out-Of-Warranty Battery Replacement Credit]] (2018/05/23)
 
 ** Windows 10 Mobile (Microsoft)
   
@@ -4601,6 +4661,7 @@ au は最初から、格安キャリアで 3G のパケット通信ができな�
 #
 # ** 接続アプリ
 #
+# # 登録した情報は、広告利用されるかも。
 # # 登録を求めるところは無料ではあっても、フリーとは呼べない。
 # # ケーサツが IP アドレスを証拠扱いしたせいかも。
 #
@@ -4659,6 +4720,11 @@ au は最初から、格安キャリアで 3G のパケット通信ができな�
 # *** 【Ver2.1】エコネクトWi-Fi接続ツール
 #
 # IIJmio WiFi by エコネクトで紹介されてる。
+#
+# # *** タウン WiFi
+# #
+# # 接続方法が、提供元に問題視されてる。
+# # GPS も含めた位置情報を、広告に利用される。
 
 
 * 履歴
