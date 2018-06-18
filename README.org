@@ -364,7 +364,8 @@
 # 刑法にもいくつか。
 # 電磁的記録不正作出及び供用。 (161 条 2)
 # 支払用カード電磁的記録不正作出等。 (163 条 2)
-# 不正指令電磁的記録作成等。 (168 条 2 の 2 項、ウイルス作成罪、遠隔操作)
+# 不正指令電磁的記録作成等。 (168 条 2 、ウイルス作成罪、遠隔操作)
+# 不正指令電磁的記録取得等。 (168 条 3 、保管もダメ)
 # 電子計算機損壊等業務妨害。 (234 条 2)
 # 電子計算機使用詐欺。 (246 条 2)
 # ...
@@ -542,6 +543,8 @@
 # 削除は認められてもブロッキングが認められないのは、通信の秘密もあるから。 (プロバイダ責任制限法)
 # AI の開発原則とかも議論されてる。 (OECD: Organisation for Economic Cooperation and Development, 経済協力開発機構)
 # [[http://www.soumu.go.jp/main_content/000499625.pdf][国際的な議論のためのAI開発ガイドライン案]] (2017/07/28 総務省)
+#
+# IIJmio meeting 20 (2018/07/07 大阪、 2018/07/14 東京)
 
 # モバイル市場の公正競争促進に関する検討会 1~5 (2017/12/25~2018/04/09 総務省)
 # モバイル市場の公正競争促進に関する検討会報告書の公表 (2018/04/27 総務省)
@@ -674,6 +677,7 @@
 # 2018/04/01 バーコード決済を開始。
 #            "Yahoo! Japan" アプリで、税金や公共料金を支払い。
 # 2018/05/01 中国で Arm China を設立。
+#            [[http://europa.eu/rapid/press-release_IP-18-4027_en.htm][EU launches WTO case against China's unfair technology transfers]] (技術移転問題で EU から WTO に提訴された、 2018/06/01)
 #            Arm に 49% を残して売却、合弁になる予定。 (正式合意は 2018/06/04)
 # 2018/05/09 RCS 開始。 (翌日にアプリの配信を一時停止)
 #            旧アプリを残さずに、新アプリで置き換え。
@@ -682,7 +686,9 @@
 # 2018/05/31 "メールでかんたんログイン" を導入予定。
 #            電話番号を入力したら、 SMS で 6 桁の確認番号を受け取って入力するだけ。 (パスワードなし)
 # 2018/06/05 QR コード決済を開始。 ("Yahoo! Japan" アプリ)
-# 2019/??/?? 米で T-mobile (Deutsche Telekom) と Sprint (SoftBank) は合併するかも。 (2018/04/30 合意発表)
+# 2019/??/?? 米で T-mobile (Deutsche Telekom) と Sprint (SoftBank) は合併するかも。
+#            合意発表。 (2018/04/30)
+#            FCC 申請。 (2018/06/15)
 #            これが承認されたら、 Sprint が子会社じゃなくなる。 (持ち分法適用会社)
 #            (SoftBank の有利子負債が 4 兆円くらいは減る)
 
@@ -925,7 +931,8 @@ Android スマホは SIM ロックされてない。 *(!?)*
 # [[https://twitter.com/squad_taicho/status/994165097709715456][... 通信最適化拒否OPは将来通信の最適化を行った時のための機能 ...]] (@squad_taicho, 2018/05/09)
 
 # 2014/12/18 au 回線で開始。
-# 2017/09/07 機種変更と口座振替を開始。
+# 2017/09/07 オンライン機種変更と口座振替を開始。
+# 2018/06/13 店頭でも機種変更できるようになった。
 
 # ** 楽天
 #
@@ -1909,11 +1916,15 @@ NTT コミュニケーションズでプロバイダをしてるところ。
 # keepalive があまりにも短かいならクレームを入れたいところ。
 #
 # Google は GCM を停止して、 FCM に移行する。 (Google Cloud Messaging -> Firebase Cloud Messaging, 2019/04/11?)
-# FCM は e2e 暗号化されそう。 (Project Capillary)
 # Apple は APNs を提供してる。 (Apple Push Notification service)
 # 独自の通知を使ってるアプリもある。
 #
 # 通知は 1 回 4kB 、keepalive は 60+54B で考える。
+#
+# FCM は e2e 暗号化されそう。 (app server to client encryption, Project Capillary)
+# Google には、通知を読まれなくなる。
+# [[https://github.com/google/capillary][google/capillary]] (2018/04/19~)
+# [[https://android-developers.googleblog.com/2018/06/project-capillary-end-to-end-encryption.html][Project Capillary: End-to-end encryption for push messaging, simplified]] (2018/06/05)
 
 ** アプリ専用通話
 
@@ -2023,7 +2034,7 @@ Apple 機器専用。
 # 2016/09/14 EU で、新しい著作権指令が提案された。
 #            無断リンクとかにも、使用料を請求できる。 (非営利を除く、 11 条)
 #            著作権侵害を阻止するのは、サイトの責任。 (Google 税？、 13 条)
-#            Google News がスペインから撤退したアレ。 (ドイツでも似たことがあった)
+#            Google News がスペインから撤退したアレ。 (独でも似たことがあった)
 #            先例もあって、大手サイトには効果がない？
 #            (いろんな人が何かを共有するサイトは、違反するのが前提？)
 # 2016/11/08 米の大統領選挙にも利用されたみたい。 (露ゲート？)
@@ -2106,7 +2117,7 @@ Apple 機器専用。
 #            相手は大統領の 2016 年選挙スタッフ。 (露に WikiLeaks も)
 # 2018/04/24 コミュニティ規定を更新。
 #            削除とかする基準が、前より具体的にはなった。
-#            API も更新された。
+#            API も変更された。
 # 2018/04/24 英議会で、 Aleksandr Kogan が証言。 (停職中の Alexander Nix は延期)
 #            - Facebook と秘密保持契約を結んでる。
 #            - 2014 年の春に、 CA の親会社 SCL から接触があった。
@@ -2179,6 +2190,7 @@ Apple 機器専用。
 # 2018/06/06 英議会で、 Alexander Nix が証言。
 #            - Aleksandr Kogan から受け取ったデータは、いらないので消去した。
 #            - CA から US$ 8 million を持ち出してない。 (FT)
+# 2018/06/08 米議会に回答書を提出。
 # [[https://newsroom.fb.com/news/2012/02/helping-improve-the-mobile-web/][Helping Improve the Mobile Web]] (2012/02/27)
 # [[https://www.ftc.gov/enforcement/cases-proceedings/092-3184/facebook-inc][In the Matter of Facebook, Inc., a corporation]] (2012/08/10)
 # [[https://ec.europa.eu/digital-single-market/en/modernisation-eu-copyright-rules][Modernisation of the EU copyright rules]] (2016/09/14)
@@ -2210,6 +2222,7 @@ Apple 機器専用。
 # [[https://www.commerce.senate.gov/public/index.cfm/2018/6/thune-and-nelson-demand-answers-from-facebook-amid-new-reports-of-privacy-concerns][Thune and Nelson Demand Answers from Facebook Amid New Reports of Privacy Concerns]] (2018/06/05)
 # [[https://www.cnet.com/news/cambridge-analytica-chief-alexander-nix-accused-of-swiping-8-million-dollars-from-the-company/][Cambridge Analytica chief accused of swiping $8M from the company]] (CNET, 2018/06/06)
 # [[https://www.eff.org/deeplinks/2018/06/eus-copyright-proposal-extremely-bad-news-everyone-even-especially-wikipedia][The EU's Copyright Proposal is Extremely Bad News for Everyone, Even (Especially!) Wikipedia]] (EFF, 2018/06/07)
+# [[https://twitter.com/WolfieChristl/status/1006292477370920961][... Facebook's answers to questions of US senators ...]] (@WolfieChristl, 2018/06/11)
 
 *** WhatsApp (WhatsApp)
 
@@ -2653,7 +2666,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 #            広域監視システムがいろいろある。 (PRISM, XKeyscore, Tempora, ...)
 #            いろんな国との、協力体制がある。 (Five Eyes, third parties, ...)
 #            米大手キャリアとかも協力してる。 (Google, Apple, Microsoft, Facebook, ..., 否定はしてるけど話せない)
-#            米市民も監視してた。
+#            こっそりと、米市民も監視してた。 (大統領令 12333)
 # 2013/06/09 元 CIA 職員で NSA 分析官の Edward Snowden が、内部告発者として名乗り出た。 (Guardian)
 # 2013/08/08 暗号化メールの、 Lavabit がサービスを停止。
 #            (FISA: Foreign Intelligence Surveillance Act, 外国情報監視法)
@@ -2674,6 +2687,8 @@ OCN モバイル ONE との SIM 契約なしで使える。
 #            米市民を監視するには、裁判所の令状がいるようになった。
 # 2016/03/17 Lavabit での調査対象が確定。
 #            裁判所が開示した資料には、 Ed_Snowden@lavabit.com とあった。 (なぜか黒塗りじゃなかった！)
+# 2016/08/?? 大統領令 12333 の解釈を拡大。
+#            NSA とかの集めた情報を、いろんな情報機関がそのまま見れるようになった。
 # 2017/01/20 Donald Trump 大統領が就任。
 #            Lavabit はサービス再開を告知。
 # 2017/04/24 日本に関係する 13 の文書が公開された。 (Intercept, NHK)
@@ -2764,6 +2779,24 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[http://takagi-hiromitsu.jp/diary/20180307.html][個人情報保護委員会ゥァア゛ーッ ドガシャア]] (2018/03/07)
 # [[https://www.ppc.go.jp/enforcement/cooperation/cooperation/300531/][欧州委員会委員との会談（平成30年5月）]] (個人情報保護委員会、 2018/05/31)
 # [[https://www.ppc.go.jp/files/pdf/tokumeikakoujireisyu.pdf][匿名加工情報・個人情報の適正な利活用の在り方に関する動向調査（事例集）（平成30年3月）]] (個人情報保護委員会、 2018/06/04)
+#
+# 暗号通貨を無断採掘してる人が、警告もなく逮捕されちゃった。 (Cryptocurrency Mining, 仮想通貨)
+# 対象になった Coinhive は、ブラウザに暗号通貨を採掘させる JavaScript 。 (Monero)
+# 他人が作ったサイトで無断採掘ならともかく、自分が作ったサイトでもダメらしい。 (刑法 168 条 3 が多い？)
+# ブラウザは、見てるタブのしか動かなくなる。 (Chrome, Suspend all background tabs, 2018/??/??)
+# バッテリーの浪費も、 OS とかに抑制される。 (App Standby, Doze, Background limits, Adaptive Battery, ...)
+# CPU の占有とかが問題なら、バグのせいかも。 (バグは対象外のハズ)
+# 損害を与えず遠隔操作もできないのに、迷惑なら意図に反する動作ってことにしてウイルス扱いできるらしい。 *(!?)*
+# 採掘ツールは、ウイルス扱いできる？ (負荷の大きい広告もウイルスになる？)
+# 広告との違いは、見えないことだけ？ (採掘を表示したら広告になる？)
+# 第三者の無断採掘も、そのうち逮捕？ (難しいので放置してる？)
+# 誰かに被害届けとか、提出されてる？ (それとも苦情？)
+# 裁判に呼ばれる、検察側の証人は誰？ (Trend Micro?)
+# (採掘ツールがウイルスだっていう明確な法的根拠が、ケーサツによって示されるに違いないと世界中から期待されてる)
+# [[https://developers.google.com/web/updates/2017/03/background_tabs][Background Tabs in Chrome 57]] (2017/03/14)
+# [[https://doocts.com/3403][仮想通貨マイニング（Coinhive）で家宅捜索を受けた話]] (2018/06/12)
+# [[http://www.npa.go.jp/cyber/policy/180614_2.html][仮想通貨を採掘するツール（マイニングツール）に関する注意喚起]] (2018/06/14 警察庁)
+# [[http://d.hatena.ne.jp/Kango/20180615/1529094423][仮想通貨マイニングツール事案をまとめてみた - piyolog]] (2018/06/15)
 
 # 上場したら、ホームページに載ってなかった役員が...
 
@@ -2846,6 +2879,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://newsroom.intel.com/articles/addressing-questions-regarding-additional-security-issues/][Addressing Questions Regarding Additional Security Issues]] (2018/05/03)
 # [[https://thehackernews.com/2018/05/intel-spectre-vulnerability.html][8 New Spectre-Class Vulnerabilities (Spectre-NG) Found in Intel CPUs]] (2018/05/04)
 # [[https://newsroom.intel.com/editorials/addressing-new-research-for-side-channel-analysis/][Addressing New Research for Side-Channel Analysis]] (2018/05/21)
+# [[https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00145.html][INTEL-SA-00145]] (Lazy FP state restore, 2018/06/13)
 
 # 5G band
 # | freq (MHz) |
@@ -3139,9 +3173,9 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 # | 2017/12/21 | 3GPP     | NSA 5G NR        | early drop of Release 15                                |
 # | 2018/05/18 | SoftBank |                  | 4CC CA                                                  |
 # | 2018/05/18 | ドコモ   |                  | 5CC CA                                                  |
-# | 2018/06/?? | 3GPP     | SA 5G NR         | Release 15                                              |
+# | 2018/06/14 | 3GPP     | SA 5G NR         | Release 15                                              |
 # | 2018/??/?? | Qualcomm | Snapdragon 855?  | Snapdragon X50 5G Modem?                                |
-# | 2019/06/?? | 3GPP     |                  | Release 16 -> ITU-R IMT-2020                            |
+# | 2019/12/?? | 3GPP     | 5G NR            | Release 16 -> ITU-R IMT-2020                            |
 #
 # 4G (LTE=3.9G) は名前使うの早すぎて、とても微笑ましい。
 # 1 歩でも越えたら次世代ってことかな。
@@ -3149,8 +3183,9 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 #
 # 5G (NR, ITU-R IMT-2020)
 # NSA (Non-StandAlone) は、 4G 回線も使って通信速度の上限を上げる。
-# 5G 単独はまだ。 (SA: StandAlone)
-# 繋がりやすくなるのもまだ。
+# SA (StandAlone) は、 5G 単独。 (eMBB, URLLC)
+# 人がたくさんいるとこでも、繋がりやすくなるのはまだ。
+# 実効速度が 1Gbps になったら、 1GB なんて 10 秒くらいでなくなるかも。
 # 先に名前を使いたい人たちが、もぞもぞしてる。
 #
 # CA (Carrier Aggregation: 搬送波集合)
@@ -3250,6 +3285,10 @@ H.265(HEVC) はパテントプールで溺れてる。
 # [[https://arstechnica.com/tech-policy/2018/06/inventor-says-google-is-patenting-work-he-put-in-the-public-domain/][Inventor says Google is patenting work he put in the public domain]] (ANS: Asymmetric Numeral Systems, Ars Technica, 2018/06/10)
 #
 # AVIF (AV1 Still Image File Format)
+#
+# VVC (Versatile Video Coding)
+# H.265 (HEVC) の次も開発中。 (JVET: Joint Video Experts Team, 2020/10/??)
+# [[http://blog.chiariglione.org/the-mpeg-machine-is-reasy-to-start-again/][The MPEG machine is ready to start (again) – Leonardo Chiariglione | Blog]] (2018/04/20)
 
 # 2017/05/25 dtab Compact d-01J タブレット発売。 (Huawei MediaPad M3 ベース)
 # 消費者向けとしては初の eSIM 搭載。
@@ -3370,7 +3409,10 @@ H.265(HEVC) はパテントプールで溺れてる。
 # [[https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink][Google Family Link]] (Parental Controls, 2017/03/15, iOS 2017/04/14, Japan 2018/04/26)
 # .app (TLD: Top Level Domain, HTTPS only)
 # Google Advertising ID (AAID)
+# Google Ad Settings (Ads Personalisation on/off)
 # Google Maps API -> Google Maps Platform (Premium + Standard Plan, 2018/07/16)
+# [[https://transparencyreport.google.com/][Google Transparency Report]]
+# [[https://play.google.com/store/apps/details?id=com.google.android.apps.translate][Google 翻訳]] (NMT: Neural Machine Translation, AI-based offline translation, 5.20.0.RC10.199570264, 2018/06/08)
 #
 # ServiceMode, EngineerMode
 # stock ROM (official firmware)
@@ -3493,10 +3535,11 @@ Google モデルを元に各国向けに作り替えたもの。
 # Android 6
 # 507SH (シャープ)
 
-*** nova lite 2
+*** P20 lite
 
 中国 Huawei Technologies 製。 (ファーウェイ、華為技術)
-ソフトバンク VoLTE 対応。 (主に Y!mobile 向け)
+au VoLTE 対応。
+どの回線でも使える。 *(!?)*
 発売から 2 年間の更新を保証。 (2016/07/18 の Honor8 以降のみ)
 Y!mobile 店舗での、スマホの修理取り次ぎや代替機の貸し出しは終了予定。 (2018/06/30)
 Nexus 6P を作ってた。
@@ -3512,11 +3555,12 @@ Mate9 が問題になってる。 (無問題了？？)
 # Phone Clone
 # 純正交換用バッテリー (内蔵電池パック) + 自分で交換キット (P9, P9 lite, nova lite, P10 lite)
 # PC Mode
-# Huawei AppStore (2018)
+# App Gallery (2018/??/??)
 # Huawei Pay
 # HiAI engine (P20)
 # HWA (High-Res Wireless Audio, LHDC: Low latency and High-Definition audio Codec, Savitech)
 # EROFS (Extendable Read Only File System)
+# GPU Turbo
 # Kirin OS?
 #
 # P9 lite メモ。 (検証中)
@@ -3584,14 +3628,14 @@ Mate9 が問題になってる。 (無問題了？？)
 # P20 lite
 # EMUI 8.0 (Android 8.0)
 # au VoLTE 対応。
-# DSDS 対応。
+# インカメラで顔認証っぽいことができる。 (2D, 指紋認証もできる)
 # どの回線でも使える。 *(!?)*
 # 大手キャリアの 2018 夏モデルも、 SIM フリーと同時に発売される予定。 (au, Y!mobile, UQ mobile, 2018/06/15)
 #
 # nova lite 2
 # EMUI 8.0 (Android 8.0)
 # ソフトバンク VoLTE 対応。
-# 更新で顔認証っぽいことができるようになった。 (FIG-LA1 8.0.0.126(C635), 2D)
+# インカメラで顔認証っぽいことができる。 (2D, FIG-LA1 8.0.0.126(C635))
 # au 回線では使えない。
 # 格安キャリアで売ってる。 (ソフトバンクの 2018 年夏モデルにもなった)
 #
@@ -3768,7 +3812,8 @@ DSDS 対応。 (SIMx2 + MicroSD スロット)
 中国 Lenovo 製。 (レノボ、聯想集団) +米モトローラ製。+
 Motorola -> Google (2012/05/22) -> Lenovo (2014/10/30)
 DSDS 対応。 (SIMx2 + microSD スロット)
-どの回線でも使える。 *(!?)*
+国内大手キャリアの VoLTE に全て対応。 *(!?)*
+どの回線でも使える。
 更新に積極的なのは、 Google の頃から？
 素の Android に近いらしい。 (AOSP)
 Nexus 6 を作ってた。
@@ -3781,12 +3826,14 @@ Nexus 6 を作ってた。
 # Android 8
 # DSDS 対応。 (SIMx2 + microSD スロット)
 # 国内大手キャリアの VoLTE に全て対応。 *(!?)*
+# どの回線でも使える。
 #
 # E5
 # Android 8
 # DSDS 対応。 (SIMx2 + microSD スロット)
 # 大容量バッテリー。
 # 国内大手キャリアの VoLTE に全て対応。 *(!?)*
+# どの回線でも使える。
 #
 # G5S, G5S Plus
 # Android 7.1.1 -> 8 更新予定。
@@ -3845,6 +3892,7 @@ FREETEL の名前でスマホの製造販売を続ける。
 # Wi-Fi の利用停止が呼び掛けられてる。 (2017/11/06 の更新から電波法違反？)
 # [[https://blg.freetel.jp/news/21986.html][【緊急のお願い】Priori 4に関する重要なお知らせ]] (2018/06/08)
 # [[https://twitter.com/kakuiwata/status/1005607180890804224][Wi-Fiをオフにしても完全には止まらない ...]] (@kakuiwata, 2018/06/09)
+# [[https://blg.freetel.jp/news/22011.html][【緊急のお願い】Priori 4 Wi-Fi機能の停止手順追加のお願い]] (2018/06/11)
 
 *** Xperia
 
@@ -3954,13 +4002,13 @@ au VoLTE 対応。
 # AQUOS R Compact (SH-M06 のベース)
 # AQUOS sense (lite SH-M05 や Android One S3 のベース)
 #
-# AQUOS sense plus (2018/夏？)
+# AQUOS sense plus SH-M07 (2018/06/22 予定)
 # Android 8
 # VoLTE
 # DCI-P3 (LCD)
 # 防水おサイフ。
 # 発売後 2 年間に、最大 2 回のバージョンアップを約束してる。
-# Y!mobile で先に発売される Android One X4 のベース。 (予定)
+# Y!mobile で先に発売された Android One X4 のベース。 (予定)
 #
 # AQUOS R Compact SH-M06
 # Android 8.0
@@ -3972,7 +4020,7 @@ au VoLTE 対応。
 # Android 7.1
 # 防水おサイフ。
 # 発売後 2 年間に、最大 2 回のバージョンアップを約束してる。
-# Android 8.0 に更新予定。 (2018/06/??)
+# Android 8.0 に更新。 (02.00.02, 2018/06/14?)
 #
 # SH-M04, SH-M04-A
 # Android 6.0
@@ -4447,7 +4495,6 @@ Android 8.1
 # CallKit
 # Apple Pay
 # iCloud (free 5GB, Amazon S3, Google Cloud Platform, Microsoft Azure?, 雲上貴州大数据産業発展)
-# App Store Review Guideline
 # Apple Store (Genius Bar, Authorized third-party repair center, Horizon Machine)
 # Secure Enclave
 # In-App Purchase
@@ -4458,18 +4505,21 @@ Android 8.1
 # Xcode (iOS simulator)
 # iMessage
 # Objective-C -> Swift
-# USB Restricted Mode? (iOS 1?, prevent GrayKey)
-# transparency reports (twice yearly)
+# USB Restricted Mode? (iOS 12?~, prevent GrayKey?)
+# [[https://www.apple.com/privacy/transparency-reports/][Transparency Reports]] (twice yearly)
 # IDFA (Advertising Identifier)
 #
 # App Store
+# アプリには審査がある。 (App Store Review Guideline)
 # 32bit アプリを、段階的に廃止。 (2018 年から)
 # 2018/04/?? 新しいアプリは、 iPhone X と iOS 11 SDK への対応が必須になる。
+# 2018/05/08 位置情報とかを、勝手に送信してるアプリを削除。
+# 2018/06/04 連絡帳とかから、アプリが勝手に情報収集や共有するのを禁止。 (WWDC 2018)
+#            アプリが無断で、暗号通貨の採掘するのも禁止。
+# 2018/07/?? アプリの更新に、 iOS 11 SDK 以上が必須になる。
 # [[https://developer.apple.com/ios/submit/][Submitting iOS apps to the App Store]]
 # [[https://9to5mac.com/2018/02/15/apple-require-new-apps-support-iphone-x/][Apple will require all new apps to natively support iPhone X display from April]] (2018/02/15)
-# 2018/05/08 位置情報とかを、勝手に送信してるアプリを削除。
 # [[https://9to5mac.com/2018/05/08/apple-location-apps-third-parties/][Apple cracking down on applications that send location data to third-parties]] (2018/05/08)
-# 2018/07/?? アプリの更新には、 iOS 11 SDK 以上が必須になる。
 # [[https://developer.apple.com/news/?id=05072018a][Upcoming iOS 11 App Update Requirements]] (2018/05/07)
 #
 # WWDC 2018 (2018/06/04~08)
