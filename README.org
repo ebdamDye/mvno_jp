@@ -517,6 +517,7 @@
 # [[http://www.coda-cj.jp/news/detail.php?id=171][CODAと広告関連3団体は連携して著作権侵害サイトへの広告掲載抑止に向け定期協議実施を決定]] (CODA, 2018/06/08)
 # [[https://www.bengo4.com/internet/n_8081/][「海賊版サイト」ブロッキング差し止め裁判開始…NTTコム側は争う姿勢]] (弁護士ドットコム、 2018/06/21)
 # [[http://live.nicovideo.jp/watch/lv313681156][激論どうなる、海賊版サイト対策のこれから]] (途中でブロッキングを実演？、 ニコニコ動画、 2018/06/22)
+# [[http://nlab.itmedia.co.jp/nl/articles/1806/29/news105.html][漫画村問題でCloudflareを漫画家が提訴　国内でCloudflareについて争われるのは初]] (... 第1回公判は9月に予定されており、最短で審理が進めば年内には判決が出る可能性も ..., ITmedia, 2018/06/30)
 #
 # ソフトバンクと au は、検討中？
 #
@@ -576,6 +577,7 @@
 # - ...
 #
 # 電気通信事業法施行規則の一部を改正する省令案に対する意見募集 (2018/05/25 総務省)
+# 電気通信事業法施行規則の一部を改正する省令案に対する意見募集の結果及び再意見募集 (2018/06/27 総務省)
 # パケットが不当に差別されないことを、民事的に担保。 (接続約款に規定させる)
 #
 # 端末の販売価格の割引等に関する販売店への対応の適正化に係るソフトバンク株式会社への指導 (2018/06/06 総務省)
@@ -588,6 +590,10 @@
 # 携帯電話・PHSの番号ポータビリティの実施に関するガイドライン」（案）についての意見募集 (2018/06/06 総務省)
 #
 # 「モバイルサービスの提供条件・端末に関する指針」及び「電気通信事業法の消費者保護ルールに関するガイドライン」の改正案についての意見募集 (2018/06/06 総務省)
+#
+# 電気通信事業法施行規則等の一部を改正する省令案等に対する意見募集 (2018/04/20 総務省)
+# 電気通信事業法施行規則等の一部を改正する省令案等に対する意見募集の結果及び情報通信行政・郵政行政審議会からの答申 (2018/06/29 総務省)
+# 格安キャリアの音声通話 SIM も、初期契約解除制度の対象にする省令案。 (確認措置のこと)
 
 # 高度情報通信ネットワーク社会推進戦略本部 (IT 総合戦略本部、首相官邸)
 # 世界最先端IT国家創造宣言。 (2013/06/14 閣議決定)
@@ -595,18 +601,22 @@
 # 世界最先端IT国家創造宣言・官民データ活用推進基本計画。 (2017/05/30 閣議決定)
 #
 # 「情報銀行」の認定に係る指針　ver1.0（案）に対する意見募集 (2018/05/11 総務省)
+# 情報信託機能の認定に係る指針　ver1.0（案）に対する意見募集の結果 (2018/06/26 総務省)
 # 政府も利用する。
 # C も 3 つくらい付きそう。
 # 社会信用システム構築計画と似てる。
 # 国内のサービスが、まとめて Facebook の二の舞を演じるかも。
 # [[http://www.information-bank.net/][Information Bank Consortium]] (国際連携？)
 
+# 携帯電話市場の競争政策上の課題について 1 (2016/08/02 公正取引委員会)
+#
 # 携帯電話分野に関する意見交換会 (2018/04/13~ 公正取引委員会)
-# 夏頃にまとまる？
+# 携帯電話市場の競争政策上の課題について 2 (2018/06/28 公正取引委員会)
+# 利用者の乗り換えを邪魔するキャリアには、独占禁止法を執行？
 
 # LTEInspector
-# IMSI とか公開しちゃダメ。
 #
+# IMSI とか公開しちゃダメ。
 # - Attach Procedure
 #   Authentication Synchronization Failure Attack
 #   Traceability Attack
@@ -624,6 +634,16 @@
 # [[http://www.zdnet.com/article/new-lte-attacks-eavesdrop-on-messages-track-locations-spoof-alerts/][New LTE attacks can snoop on messages, track locations and spoof emergency alerts]] (2018/03/02)
 # [[https://www.documentcloud.org/documents/4392401-4G-LTE-attacks-paper.html][4G LTE attacks paper]] (NDSS, 2018/02/18~21)
 # [[http://tansokun920.hatenablog.com/entry/2018/03/08/230706][4G LTEネットワークの新たな脆弱性]] (2018/03/08)
+
+# aLTEr
+# - Identity Mapping (RNTI and TMSI mapping, Passive)
+# - Website Fingerprinting (Layer Two Scheduling Metadata, Passive)
+# - Lack of Integrity Protection (aLTEr, Active)
+#
+# 偽装された基地局に接続しちゃったら、中間者攻撃されるかも。
+# 4G の仕様なので、 DNS も含めた e2e 暗号化みたいな対策しかない？ (5G も AES-CTR)
+# [[https://alter-attack.net/][Breaking LTE on Layer Two]]
+# [[https://www.ieee-security.org/TC/SP2019/][IEEE Symposium on Security and Privacy 2019]] (2019/05/20~22)
 
 ** ソフトバンク
 
@@ -691,9 +711,10 @@
 #            技術移転問題で EU から WTO に提訴された。 (2018/06/01)
 #            [[http://europa.eu/rapid/press-release_IP-18-4027_en.htm][EU launches WTO case against China's unfair technology transfers]] (2018/06/01)
 # 2018/05/09 RCS 開始。 (翌日にアプリの配信を一時停止)
-#            旧アプリを残さずに、新アプリで置き換え。 (旧アプリも残すことになった)
+#            旧アプリを残さずに、新アプリで置き換え。
 #            知らないアプリだからって、削除するとメールも消える。
 #            (SoftBank と契約中の SIM が入ってなかったときも、メールが消える？)
+#            旧アプリも残すように変えて、アプリの配信を再開。 (2018/06/28)
 # 2018/05/31 "メールでかんたんログイン" を導入予定。
 #            電話番号を入力したら、 SMS で 6 桁の確認番号を受け取って入力するだけ。 (パスワードなし)
 # 2018/06/05 QR コード決済を開始。 ("Yahoo! Japan" アプリ)
@@ -1218,6 +1239,9 @@ au 回線だと、音声通話には au VoLTE 対応のスマホがいる。
 #            [[https://king.mineo.jp/magazines/special/836][4月～5月のmineoネットワーク状況について]] (... 使用しているスピードテストアプリ ... ペーシングの影響を受けない ..., 2018/05/31)
 #            [[https://king.mineo.jp/magazines/special/850][通信の最適化によるお客さま影響について（画像データ圧縮）]] (... 以前の画像がサンプルとして相応しくなかったので、画像の差し替え ..., 2018/06/01)
 #            [[http://blog.livedoor.jp/blackwingcat/archives/1968517.html][【悲報】mineo ユーザーサポートさん、次々と嘘がばれてしまうの巻【詐欺】]] (@BlackWingCat, 2018/06/04)
+#            [[http://www.itmedia.co.jp/mobile/articles/1807/02/news083.html][mineo「通信の最適化」をファンイベントで陳謝、信頼回復でさらなる成長を目指す]] (... 各ユーザーに説明している」ため、問題とならないという認識を示した ..., ITmedia, 2018/07/02)
+#            [[https://twitter.com/biz4g/statuses/1013686353257611264][各ユーザーに説明？個別具体的に受けた覚えないけど？]] (@biz4g, 2018/07/02)
+#            [[https://twitter.com/seijidohi/statuses/1013687295164088321][あれ、5月の当時は「正当業務行為」を主張していたハズだけど・・・]] (@seijidohi, 2018/07/02)
 # 2018/06/04 mineo キャリア決済を開始予定。 (上限 2 万円)
 #            ドコモ回線の音声通話 SIM のみ。
 #            Google Play の料金が、 mineo の請求といっしょになる。
@@ -1544,11 +1568,12 @@ au 回線にだけ、従量制のエコプランがある。 (SMS 付き)
 音声通話は 20 円/ 30 秒。
 LINE アプリ同士で通話すれば無料。
 電話番号に掛けるなら、 "Line Out" で通話したほうが安い。
+ドコモ回線とソフトバンク回線のどちらでも、パケット料金は同じ。 (オプションは違う)
 
 パケットを贈ることができる。(データプレゼント)
-LINE などを利用するパケットは無料にできる。 (カウントフリー)
-LINE のビデオ通話は、なぜかカウントフリーの対象になってる。
-カウントフリーの対象外は、ゲームや違うアプリからの動画など。
+LINE などを利用するパケットは無料にできる。 (データフリー)
+LINE のビデオ通話は、なぜかデータフリーの対象になってる。
+データフリーの対象外は、ゲームや違うアプリからの動画など。
 # カウントフリーは低速モードみたいなもの？
 # 迷惑なほど使うと、通信速度を制限するらしい。
 # 明確な基準は、規約と公式ブログにも書いてない。
@@ -1556,6 +1581,9 @@ LINE のビデオ通話は、なぜかカウントフリーの対象になって
 # IIJmio meeting 15
 # Q. カウントフリーは、通信の秘密を侵害してない？
 # A. 正当な業務。 (総務省の中の人)
+#
+# カウントフリーは、データフリーに変わった。 (2018/07/02)
+# (ソフトバンクの子会社になって、 NTTCom の登録商標を使えなくなった？)
 
 パケットの繰り越しは翌月まで。 (1MB 単位?)
 翌月は繰り越し分のパケットから利用できる。
@@ -1616,7 +1644,7 @@ LINE のビデオ通話は、なぜかカウントフリーの対象になって
 
 # 2016/10/01 ドコモ回線で開始。 (OCN)
 # 2018/04/02 ソフトバンクの子会社になる予定。
-# 2018/夏    ソフトバンク回線を開始予定。 (SB パートナーズ？)
+# 2018/07/02 ソフトバンク回線を開始。 (SB パートナーズ？)
 
 ** イオンモバイル
 
@@ -1845,6 +1873,7 @@ NTT コミュニケーションズでプロバイダをしてるところ。
 # 前にも、解約トラブルを報じられたことがある。 (2016/08/??)
 # 優雅な暮らし (ozio) のために、さまざまなオプションと手数料を提供？
 # [[https://www.pcdepot.co.jp/info/information171206.pdf][正規の対応]] に注意。 (2017/12/06)
+# [[http://www.caa.go.jp/policies/policy/consumer_system/collective_litigation_system/about_qualified_consumer_organization/release39/2018/pdf/release39_180530_0001.pdf][埼玉消費者被害をなくす会と株式会社ピーシーデポコーポレーションとの差止請求に関する協議が調ったことについて]] (消費者契約法 39 条 1 項に基づく公表、 2018/02/09)
 
 
 * 通話アプリ
@@ -2196,6 +2225,11 @@ Apple 機器専用。
 #            - Aleksandr Kogan から受け取ったデータは、いらないので消去した。
 #            - CA から US$ 8 million を持ち出してない。 (FT)
 # 2018/06/08 米議会に回答書を提出。
+# 2018/06/27 またクイズアプリで流出してたのかも。 ("NameTests")
+# 2018/06/27 ノルウェー消費者委員会に、ダークパターンを指摘された。 (Google も)
+#            個人情報の提供へと誘導する、サイトのデザインとかが問題視されてる。
+# 2018/06/28 米カリフォルニア州で、消費者プライバシー法が成立。 (California Consumer Privacy Act of 2018)
+#            削除や開示とかの請求には、不利益なしで応じなきゃいけない。 (2020/01/01~)
 # [[https://newsroom.fb.com/news/2012/02/helping-improve-the-mobile-web/][Helping Improve the Mobile Web]] (2012/02/27)
 # [[https://www.ftc.gov/enforcement/cases-proceedings/092-3184/facebook-inc][In the Matter of Facebook, Inc., a corporation]] (2012/08/10)
 # [[https://ec.europa.eu/digital-single-market/en/modernisation-eu-copyright-rules][Modernisation of the EU copyright rules]] (2016/09/14)
@@ -2228,6 +2262,9 @@ Apple 機器専用。
 # [[https://www.cnet.com/news/cambridge-analytica-chief-alexander-nix-accused-of-swiping-8-million-dollars-from-the-company/][Cambridge Analytica chief accused of swiping $8M from the company]] (CNET, 2018/06/06)
 # [[https://www.eff.org/deeplinks/2018/06/eus-copyright-proposal-extremely-bad-news-everyone-even-especially-wikipedia][The EU's Copyright Proposal is Extremely Bad News for Everyone, Even (Especially!) Wikipedia]] (EFF, 2018/06/07)
 # [[https://twitter.com/WolfieChristl/status/1006292477370920961][... Facebook's answers to questions of US senators ...]] (@WolfieChristl, 2018/06/11)
+# [[https://www.forbrukerradet.no/side/facebook-and-google-manipulate-users-into-sharing-personal-data/][New analysis shows how Facebook and Google push users into sharing personal data]] (Forbrukerrådet, ノルウェー消費者委員会、 2018/06/27)
+# [[https://twitter.com/securinti/status/1012227684045377536][... data leak in a popular Facebook app ...]] (@securinti, 2018/06/28)
+# [[https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB375][Assembly Bill No. 375]] (2018/06/29)
 
 *** WhatsApp (WhatsApp)
 
@@ -2653,12 +2690,13 @@ OCN モバイル ONE との SIM 契約なしで使える。
 #
 # "責任ある暗号化" は、捜査機関とかも読める暗号のことらしい。 (responsible encryption, 2017/10/10)
 # - 秘密鍵の提出制度？ (くたばれ PKI?)
-# - 新しい脆弱な暗号？
+# - 新しい脆弱な暗号？ (backdoor, key escrow, ...)
 # - 旧式の単純な暗号？
 # - 平文に見える暗号？ (FontCode, ...)
 # - 大統領も捜査協力？
 # 確率的にはどこかに責任があると推定される暗号を、禁止する法案が提出された。 (Secure Data Act, 2018/05/10)
 # [[https://www.cnet.com/news/congress-introduces-bill-to-block-government-encryption-backdoors/][Congress introduces bill to block government encryption backdoors]] (CNET, 2018/05/11)
+# [[https://globalpolicy.ieee.org/new-ieee-position-statement-supports-strong-encryption-for-confidentiality-and-data-integrity/][New IEEE Position Statement Supports Strong Encryption]] (IEEE, 2018/06/24)
 #
 # 通信傍受のための広域監視システムが、誤解されてるらしい。 (DNI: Director of National Intelligence, 米国家情報長官)
 # 2001/09/11 米同時多発テロ。
@@ -2711,6 +2749,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://www.eff.org/deeplinks/2017/10/deputy-attorney-general-rosensteins-responsible-encryption-demand-bad-and-he][Deputy Attorney General Rosenstein’s “Responsible Encryption” Demand is Bad and He Should Feel Bad]] (EFF, 2017/10/10)
 # [[https://tools.ietf.org/html/draft-ietf-tls-tls13-28][The Transport Layer Security (TLS) Protocol Version 1.3]] (IETF, 2018/03/20)
 # [[http://www6.nhk.or.jp/special/detail/index.html?aid=20180519][日本の諜報 スクープ最高機密ファイル]] (NHK, 2018/05/19)
+# [[https://theintercept.com/2018/06/25/att-internet-nsa-spy-hubs/][The NSA’s Hidden Spy Hubs in Eight U.S. Cities]] (Intercept, 2018/06/25)
 #
 # 軍用ドローン計画の Project Maven で、血肉も滴るいい AI パイロットを育てるかも。 (Google, Amazon, 2017/03/06)
 # 米サイバー軍を統合軍に格上げした。 (UCC: US Cyber Command, 2017/08/18)
@@ -2898,6 +2937,8 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://thehackernews.com/2018/05/intel-spectre-vulnerability.html][8 New Spectre-Class Vulnerabilities (Spectre-NG) Found in Intel CPUs]] (2018/05/04)
 # [[https://newsroom.intel.com/editorials/addressing-new-research-for-side-channel-analysis/][Addressing New Research for Side-Channel Analysis]] (2018/05/21)
 # [[https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00145.html][INTEL-SA-00145]] (Lazy FP state restore, 2018/06/13)
+# [[https://www.theregister.co.uk/2018/06/22/intel_tlbleed_key_data_leak/][Meet TLBleed: A crypto-key-leaking CPU attack that Intel reckons we shouldn't worry about]] (Register, 2018/06/22)
+# [[https://www.blackhat.com/us-18/briefings.html#tlbleed-when-protecting-your-cpu-caches-is-not-enough][TLBleed: When Protecting Your CPU Caches is Not Enough]] (USA BlackHat 2018, 2018/08/04~2018/08/09)
 
 # 5G band
 # | freq (MHz) |
@@ -3066,6 +3107,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # (国内では Pixel を売ってない)
 #
 # Huawei は 2 年間の更新を保証。 (Honor8 以降)
+# セキュリティパッチを隔月？
 #
 # SIM フリーなスマホは、
 # 更新するかどうかをスマホの製造元が決めてる。
@@ -3167,6 +3209,7 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 まともに評価できるのは数年後かも。
 # OLED (Organic Light Emitting Diode)
 # JDI は 2019 年から生産？
+# JOLED は 2020 年から量産？
 #
 # mini LED-backlit panel (2018?)
 # mLED (micro LED, μLED)
@@ -3302,6 +3345,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # [[https://code.facebook.com/posts/612340875779169/facebook-video-adds-av1-support/][Facebook video adds AV1 support]] (2018/04/24)
 # [[https://www.socionext.com/jp/pr/sn_pr20180606_01j.pdf][クラウド上のFPGAを利用するAV1エンコーダーを実装]] (AWS Summit Tokyo 2018, Socionext, 2018/06/06)
 # [[https://arstechnica.com/tech-policy/2018/06/inventor-says-google-is-patenting-work-he-put-in-the-public-domain/][Inventor says Google is patenting work he put in the public domain]] (ANS: Asymmetric Numeral Systems, Ars Technica, 2018/06/10)
+# [[https://aomedia.googlesource.com/aom/+/v1.0.0][AOMedia Codec Workgroup Approved version 1.0]] (2018/06/25)
 #
 # AVIF (AV1 Still Image File Format)
 #
@@ -3363,6 +3407,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # UFS3.0 (Universal Flash Storage, 11.6Gbps x2, 2.5V, JEDEC, 2018/01/30)
 # eMMC5.2 (embedded Multi Media Card, final?)
 # iSIM (integrated SIM, Kigen OS, CryptoIsland, MWC 2018, Arm)
+# SD 7.0 (SDUC: SD Ultra Capacity, 128TB, SD Express, 985MB/s, MWC Shanghai 2018)
 #
 # Hexagon 682 DSP (Digital Signal Processor, Hexagon SDK, Snapdragon 835, Qualcomm)
 # Arm OD (Object Detection, AI chip, Project Trillium)
@@ -3429,6 +3474,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # .app (TLD: Top Level Domain, HTTPS only)
 # Google Advertising ID (AAID)
 # Google Ad Settings (Ads Personalisation on/off)
+# Google AdWords (DoubleClick) -> Google Ads (Google Marketing Platform, Google Ad Manager, 2018/06/27)
 # Google Maps API -> Google Maps Platform (Premium + Standard Plan, 2018/07/16)
 # [[https://transparencyreport.google.com/][Google Transparency Report]]
 # [[https://play.google.com/store/apps/details?id=com.google.android.apps.translate][Google 翻訳]] (NMT: Neural Machine Translation, AI-based offline translation, 5.20.0.RC10.199570264, 2018/06/08)
@@ -3474,6 +3520,14 @@ H.265(HEVC) はパテントプールで溺れてる。
 # ZTE のスマホにも入ってた。 (日本向けには見つかってない？)
 # Google Play Protect が検出するようになった。 (Google の認証を通過してないスマホに多いけど)
 # [[https://blog.avast.com/android-devices-ship-with-pre-installed-malware][Android devices ship with pre-installed malware]] (Avast, 2018/05/24)
+
+# RAMpage (CVE-2018-9442)
+#
+# メモリに物理的な欠陥があって、となりで ON/OFF を繰り返すとビット反転しちゃうことがある。 (Rowhammer, LPDDR2~4, 2012/??/??~)
+# Android が連続したメモリを確保する仕組みも利用すれば、意図的な書き換えができる。 (ION, CMA)
+# サイドチャネル攻撃して特定されたメモリを書き換えられるので、危険。 (Meltdown and Spectre, ...)
+# 対策の GuardION は開発中。
+# [[https://rampageattack.com/][RAMpage and GuardION]]
 
 *** g06+
 
@@ -3594,6 +3648,7 @@ Mate9 が問題になってる。 (無問題了？？)
 # 2018/01/03 に公表された、脆弱性 Meltdown and Spectre の対象外かも？ (Kirin650 は Cortex-A53)
 # 2018/05/16 [[http://faq.support-huawei.com/faq/show/234?site_domain=default][Wi-Fiでアクセスポイントを検索できない ...]] (Google Play 開発者サービスの更新で解消された、 12.6.73->12.6.85, 2018/05/10?~2018/05/19)
 # 2018/06/17 買ってから毎月セキュリティパッチがきてたけど、発売から 2 年が経過。 (B395 の配信は 2018/05/??)
+# 2018/06/?? B396 は来た。 (2018/06/01 に Google で公開されたセキュリティパッチ)
 # - 省電力モード (電池)
 #   遅くなったりするけど、バッテリーのために ON 。
 #   バッテリーセーバーとして Android 5 で追加されたもの。
@@ -3780,6 +3835,9 @@ DSDS 対応。 (SIMx2 + MicroSD スロット)
 # 自動起動マネージャー
 # Twin apps
 # AI Boost
+# PowerMaster (劣化軽減モード)
+# リバースチャージ
+# 直営の ASUS Store ができた。 (赤坂、 2018/03/02~)
 #
 # ZenFone 5Q (2018/05/18)
 # Android 7 (ZenUI 5)
@@ -3898,6 +3956,10 @@ FREETEL の名前でスマホの製造販売を続ける。
 #
 # FREETEL UI 3.0
 #
+# ?
+# uCloudlink S1 がベース。
+# eSIM?
+#
 # MIYABI 2 Dual
 #
 # REI 2 Dual
@@ -3964,6 +4026,8 @@ Note7 は、バッテリーの爆発で回収されたけど。
 # internet-less (Galaxy J2 Pro, South Korea)
 #
 # デザイン特許とかの侵害で、 Apple に訴えられてる。 (2011/04/15~)
+# 和解するらしい。
+# [[https://www.bloomberg.com/news/articles/2018-06-27/apple-samsung-settle-patent-infringement-dispute][Apple, Samsung Declare Peace in Biggest Modern Tech Patent Fight]] (Bloomberg, 2018/06/27)
 #
 # Galaxy の SIM フリー版は、海外にしかない。
 #
@@ -4554,7 +4618,7 @@ Android 8.1
 #
 # WWDC 2018 (2018/06/04~08)
 # iOS 12 developer preview
-# iOS 12 public beta (end of june -> 2018/06/19)
+# iOS 12 public beta (end of june -> 2018/06/25)
 # iOS 12 release (2018 autumn)
 # ARKit 2 (Project Aero, USDZ: Universal Scene Description Zip?, Disney Pixar's "Finding Dory")
 # Password AutoFill (Password Manager API, Face or Touch ID)
@@ -4589,6 +4653,7 @@ Android 8.1
 iOS の更新は iPhone 5s 以上で続けられてる。
 VoLTE は iPhone 6 以上から使える。
 SIM フリーなら、どの格安キャリアでも使えるハズ。
+Apple Store (直営) と、 Apple 正規サービスプロバイダがある。
 製造は台湾の鴻海 (Foxconn) や Pegatron。
 # インドでも製造を始めたみたい。 (台湾 Wistron)
 #
@@ -4789,6 +4854,7 @@ au は最初から、格安キャリアで 3G のパケット通信ができな�
 # Wi-Fi スポットとか呼ばれたりもする。
 # 無料だったり有料だったりするけど、だんだん増えてる。
 # 災害時には、 00000JAPAN が無料で開放されるかも。 (SSID)
+# [[https://www.wlan-business.org/customer/introduction/feature/][災害時統一SSID 00000JAPAN (ファイブゼロジャパン)]] (WiBiz, 2016/10/28~)
 #
 # 店、駅、空港、観光地、宿泊施設 ...
 #
@@ -4816,12 +4882,14 @@ au は最初から、格安キャリアで 3G のパケット通信ができな�
 # [[https://www.krackattacks.com/][KRACK Attacks: Breaking WPA2]] (2017/10/16 公表)
 # [[http://d.hatena.ne.jp/Kango/20171016/1488907259][WPA2の脆弱性 KRACKsについてまとめてみた]]
 #
-# WPA3 (Wi-Fi Protected Access, 2018/??/??)
-# Simultaneous Authentication of Equals (SAE, Dragonfly)
+# WPA3 (Wi-Fi Protected Access, Snapdragon 845, 2018/06/25)
+# Simultaneous Authentication of Equals (SAE, Dragonfly, Forward Secrecy)
 # Device Provision Protocol (DPP)
 # Commercial National Security Algorithm (CNSA, Suite-B, NSA set of cryptographic algorithms)
-# Opportunistic Wireless Encryption (OWE, RFC8110)
+# Opportunistic Wireless Encryption (OWE, RFC8110, Wi-Fi Enhanced Open)
+# WPS（Wi-Fi Protected Setup) -> Wi-Fi Easy Connect (QR)
 # [[https://www.wi-fi.org/discover-wi-fi/security][Wi-Fi CERTIFIED WPA3]]
+# [[https://www.wi-fi.org/news-events/newsroom/wi-fi-alliance-introduces-wi-fi-certified-wpa3-security][Wi-Fi Alliance® introduces Wi-Fi CERTIFIED WPA3™ security]] (2018/06/25)
 #
 # IEEE Std 802.11 WG
 # |    |    GHz | Mbps |
