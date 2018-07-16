@@ -407,6 +407,7 @@
 # [[https://news.yahoo.co.jp/byline/nakamura-ichiya/20180414-00083942/][海賊版サイトブロッキングの政府方針が出ました。]] (座長の解釈、 2018/04/14)
 # [[https://news.yahoo.co.jp/byline/yamamotoichiro/20180424-00084392/][サイトブロッキング問題、CODAがブロッキングに賛成表明するよう加盟団体に要請]] (山本一郎、 2018/04/24)
 # [[http://niben.jp/news/opinion/2018/180614102149.html][政府による海賊版サイトへの緊急対策を受けての会長声明]] (第二東京弁護士会ひまわり、 2018/06/14)
+# [[https://www.eff.org/deeplinks/2018/07/eff-japan-reject-website-blocking][EFF to Japan: Reject Website Blocking]] (EFF, 2018/07/13)
 #
 # 政府が対象を例示しとけば、違法であっても総務省と警察庁や法務省が動かない？
 # 通信の秘密と検閲の禁止は、政府が見なかったことにするだけで避けられる？
@@ -556,7 +557,16 @@
 # インターネット上の海賊版対策に関する検討会議 (2018/06/22~ 内閣府)
 # 秋頃に中間案？
 #
-# IIJmio meeting 20 (2018/07/07 大阪、 2018/07/14 東京)
+# JANOG 42 (2018/07/11~13)
+#
+# IIJmio meeting 20
+# [[https://www.jaipa.or.jp/other/mtcs/guideline_v4.pdf][電気通信事業者におけるサイバー攻撃等への対処と通信の秘密に関するガイドライン]] (JAIPA, 2015/11/30)
+# あくまでも、業界内での見解を整理したもの。
+# 違う立場の出席者による研究会のとりまとめを受けて、協議会で制定される。
+# - 電気通信事業におけるサイバー攻撃への適正な対処の在り方に関する研究会
+#   総務省、電気通信業界、法曹界、研究家、消費者団体 (主婦連)
+# - インターネットの安定的な運用に関する協議会
+#   TCA, TELESA, JAIPA, JCTA, ICT-ISAC
 
 # モバイル市場の公正競争促進に関する検討会 1~5 (2017/12/25~2018/04/09 総務省)
 # モバイル市場の公正競争促進に関する検討会報告書の公表 (2018/04/27 総務省)
@@ -654,18 +664,15 @@
 
 ** ソフトバンク
 
-|            |  1GB |  2GB |  5GB | 20GB | 50GB |
-|------------+------+------+------+------+------|
-| データ定額 | 3200 | 3800 | 5300 | 6300 | 7300 |
+|                   |  1GB |  2GB |  3GB |  5GB | 20GB | 50GB |
+|-------------------+------+------+------+------+------+------|
+| データ定額        | 3200 | 3800 |      | 5300 | 6300 | 7300 |
+| おてがる (従量制) | 1480 | 2480 | 3480 |      |      |      |
 # ウェブ使用料を含む。 (+300)
 #
-# 定額制のおてがるプランを開始予定。 (2018/06/29)
+# おてがるプランを開始。 (2018/06/29~)
 # 対象機種を限定してる。
 # パケットとスマホの料金を、分離したくないらしい。
-#
-# |          |  1GB |  2GB |  3GB |
-# |----------+------+------+------|
-# | おてがる | 1480 | 2480 | 3480 |
 
 音声通話定額のスマ放題は +4200 円。 (2 年縛りなし)
 ホワイトプランと標準プランは、音声通話定額なし。
@@ -1551,7 +1558,16 @@ au 回線にだけ、従量制のエコプランがある。 (SMS 付き)
 # 実装してないけど、フル MVNO も IIJmio を参考にしております。 (宣伝)
 
 # IIJmio meeting 20 (#iijmio)
-# 大阪のおみやげは、 "IIJmio meeting" 表示の限定 SIM と Japan Travel SIM 。 (AQUOS ボールペンとラ王に、ロゴ入りベビースター)
+# 大阪のおみやげは、 "IIJmio meeting" 表示の限定 SIM と Japan Travel SIM 。 (ラ王に、ロゴ入りベビースター)
+# 東京のおみやげは、 "IIJmio meeting" 表示の限定 SIM と Japan Travel SIM 。 (ラ王とロゴ入りベビースターに、 IIJ 水)
+# Moto G6 Plus, P20 lite, SH-M07, 特製SIM。 (大阪は不明)
+# [[https://twitter.com/paopao0128/status/1018009546550231040][... HTCが配布してた粗品が扇子だったんだけど、HTC Senseだから扇子？]] (@paopao0128, 2018/07/13)
+# [[https://twitter.com/igaryo/status/1018043853469650944][本当にキャリア名表示が「IIJmio meeting」になってる！]] (@igaryo, 2018/07/14)
+# [[https://twitter.com/shimajiro/status/1018097395400228865][... 「今回のラ王に特に意味はありません」って言ってたけど、「（ラ）王を食す」なので、裏にはあのMVNOを…という意味が含まれているハズ ...]] (@shimajiro, 2018/07/14)
+# eSIM デモ展示。 (IIJ ピクトもロマン)
+# 誰と・いつ・どんな通信をしたか、通信があったか・なかったか。 (通信の秘密)
+# ITmedia は、ソフトバンクの連結子会社。
+# 大阪10月13日、東京10月20日。
 
 # 2008/??/?? L3 接続で 3G 開始。 (国内初)
 # 2009/??/?? L2 接続で 3G 開始。 (国内初)
@@ -1567,6 +1583,7 @@ au 回線にだけ、従量制のエコプランがある。 (SMS 付き)
 # 2018/04/?? ITU-T Study Group 3 加入。
 # 2018/夏?   個人向けのフル MVNO 開始予定。 (データ通信 SIM のみ)
 #            新規でも LINE の年齢認証ができるようになる？ (いらない？)
+# 2019/春?   eSIM プラットフォーム開始予定。
 
 ** LINE モバイル
 
@@ -1650,18 +1667,20 @@ LINE のビデオ通話は、なぜかデータフリーの対象になってる
 
 ドコモ回線を利用する。
 以前は、韓国 NAVER (ネイバー) の子会社だった。
-増資して、ソフトバンクの子会社になってるハズ。 (51%, 2018/04/02)
+増資して、ソフトバンクの子会社になってるハズ。
 
 # 2016/10/01 ドコモ回線で開始。 (OCN)
-# 2018/04/02 ソフトバンクの子会社になる予定。
+# 2018/04/02 ソフトバンクの子会社になる予定。 (51%)
 # 2018/07/02 ソフトバンク回線を開始。 (bbtec.net, Yahoo! BB)
-#            ソフトバンクの設備だけで提供されてるのかも？ *(!?)*
-#            (ひょっとして、時間ごとに帯域を貸し借りできたりもするのかしら？)
+#            ソフトバンクの設備だけで提供されてるように見えちゃう。 (丸投げ？)
+#            (ひょっとして、時間ごとに帯域を貸し借りできるようにするのかしら？)
 #            [[http://mobile-blog.line.me/archives/27127910.html][ソフトバンク回線提供開始＆記念キャンペーン盛りだくさん！]] (... 月に一度でも測定結果にて1Mbpsを下回った場合、ソフトバンク回線契約者に1GBのデータ容量をプレゼント ... 予定 ..., 2018/07/02)
 #            [[https://twitter.com/seijidohi/status/1014359353741045760][... traceroute ...]] (@seijidohi, 2018/07/04)
 #            [[https://twitter.com/seijidohi/status/1014379273296101376][... Band41は掴もうとすると蹴られる ...]] (@seijidohi, 2018/07/04)
 #            [[https://twitter.com/seijidohi/status/1014461239001399296][スクショ付け忘れ。]] (IPv4 のみ, @seijidohi, 2018/07/04)
 #            [[https://twitter.com/seijidohi/status/1016164327722635264][... もう遅くなってきてる？ ...]] (@seijidohi, 2018/07/09)
+#            [[http://www.itmedia.co.jp/mobile/articles/1807/13/news053.html][ソフトバンク回線を始めたLINEモバイルはどこに向かうのか？　嘉戸社長に聞く (1/2)]] (... 資産としては、全てこちら側 ... 所有権はLINEモバイル側 ... 運用 ... LINEモバイルとソフトバンクの両方 ..., ITmedia, 2018/07/13)
+#            [[https://mobile.line.me/support/help/search/?contents=20002491][... VoLTEに対応してますか？ ... ＜ソフトバンク回線＞ ご利用できません。]]
 
 ** イオンモバイル
 
@@ -2000,10 +2019,6 @@ NTT コミュニケーションズでプロバイダをしてるところ。
 # トークの一括バックアップは、 Google ドライブか iCloud が楽。 (7.5.0)
 # ローカルで引き継ごうとすると、なぜかめんどくさい。
 #
-# "みどりくじ" は公式キャンペーン。
-# 開封すると、 LINE Pay アカウントを作成される。 (解約はできる)
-# クリックラップ契約としても、確認しにくいので非難された。
-#
 # "10 円ピンポン" は公式キャンペーン。 (2018/06/18~)
 # LINE Pay アカウントと銀行口座を、たくさん紐付けしたいらしい。
 # 送金には本人確認が必要で、銀行口座を登録するしかなくなってる。 (2017/09/27~)
@@ -2015,6 +2030,15 @@ NTT コミュニケーションズでプロバイダをしてるところ。
 # [[https://twitter.com/linepay_jp/status/1014364252243558402][銀行口座の認証情報は銀行のWebサイト上でご入力いただいており、LINE Pay側では保持しておりません。 ...]] (@linepay_jp, 2018/07/04)
 # [[https://twitter.com/poyopoyochan/status/1014377251050217473][LINEアプリ ... URL表示のタイトルバーのない ... 判別できない ...]] (@poyopoyochan, 2018/07/04)
 # [[https://twitter.com/Cottoncolo/status/1014378241497260032][... 銀行のサイトそっくりに作り込んであっても気がつけない ...]] (@Cottoncolo, 2018/07/04)
+#
+# 初回起動時に、情報の提供への同意を求めるようになった。 (トークルーム情報、 8.0.0, 2018/01/14~)
+# 同意しても、トークや写真とかの内容は収集されないらしい。
+# (これ以上の暗号化をする気はない？)
+# [[http://official-blog.line.me/ja/archives/73983192.html][サービス向上のための情報利用に関するご案内]] (2018/01/15)
+#
+# "みどりくじ" は公式キャンペーン。 (2017/05/01~07)
+# 開封すると、 LINE Pay アカウントを作成される。 (解約はできる)
+# クリックラップ契約としても、確認しにくいので非難された。
 #
 # 韓国 NAVER (ネイバー) の子会社。
 #
@@ -3224,6 +3248,14 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # スキャンされるだけじゃなかったこともあって、話題になってる。 (アプリとかに審査はあるけど)
 # [[https://www.wsj.com/articles/techs-dirty-secret-the-app-developers-sifting-through-your-gmail-1530544442][Tech’s ‘Dirty Secret’: The App Developers Sifting Through Your Gmail]] (WSJ, 2018/07/02)
 # [[https://www.cnet.com/news/third-party-gmail-apps-reportedly-let-employees-read-peoples-emails/][Gmail app developers' employees might be reading your email]] (CNET, 2018/07/02)
+#
+# 米下院 が、 Alphabet の CEO 宛てにお手紙を送った。 (Apple にも、 2018/07/09)
+# 最近のプライバシー問題について、公開で質問。
+# - 音声入力はどこまで収集してる？
+# - 位置情報とかもまだ追跡してる？
+# - メールみたいに共有とかしてる？
+# (画面の録画やスクリーンショットを、勝手に送信するアプリとかも話題になってるけど)
+# [[https://energycommerce.house.gov/news/press-release/ec-leaders-press-apple-and-google-on-third-party-access-audio-and-location-data-collection/][E&C Leaders Press Apple and Google on Third-Party Access, Audio and Location Data Collection]] (Energy and Commerce Committee, 2018/07/09)
 
 前に普及してた Android 6 なら、 20000 円くらい？
 Android 5 スマホなら 10000 円くらい？
@@ -3782,6 +3814,7 @@ Mate9 が問題になってる。 (無問題了？？)
 # 格安キャリアで売ってる。 (ソフトバンクの 2018 年夏モデルにもなった)
 # スマホを無料提供して、よその通販サイトにレビューを投稿させてた。 (今回は米 Best Buy の予約受付中)
 # [[https://9to5google.com/2018/02/12/huawei-mate-10-fake-best-buy-reviews/][Huawei solicited 100+ fake Mate 10 Pro reviews on Best Buy to entice ‘beta testers]] (2018/02/12)
+# インカメラで顔認証っぽいことができる。 (2D, BLA-L29 8.0.0.134 (C635), 2018/07/12)
 #
 # Mate10 Lite
 # EMUI 5.1 (Android 7.0)
@@ -3868,6 +3901,7 @@ Mate9 が問題になってる。 (無問題了？？)
 # 当たりハズレの差が大きい。
 # オススメしにくくなったので、値崩れが待たれる。
 # EMUI 8.0 (Android 8.0, Project Treble) に更新。 (MHA-L29B 8.0.0.361(C635), 2018/01/19)
+# インカメラで顔認証っぽいことができる。 (2D, MHA-L29B 8.0.0.370(635), 2018/07/13)
 #
 # | storage | max read (Mbps) | voltage (V) |
 # |---------+-----------------+-------------|
@@ -4189,7 +4223,7 @@ au VoLTE 対応。
 中国 ZTE 製。 (中興通訊)
 au VoLTE 対応。
 動画の特許問題で訴えられてる。 (H.264, 2017/02/15)
-禁止顧客リスト入りしたので、米の部品や技術とかを使えなくなった。 *(!?)*
+いろいろあって、米に社内から監視されてるところ？ (2028 年まで)
 # MyFavor UI
 #
 # イランや北朝鮮への輸出を制裁中にして、米と和解して罰金を払ってた。 (US$ 892+300 million, Entity List, 2016/03/08~2017/03/29)
@@ -4207,8 +4241,12 @@ au VoLTE 対応。
 # 米議会が反対することまでは、既定路線。 (FIRRMA, CFIUS, NDAA, 2018/05/22)
 # 禁止顧客リスト入りは、執行停止で合意。 (US$ 1000+400 million, 10 年間は監視員が常駐、経営陣の入れ替え、 2018/06/07)
 # 米上院は、執行再開のため NDAA を修正。 (下院でも 2/3 以上なら拒否権を上書き？、 2018/06/18)
+# ZTE は中国の銀行に借りて、罰金を納付。 (出荷遅延の違約金とかも？、 2018/06/22?)
+# ZTE は株主総会で、経営陣の全員を交代。 (董事 14 -> 8 人、2018/06/29)
 # BIS によって、一時的に制裁緩和された。 (サポート業務とかは再開できる、 2018/07/02~/2018/08/01)
-# (すでに生産停止？在庫部品は 1~2 ヶ月分？出荷遅延で違約金？事業売却？制裁緩和？)
+# 預託金を収めた段階で、執行停止される。 (EAR に反したら没収して執行再開、 2018/07/11)
+# 禁止顧客リストからは外れて、業務再開。 (監視員も常駐済み？、 2018/07/13)
+# (米議会による執行再開？スリーアウト？ 10 年を満了？)
 # [[https://www.federalregister.gov/documents/2016/03/08/2016-05104/additions-to-the-entity-list][Federal Register :: Additions to the Entity List]] (2016/03/08)
 # [[https://www.commerce.gov/news/press-releases/2018/04/secretary-ross-announces-activation-zte-denial-order-response-repeated][Secretary Ross Announces Activation of ZTE Denial Order in Response to Repeated False Statements to the U.S. Government]] (2018/04/16)
 # [[https://www.softbank.jp/mobile/info/personal/software/20180413-01/][キッズフォンをご利用中のお客さまへ]] (サーバー停止で更新できない、 SoftBank, 2018/04/26)
@@ -4220,7 +4258,13 @@ au VoLTE 対応。
 # [[https://www.citizensforethics.org/ivanka-trumps-business-wins-approval-for-more-china-trademarks/][Ivanka Trump’s Business Wins Approval for More China Trademarks]] (CREW, 2018/05/25)
 # [[https://twitter.com/realDonaldTrump/status/1000151354701213696][... $1.3 Billion ...]] (@realDonaldTrump, 2018/05/25)
 # [[https://www.commerce.gov/news/press-releases/2018/06/secretary-ross-announces-14-billion-zte-settlement-zte-board-management][Secretary Ross Announces $1.4 Billion ZTE Settlement; ZTE Board, Management Changes and Strictest BIS Compliance Requirements Ever]] (DoC: Department of Commerce, 米商務省、 2018/06/07)
+# [[https://www.bloomberg.com/news/articles/2018-06-22/zte-nears-final-hurdle-for-u-s-to-lift-equipment-buying-ban][ZTE Nears Final Hurdle for U.S. to Lift Equipment-Buying Ban]] (Bloomberg, 2018/06/22)
+# [[https://res-www.zte.com.cn/mediares/zte/Investor/20180705/E1.pdf][Announcement Resolutions of the Thirty-Second Meeting of the Seventh Sessoin of the Board of Directors]] (ZTE, 2018/06/29)
+# [[https://www.bis.doc.gov/index.php/forms-documents?task=doc_download&gid=2244][ZTE Limited Service Authorization]] (BIS, 2018/07/02)
 # [[https://www.bloomberg.com/news/articles/2018-07-03/u-s-allows-zte-to-resume-some-business-activities-temporarily-jj646524][U.S. Allows ZTE to Resume Some Business Activity Temporarily]] (Bloomberg, 2018/07/03)
+# [[https://twitter.com/CommerceGov/status/1017110327887003648][Our statement on #ZTE and the escrow agreement]] (@CommerceGov, 2018/07/11)
+# [[][]] (更新サーバー再開、 2018/07/12)
+# [[https://www.commerce.gov/news/press-releases/2018/07/commerce-department-lifts-ban-after-zte-deposits-final-tranche-14][Commerce Department Lifts Ban After ZTE Deposits Final Tranche of $1.4 Billion Penalty]] (Department of Commerce, 2018/07/13)
 #
 # M Z-01K
 # Android 7
@@ -4444,11 +4488,11 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 #
 # Jelly Pro
 # Android 7
-# Android 8.1 更新予定。
 # ドコモ VoLTE 対応。
 # au 回線では使えない。
 # [[https://twitter.com/Unihertz/status/950567270681518080][技適]] を取得。 (2018/01/09)
 # 国内で正規販売開始。 (Amazon, 2018/01/30)
+# Android 8.1 更新で、顔認証っぽいことができるようになった。 (Unihertz_Jelly-Pro_20180712, Unihertz_Jelly-Pro_N_20180712, 2018/07/13)
 #
 # ヴェルテ (ドゥモア) は Unihertz と代理店契約してない。 (2017/10/02)
 # 正規代理店との発表が多いけど、予定と書いてるとこもある。 (2017/05/22)
@@ -4601,6 +4645,12 @@ Android 8.1
 # *** Mode1 RS (ピーアップ)
 # *** RATEL CELL R1020? (mixi)
 
+# *** FINNEY SMARTPHONE (スイス SIRIN LABS)
+# 製造は台湾 FIH Mobile 。 (台湾鴻海の子会社)
+# SIRIN OS
+# コールドストレージ
+# 世界初のブロックチェーンスマホ？ (2018/11/??)
+
 # Android Go Edition (MWC 2018~)
 #
 # Alcatel 1X (TCL)
@@ -4659,7 +4709,7 @@ Android 8.1
 # Xcode (iOS simulator)
 # iMessage
 # Objective-C -> Swift
-# USB Restricted Mode? (iOS 12?~, prevent GrayKey?)
+# USB Restricted Mode (iOS 11.4.1~, prevent GrayKey?)
 # [[https://www.apple.com/privacy/transparency-reports/][Transparency Reports]] (twice yearly)
 # IDFA (Advertising Identifier)
 #
@@ -4715,28 +4765,34 @@ iOS の更新は iPhone 5s 以上で続けられてる。
 VoLTE は iPhone 6 以上から使える。
 SIM フリーなら、どの格安キャリアでも使えるハズ。
 Apple Store (直営) と、 Apple 正規サービスプロバイダがある。
-製造は台湾の鴻海 (Foxconn) や Pegatron に Wistron 。
-# 主な工場は中国にある。 (労働環境で話題になるとこ)
+製造は、台湾の鴻海 (Foxconn) や和碩 (Pegatron) に緯創 (Wistron) 。
+# 主な工場は中国にある。 (労働問題で話題になるとこ)
 # インドでも製造してる。 (Wistron)
 # 米にも工場を建ててる。 (Foxconn)
 #
-# 2007/01/09 1st generation
-# 2008/07/11 3G (Parental Controls)
-# 2009/06/19 3Gs (SoftBank)
-# 2010/06/24 4
+# 2007/01/09 1st generation (GSM, Multi-Touch, Dock connector)
+# 2008/07/11 3G (3G, Parental Controls, SoftBank)
+# 2009/06/19 3Gs (Tethering)
+# 2010/06/24 4 (FaceTime, Multitask)
 # 2011/10/05 Steve Jobs Dies at 56.
-# 2011/10/14 4s (au)
-# 2012/09/21 5
-# 2013/09/20 5c (docomo, iOS ~10.3.3, 2017/07/19)
+# 2011/10/14 4s (Dual-Core, Siri, au)
+# 2012/09/21 5 (LTE, Lightning connector)
+# 2013/09/20 5c (iOS ~10.3.3, 2017/07/19, docomo)
 # --- iOS 11 -> 12
 # 2013/09/20 5s (64bit, Touch ID)
 # 2014/09/19 6, 6 Plus (VoLTE)
 # 2015/09/25 6s, 6s Plus (ARKit)
 # 2016/03/21 SE
-# 2016/09/16 7, 7 Plus (Display P3)
-# 2017/09/22 8, 8 Plus (Qi)
-# 2017/11/03 X (10th anniversary, OLED, Face ID)
+# 2016/09/16 7, 7 Plus (Quad-Core, Display P3)
+# 2017/09/22 8, 8 Plus (Hexa-Core, Qi)
+# 2017/11/03 X (OLED, Face ID, 10th anniversary)
 # 2018/??/?? SE2?
+
+# iPhone Agreement
+# 大手 3 キャリアが iPhone を扱うために、個別に結んできた契約。 (ノルマ、料金プラン、下取り、端末購入補助、 ...)
+# 公正取引委員会の審査中に契約改定して、独占禁止法違反の疑いが解消されたらしい。 (日本上陸 10 周年記念日のお祝い？)
+# (格安キャリアは新品を扱えないまま？)
+# [[https://www.jftc.go.jp/houdou/pressrelease/h30/jul/180711_01.html][(平成30年7月11日)携帯電話事業者との契約に係るアップル・インクに対する独占禁止法違反被疑事件の処理について]] (2018/07/11 公正取引委員会)
 
 # iPhone 7 に、エリア内でも圏外とか表示される問題があれば無償修理すると案内。 (A1779, 2018/02/02)
 # メインロジックボードのコンポーネントの故障が原因らしい。
@@ -4918,6 +4974,8 @@ au は最初から、格安キャリアで 3G のパケット通信ができな�
 # 無料だったり有料だったりするけど、だんだん増えてる。
 # 災害時には、 00000JAPAN が無料で開放されるかも。 (SSID, 暗号化なし)
 # [[https://www.wlan-business.org/customer/introduction/feature/][災害時統一SSID 00000JAPAN (ファイブゼロジャパン)]] (WiBiz, 2016/10/28~)
+# [[http://www.soumu.go.jp/menu_kyotsuu/important/kinkyu01_000125120.html][00000JAPAN等により無料開放された無線LANの利用について（注意喚起）]] (... 盗聴や偽のアクセスポイント ... 個人情報等の入力は極力避けていただくよう、ご注意 ..., 2018/07/11 総務省)
+# [[https://twitter.com/HiromitsuTakagi/statuses/1017006621258469376][... 使い終えたら自動接続対象から削除しておけ ...]] (@HiromitsuTakagi, 2018/07/11)
 #
 # 店、駅、空港、観光地、宿泊施設 ...
 #
@@ -4968,7 +5026,8 @@ au は最初から、格安キャリアで 3G のパケット通信ができな�
 # 陸上無線通信委員会報告 (案) に対する意見募集。 (2017/10/17 総務省)
 # 電波法施行規則の一部を改正する省令案等に関する意見募集 (2018/03/16 総務省)
 # 電波法施行規則の一部を改正する省令案等に関する意見募集の結果及び電波監理審議会からの答申 (2018/05/09 総務省)
-# 5.2GHz, 1W で高出力のアクセスポイントを、屋外で使えるようになる。
+# 電波法施行規則等の一部を改正する省令 (2018/06/29 総務省令 39 号)
+# 5.2GHz, 1W で高出力のアクセスポイントを、屋外で使えるようになった。
 # 将来は小電力にして、免許と登録がいらなくなるのかも。 (200mW?)
 # | GHz | 屋内 | 屋外        | 上空                 |
 # |-----+------+-------------+----------------------|
