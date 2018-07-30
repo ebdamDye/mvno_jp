@@ -750,6 +750,9 @@
 # 2018/05/31 "メールでかんたんログイン" を導入予定。
 #            電話番号を入力したら、 SMS で 6 桁の確認番号を受け取って入力するだけ。 (パスワードなし)
 # 2018/06/05 QR コード決済を開始。 ("Yahoo! Japan" アプリ)
+# 2018/秋    PayPay で、バーコードや QR コード決済を開始予定。 (Paytm)
+#            Yahoo! ウォレットは終了予定。
+#            (専用アプリか、 "Yahoo! Japan" アプリがいる)
 # 2019/??/?? 米で T-mobile (Deutsche Telekom) と Sprint (SoftBank) は合併するかも。
 #            合意発表。 (2018/04/30)
 #            FCC 申請。 (2018/06/18)
@@ -2175,6 +2178,8 @@ Apple 機器専用。
 #            CA は Facebook に、削除したよと返事したらしい。
 # 2016/04/27 EU 一般データ保護規則が成立。 (GDPR)
 # 2016/06/23 英の EU 離脱投票に利用されたみたい。 (露ゲート？、 Brexit)
+# 2016/08/?? 米と EU の間に、プライバシーシールドが発効。
+#            プライバシーの順守を申告すれば、 EU の外にデータを持ち出せる。 (GDPR の例外)
 # 2016/09/14 EU で、新しい著作権指令が提案された。
 #            無断リンクとかにも、使用料を請求できる。 (非営利を除く、 11 条)
 #            著作権侵害を阻止するのは、サイトの責任。 (Google 税？、 13 条)
@@ -2261,7 +2266,7 @@ Apple 機器専用。
 #            (Center for Information Technology Policy, 情報技術ポリシーセンター)
 # 2018/04/19 EU 以外のデータは、規制のゆるい米にこっそり移してる。 (15 億人分くらい！？)
 #            (これまでは、税金の安いアイルランド法人で管理されてた)
-# 2018/04/20 米民主党全国委員会が、選挙妨害されたとして提訴。
+# 2018/04/20 米民主党全国委員会が、選挙妨害されたとして提訴。 (DNC: Democratic National Committee)
 #            相手は大統領の 2016 年選挙スタッフ。 (露に WikiLeaks も)
 # 2018/04/24 コミュニティ規定を更新。
 #            削除とかする基準が、前より具体的にはなった。
@@ -2356,31 +2361,47 @@ Apple 機器専用。
 # 2018/07/01 米カリフォルニア州で、サービスの安易な契約と面倒な解約が規制された。 (2017/09/28 成立)
 #            自動更新されるようなサービスには、ネットでの簡単な解約方法を提供させる。
 #            (電話とかでの解約は引き止めらた上に長時間待たされる、無料トライアルが自動的に有料契約へ移行しちゃう、 ...)
-# 2018/07/02 米司法省による調査が拡大される。 (Washington Post)
+# 2018/07/02 米司法省による調査が拡大される。 (DOJ: Department of Justice, Washington Post)
 #            (FBI, FTC, SEC: 米証券取引委員会)
 # 2018/07/05 EU 議会は、新しい著作権指令を否決。
 #            見直しされる予定。 (2018/09/10~13?)
 #            Wikipedia 伊語版とかは、抗議のため背景を黒にしてた。 (2018/07/03~05)
 # 2018/07/10 英情報委員会事務局にも、罰金を科されることになりそう。 (ICO)
 #            CA の件で、上限の GBP 500000 になる？ (DPA: Data Protection Act 2018)
+# 2018/07/11 研究者たちには、データ提供を再開。 (SSO: Social Science One)
+#            (個人情報は伏せてるらしい)
+# 2018/07/13 Hillary Clinton 陣営を攻撃してメールを暴露したことで、露情報機関の 12 人を起訴。 (WikiLeaks に流した？)
+#            米大統領の元選対本部長たちも。
+#            (GRU: Главное Разведывательное Управление, ロシア連邦軍参謀本部情報総局)
 # 2018/07/17 Facebook の政治広告で、広告費が最大なのは米大統領。 (NYT)
 # 2018/07/17 米議会下院で、 Monika Bickert が証言。 (Facebook のグローバルポリシー管理責任者)
 #            (Twitter と Youtube も証言)
 #            - 政治的な検閲はしてない。
 #            - 投稿されたコンテンツの発信者として扱われないハズ。 (通信品位法 230 条、 Communications Decency Act)
-# 2018/07/19 米大統領と Facebook は、選挙のときから連携してたらしい。 (BuzzFeed)
+# 2018/07/18 中国に子会社を設立。
+#            ブロックされてるサービスを再開したい？ (2008/07/??~)
+# 2018/07/19 米大統領と Facebook は、選挙前から連携してたらしい。 (BuzzFeed)
 #            CEO はこっそり、当選を祝福する電話も掛けてた？
-#            選挙運動に、こっそり介入する予定があった？ (TLA: Test Learn Adapt)
-# 2018/07/20 データ転送プロジェクトに参加。 (DTP: Data Transfer Project, Facebook Google, Microsoft, Twitter)
+#            選挙運動に、こっそり介入してた？ (TLA: Test Learn Adapt)
+#            Facebook はいつも反トランプって、米大統領はツイートしてたけど。 (2017/09/27)
+# 2018/07/20 データ転送プロジェクトに参加。 (DTP: Data Transfer Project, Facebook, Google, Microsoft, Twitter)
 #            共通の API とかを用意して、他社のアプリとかにもデータを移行しやすくなる。 (オープンソース)
 #            サービスも乗り換えやすくなる。 (退会にバックアップとかも)
 #            アプリとかを乗り換えても、前のデータは自動削除されない。
 #            (データの取り引きも簡単になる？)
+# 2018/07/25 決算報告。 (2018Q2)
+#            一日での株価の下落幅は、史上最大。 (119 billion)
+#            これから利益率が下がる見通しを発表。 (いろんな対策費が増えるらしい)
+#            中国での子会社の設立は、承認が撤回された。 (NYT)
+#            (CEO が議決権の過半数を握ったままなのも、問題になりそう？)
+# 2018/09/01 米と EU のプライバシーシールド失効するかも？
+#            標準データ保護条項 (SDPC) や拘束的企業準則 (BCR) を結ぶ？
 # [[https://newsroom.fb.com/news/2012/02/helping-improve-the-mobile-web/][Helping Improve the Mobile Web]] (2012/02/27)
 # [[https://www.ftc.gov/enforcement/cases-proceedings/092-3184/facebook-inc][In the Matter of Facebook, Inc., a corporation]] (2012/08/10)
 # [[https://ec.europa.eu/digital-single-market/en/modernisation-eu-copyright-rules][Modernisation of the EU copyright rules]] (2016/09/14)
 # [[https://techonomy.com/conf/te16/videos-conversations-with-2/in-conversation-with-mark-zuckerberg/][In Conversation With Mark Zuckerberg]] (Techonomy, 2016/11/17)
 # [[https://ec.europa.eu/digital-single-market/en/proposal-eprivacy-regulation][Proposal for an ePrivacy Regulation | Digital Single Market]] (2017/01/10)
+# [[https://twitter.com/realDonaldTrump/status/913034591879024640][Facebook was always anti-Trump. ...]] (@realDonaldTrump, 2017/09/27)
 # [[https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180SB313][Bill Text  - SB-313 Advertising: automatic renewal and continuous service offers.]] (2017/09/28)
 # [[https://newsroom.fb.com/news/2017/12/managing-your-identity-on-facebook-with-face-recognition-technology/][Managing Your Identity on Facebook with Face Recognition Technology]] (2017/12/19)
 # [[https://newsroom.fb.com/news/2018/03/suspending-cambridge-analytica/][Suspending Cambridge Analytica and SCL Group from Facebook]] (2018/03/16)
@@ -2418,9 +2439,12 @@ Apple 機器専用。
 # [[https://docs.house.gov/meetings/IF/IF00/20180411/108090/HHRG-115-IF00-Wstate-ZuckerbergM-20180411-SD003.pdf][House Energy and Commerce Questions for the Record]] (P22-23 integration parterships, 2018/06/30)
 # [[https://twitter.com/jimmy_wales/status/1014053910233976832][Italian Wikipedia has blacked out today ...]] (@jimmy_wales, 2018/07/03)
 # [[https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2018/07/findings-recommendations-and-actions-from-ico-investigation-into-data-analytics-in-political-campaigns/][Findings, recommendations and actions from ICO investigation into data analytics in political campaigns]] (UK ICO, 2018/07/10)
+# [[https://socialscience.one/blog/social-science-one-public-launch][Social Science One: Public Launch]] (SSO, 2018/07/11)
+# [[https://www.justice.gov/opa/pr/grand-jury-indicts-12-russian-intelligence-officers-hacking-offenses-related-2016-election][Grand Jury Indicts 12 Russian Intelligence Officers for Hacking Offenses Related to the 2016 Election]] (DOJ, 2018/07/13)
 # [[https://www.nytimes.com/2018/07/17/technology/political-ads-facebook-trump.html][The Biggest Spender of Political Ads on Facebook? President Trump]] (NYT, 2018/07/17)
 # [[https://www.buzzfeednews.com/article/ryanmac/congratulations-zuckerberg-call-trump-election-2016][Congratulations, Mr. President: Zuckerberg Secretly Called Trump After The Election]] (BuzzFeed, 2018/07/19)
 # [[https://datatransferproject.dev/][Data Transfer Project]] (DTP, 2018/07/20)
+# [[https://www.nytimes.com/2018/07/25/business/facebook-china.html][China Said to Quickly Withdraw Approval for New Facebook Venture]] (NYT, 2018/07/25)
 
 *** WhatsApp (WhatsApp)
 
@@ -2917,6 +2941,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # Google の従業員たちは、新しく AI の社内原則を作成。 ("Jabba, you're a wonderful human being." - Han)
 # Google の経営者たちは、ジェダイの受注をあきらめる？ ("There will be no bargain, young Jedi." - Jabba)
 # メールも流出したので、 Google は Project Maven の契約更新をやめた。
+# いろんな人や団体も、 AI 自律兵器開発しないと宣言。 (IJCAI: International Joint Conference on Artificial Intelligence, 国際人工知能会議)
 # [[https://gizmodo.com/google-is-helping-the-pentagon-build-ai-for-drones-1823464533][Google Is Helping the Pentagon Build AI for Drones]] (GIZMODE, 2017/03/06)
 # [[https://www.defense.gov/News/Article/Article/1254719/project-maven-to-deploy-computer-algorithms-to-war-zone-by-years-end/][Project Maven to Deploy Computer Algorithms to War Zone by Year’s End]] (DoD, 2017/07/21)
 # [[https://www.fbo.gov/?s=opportunity&mode=form&tab=core&id=f3a1f46d150da999198429e8094be4aa][DRAFT DOD JEDI Cloud RFP - Federal Business Opportunities: Opportunities]] (2018/03/07~)
@@ -2928,6 +2953,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://theintercept.com/2018/05/31/google-leaked-emails-drone-ai-pentagon-lucrative/][Leaked Emails Show Google Expected Lucrative Military Drone AI Work to Grow Exponentially]] (Intercept, 2018/06/01)
 # [[https://www.blog.google/topics/ai/ai-principles/][AI at Google: our principles]] (2018/06/07)
 # [[https://www.blog.google/topics/google-cloud/incorporating-googles-ai-principles-google-cloud/][Incorporating Google’s AI Principles into Google Cloud]] (2018/06/07)
+# [[https://futureoflife.org/2018/07/18/ai-companies-researchers-engineers-scientists-entrepreneurs-and-others-sign-pledge-promising-not-to-develop-lethal-autonomous-weapons/][AI Companies, Researchers, Engineers, Scientists, Entrepreneurs, and Others Sign Pledge Promising Not to Develop Lethal Autonomous Weapons]] (FLI: Future of Life Institute, 2018/07/18)
 #
 # 米大手キャリアは、 LocationSmart とかに位置情報を提供してる。 (Cell ID)
 # ほとんどのスマホの位置が、第三者にリアルタイムで把握されてる。 *(!?)*
@@ -3095,6 +3121,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # |  2018/06/08 | Core i7-8086K Limited Edition を発売 (5GHz, 8086 個のみ) | (1978/06/08 Intel 8086, 5MHz)
 # |  2018/06/27 | (v5?, Lazy FP state restore)
 # |  2018/07/10 | (v1.1, v1.2)
+# |  2018/07/20 | SpectreRSB
 # |  2018/08/?? | Spectre-NG の公開予定 (4/8)                              |
 # [[https://www.bloomberg.com/news/articles/2018-01-08/intel-ceo-krzanich-s-stock-sales-seen-warranting-sec-examination][Intel CEO’s Stock Sales May Warrant SEC Examination]] (2018/01/08)
 # [[http://www.lemagit.fr/actualites/252433746/Le-jour-ou-son-CEO-vendait-ses-actions-Intel-prevenait-les-constructeurs-de-la-faille-Spectre][Le jour où son CEO vendait ses actions, Intel prévenait les constructeurs de la faille Spectre]] (2018/01/24)
@@ -3105,6 +3132,18 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://www.theregister.co.uk/2018/06/22/intel_tlbleed_key_data_leak/][Meet TLBleed: A crypto-key-leaking CPU attack that Intel reckons we shouldn't worry about]] (Register, 2018/06/22)
 # [[https://www.bleepingcomputer.com/news/security/new-spectre-11-and-spectre-12-cpu-flaws-disclosed/][New Spectre 1.1 and Spectre 1.2 CPU Flaws Disclosed]] (Bleeping Computer, 2018/07/11)
 # [[https://www.blackhat.com/us-18/briefings.html#tlbleed-when-protecting-your-cpu-caches-is-not-enough][TLBleed: When Protecting Your CPU Caches is Not Enough]] (USA BlackHat 2018, 2018/08/04~2018/08/09)
+# [[https://arxiv.org/pdf/1807.07940.pdf][Spectre Returns! Speculation Attacks using the Return Stack Buffer]] (SpectreRSB, UCR: University of California Riverside, 2018/07/20)
+
+# Breaking the Bluetooth Pairing (Bluetooth, CVE-2018-5383, 2018/07/23)
+#
+# ペアリングするときに、公開鍵を交換した相手を確認しなくてもいい欠陥があった。 (Secure Simple Pairing, LE Secure Connections)
+# 秘密鍵もバレて、暗号化してないのと同じになるかも。 (Invalid Curve Attack, ECDLP: Elliptic Curve Discrete Logarithm Problem, 楕円曲線離散対数問題)
+# 中間者攻撃させないため、公開鍵を確認するように仕様変更された。 (Bluetooth SIG)
+# iPhone のセキュリティパッチは 2018/05/29 に配信された。 (iOS 11.4)
+# Android のセキュリティパッチは 2018/06/05 に公開されたけど、降ってこないかも。
+# [[https://www.bluetooth.org/docman/handlers/downloaddoc.ashx?doc_id=447440][Erratum 10734: Pairing Updates]] (2018/07/16)
+# [[https://www.welivesecurity.com/2018/07/24/bluetooth-bug-expose-devices/][Bluetooth bug could expose devices to snoopers]] (ESET, 2018/07/24)
+# [[https://www.cs.technion.ac.il/~biham/BT/][Breaking the Bluetooth Pairing – Fixed Coordinate Invalid Curve Attack]] (Israel Institute of Technology, 2018/07/25)
 
 # 5G band
 # | freq (MHz) |
@@ -3140,9 +3179,9 @@ OCN モバイル ONE との SIM 契約なしで使える。
 ** Android (Google)
 
 次期 Android 9 はテスト中。
-最新は Android 8 だけど、まだ OREO 食べてない。 (ドロイドくんがいないので、 Noir にした)
-バージョンアップがあるとしたら Android 7 以上？
+バージョンアップするとしたら、最新の Android 8 以上？
 30000 円くらいを目安に考えてる。
+普及してる Android 7 なら、 20000 円くらい。
 格安のは機能が削られてる。
 (バーゲン品や中古は除く)
 # 機能を変えるための "バージョンアップ" 。
@@ -3169,7 +3208,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 #            国内で入れて使えるのは、今のところ Essential PH‑1 のみ。
 # 2018/06/06 Developer Preview 3 (final APIs and official SDK, Play publishing, beta 2, API level 28)
 # 2018/07/02 Developer Preview 4 (release candidate for testing)
-# 2018/07/?? Developer Preview 5 (release candidate for final testing)
+# 2018/07/25 Developer Preview 5 (release candidate for final testing)
 # 2018/Q3    Final release to AOSP and ecosystem
 # - SensorManager
 #   バックグラウンドアプリが、センサーにアクセスするのを制限できる。 (カメラやマイクも)
@@ -3200,7 +3239,8 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # - Neural Networks API 1.1
 # - Kotlin (Android KTX)
 #   公式言語になる。
-#   Jetpack とかも使えば、アプリの開発サイクルを底上げできる？ (Android Studio 3.2)
+#   Jetpack とかも使えば、アプリの開発サイクルを底上げできる？
+#   (Android Studio 3.2, Support Library -> AndroidX)
 # - Adaptive Battery (AI, DeepMind)
 #   バッテリーで動いてるときに、使ってないアプリを更新しない。
 # - Faster Adoption with Project Treble
@@ -3290,6 +3330,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 #
 # 2018/03/31 新しい Android 7 スマホの認証を終了。 (GMS Certification)
 # 2018/06/19 Google Play で配信されたのか、 APK を判別できる。 (security metadata, APK Signing Block)
+# 2018/07/26 暗号通貨を採掘するアプリは禁止。
 # 2018/08/?? 新しいアプリは、 Android 8.0 (API26) 対応が必須。 (targetSdkVersion)
 # 2018/11/?? アプリの更新で、 Android 8.0 (API26) 対応が必須。
 # 2019/08/?? 新しいアプリやアプリの更新で、 64bit 対応が必須。 (multiple APK)
@@ -3353,17 +3394,18 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://www.wsj.com/articles/techs-dirty-secret-the-app-developers-sifting-through-your-gmail-1530544442][Tech’s ‘Dirty Secret’: The App Developers Sifting Through Your Gmail]] (WSJ, 2018/07/02)
 # [[https://www.cnet.com/news/third-party-gmail-apps-reportedly-let-employees-read-peoples-emails/][Gmail app developers' employees might be reading your email]] (CNET, 2018/07/02)
 #
-# 米下院 が、 Alphabet の CEO 宛てにお手紙を送った。 (Apple にも、 2018/07/09)
+# 米下院が、 Alphabet の CEO 宛てにお手紙を送った。 (Apple も、 2018/07/09)
+# Amazon の CEO には、すでに米上院議員が送ってた。 (2018/06/12)
 # 最近のプライバシー問題について、公開で質問。
 # - 音声入力はどこまで収集してる？
 # - 位置情報とかもまだ追跡してる？ (Cell ID)
 # - メールみたいに共有とかしてる？
 # (画面の録画やスクリーンショットを、勝手に送信するアプリとかも話題になってるけど)
+# [[https://www.coons.senate.gov/newsroom/press-releases/coons-flake-press-amazon-on-consumer-privacy-practices][Coons, Flake press Amazon on consumer privacy practices]] (U.S. Senator Christopher Coons of Delaware, 2018/06/15)
 # [[https://energycommerce.house.gov/news/press-release/ec-leaders-press-apple-and-google-on-third-party-access-audio-and-location-data-collection/][E&C Leaders Press Apple and Google on Third-Party Access, Audio and Location Data Collection]] (Energy and Commerce Committee, 2018/07/09)
 
-前に普及してた Android 6 なら、 20000 円くらい？
-Android 5 スマホなら 10000 円くらい？
-Android 4 以前だと、Google によるセキュリティパッチの公開もない。 (2017/10/05 が最後)
+Android 6 なら、 15000 円以下くらい？
+Android 5 以前だと、Google によるセキュリティパッチの公開もない。 (2018/03/05 が最後)
 # 新品として売ってるのは、まだ不具合の修正くらいはしてる？
 # いつまで続けてくれるのか不明。
 #
@@ -3683,6 +3725,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Project Loon -> Loon (Wi-Fi balloon, Kenya)
 # AMA (Ask Me Anything, Reddit)
 # Android Developer Summit (2018/11/07~08)
+# Titan Security Key (USB or Bluetooth, physical security keys, Google Cloud Next 2018)
 #
 # ServiceMode, EngineerMode
 # stock ROM (official firmware)
@@ -3843,7 +3886,7 @@ Mate9 が問題になってる。 (無問題了？？)
 # GPU Turbo
 # Kirin OS?
 # bootloader unlock code (~2018/07/22)
-# Face Unlock (infrared, 3D, nova 3)
+# Face Unlock (3D, infrared, nova 3)
 #
 # 直営のカスタマーサービスセンターがある。 (銀座、梅田)
 # 認定修理店もある。 (スマホ修理工房、札幌、仙台、東京、横浜、名古屋、広島、福岡、 2018/06/20~)
@@ -3860,7 +3903,7 @@ Mate9 が問題になってる。 (無問題了？？)
 # 2018/01/03 に公表された、脆弱性 Meltdown and Spectre の対象外かも？ (Kirin650 は Cortex-A53)
 # 2018/05/16 [[http://faq.support-huawei.com/faq/show/234?site_domain=default][Wi-Fiでアクセスポイントを検索できない ...]] (Google Play 開発者サービスの更新で解消された、 12.6.73->12.6.85, 2018/05/10?~2018/05/19)
 # 2018/06/17 買ってから毎月セキュリティパッチがきてたけど、発売から 2 年が経過。 (B395 の配信は 2018/05/??)
-# 2018/06/?? B396 は来た。 (2018/06/01 に Google で公開されたセキュリティパッチ)
+# 2018/06/?? B396 は来た。 (セキュリティパッチの日付が 2018/06/01 なので、 Bluetooth のペアリング対応を含まない？)
 # - 省電力モード (電池)
 #   遅くなったりするけど、バッテリーのために ON 。
 #   バッテリーセーバーとして Android 5 で追加されたもの。
@@ -4230,6 +4273,7 @@ Note7 は、バッテリーの爆発で回収されたけど。
 # Intelligent Scan (iris and face, 2D, Galaxy S9)
 # internet-less (Galaxy J2 Pro, South Korea)
 # Samsung Messages (SMS/MMS)
+# flexible OLED (OSHA: Occupational Safety and Health Administration standard, unbreakable?)
 #
 # Galaxy の SIM フリー版は、海外にしかない。
 #
@@ -4365,7 +4409,7 @@ au VoLTE 対応。
 # (スリーストライクでアウト？ 10 年を満了？)
 # [[https://www.federalregister.gov/documents/2016/03/08/2016-05104/additions-to-the-entity-list][Federal Register :: Additions to the Entity List]] (2016/03/08)
 # [[https://www.commerce.gov/news/press-releases/2018/04/secretary-ross-announces-activation-zte-denial-order-response-repeated][Secretary Ross Announces Activation of ZTE Denial Order in Response to Repeated False Statements to the U.S. Government]] (2018/04/16)
-# [[https://www.softbank.jp/mobile/info/personal/software/20180413-01/][キッズフォンをご利用中のお客さまへ]] (更新サーバー停止で更新できない、 SoftBank, 2018/04/26)
+# [[https://www.softbank.jp/mobile/info/personal/software/20180413-01/][キッズフォンをご利用中のお客さまへ]] (更新サーバー停止、 SoftBank, 2018/04/26)
 # [[https://www.trade.gov.tw/Pages/Detail.aspx?nodeID=40&pid=637401][我商輸出貨品至中興通訊及中興康訊等2家公司之相關規定]] (MediaTek, SHTC: Strategic Hi-Tech Commodity, 戦略ハイテク物資に関する輸出入管理弁法、台湾で輸出前に許可がいる、 2018/04/27)
 # [[http://www.scmp.com/news/asia/southeast-asia/article/2145808/trump-indonesia-project-latest-stop-chinas-belt-and-road][Trump Indonesia project is latest stop on China’s Belt and Road]] (South China Morning Post, 2018/05/11)
 # [[https://twitter.com/realDonaldTrump/status/995680316458262533][... ZTE, a way to get back into business, fast. ...]] (@realDonaldTrump, 2018/05/13)
@@ -4551,6 +4595,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 #
 # Pinecone (Surge, SoC)
 # Xiaomi MIUI Forum
+# Face Unlock (3D, infrared,  Mi 8 Explorer Edition)
 
 # *** R11s
 # 中国 OPPO Mobile Telecommunications 製。 (オッポ、欧珀移動通信)
@@ -4656,6 +4701,7 @@ Android 8.1
 # [[https://www.essential.com/developer/developer-preview-issues][Known Issues from Essential]] (Android P DP2 だと VoLTE とか使えない)
 # [[https://twitter.com/essential/status/1000108666236813312][2 years of software updates and 3 years of security patches.]] (@essential, 2018/05/25)
 # MQA 対応。 (Master Quality Authenticated, Audio Adapter HD, 3.5mm headphone adapter, OPM1.180104.234, 2018/06/07)
+# [[https://twitter.com/memn0ck/status/1022213573303365632][... 技適マークがVoLTE対応 ...]] (PPR1.180610.066, Android P DP4, @memn0ck, 2018/07/25)
 #
 # ヴェルテ (ドゥモア) が、輸入代行しちゃうみたい。 (2018/02/02 予約開始)
 #
@@ -4731,6 +4777,17 @@ Android 8.1
 # 防水。 (MIL-STD-810G)
 
 # *** Ice (米 Amazon)
+#
+# Amazon Rekognition (画像認識)
+# 顔認識システムを、米警察とかにも売り込んでる。
+# 米議員の写真が、犯罪者のマグショットとマッチするので話題になってる。 (ACLU)
+# 米政府による監視を、一手に引き受けたいのかも？ (よその国で排除されそう？)
+# Project Maven や JEDI とかも集めたものは、 Skynet になるのかも？ (Public Enemy?)
+# (日本を含めたいろんな国で、構築計画や実証実験が進められてる)
+# [[https://www.eff.org/ja/deeplinks/2018/05/amazon-stop-powering-government-surveillance][Amazon, Stop Powering Government Surveillance]] (EFF, 2018/05/29)
+# [[https://www.aclu.org/blog/privacy-technology/surveillance-technologies/amazons-face-recognition-falsely-matched-28][Amazon’s Face Recognition Falsely Matched 28 Members of Congress With Mugshots]] (ACLU: American Civil Liberties Union, 米国自由人権協会、 2018/07/26)
+# [[https://aws.amazon.com/jp/blogs/aws/thoughts-on-machine-learning-accuracy/][Thoughts On Machine Learning Accuracy]] (AWS News Blog, 2018/07/27)
+
 # *** GRANBEAT (ONKYO)
 
 # *** NuAns NEO [Reloaded]
@@ -4915,7 +4972,11 @@ Apple Store (直営) と、 Apple 正規サービスプロバイダがある。
 # | 2016/09/16 | 7, 7 Plus     | Quad-Core, Display P3, FeliCa, Water resistant |
 # | 2017/09/22 | 8, 8 Plus     | Hexa-Core, Neural Engine, Qi, VoLTE(HD+)       |
 # | 2017/11/03 | X             | OLED, Face ID, 10th anniversary                |
-# | 2018/??/?? | SE2?          |                                                |
+# | 2018/??/?? | ?             |                                                |
+
+# 西日本豪雨の被災者に、無償修理を案内してる。 (SIM フリー向け？)
+# 東日本大震災のときも、同じ支援を案内してた。 (2011/03/22)
+# [[https://support.apple.com/ja-jp/repair-service-western-japan][平成 30 年 7 月豪雨による被災者向け特別修理サービスのご案内]] (... 災害により直接的な被害を受けた故障については、修理が可能な限り対応 ... 受付期間：2018 年 9 月末日まで ..., 2018/07/27)
 
 # iPhone Agreement
 # 大手 3 キャリアが iPhone を扱うために、個別に結んできた契約。 (ノルマ、料金プラン、下取り、端末購入補助、 ...)
@@ -5153,6 +5214,7 @@ au は最初から、格安キャリアで 3G のパケット通信ができな�
 # | ad |     60 | 6700 | (WiGig)
 # | ax | 2.4, 5 | 9608 | (draft 3.0)
 # | ay |     60 |      | (draft 1.4)
+# |    |      6 |      | (EHT: Extreme High Throughput)
 #
 # 陸上無線通信委員会報告 (案) に対する意見募集。 (2017/10/17 総務省)
 # 電波法施行規則の一部を改正する省令案等に関する意見募集 (2018/03/16 総務省)
