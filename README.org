@@ -485,7 +485,7 @@
 # [[https://www.jilis.org/conference.html][著作権侵害サイトのブロッキング要請に関する緊急提言シンポジウム]] (議事要旨や資料が公開されてる)
 #
 # 2018/04/23 ドコモを含む NTT 4 社が、準備ができ次第ブロッキングすると表明。 (DNS)
-#            格安キャリアの通信は、ドコモにブロックキングされない。 (OCN は未定？ L3 接続は？)
+#            格安キャリアの通信は、ドコモからブロッキングされない。 (OCN は未定？ L3 接続は？)
 # 2018/04/25 すでに訴状を用意した人たちが、ブロッキングを待ってる。 (主婦連合会、全国地域婦人団体連絡協議会: ちふれ)
 # 2018/04/26 中澤佑一弁護士は、ブロッキングの差し止めを求めて提訴。 (弁護士法人戸田総合法律事務所)
 # 2018/04/27 講談社がブロッキング対象を告訴してたけど、時期は秘密。 (半年はかかる？)
@@ -495,6 +495,7 @@
 #            ブロッキングを置き土産に、持株会社の社長は交代の予定。 (持株の株主総会、 2018/06/26)
 # 2018/05/16 NTT を訴えてもいいかって、カドカワの社長に言われてた。 (2017/10/??, 知的財産戦略本部の本部員)
 # 2018/05/21 大手キャリアにブロッキングを要請したのは、総務審議官。 (2018/04/09~15?, 正式な書面がなければ自主的？)
+# 2018/08/03 中澤佑一弁護士に、ブロッキング中止の準備書面が届いた。 (持株の社長は交代)
 # 対象をすぐ増やしちゃう？ (CODA が、裁判所も介さずにサイトを違法と決めちゃう？)
 # 従業員は同意しちゃった？ (選任された電気通信主任技術者も？)
 # JAIPA では協議してない？ (大手キャリアも会員なのに？)
@@ -520,6 +521,8 @@
 # [[https://www.bengo4.com/internet/n_8081/][「海賊版サイト」ブロッキング差し止め裁判開始…NTTコム側は争う姿勢]] (弁護士ドットコム、 2018/06/21)
 # [[http://live.nicovideo.jp/watch/lv313681156][激論どうなる、海賊版サイト対策のこれから]] (途中でブロッキングを実演？、 ニコニコ動画、 2018/06/22)
 # [[http://nlab.itmedia.co.jp/nl/articles/1806/29/news105.html][漫画村問題でCloudflareを漫画家が提訴　国内でCloudflareについて争われるのは初]] (... 第1回公判は9月に予定されており、最短で審理が進めば年内には判決が出る可能性も ..., ITmedia, 2018/06/30)
+# [[https://twitter.com/nakazawaYUU/status/1025357063214391296][NTT、ブロッキングやめるってよ ...]] (@nakazawaYUU, 中澤佑一弁護士、 2018/08/03)
+# [[https://news.yahoo.co.jp/feature/1039][「漫画村」ブロッキング――誰が、どんな経緯で動いたのか]] (... 3月上旬の自民党の知的財産戦略調査会で問題が提起された ... 否定的だった省庁を菅官房長官が中心となって官邸主導でまとめた ... 中澤弁護士のもとに ... 準備書面が届いた ... 現時点では、本件サイトをブロッキングする予定はない。原告の請求は直ちに棄却されるべきである ..., Yahoo! ニュース、 2018/08/06)
 #
 # ソフトバンクと au は、検討中？
 #
@@ -628,6 +631,9 @@
 # 携帯電話分野に関する意見交換会 (2018/04/13~ 公正取引委員会)
 # 携帯電話市場の競争政策上の課題について 2 (2018/06/28 公正取引委員会)
 # 利用者の乗り換えを邪魔するキャリアには、独占禁止法を執行？ (セット販売と 4 年縛り？)
+#
+# ソフトバンクと au は、 4 年縛りの見直しを表明。 (ドコモはやってない)
+# 更新月は 2->3 ヶ月に拡大を予定。
 
 # 「電波有効利用成長戦略懇談会　報告書（案）」に対する意見募集 (2018/07/09 総務省)
 #
@@ -672,13 +678,20 @@
 # 電話番号や SMS で認証してるアカウントも、乗っ取られそう。
 # [[https://motherboard.vice.com/en_us/article/vbqax3/hackers-sim-swapping-steal-phone-numbers-instagram-bitcoin][The SIM Hijackers]] (Motherboard, 2018/07/17)
 
-# SS7 attack
+# SS7 attack (Signalling System No.7, 共有線信号方式)
 #
 # SMS は乗っ取れるので、認証に使っちゃダメ。 (盗聴とかもある)
 # アカウントが乗っ取られるかも。
 # 昔の電話交換機から使われてるプロトコルが原因。 (不正な発信を区別できないのは仕様)
 # [[http://2014.hackitoergosum.org/slides/day3_Worldwide_attacks_on_SS7_network_P1security_Hackito_2014.pdf][Worldwide attacks on SS7 network]] (Hackito 2014, 2014/04/26)
 # [[https://arstechnica.com/information-technology/2017/05/thieves-drain-2fa-protected-bank-accounts-by-abusing-ss7-routing-protocol/][Thieves drain 2fa-protected bank accounts by abusing SS7 routing protocol]] (Ars Technica, 2017/05/03)
+# [[https://www.reddit.com/r/announcements/comments/93qnm5/we_had_a_security_incident_heres_what_you_need_to/][We had a security incident. Here's what you need to know.]] (Reddit, 2018/08/01)
+
+# Ghost Telephonist
+#
+# 2G は海外でまだ使われてるけど、いろいろ危険。 (CS fallback だけじゃない)
+# 回線を勝手に使われた上に、 SMS で認証できるアカウントとか乗っ取られるかも。
+# [[https://www.blackhat.com/us-17/briefings.html#ghost-telephonist-link-hijack-exploitations-in-4g-lte-cs-fallback]['Ghost Telephonist' Link Hijack Exploitations in 4G LTE CS Fallback]] (BlackHat USA 2017, 2017/07/22~27)
 
 ** ソフトバンク
 
@@ -739,9 +752,11 @@
 # 2018/04/01 バーコード決済を開始。
 #            "Yahoo! Japan" アプリで、税金や公共料金を支払い。
 # 2018/05/01 中国で Arm China を設立。
-#            Arm に 49% を残して売却、合弁になる予定。 (正式合意は 2018/06/04)
-#            技術移転問題で EU から WTO に提訴された。 (2018/06/01)
-#            [[http://europa.eu/rapid/press-release_IP-18-4027_en.htm][EU launches WTO case against China's unfair technology transfers]] (2018/06/01)
+#            Arm に 49% を残して売却、合弁になった。
+#            合意は 2018/06/04 。
+#            売却は 2018/06/26 。
+#            公表は 2018/08/06 。
+#            [[http://europa.eu/rapid/press-release_IP-18-4027_en.htm][EU launches WTO case against China's unfair technology transfers]] (技術移転問題で EU から WTO に提訴された、 2018/06/01)
 # 2018/05/09 RCS 開始。 (翌日にアプリの配信を一時停止)
 #            旧アプリを残さずに、新アプリで置き換え。
 #            知らないアプリだからって、削除するとメールも消える。
@@ -882,6 +897,7 @@ au が売ったスマホ以外だと、 LTE NET for DATA の申し込みがい�
 #            "SORACOM Air for セルラー plan-K" も開始。 (IoT)
 # 2018/06/25 "LTEデータプリペイド" で eSIM 対応。 (Intel, Always connected PC)
 #            Windows 10 April 2018 Update のモバイル通信プランで使える。
+# 2018/??/?? QR コード決済を開始予定？
 
 ** Y!mobile
 
@@ -889,6 +905,11 @@ au が売ったスマホ以外だと、 LTE NET for DATA の申し込みがい�
 |------------------+------+------+------|
 | スマホベーシック | 5480 | 6480 | 8480 |
 # 2 年以上の縛りを受け入れるなら、月額で -2500 円。
+#
+# 2018/09/01 改定予定。
+# | 音声通話込み     |  2GB |  6GB | 14GB |
+# |------------------+------+------+------|
+# | スマホベーシック | 5480 | 6480 | 8480 |
 
 |                  |  1GB |  7GB |
 |------------------+------+------|
@@ -1039,7 +1060,7 @@ Android スマホは SIM ロックされてない。 *(!?)*
 #            その代わりに、毎月のパケットを 30% 増量。 (従量プランは 10%)
 #            [[https://mobile.rakuten.co.jp/news/freetel_network_change_2018/][「旧FREETEL SIM」サービス内容変更のお知らせ！]] (2018/07/19)
 # 2019/10/?? サービス開始予定。
-#            SIM ロック？
+#            通信の最適化と SIM ロックは？
 
 
 * 格安キャリア (MVNO で低速通信)
@@ -1740,6 +1761,7 @@ LINE のビデオ通話は、なぜかデータフリーの対象になってる
 #            [[https://twitter.com/seijidohi/status/1016164327722635264][... もう遅くなってきてる？ ...]] (@seijidohi, 2018/07/09)
 #            [[http://www.itmedia.co.jp/mobile/articles/1807/13/news053.html][ソフトバンク回線を始めたLINEモバイルはどこに向かうのか？　嘉戸社長に聞く (1/2)]] (... 資産としては、全てこちら側 ... 所有権はLINEモバイル側 ... 運用 ... LINEモバイルとソフトバンクの両方 ..., ITmedia, 2018/07/13)
 #            [[https://mobile.line.me/support/help/search/?contents=20002491][... VoLTEに対応してますか？ ... ＜ソフトバンク回線＞ ご利用できません。]]
+# 2018/07/13 [[https://twitter.com/trademark_bot/status/1025345040846151680][... 商願2018-91235 ... 出願人:LINE株式会社 ...]] ("詫びギガ"、 @trademark_bot, 2018/08/03)
 
 ** イオンモバイル
 
@@ -1890,6 +1912,10 @@ NTT コミュニケーションズでプロバイダをしてるところ。
 # 2017/08/16 ソフトバンク回線の音声通話 SIM を開始。
 #            [[http://www.j-com.co.jp/ir/pdf/press_170803a.pdf]["これにより、 MVNO 市場が 2 倍になります。"]] (IR!?)
 # 2018/06/01 [[http://www.taisyaku.jp/media/20180601_teishi.pdf][日本通信㈱株式に係る貸借取引の申込停止措置の実施について]] (日本証券金融)
+# 2018/08/06 [[https://www.release.tdnet.info/inbs/140120180806492250.pdf][当社に対する訴訟 (反訴) の提起に関するお知らせ]]
+#            台湾 Quanta 製の ODM で、 VAIO Phone VA-10J として 70000 台を発注。 (2015/08/04)
+#            不具合を理由にして、 14000 台の受領を拒絶してた。 (何の不具合？)
+#            (パナソニックが台湾で販売してた ELUGA U2 と、ほぼ同じ)
 
 # ** Wonderlink (パナソニック)
 #
@@ -2390,11 +2416,12 @@ Apple 機器専用。
 #            アプリとかを乗り換えても、前のデータは自動削除されない。
 #            (データの取り引きも簡単になる？)
 # 2018/07/25 決算報告。 (2018Q2)
-#            一日での株価の下落幅は、史上最大。 (119 billion)
+#            一日での株価の下落幅は、史上最大。 (US$ 119 billion)
 #            これから利益率が下がる見通しを発表。 (いろんな対策費が増えるらしい)
 #            中国での子会社の設立は、承認が撤回された。 (NYT)
 #            (CEO が議決権の過半数を握ったままなのも、問題になりそう？)
-# 2018/09/01 米と EU のプライバシーシールド失効するかも？
+# 2018/07/31 米の選挙に介入しそうなアカウントとかは、削除するらしい。
+# 2018/09/01 米と EU のプライバシーシールドは、失効するかも？
 #            標準データ保護条項 (SDPC) や拘束的企業準則 (BCR) を結ぶ？
 # [[https://newsroom.fb.com/news/2012/02/helping-improve-the-mobile-web/][Helping Improve the Mobile Web]] (2012/02/27)
 # [[https://www.ftc.gov/enforcement/cases-proceedings/092-3184/facebook-inc][In the Matter of Facebook, Inc., a corporation]] (2012/08/10)
@@ -2445,6 +2472,7 @@ Apple 機器専用。
 # [[https://www.buzzfeednews.com/article/ryanmac/congratulations-zuckerberg-call-trump-election-2016][Congratulations, Mr. President: Zuckerberg Secretly Called Trump After The Election]] (BuzzFeed, 2018/07/19)
 # [[https://datatransferproject.dev/][Data Transfer Project]] (DTP, 2018/07/20)
 # [[https://www.nytimes.com/2018/07/25/business/facebook-china.html][China Said to Quickly Withdraw Approval for New Facebook Venture]] (NYT, 2018/07/25)
+# [[https://newsroom.fb.com/news/2018/07/removing-bad-actors-on-facebook/][Removing Bad Actors on Facebook]] (2018/07/31)
 
 *** WhatsApp (WhatsApp)
 
@@ -2843,7 +2871,8 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # 国防の予算を決める国防権限法案がある。 (NDAA: National Defense Authorization Act)
 # Huawei や ZTE の機器とかも利用するとこは、国防総省と契約できなくなりそう。 (DoD: Department of Defense)
 # [[https://www.cnbc.com/2018/02/13/chinas-hauwei-top-us-intelligence-chiefs-caution-americans-away.html][Six top US intelligence chiefs caution against buying Huawei phones]] (Senate Intelligence Committee: 米上院情報委員会, 2018/02/13)
-# [[https://www.congress.gov/bill/115th-congress/house-bill/5515/text][H.R.5515 - National Defense Authorization Act for Fiscal Year 2019115th Congress (2017-2018)]] (Passed Senate, 2018/06/18)
+# [[https://www.congress.gov/bill/115th-congress/house-bill/5515/text][H.R.5515 - National Defense Authorization Act for Fiscal Year 2019115th Congress (2017-2018)]] (Resolving Differences, 2018/07/26)
+# [[https://money.cnn.com/2018/08/03/technology/democratic-national-committee-zte-huawei/index.html][DNC warns candidates: Don't use ZTE or Huawei phones]] (CNN, 2018/08/03)
 #
 # 連邦通信委員会が、ネット中立性を廃止。 (network neutrality, FCC: Federal Communications Commission, 2018/04/23~)
 # ネットが公共インフラじゃなくなる。 (OMB: Office of Management and Budget, 米行政管理予算局、 2018/06/11~)
@@ -2941,7 +2970,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # Google の従業員たちは、新しく AI の社内原則を作成。 ("Jabba, you're a wonderful human being." - Han)
 # Google の経営者たちは、ジェダイの受注をあきらめる？ ("There will be no bargain, young Jedi." - Jabba)
 # メールも流出したので、 Google は Project Maven の契約更新をやめた。
-# いろんな人や団体も、 AI 自律兵器開発しないと宣言。 (IJCAI: International Joint Conference on Artificial Intelligence, 国際人工知能会議)
+# いろんな人や団体も、 AI 自律兵器を開発しないと宣言。 (IJCAI: International Joint Conference on Artificial Intelligence, 国際人工知能会議)
 # [[https://gizmodo.com/google-is-helping-the-pentagon-build-ai-for-drones-1823464533][Google Is Helping the Pentagon Build AI for Drones]] (GIZMODE, 2017/03/06)
 # [[https://www.defense.gov/News/Article/Article/1254719/project-maven-to-deploy-computer-algorithms-to-war-zone-by-years-end/][Project Maven to Deploy Computer Algorithms to War Zone by Year’s End]] (DoD, 2017/07/21)
 # [[https://www.fbo.gov/?s=opportunity&mode=form&tab=core&id=f3a1f46d150da999198429e8094be4aa][DRAFT DOD JEDI Cloud RFP - Federal Business Opportunities: Opportunities]] (2018/03/07~)
@@ -2986,6 +3015,12 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # 芝麻信用 (sesame credit, Alibaba) や、騰訊征信 (Tencent) とかの 8 社が信用評価機関。
 # 企業が信用情報を得点にして公開で遊んでたら、当局に目を付けられてディストピアになりそう？
 # [[http://www.gov.cn/zhengce/content/2014-06/27/content_8913.htm][社会信用システム建設計画綱要]] (2014/06/27)
+#
+# Dragonfly project (search & censorship, twin engine?)
+# Google がこっそり検閲エンジンを作って、中国に再参入したいらしい。 (すでに提案済み)
+# 表示順を操作できる検索エンジンってことにして、いろんなとこに売り込みたいのかも？ (多分違う)
+# (Google の経営者たちにとって、検索の表示順を決めるのは検閲と大差ない？)
+# [[https://theintercept.com/2018/08/01/google-china-search-engine-censorship/][Google Plans to Launch Censored Search Engine in China, Leaked Documents Reveal]] (Intercept, 2018/08/01)
 
 # "電気通信事業における個人情報保護に関するガイドライン" がある。
 # ケーサツが勝手に位置情報を取得しても、通知しなくなった。 (2016/06/24 告示から)
@@ -3122,6 +3157,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # |  2018/06/27 | (v5?, Lazy FP state restore)
 # |  2018/07/10 | (v1.1, v1.2)
 # |  2018/07/20 | SpectreRSB
+# |  2018/07/27 | NetSpectre
 # |  2018/08/?? | Spectre-NG の公開予定 (4/8)                              |
 # [[https://www.bloomberg.com/news/articles/2018-01-08/intel-ceo-krzanich-s-stock-sales-seen-warranting-sec-examination][Intel CEO’s Stock Sales May Warrant SEC Examination]] (2018/01/08)
 # [[http://www.lemagit.fr/actualites/252433746/Le-jour-ou-son-CEO-vendait-ses-actions-Intel-prevenait-les-constructeurs-de-la-faille-Spectre][Le jour où son CEO vendait ses actions, Intel prévenait les constructeurs de la faille Spectre]] (2018/01/24)
@@ -3131,10 +3167,11 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00145.html][INTEL-SA-00145]] (Lazy FP state restore, 2018/06/13)
 # [[https://www.theregister.co.uk/2018/06/22/intel_tlbleed_key_data_leak/][Meet TLBleed: A crypto-key-leaking CPU attack that Intel reckons we shouldn't worry about]] (Register, 2018/06/22)
 # [[https://www.bleepingcomputer.com/news/security/new-spectre-11-and-spectre-12-cpu-flaws-disclosed/][New Spectre 1.1 and Spectre 1.2 CPU Flaws Disclosed]] (Bleeping Computer, 2018/07/11)
-# [[https://www.blackhat.com/us-18/briefings.html#tlbleed-when-protecting-your-cpu-caches-is-not-enough][TLBleed: When Protecting Your CPU Caches is Not Enough]] (USA BlackHat 2018, 2018/08/04~2018/08/09)
+# [[https://www.blackhat.com/us-18/briefings.html#tlbleed-when-protecting-your-cpu-caches-is-not-enough][TLBleed: When Protecting Your CPU Caches is Not Enough]] (BlackHat USA 2018, 2018/08/04~2018/08/09)
 # [[https://arxiv.org/pdf/1807.07940.pdf][Spectre Returns! Speculation Attacks using the Return Stack Buffer]] (SpectreRSB, UCR: University of California Riverside, 2018/07/20)
+# [[https://misc0110.net/web/files/netspectre.pdf][NetSpectre：Read Arbitrary Memory over Network]] (Graz University of Technology, 2018/07/27)
 
-# Breaking the Bluetooth Pairing (Bluetooth, CVE-2018-5383, 2018/07/23)
+# Breaking the Bluetooth Pairing (CVE-2018-5383, 2018/07/23)
 #
 # ペアリングするときに、公開鍵を交換した相手を確認しなくてもいい欠陥があった。 (Secure Simple Pairing, LE Secure Connections)
 # 秘密鍵もバレて、暗号化してないのと同じになるかも。 (Invalid Curve Attack, ECDLP: Elliptic Curve Discrete Logarithm Problem, 楕円曲線離散対数問題)
@@ -3330,7 +3367,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 #
 # 2018/03/31 新しい Android 7 スマホの認証を終了。 (GMS Certification)
 # 2018/06/19 Google Play で配信されたのか、 APK を判別できる。 (security metadata, APK Signing Block)
-# 2018/07/26 暗号通貨を採掘するアプリは禁止。
+# 2018/07/26 暗号通貨を採掘するアプリは禁止。 (Developer Policy)
 # 2018/08/?? 新しいアプリは、 Android 8.0 (API26) 対応が必須。 (targetSdkVersion)
 # 2018/11/?? アプリの更新で、 Android 8.0 (API26) 対応が必須。
 # 2019/08/?? 新しいアプリやアプリの更新で、 64bit 対応が必須。 (multiple APK)
@@ -3587,6 +3624,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # [[https://www.socionext.com/jp/pr/sn_pr20180606_01j.pdf][クラウド上のFPGAを利用するAV1エンコーダーを実装]] (AWS Summit Tokyo 2018, Socionext, 2018/06/06)
 # [[https://arstechnica.com/tech-policy/2018/06/inventor-says-google-is-patenting-work-he-put-in-the-public-domain/][Inventor says Google is patenting work he put in the public domain]] (ANS: Asymmetric Numeral Systems, Ars Technica, 2018/06/10)
 # [[https://aomedia.googlesource.com/aom/+/v1.0.0][AOMedia Codec Workgroup Approved version 1.0]] (2018/06/25)
+# [[https://developers.google.com/web/updates/2018/08/chrome-69-media-updates#av1][Audio/Video Updates in Chrome 69]] (... Chrome supports AV1 video decoding ... container is ISO-BMFF (MP4) ..., 2018/08/03)
 #
 # AVIF (AV1 Still Image File Format)
 #
@@ -4144,7 +4182,7 @@ DSDS 対応。 (SIMx2 + microSD スロット)
 更新に積極的なのは、 Google の頃から？
 素の Android に近いらしい。 (AOSP)
 Nexus 6 を作ってた。
-# Moto Mods (Moto Z series, Amazon Alexa, AI)
+# Moto Mods (Moto Z series, Amazon Alexa, AI, 5G)
 #
 # *#*#86583#*#*
 # 非公式だけど、ドコモと au の VoLTE が使えるみたい。 (Z/Z Play/G5/G5 Plus)
@@ -4595,7 +4633,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 #
 # Pinecone (Surge, SoC)
 # Xiaomi MIUI Forum
-# Face Unlock (3D, infrared,  Mi 8 Explorer Edition)
+# Face Unlock (3D, infrared, Mi 8 Explorer Edition)
 
 # *** R11s
 # 中国 OPPO Mobile Telecommunications 製。 (オッポ、欧珀移動通信)
@@ -4783,7 +4821,7 @@ Android 8.1
 # 米議員の写真が、犯罪者のマグショットとマッチするので話題になってる。 (ACLU)
 # 米政府による監視を、一手に引き受けたいのかも？ (よその国で排除されそう？)
 # Project Maven や JEDI とかも集めたものは、 Skynet になるのかも？ (Public Enemy?)
-# (日本を含めたいろんな国で、構築計画や実証実験が進められてる)
+# (日本を含めたいろんな国で、似たような構築計画や実証実験が進められてる)
 # [[https://www.eff.org/ja/deeplinks/2018/05/amazon-stop-powering-government-surveillance][Amazon, Stop Powering Government Surveillance]] (EFF, 2018/05/29)
 # [[https://www.aclu.org/blog/privacy-technology/surveillance-technologies/amazons-face-recognition-falsely-matched-28][Amazon’s Face Recognition Falsely Matched 28 Members of Congress With Mugshots]] (ACLU: American Civil Liberties Union, 米国自由人権協会、 2018/07/26)
 # [[https://aws.amazon.com/jp/blogs/aws/thoughts-on-machine-learning-accuracy/][Thoughts On Machine Learning Accuracy]] (AWS News Blog, 2018/07/27)
