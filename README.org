@@ -73,28 +73,28 @@
 
 * パケット通信のみを月額料金で比較
 
-|        | ソフトバンク | wjroc | IIJmio | LINE | イオン |  OCN |
-|--------+--------------+-------+--------+------+--------+------|
-| 500 MB |              |   '~~ |        |      |        |      |
-| 1 GB   |         3200 |   (~~ |        |  620 |    480 |      |
-| 2 GB   |         3800 |       |        |      |    780 |      |
-| 3 GB   |              |   )~~ |    900 | 1110 |        | 1100 |
-| 4 GB   |              |       |        |      |    980 |      |
-| 5 GB   |         5300 |       |        | 1640 |        |      |
-| 6 GB   |              |  !%(~ |   1520 |      |   1480 | 1450 |
-| 7 GB   |              |       |        | 2300 |        |      |
-| 8 GB   |              |       |        |      |   1980 |      |
-| 10 GB  |              |  "%"~ |   2560 | 2640 |        | 2300 |
-| 12 GB  |              |       |        |      |   2680 |      |
-| 20 GB  |         6300 |  #)(~ |        |      |   3980 | 4150 |
-| 30 GB  |              |  %)~~ |        |      |   5380 | 6050 |
-| 40 GB  |              |       |        |      |   7480 |      |
-| 50 GB  |         7300 |       |        |      |  10300 |      |
+|        | ソフトバンク  | wjroc | IIJmio | LINE | イオン |  OCN |
+|--------+---------------+-------+--------+------+--------+------|
+| 500 MB |               | '~~   |        |      |        |      |
+| 1 GB   | (2780)        | (~~   |        |  620 |    480 |      |
+| 2 GB   | (4780)        |       |        |      |    780 |      |
+| 3 GB   |               | )~~   |    900 | 1110 |        | 1100 |
+| 4 GB   |               |       |        |      |    980 |      |
+| 5 GB   | *(6280)*      |       |        | 1640 |        |      |
+| 6 GB   |               | !%(~  |   1520 |      |   1480 | 1450 |
+| 7 GB   |               |       |        | 2300 |        |      |
+| 8 GB   |               |       |        |      |   1980 |      |
+| 10 GB  |               | "%"~  |   2560 | 2640 |        | 2300 |
+| 12 GB  |               |       |        |      |   2680 |      |
+| 20 GB  |               | #)(~  |        |      |   3980 | 4150 |
+| 30 GB  |               | %)~~  |        |      |   5380 | 6050 |
+| 40 GB  |               |       |        |      |   7480 |      |
+| 50 GB  | (7280) *6280* |       |        |      |  10300 |      |
+カッコ内は従量制の料金。
 
-ソフトバンクは音声通話定額が +4200 円。 (スマ放題の 2 年縛りなし)
+ソフトバンクは音声通話定額が +5400 円。 (2 年縛りなし)
 格安キャリアで音声通話をするなら +700 円くらい。(通話料は従量制)
 パケット通信のみで SMS を使うなら +120 円くらい。 (送信料は従量制)
-# スマ放題はなくなって、通話基本プランになる。 (+5400 円、 2018/09/06~)
 
 格安キャリアの通信速度は、大手キャリアの 1/10 未満になることもある。
 場所や時間帯、スマホの対応する電波に大きく左右されてしまう。
@@ -214,7 +214,7 @@
 例外は UQ mobile のデータ高速プランのみ。
 
 スマホは SIM ロックされてる。
-例外は UQ mobile の Android スマホと、 Y!mobile の Android スマホの一部。
+例外は一部の Android スマホだけ。 (au, UQmobile, Y!mobile)
 
 # NR frequency band 38.101 (Rel 15 Dec 2017), 2019~
 # | band      | freq (MHz)     |     |
@@ -413,6 +413,7 @@
 # [[https://news.yahoo.co.jp/byline/yamamotoichiro/20180424-00084392/][サイトブロッキング問題、CODAがブロッキングに賛成表明するよう加盟団体に要請]] (山本一郎、 2018/04/24)
 # [[http://niben.jp/news/opinion/2018/180614102149.html][政府による海賊版サイトへの緊急対策を受けての会長声明]] (第二東京弁護士会ひまわり、 2018/06/14)
 # [[https://www.eff.org/deeplinks/2018/07/eff-japan-reject-website-blocking][EFF to Japan: Reject Website Blocking]] (EFF, 2018/07/13)
+# [[https://www.hiroben.or.jp/iken_info.php?ikenid=231][政府による海賊版サイトへの対策（ブロッキング）に関する意見書]] (広島弁護士会、 2018/09/05)
 #
 # 政府が対象を例示しとけば、違法であっても総務省と警察庁や法務省が動かない？
 # 通信の秘密と検閲の禁止は、政府が見なかったことにするだけで避けられる？
@@ -568,9 +569,14 @@
 # インターネット上の海賊版対策に関する検討会議 (2018/06/22~ 内閣府)
 # DoS 攻撃による自力救済を提案する迷惑な団体が、話題になってる。 (別所直哉、日本 IT 団体連盟、 2018/08/10)
 # アクセス警告方式で、静止画ダウンロードの違法化まで提案された。 (宍戸常寿、 2018/08/24)
-# OP53B を提案してるけど、ブロッキング拡張の口実にしか使えない。 (川上量生、 2018/08/24)
+# OP53B を提案してるけど、ブロッキング拡大の口実にしか使えない。 (川上量生、 2018/08/24)
+# 中間まとめ骨子 (案) で、ブロッキング法整備のとこは保留マーク。 (事務局資料、 2018/08/30)
+# 海賊版サイトのリストは、 CODA から広告団体に提供が始まってた。 (JAA, JAAA, JIAA, 2018/08/30)
+# 広告配信ガイドラインで、海賊版サイトとかに広告を流さなくなる？ (Ad Frade?, JIAA で検討中、 2018/08/30)
 # 秋頃に中間案？
+# [[http://www.jiaa.org/info/jaa-jaaa-jiaa_information_180608.html][海賊版サイトへの対応策強化について]] (JIAA: Japan Interactive Advertising Association, 日本インタラクティブ広告協会、 2018/06/08)
 # [[https://www.bengo4.com/internet/n_8424/][ブロッキングに代わる「海賊版対策」の切り札？東大・宍戸教授「アクセス警告方式」提案]] (... 総務省消費者行政第二課長 ... ブロッキングは ... プロバイダの役割が、ユーザーを守るものから、ユーザを監視するものに変わるということ ..., 弁護士ドットコム、 2018/08/25)
+# [[https://www.jaipa.or.jp/topics/2018/09/it.php][海賊版サイト対策に関する日本IT団体連盟政策委員会の提案について]] (... 別所氏提出資料）につきましては、当協会は全く賛同するものではありません ..., JAIPA, 2018/09/05)
 #
 # JANOG 42 (2018/07/11~13)
 #
@@ -586,7 +592,199 @@
 #   TCA, TELESA, JAIPA, JCTA, ICT-ISAC
 #
 # 著作権侵害サイトによる海賊版被害対策に関するシンポジウム (#jilis, 2018/09/02)
+# 検討会議に、問題をすべてわかってる人がいない。 (ペースが早すぎらしい)
+# ブロッキング提案者も参加。 (OP53B, DoS, アクセス警告方式)
+# OP53B (Outbound Port 53 Blocking, DNS)
+# - 日本の中で、アウェイじゃない場所を探すのが難しい。 (社内は？)
+# - DDoS やってません。 (てっとり早いのに)
+# - 自由なネット社会が奪われるという指摘は、単なる想像。 (ブロッキング拡大を提案してるのに？)
+# - "ブロッキングは金盾に似ている" は、金盾に失礼。 (OP53B は金盾の一部でしかない)
+# - "政府が信用できない" は、議論ができないからやめて。 (まだ政府指定をあきらめてない？)
+# - IP ブロッキング等と比べて費用や、副作用も小さい。
+# - オプトアウト手段を用意することが前提。
+# - ブロッキング回避ツールも、ついでに違法化すればいい。
+# - インターネットは、事実上の治外法権状態。 (国境がないって意味？比較対象は i-mode?)
+# アクセス警告方式 (フィルタリング)
+# - 海賊版サイトにアクセスしたときに警告ポップアップをだす方式。
+# - プロバイダの約款により事前包括同意を取得することで、現行法下で実施可能。
+# - (ACTIVE を例に引かれるのは非常に迷惑)
+# - "真正の同意" 条件の検討など。 (政府 TF6 資料 4)
+# DoS (Denial of Service, アクセス集中方式)
+# - 出版社だけでもISPだけでも、できることではない。
+# - 民間の取組で素早く動けるなら、そちらのほうが海賊版対策として適切かもしれない。
+# - 政府の検討状況は、 ISP 側と権利者側との話し合いの場を作る基礎作りに向かっているのか不明。
+# - 出版社が、協力関係を作るために何をしてきたのかというと不十分。
+# - 権利者側を呼ぼうとしても、登場するのは音楽側など。出版社側は顔を出してくれない。
+# - プロ責法の信頼性確認団体に出版社の団体がまるで入ってない。
+# 漫画家も参加。
+# - 政府 TF に漫画家が入っていない。 (第 2 回でゲストに 1 名呼ばれたのみ)
+# - 漫画家唯一の業界団体から来た私が「ブロッキングだめでしょ！」と言ったら議論が終わってしまうかも。 (日本漫画家協会)
+# - 漫画村類似の仕組みを自分たちで作るとか。 (クランチロール？)
+# - 自由に考える環境などが保証された環境でないと産まれづらくなる。 (作品)
+# 出版社も参加。 (竹書房)
+# - この業界、大手4社で8割程度の売上を占める。 (当社は 10 位くらい)
+# - 業界他社との連携はできていない。
+# - 漫画村の影響は、売上2割減。 (因果関係の説明は難しい)
+# - 閉鎖後、売上は急回復。
+# - 1 年続いたら倒産の危機だった。
+# - 作家さんには最低でも月 20 万は払ってあげたい。 (2 割減だと 16 万)
+# - それ以下になるとなかなか生活できなくなってしまい、廃業されてしまう。
+# 情報理工学部教授も参加。 (立命館大学)
+# - ブロッキングは、私もやってはならないとの立場。
+# - やってしまうと止められなくなるタイプの政策。
+# - 入れたあと、はずす論理が見出しがたい。
+# - DNS over HTTPS の流れ、これは止まらないと思われる。
+# - だんだん対策として意味が薄くなってくるタイプの対策。 (ブロッキング)
+# - 法制化してしまうと、 ISP は効果がないにもかかわらず設備を維持する必要がある。
+# - フィルタリングとブロッキングは、ジャッジを手元の端末でするのと外のサーバでするは違いが大きい。
+# - プロバイダがログを残していくと、監視につながりそう。
+# 客員研究員も参加。 (国際大学 GLOCOM)
+# - ネットにおける法の執行をどう考えるかを、議論すべき。
+# - ブロッキングなんて犯人を逮捕してサイトをテイクダウンする、で簡単に対策できる話。
+# - クラウドフレアを届出違反で罰金を課すこともできる。
+# - 行政で対応できることがたくさんあるのに、何もやっていない。
+# - CODA の海賊版被害額を、政府が鵜呑みにしたことを批判している。 (3000 億円)
+# - クラウドフレアを総務省が呼び出せば同社は日本の法務担当者を置くだろうし、相手ができれば状況が改善していくのでは。
+# 政府 TF に漫画家がいないのは、批判が懸念されたのか断られたと聞いている。 (事務局)
+# DNS ブロッキングは 5 年の時限でやるという話もある。
+# 損害賠償は、著作権法の推定規定で計算。 (実際の市場影響と違う)
+# 3000 億は裁判で使えない。
+# EU ではブロッキングを導入している国が多い。 (28/42 は EU 。15年間実績なしは 15)
+# ブロッキングは 42 の国で導入済み。 (TF 事務局資料)
+# EU 情報社会指令（2003）8条3項に基いて、各国の法整備がいる。 (28/42 が EU)
+# EU 各国のブロッキングは、 15/28 で 15 年間実績なし。 (法整備してないかも)
+# 漫画村問題の前に、FreeBooksというサイトもあった。 (2016 年末に開設、漫画村閉鎖で回復)
+# 漫画村は、約半年で8000万人がアクセス。
+# 海賊版の構造。
+# - リーチサイト
+# - P2P
+# - オンラインリーディング
+# 閉鎖後はリーチサイトが復権。
+# Torrent は依然としてアクセス大。 (P2P)
+# 第二の漫画村といえるサービスも登場。 (月間訪問者数 241 万人、日本からのアクセスは 44.45% 、サーバーはオランダ所在)
+# ブロッキングはありえないだろう、という反応も出版界にあった。
+# ブロッキングは法整備 + 司法判断が必須、それ以外にはあり得ない。
+# 映画は、映画会社が権利者。
+# 音楽は、JASLAC 。 (隣接権)
+# 出版社は、雑誌を除き基本的に自らが権利者でない。 (権利者は作家)
+# 業界団体による正規版の配信サイトの認定マーク付与を、今秋から始めることになってる。 (Apple, Amazon, Google も参加予定)
+# 海賊版サイトは、ほぼリーチサイト。
+# リーチサイトが著作権侵害かは、明らかでない。
+# 大規模海賊版サイトは、クラウドフレア対策で足りるのでは。 (ほぼクラウドフレア)
+# プロバイダ責任法が、米国 DMCA と比べ使いづらい。
+# ブロッキングに行くのではなく、プロバイダ責任法を見直すべきでは。
+# 著作権法、プロバイダ責任法、広告規制、フィルタリング等の見直しをする時間をブロッキングに費やしてしまっているのでは。
+# フィルタリングサービスは、すでに著作権侵害サイトも対象。
+# "おそれ" でも対象にできるので、迅速な対応が可能。
+# 青少年インターネット環境整備法で義務化されているフィルタリングで、低年齢層の閲覧はだいたい防げる。
+# "犯罪者どうするの？" っていう話が、全く出ていない。
+# 広告やアップロードからも、追っかけられる。
+# まとめて調査しているところがない。
+# アクセス警告方式に反対。
+# - 約款による同意は、つじつま合わせ。
+# - 警告を表示するのは監視。
+# - 動画ダウンロード違法、静止画は見るだけで違法にできるの？
+# アクセス警告方式でいくくらいなら、法定・司法型ブロッキングの方がいい。
+# 通信の秘密にかかわるからこの方法をとるのだ、という整理を。
+# 通信の秘密とかかわらないという整理は許されない。
+# 通信の秘密にあたる前提ならブロッキング賛成、という毒饅頭を投げられた。 (意見保留)
+# アクセス警告方式よりブロッキングがまし、という意見は受け入れられない。
+# 通信の秘密が著作権に劣後することを認めることになる。
+# 漫画村は、摘発できた可能性がある。
+# アドネットワークの契約や、収益分配を受ける金融機関口座はいずれも日本国内と思われ、逮捕可能性はあったはず。
+# 広告収益をすべて仮想通貨でやりとりする、といったやり方ならもっと難しかったと思う。
+# 海賊版サイトについて、事実の調査・捜査をしっかりやっていたのか。
+# しないまま "できませんでした" と言ってブロッキングを入れてしまうと、某国のようになる。
+# Google とか、捜索差押令状とかには応じてくれる。
+# 海外において捜査が全くできないわけではない。
+# セントラルアクセスポイントというか、警察庁警視庁法務省、そういうところを通じての手続きとなっている。
+# サイバー犯罪条約に基づく国際捜査共助の実績を挙げられるよう尽力すべき。
+# 基本的には、全ての犯罪者は捕まるという前提で考えたほうがいい。
+# 1 年かければ捕まります、ではやっていけない出版社もある。
+# いたちごっこになっていって、最後はダークウェブに入っていくとかなってきたら元も子もない。
+# 日本の警察の能力が低いのは認めざるをえない。 (歴史的事情)
+# 漫画村その他が手を引いて、顕著に効果があったと、出版社サイドや漫画家から出ている。
+# ブロッキングは行っていないけど、それだけの収益が出た。
+# 論点がブロッキングの是非に絞り込まれてしまっているのは、そこで恰好をつけたい事務局の思惑。
+# 通信の秘密という憲法上の価値にかかわるものは、法律により権利を認め、権利者が裁判所に訴えるというやり方が基本。
+# それ以外のやり方は本筋でない。
+# 知的財産権の保護を考えるとき、他の手段がないときは、ブロッキングもできるように法は設立しておいた方が良い。
+# 通信の秘密に触れる場合は何が何でもブロッキングはダメ、となるのもおかしい。
+# 一番重要で出版社がやってこなかったこと、 "作家に説明をしていない" ということ。
+# 作家が偉くなればなるほど、出版社の立場は非常に弱くなる。
+# 出版社の行動の裏側には、大物作家からの突き上げもある。
+# 出版社は一般に団体行動が苦手で、業界を挙げての協力体制を整えられるかどうか。
+# 本当に権利者・通信業者双方の協力体制をとりたいなら、ブロッキング議論はいったん棚上げにする必要あり。
+# 出版社側は、なんらかの形で代表者団体をつくってほしい。
+# 表現の自由にもかかわるイデオロギー的なテーマであり、取りまとめるのは困難であり時間がかかる。 (努力する)
+# 作者の意見はばらばら。
+# 出版社からの説明もないし、売れている人とそうでない人とでも断絶ある。
+# 法的手法も否定しないが、司法を通じて手続きをやると時間・コストかかる。
+# 自主的な取り組みのほうが早いし、他の分野では実績あり。 (音楽？)
+# 漫画村と出版社と作家が組むっていう方向性もあった気がする。
+# 漫画村から組みたいというオファーがあったかどうかはちょっと知らない。
+# 漫画村の収益はたいしたことないと思われ、仮に組むと売り上げは大幅に落ちる。
+# 漫画村はあまり儲かっていないという話があったが、それは違法サイトだから。
+# 広告をちゃんと出すなどして、適法な形でどんどん伸びていけば、違ったものが見えたのでは。
+# 未成年が漫画を合法で購入する方法ってある？ (電子書籍とか)
+# クレジットカード持ってない、銀行口座持っていない。 (コンビニで買えるプリペイドなら？)
+# インターネットの進化により、既存の経路であるメディアは脅かされる。
+# 既存のビジネス構造を壊したくないというのが基本的な構図。
+# 著作権産業というのは、著作権を守るメディアを握っているところが強い。
+# インターネットで定額読み放題とかしだしたら、出版社としての形態を変えざるを得なくなる。
+# "海賊版サイト対策検討会議 議事進行の不公正さについて" (タイトル)
+# - 政府 TF は、米 SOPA 法案に全く触れていない。 (Stop Online Piracy Act, オンライン海賊行為防止法)
+# - 米は、ブロッキングをメインにする法案がボツになった。
+# - アメリカ、オーストラリア、韓国、ドイツ、イギリスの、ブロッキングに関する法案の例を話して終わりだった。 (TF 3,4)
+# - SOPA 立法時の議論が、日本と類似の議論になっている。
+#   言論の自由に対する打撃となることが指摘されていた。
+#   そしてオバマ政権が不支持を表明し、立法されず。
+#   (permissionless innovation, "誰からの許可もいらないイノベーション" のため)
+# - 福井弁護士も事務局に対し、SOPA について報告を求めていたことがわかった。
+# - ブロッキングありきで進んでいるようにしか思えない。
+# - 2 つだけ他に方法がある。
+#   CDNを訴える、広告を止める。
+#   いずれも詳細は落とし込まれていない。
+# - ブロッキング以外の方策も検討され、他に有力な方法も提示された。
+#   ブロッキングに代わる方策となるほど議論が煮詰まらなかった。
+# - ブロッキングのプロ・コン整理はきちんとされなかった。
+#    第 1 回からその姿勢が顕れていた。
+# - 韓国、ブロッキングはあまりしていない。
+#   ここを見るのは良くないという徹底したキャンペーンを行なっている。
+#   戦時下の韓国ですらここまで行なっている。
+# - 総合政策パッケージと言いながら、政府 TF 事務局から出てくるのは結局ブロッキングばかり。
+# - ブロッキング対象になるサイト、実際どの程度？
+#   そんなところにリソースを割くべきではない。
+# - 今はブロッキング以外では止まらないサイトが多い。
+#   (例示なし、政府の指定っぽいサイトはブロッキングなしで停止したけど？)
+# - ブロッキング乱暴だなと思っている。
+#   政府がそのように言い出さなければ、協力体制作れて、いい方向に向かったかもしれない。
+# - プロバイダ側に負担を押し付ける仕組みは、ブロッキングだけではない。
+#   すでにプロバイダ責任法上の発信者情報開示という形で存在している。
+# - ブロッキングが是か非かは別の話であって、ブロッキングをすべきとなったら時間をかけてでも立法すべき。
+# - 司法型ブロッキングをする必要があるとすれば、匿名訴訟が必要になってくる。
+# - 政府TF 6 回目の事務局資料をみると、まともになってきた印象。 (序盤は不安になったらしい)
+# - ウォーターマーキング。
+#   非常に有効な手法だと思う。
+# - フィンガープリンティングをきちんとする制度を整えるのが先。
+# 財産権と人格権の区別と優劣は、そんなに簡単に動かせるものではない。
+# ブロッキングが最後の手段というところにコンセンサスがないので立法に向かえない。
+# 業界としては、一つでも有効な手段が欲しい。
+# 中間とりまとめ案に、プロバイダ責任法見直しが書かれていないのが不満。
+# 4月の政府方針で信頼関係が崩れ、事務局がそれを是正しなかった。
+# 今流れている海賊版をどうするのかという視点も。
+# 作家との間で契約書すらない場合があるという、業界慣行から治していかなければならない。
+# CDN にもアプローチし、対策の限界がどこにあるのか探る必要。
+# 自由にイノベーションを作っていける仕組みは守りつつ、きちんと着地点を見定めないといけない。
+# クラウドフレアを訴えていた。アメリカでも。でも、和解してしまった。
+# 国民の理解がないと、警察これ以上強くなれない。
+# 犯罪者と手を組むのはいけないけど、アイデア自体を活用すべき。
+# 音楽などは聞き放題みたいに、海賊版より使いやすくてコンテンツが多いものを作ってそちらに流れるように願ってる。
+# ブロッキングは海賊版だけの問題ではなく、インターネット上の自由、秩序、正当な利益実現にかかわる問題。
 # (サマータイムこわい)
+#
+# 「サイトブロッキングを巡る立法上の諸課題」 ―EUの動向と日本法への示唆― (2018/11/28)
+# 明治大学知的財産法政策研究所が主催。 (IPLPI)
 
 # モバイル市場の公正競争促進に関する検討会 1~5 (2017/12/25~2018/04/09 総務省)
 # モバイル市場の公正競争促進に関する検討会報告書の公表 (2018/04/27 総務省)
@@ -648,6 +846,7 @@
 # 国内のサービスが、まとめて Facebook の二の舞を演じるかも。
 # [[http://www.information-bank.net/][Information Bank Consortium]] (国際連携？)
 # [[https://www.nikkei.com/article/DGXMZO3306303017072018MM8000/][... 三菱ＵＦＪ信託銀行は2019年にも、 ... 「個人データ銀行」を始める方針を固めた。 ...]] (信託銀行が第三者の利益のために？、日本経済新聞、 2018/07/17)
+# [[https://tech.nikkeibp.co.jp/atcl/nxt/news/18/02511/][電通グループが「情報銀行」参入、消費者の承諾得て企業に個人情報提供]] (日経 xTECH, 2018/09/03)
 
 # 携帯電話市場の競争政策上の課題について 1 (2016/08/02 公正取引委員会)
 #
@@ -730,50 +929,40 @@
 
 ** ソフトバンク
 
-|                   |  1GB |  2GB |  3GB |  5GB | 20GB | 50GB |
-|-------------------+------+------+------+------+------+------|
-| データ定額        | 3200 | 3800 |      | 5300 | 6300 | 7300 |
-| おてがる (従量制) | 1480 | 2480 | 3480 |      |      |      |
-# ウェブ使用料を含む。 (+300)
-#
-# おてがるプランは 2 ヶ月で終了予定。 (2018/06/29~2018/09/05)
-# 対象機種を限定してる。
-# パケットとスマホの料金を、分離したくないらしい。
-#
-# 総務省での値下げ議論に備えて、あらかじめパケットを値上げ？ (2018/09/06~)
-# |                           |  1GB |  2GB | 5GB    | 50GB   |
-# |---------------------------+------+------+--------+--------|
-# | ミニモンスター (従量制)   | 2780 | 4780 | *6280* | 7280   |
-# | ギガモンスター＋ (定額制) |      |      |        | *6280* |
+|                           |  1GB |  2GB | 5GB    | 50GB   |
+|---------------------------+------+------+--------+--------|
+| ミニモンスター (従量制)   | 2780 | 4780 | *6280* | 7280   |
+| ギガモンスター＋ (定額制) |      |      |        | *6280* |
 # ウェブ使用料を含む。 (+300)
 # パケットとスマホの料金は、分離される。 (2 年縛りなしを除く)
+# 音声通話なしにはできない。
+# 総務省での値下げ議論に備えて、あらかじめパケットを値上げ？ (2018/09/06~)
+# 機種変更なしの受け付けはまだ。 (2018/11/01~)
 #
 # ゼロレーティングを導入。 (2018/09/06~)
-# パケットを節約したい人は対象外。
+# 従量制でパケットを節約したい人は、対象外。
 # (総務省でこれから議論されるネット中立性に、話題を投下？)
 # [[https://k-tai.watch.impress.co.jp/docs/news/1140494.html][ソフトバンク副社長の榛葉氏に聞く、“ノーカウント”プランの背景や是非]] (... 「ギガノーカウント」について ... 網内でのデータ圧縮を行うのか ... コメントは控える ... 具体的にどうやって判別しているのか。DPI（Deep Packet Inspection）などか ... 「識別子」を見ながらということになる。それ以上のコメントは控えたい ... ネットワーク中立性の観点から問題もあるのでは ... 事前に総務省にも確認 ..., Impress, 2018/08/29)
 
-音声通話定額のスマ放題は +4200 円。 (2 年縛りなし)
-ホワイトプランと標準プランは、音声通話定額なし。
+音声通話に +3900 円。 (2 年縛りなし、 30 秒で 20 円)
+追加料金の +1500 円で定額になる。
 パケット通信なしにはできない。
-# 定額制のスマ放題は、新規受け付けを終了予定。 (~2018/09/05)
+# ホワイトプランと標準プランは、新規受け付けを終了。 (~2018/06/27)
+# 定額制のスマ放題は、新規受け付けを終了。 (~2018/09/05)
 #
 # 従量制の通話基本プランになる。 (30 秒で 20 円、 2018/09/06~)
-# 音声通話定額を外せる。
-# |                | 従量制 | 5 分定額 (+500)    | 定額制 (+1500)     |
-# |----------------+--------+--------------------+--------------------|
-# | 2 年縛りなし   |   3900 | 4400 (110 分相当)  | 5400 (135 分相当)  |
-# | 2 年後解約自由 |   1500 | 2000 (50 分相当)   | 3000 (75 分相当)   |
-# | 2 年縛り継続   |   1200 | 1700 (42.5 分相当) | 2700 (67.5 分相当) |
-# (パケット通信なしにできる？)
+# 音声通話定額はオプション。
+# パケット通信なしにはできない。
+# |                | 従量制 | 5 分定額 (+500)     | 定額制 (+1500)     |
+# |----------------+--------+---------------------+--------------------|
+# | 2 年縛りなし   |   3900 | 4400 (5x22 回相当)  | 5400 (135 分相当)  |
+# | 2 年後解約自由 |   1500 | 2000 (5x10 回相当)  | 3000 (75 分相当)   |
+# | 2 年縛り継続   |   1200 | 1700 (5x8.5 回相当) | 2700 (67.5 分相当) |
 
-1GB のプランでも *月額 7400 円* 以上になる。
-2 年後解約自由なら月額 6200 円。
-2 年縛りを継続して月額 5900 円が最安。
-# 1GB のプランでも *月額 6680 (8180) 円* 以上になる。
-# 2 年後解約自由なら月額 4280 (5780) 円。
-# 2 年縛りを継続して月額 3980 (5480) 円が最安。
-# (カッコ内は音声通話定額での料金)
+1GB のプランでも *月額 6680 (8180) 円* 以上になる。
+2 年後解約自由なら月額 4280 (5780) 円。
+2 年縛りを継続して月額 3980 (5480) 円が最安。
+カッコ内は音声通話定額での料金。
 
 5GB 以上のプランなら、パケットの繰り越しは翌月まで。 (100MB 単位)
 その月のパケットを使い切らないと、繰り越し分を使えない。
@@ -810,6 +999,16 @@
 # 2016/09/05 [[https://www.softbank.jp/corp/news/press/sb/2016/20160905_01/][ARM買収（子会社化）の完了に関するお知らせ]] (GBP24 billion は、当時 3.3 兆円くらい)
 # 2017/08/09 LINE のソフトバンク公式アカウントと My SoftBank アカウントを連携。
 # 2017/09/22 eSIM プラットフォームを提供開始。
+# 2017/09/25 みずほ銀行と合弁の J.Score で、消費者金融を開始。
+#            質問に答えると信用スコアを見せて、借りることができる上限金額や利率が決まる。 (借りなくてもいい)
+#            アプリを使っても、追跡されて信用スコアの精度が高くなるだけ。
+#            お金を借りたら、収集してる情報を目的外利用したり第三者提供してくれるらしい。 *(!?)*
+#            [[https://www.jscore.co.jp/company/wp-content/themes/JScore/data/privacy.txt][個人情報の取扱いについて]] (アプリのプライバシーポリシー)
+#            [[https://www.jscore.co.jp/privacy_terms/][個人情報の取扱いに関する規約]] (レンディング規約、 2018/07/11)
+#            Yahoo! Japan のアカウントと、情報連携を開始。 (2018/06/21)
+#            J.Score アプリを提供して、スマホから情報収集を開始。 (2018/07/12)
+#            Y!mobile のアカウントと、情報連携を開始。 (2018/08/09)
+#            (情報連携を増やして、社会信用システムを兼ねた情報銀行を作ってる？)
 # 2018/02/22 LINE からパケットを追加購入できるようになった。
 # 2018/04/01 バーコード決済を開始。
 #            "Yahoo! Japan" アプリで、税金や公共料金を支払い。
@@ -944,6 +1143,10 @@ au が売ったスマホ以外だと、 LTE NET for DATA の申し込みがい�
 # 2020 年に CDMA2000 (3G) を捨てたいみたい。
 # Android で CDMA2000 を使えるスマホは少なくなってる。
 # iPhone も 8/8Plus, X からは、 CDMA2000 に対応してるけど 3G を使えない。
+#
+# これからは SIM フリースマホも扱うのかしら？
+# au と契約してない人も買える。 *(!?)*
+# まだ BlackBerry KEY2 のみ。 (2018/09/07~)
 #
 # 3G の新規受け付けは、終了予定。 (2018/11/07)
 # [[http://news.kddi.com/kddi/corporate/newsrelease/2018/07/20/3274.html][「CDMA 1X WIN」サービスの新規受付終了について]] (KDDI, 2018/07/20)
@@ -1361,7 +1564,7 @@ au 回線だと、音声通話には au VoLTE 対応のスマホがいる。
 # 2018/04/02 LINE モバイルがソフトバンクの子会社になった。 (第三者割当増資と業務提携)
 # 2018/04/30 F-mobile がサービス終了。
 # 2018/07/19 LINE モバイルが SIM ロックされた iPhone SE を販売。 (ソフトバンク回線向け)
-# 2018/09/04 mineo が現在の大手キャリア 3 回線の取り扱いを開始予定。 (MNO に直接接続で個人向けは国内初)
+# 2018/09/04 mineo が現在の大手キャリア 3 回線の取り扱いを開始。 (MNO に直接接続で個人向けは国内初)
 
 ** wjroc (ヌノス寸)
 
@@ -1398,7 +1601,8 @@ au 回線だと、音声通話には au VoLTE 対応のスマホがいる。
 #            Google Play の料金が、 mineo の請求といっしょになる。
 # 2018/07/01 エココースのトライアル開始。 (~2018/08/31)
 # 2018/08/16 [[http://www.k-opti.com/press/2018/press38.html][eoIDに対する不正なログインについて]]
-# 2018/09/04 ソフトバンク回線を開始予定。 (S プラン)
+# 2018/09/04 AI チャットサポートを開始。 ("マイちゃん")
+# 2018/09/04 ソフトバンク回線を開始。 (S プラン)
 #            [[http://www.k-opti.com/press/2018/press35.html][「mineo」ソフトバンク回線を利用したSプラン提供開始！]] (... 業界初のトリプルキャリアMVNOになった ..., 2018/07/23)
 #            [[https://twitter.com/IIJ_doumae/status/1021377684083945474][弊社も3キャリアと直接L2接続してた時期があるんですよ… docomo, au(KDDI), emobile→Y!mobile→SoftBank]] (@IIJ_doumae, 2018/07/23)
 # 2018/09/末 通信の最適化を解除できるようになるらしいけど、デフォルトはどっち？
@@ -1751,7 +1955,7 @@ au 回線にだけ、従量制のエコプランがある。 (SMS 付き)
 #            同じ回線なら解除なしでも使える、これまでのプリペイド SIM も提供を続けるみたい。
 # 2018/04/?? ITU-T Study Group 3 加入。
 # 2018/08/18 [[https://twitter.com/IIJ_doumae/status/1031378962667077632][... 東京ドームで ... ホームランが ... IIJの看板直撃はこれで2回目 ...]] (@IIJ_doumae)
-# 2018/08/30 個人向けのフル MVNO 開始予定。 (IIJmio IoTサービス)
+# 2018/08/30 個人向けのフル MVNO 開始。 (IIJmio IoTサービス)
 # 2019/春?   eSIM プラットフォーム開始予定。
 
 ** LINE モバイル
@@ -1781,6 +1985,9 @@ LINE のビデオ通話は、なぜかデータフリーの対象になってる
 # カウントフリーは、データフリーに変わった。 (2018/07/02)
 # ソフトバンク回線も、データプレゼントやデータフリーの対象になった。 (2018/08/30)
 # (ソフトバンクの子会社になって、 NTTCom の登録商標を使えなくなった？)
+#
+# データフリーの設定漏れで、パケットを補填。 (2018/08/30~2018/09/06)
+# [[http://mobile-blog.line.me/archives/28470241.html][【お詫び】一部SNSにおいてデータフリーが機能しておりませんでした。]] (LINE MOBILE 公式ブログ、 2018/09/10)
 
 パケットの繰り越しは翌月まで。 (1MB 単位?)
 翌月は繰り越し分のパケットから利用できる。
@@ -2268,7 +2475,7 @@ Apple 機器専用。
 Instagram のアカウントや連絡先を同期したあげく、公開しちゃう機能がある。 (間違えてタップするだけ)
 # Opus, iSAC, ISAC Low Complexity
 # Opus or G.711 (browser)
-# Signal Protocol
+# Signal Protocol (Secret Conversations, "秘密のスレッド")
 # M Translations (marketplace, suggestions bot, F8 2018)
 # Aloha? (Voice Assistant)
 #
@@ -2509,6 +2716,8 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 # 2018/07/13 Hillary Clinton 陣営を攻撃してメールを暴露したことで、露情報機関の 12 人を起訴。 (WikiLeaks に流した？)
 #            米大統領の元選対本部長たちも。
 #            (GRU: Главное Разведывательное Управление, ロシア連邦軍参謀本部情報総局)
+# 2018/07/17 コンテンツを見分けるトレーニングへの、潜入取材が放送された。 (英 Channel 4)
+#            過激なものを、わざと残すようにしてた。
 # 2018/07/17 Facebook の政治広告で、広告費が最大なのは米大統領。 (NYT)
 # 2018/07/17 米議会下院で、 Monika Bickert が証言。 (Facebook のグローバルポリシー管理責任者)
 #            (Twitter と Youtube も証言)
@@ -2537,8 +2746,10 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            Google や Amazon も含めた、いろんなとこが銀行と協議中。 (医療機関も？)
 #            (Facebook が扱えない情報をなくして、プライバシーを社会的に殺す予定を CEO は撤回してないから？)
 # 2018/08/09 表現の自由に、例外を提示。
-#            人を危険にさらしたり、だましたりしてると削除されるらしい。 (身体的、経済的なもの)
+#            人を危険にさらしたりだましたりしてると、アカウントごと削除されるらしい。 (身体的、経済的なもの)
 #            陰謀論の Infowars は削除済み。 (Apple, Youtube, ..., 2018/08/05)
+#            少数派のイスラム系ロヒンギャ族の虐殺が報告されて、ミャンマー軍司令官たちを削除。 (国連、 2018/08/27)
+#            (アカウントを削除して見えなくするのは、軍のやり方と同じだって批判もある)
 # 2018/08/10 ページ機能での公開に、許可がいるようになる。 (Page Publising Authorization)
 #            アカウントの二要素認証と、位置情報が必須。 (まだ米で読んでる人が多いとこだけ)
 # 2018/08/17 Messenger を盗聴するための協力を拒んだとして、裁判になってた。 (Reuters)
@@ -2564,12 +2775,27 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            (ウイルス感染を警告して、インストールさせようとしてたこともある？)
 # 2018/08/31 最初に学習させるデータがいらない、機械翻訳を実装して公開。 (オープンソース)
 #            ([[https://github.com/facebookresearch/UnsupervisedMT][Unsupervised Machine Translation]])
-# 2018/09/01 元選対本部長のロビイスト仲間が司法取引に応じて、大統領の就任式に外国の資金が支払われたと証言。
+# 2018/09/01 元選対本部長のロビイスト仲間が司法取引に応じて、米大統領の就任式に外国の資金が支払われたと証言。
 #            (FARA: Foreign Agents Registration Act, 外国代理人登録法)
 # 2018/09/01 米と EU のプライバシーシールドは、失効するかも？
 #            標準データ保護条項 (SDPC) や拘束的企業準則 (BCR) を結ぶ？
 #            (Standard Data Protection Clauses, Binding Corporate Rules)
-# 2018/09/05 米上院で Sheryl Sandberg が証言する予定。 (Facebook COO, Twitter, Google)
+# 2018/09/03 国連人権理事会の人から、テロリズムの定義が広すぎると指摘された。
+#            (米は国連人権理事会を離脱してた、 2018/06/19)
+# 2018/09/04 FCC 委員長が、新しい規制を提案してる。 (FCC blog)
+#            削除とかに透明性を求める？
+#            (ネット中立性を廃止する側の、中心だった人)
+# 2018/09/05 米上院で Sheryl Sandberg が証言。 (Facebook COO, Twitter CEO)
+#            - 米政府の情報やツールも使いたい。 (機密情報へのアクセス権？)
+#            - 3~4% は偽アカウントっぽい。
+#            - ディープフェイクに言及。 (AI による精巧な偽動画)
+#            (Google と Alphabet の CEO は拒否)
+# 2018/09/07 米大統領選挙中の外交顧問が、偽証罪で禁固刑。 (WA 地裁)
+#            対立候補に不利な情報のことで会談した時期について、捜査で虚偽の証言をしたのは認めてた。 (メールのこと)
+# 2018/09/10 EU 議会で、新しい著作権指令の再投票。
+# 2018/09/25 米司法省で会合の予定。 (Washington Post)
+#            米政府が、言論の自由と報道の自由を規制したがってる？ (米合衆国憲法修正 1 条)
+#            (米大統領の意向によるもの？)
 # [[https://newsroom.fb.com/news/2012/02/helping-improve-the-mobile-web/][Helping Improve the Mobile Web]] (2012/02/27)
 # [[https://www.ftc.gov/enforcement/cases-proceedings/092-3184/facebook-inc][In the Matter of Facebook, Inc., a corporation]] (2012/08/10)
 # [[https://ec.europa.eu/digital-single-market/en/modernisation-eu-copyright-rules][Modernisation of the EU copyright rules]] (2016/09/14)
@@ -2578,7 +2804,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 # [[https://twitter.com/realDonaldTrump/status/913034591879024640][Facebook was always anti-Trump. ...]] (@realDonaldTrump, 2017/09/27)
 # [[https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180SB313][Bill Text  - SB-313 Advertising: automatic renewal and continuous service offers.]] (2017/09/28)
 # [[https://newsroom.fb.com/news/2017/12/managing-your-identity-on-facebook-with-face-recognition-technology/][Managing Your Identity on Facebook with Face Recognition Technology]] (2017/12/19)
-# [[https://medium.com/@chronic_9612/notes-on-analytics-and-tracking-in-onavo-protect-for-ios-904bdff346c0][Notes on Analytics and Tracking in Onavo Protect for iOS]] (Will Strafach, 2018/03/05)
+# [[https://medium.com/@chronic_9612/notes-on-analytics-and-tracking-in-onavo-protect-for-ios-904bdff346c0][Notes on Analytics and Tracking in Onavo Protect for iOS]] (Will Strafach, 2018/03/05)
 # [[https://newsroom.fb.com/news/2018/03/suspending-cambridge-analytica/][Suspending Cambridge Analytica and SCL Group from Facebook]] (2018/03/16)
 # [[https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html][How Trump Consultants Exploited the Facebook Data of Millions]] (NYT, 2018/03/17)
 # [[https://www.ftc.gov/news-events/press-releases/2018/03/statement-acting-director-ftcs-bureau-consumer-protection][Statement by the Acting Director of FTC’s Bureau of Consumer Protection Regarding Reported Concerns about Facebook Privacy Practices]] (2018/03/26)
@@ -2616,6 +2842,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 # [[https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2018/07/findings-recommendations-and-actions-from-ico-investigation-into-data-analytics-in-political-campaigns/][Findings, recommendations and actions from ICO investigation into data analytics in political campaigns]] (UK ICO, 2018/07/10)
 # [[https://socialscience.one/blog/social-science-one-public-launch][Social Science One: Public Launch]] (SSO, 2018/07/11)
 # [[https://www.justice.gov/opa/pr/grand-jury-indicts-12-russian-intelligence-officers-hacking-offenses-related-2016-election][Grand Jury Indicts 12 Russian Intelligence Officers for Hacking Offenses Related to the 2016 Election]] (DOJ, 2018/07/13)
+# [[https://www.channel4.com/info/press/news/dispatches-investigation-reveals-how-facebook-moderates-content][Dispatches investigation reveals how Facebook moderates content]] (Channel 4, 2018/07/17)
 # [[https://www.nytimes.com/2018/07/17/technology/political-ads-facebook-trump.html][The Biggest Spender of Political Ads on Facebook? President Trump]] (NYT, 2018/07/17)
 # [[https://www.buzzfeednews.com/article/ryanmac/congratulations-zuckerberg-call-trump-election-2016][Congratulations, Mr. President: Zuckerberg Secretly Called Trump After The Election]] (BuzzFeed, 2018/07/19)
 # [[https://datatransferproject.dev/][Data Transfer Project]] (DTP, 2018/07/20)
@@ -2633,7 +2860,12 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 # [[https://news.umich.edu/fake-news-detector-algorithm-works-better-than-a-human/][Fake news detector algorithm works better than a human]] (University of Michigan, 2018/08/21)
 # [[https://newsroom.fb.com/news/2018/08/update-on-app-investigation/][An Update on Our App Investigation]] (2018/08/22)
 # [[https://www.zdnet.com/article/facebook-removes-onavo-vpn-from-app-store-over-privacy-violations/][Facebook's Onavo VPN app removed from Apple App Store over privacy concerns]] (ZDNet, 2018/08/23)
+# [[https://newsroom.fb.com/news/2018/08/removing-myanmar-officials/][Removing Myanmar Military Officials From Facebook]] (2018/08/27)
 # [[https://code.fb.com/ai-research/unsupervised-machine-translation-a-novel-approach-to-provide-fast-accurate-translations-for-more-languages/][Unsupervised machine translation: A novel approach to provide fast, accurate translations for more languages]] (phrase-based model, 2018/08/31)
+# [[https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=23494&LangID=E][UN human rights expert says Facebook’s ‘terrorism’ definition is too broad]] (OHCHR: Office of the United Nations High Commissioner for Human Rights, 2018/09/03)
+# [[https://www.fcc.gov/news-events/blog/2018/09/04/what-i-hope-learn-tech-giants][What I Hope to Learn from the Tech Giants]] (Ajit Pai, FCC blog, 2018/09/04)
+# [[https://apnews.com/5b4683066ea54b45be54a8019226ee1d][The Latest: Trump celebrates 14-day sentence for former aide]] (AP, 2018/09/07)
+# [[https://www.washingtonpost.com/technology/2018/09/05/justice-department-consider-allegations-censorship-facebook-twitter/][Justice Department warns tech companies as Facebook and Twitter defend themselves in Congress]] (Washington Post, 2018/09/07)
 
 *** WhatsApp (WhatsApp)
 
@@ -3035,7 +3267,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://www.cnbc.com/2018/02/13/chinas-hauwei-top-us-intelligence-chiefs-caution-americans-away.html][Six top US intelligence chiefs caution against buying Huawei phones]] (Senate Intelligence Committee: 米上院情報委員会, 2018/02/13)
 # [[https://money.cnn.com/2018/08/03/technology/democratic-national-committee-zte-huawei/index.html][DNC warns candidates: Don't use ZTE or Huawei phones]] (CNN, 2018/08/03)
 # [[https://www.congress.gov/bill/115th-congress/house-bill/5515/text][H.R.5515 - National Defense Authorization Act for Fiscal Year 2019115th Congress (2017-2018)]] (Became Law, 2018/08/13)
-# [[https://www.kommersant.ru/doc/3718739][Роутерам выпрямляют маршрут]] (露でも検討中？、 Huawei, ZTE, Cisco, D-Link, NEC, ..., Коммерсантъ, 2018/08/20)
+# [[https://www.kommersant.ru/doc/3718739][Роутерам выпрямляют маршрут]] (露でも検討中？、 Huawei, ZTE, Cisco, D-Link, NEC, ...?, Коммерсантъ, 2018/08/20)
 # [[https://twitter.com/HuaweiOZ/status/1032411216184930304][... Huawei & ZTE have been banned from providing 5G technology to Australia. ...]] (豪のキャリアは 5G 回線への導入が禁止された、 @HuaweiOZ, 2018/08/22)
 # [[https://www.sankei.com/politics/news/180826/plt1808260002-n1.html][中国通信機器２社を入札から除外　日本政府方針　安全保障で米豪などと足並み]] (産経ニュース、 2018/08/26)
 # [[https://www.bloomberg.com/news/articles/2018-08-28/huawei-asks-ftc-for-help-as-smartphone-maker-fights-restrictions][Huawei Asks FTC for Help as Smartphone Maker Fights Restrictions]] (Huawei が FTC の公聴会に参加する、 Bloomberg, 2018/08/28)
@@ -3119,6 +3351,14 @@ OCN モバイル ONE との SIM 契約なしで使える。
 #            (DFS: Directorate for SIGINT, SIGINT: SIGnals INTelligence, 防衛省情報本部電波部)
 # 2018/03/20 TLS 1.3 が承認された。 (IETF: Internet Engineering Task Force)
 #            やっと RSA 鍵交換を投げ捨てた。
+# 2018/08/29 Five Eyes が、豪で会合。
+#            諜報活動も合法なので、データが手に入らなかったり読めないのはおかしいと主張してる。 (意訳)
+# 2018/09/04 Apple が米上院議員宛てに、お手紙を送った。 (Reuters)
+#            年末までには、各国の法執行機関向けにオンラインツールを提供するらしい。 (諜報機関にも？)
+#            データ提供を要請できて、執行されてない要請と提供されたデータがわかるとか。(これまでは E-mail でやりとりしてた)
+#            ついでに、透明性レポートが自動生成できるのかも。
+#            米戦略国際問題研究所で、証拠が集めにくいとか文句を言われてきたみたい。 (CSIS, 2018/07/25)
+#            (ツールを介さない要請を拒否するのかしら？スマホとかの暗号やロックも解除？)
 # [[https://edwardsnowden.com/wp-content/uploads/2017/10/SPFSIGDEVTrainingforJapanApril2013-v1-0-Redacted.pdf][(S/REL) Request for ADET SIGDEV Materials to be Used for Training the Japanese Directorate for SIGINT Personnel]] (2013/04/08)
 # [[https://www.theguardian.com/world/2013/jun/06/us-tech-giants-nsa-data][NSA Prism program taps in to user data of Apple, Google and others]] (Guardian, 2013/06/06)
 # [[https://www.theguardian.com/world/2013/jun/09/edward-snowden-nsa-whistleblower-surveillance][Edward Snowden: the whistleblower behind the NSA surveillance revelations]] (Guardian, 2013/06/09)
@@ -3130,7 +3370,11 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://tools.ietf.org/html/draft-ietf-tls-tls13-28][The Transport Layer Security (TLS) Protocol Version 1.3]] (IETF, 2018/03/20)
 # [[http://www6.nhk.or.jp/special/detail/index.html?aid=20180519][日本の諜報 スクープ最高機密ファイル]] (NHK, 2018/05/19)
 # [[https://theintercept.com/2018/06/25/att-internet-nsa-spy-hubs/][The NSA’s Hidden Spy Hubs in Eight U.S. Cities]] (Intercept, 2018/06/25)
+# [[https://www.csis.org/events/low-hanging-fruit-evidence-based-solutions-digital-evidence-challenge][Low Hanging Fruit: Evidence Based Solutions to the Digital Evidence Challenge]] (CSIS: Center for Strategic and International Studies, 2018/07/25)
 # [[https://www.ietf.org/blog/tls13/][TLS 1.3]] (RFC - Proposed Standard, IETF, 2018/08/10)
+# [[https://www.homeaffairs.gov.au/about/national-security/five-country-ministerial-2018/access-evidence-encryption][Statement of Principles on Access to Evidence and Encryption]] (... privacy is not absolute ..., Five Eyes, Australia, Canada, New Zealand, United Kingdom, United States, Five Country Ministerial, 2018/08/28~29)
+# [[https://www.apple.com/privacy/government-information-requests/][Privacy - Government Information Requests]] (Apple)
+# [[https://www.reuters.com/article/us-apple-data/apple-to-provide-online-tool-for-police-to-request-data-letter-idUSKCN1LM39O][Apple to provide online tool for police to request data: letter]] (Reuters, 2018/09/06)
 #
 # 軍用ドローン計画の Project Maven で、血肉も滴るいい AI パイロットを育てるかも。 (Google, Amazon, 2017/03/06)
 # 米サイバー軍を統合軍に格上げした。 (UCC: US Cyber Command, 2017/08/18)
@@ -3663,6 +3907,9 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://digitalcontentnext.org/blog/2018/08/21/google-data-collection-research/][Google data collection research]] (DCN, 2018/08/21)
 # [[https://epic.org/2018/08/following-epic-complaint-ftc-a.html][Following EPIC Complaint, FTC Acknowledges Review of Google Consent Order]] (EPIC, 2018/08/22)
 # [[https://www.bloomberg.com/news/articles/2018-08-30/google-and-mastercard-cut-a-secret-ad-deal-to-track-retail-sales][Google and Mastercard Cut a Secret Ad Deal to Track Retail Sales]] (Bloomberg, 2018/08/30)
+#
+# FBI が捜査のためにデータ提供を求めると、あとで対象のアカウントに通知することがある？
+# [[https://motherboard.vice.com/en_us/article/pawjjn/google-email-secret-fbi-investigation][Google Notifies People Targeted by Secret FBI Investigation]] (Motherboard, 2018/09/04)
 
 Android 6 なら、 15000 円以下くらい？
 Android 5 以前だと、Google によるセキュリティパッチの公開もない。 (2018/03/05 が最後)
@@ -4099,31 +4346,40 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Official QR Code Reader "Q"
 #
 # 公式 QR コードリーダー "Q" アプリは、アララ製。 (読み取りが速いので、勧めてるとこがいくつもある)
-# QR コードを開発して特許を無償にした、デンソーウェーブと共同開発してる。 (ISO/IEC 18004 のみ)
+# 特許と商標を保有するデンソーウェーブと、共同開発してる。 (ISO/IEC 18004 のみ)
+# QR コードを開発して特許を無償にしたのは、親会社のデンソー。 (ISO/IEC 18004 のみ、 1996/??/??~)
 # アプリを提供して ID を作れば、継続的にこっそり追跡できる特許を取得済み。 (不信感を与えないらしい)
 # 隠しデータの埋め込みされた QR コードと、公式アプリでこっそり追跡してる。 (シークレット方式)
 # 公式アプリじゃなくても、こっそり追跡されてる。 (短縮 URL のリダイレクト方式は避けられにくい)
 # 収集した位置情報とかは、加工なしの CSV 形式で QR コードを作った人に提供しちゃってた。 *(!?)*
-# 位置情報や ID とかの収集は、まだ続けてる。 (位置情報の提供だけはやめた)
-# 誰かが逮捕されるに違いないって、期待されてる。 (刑法 168 条 2?)
+# 盆休みの頃に、スラドへのタレコミがあった。 (2018/08/11)
+# GPS 情報の提供を、理由を説明せずにやめた。 (2018/08/27)
+# CSV 形式の提供を、理由を説明せずにやめた。 (2018/08/28)
+# アプリからは、位置情報の権限が削除された。 (2018/09/06)
+# これまでに取得した位置情報は削除する予定。 (IP アドレスの収集は続けるなら、 GPS 情報だけ？)
+# アプリで ID とかを収集するのは、続けてく。 (使うなら "ネットワーク通信を行うアプリ" から外したい)
+# 誰か逮捕されるに違いないって期待されてる。 (刑法 168 条 2?)
 # QR コードやアプリには、位置情報とかを収集されるのか見分ける方法がない。 (拒否もできない)
 # 位置情報は、 "地図のQRコードの読み取り、作成に使用" としか説明してない。 (アプリ内での使用方法のみ)
 # 位置情報や Wi-Fi 接続情報に加えて、通話履歴の権限まで要求してくる。 (位置情報と同じく送信しないとは書いてない)
 # そのうち QR コード決済の機能まで付く予定。 (フレーム QR)
 # 5G に接続する予定の、トヨタ車の信頼性とかにも影響しそう？ (テレマティクス、コネクティッドカー、自動運転、 ...)
 # (QR コード決済にスマホと車の追跡で、来店を確認できるカーナビ広告とか募ってるのかも？)
+# [[http://informationlaw.jp/2017/05/03/pipa-definition-personal-identifiable-sings/][ぼちぼち改正個人情報保護法を読む－２条（定義：個人識別符号）]] (... 最終段階で ... 個人を識別するが特定はしない情報は、個人識別符号に含めないとなった ... 産業界からの要望であるとの指摘があります ..., Information Law 情報法、 2017/05/03)
 # [[https://twitter.com/arara_inc/status/907545587771461632][... QRコード作成サイト ... 本日リリース ...]] (@arara, 2017/09/12)
 # [[https://m.qrqrq.com/service/faq/#faqCollapse17][「シークレット方式」と「リダイレクト方式」について]] (... シークレット方式 ... GPS情報はユーザーの許可が得られている場合に取得可能 ... 許可がない場合にはIP情報による位置推定 ..., arara)
 # [[https://prtimes.jp/main/html/rd/p/000000155.000004318.html][アララ、QRコード®開発元のデンソーウェーブと共同で高セキュリティQRコード決済サービスの開発に着手]] (PR TIMES, 2018/02/28)
 # [[https://www.businessinsider.jp/post-162417][儲けるつもりナシ？中国モバイル決済で再燃、誰も知らないQRコードビジネスの裏側]]  (... 通常のQRコードは、QRコードを読み取った端末内で解読される ... フレームQRは作成から解読まで、全てQ-revoサーバー上で行われる ... 監視といったことにも使える ..., BUSINESS INSIDER JAPAN, 2018/03/20)
 # [[https://b.qrqrq.com/2018/04/12/qrcode-analytics/][QRコードのアクセス解析をグラフで簡単表示！ | 【商用無料】QRコードお役立ち情報]] (arara, 2018/04/12)
 # [[https://newsroom.toyota.co.jp/jp/corporate/22763980.html][トヨタ、デンソー、電子部品事業をデンソーへ集約することに基本合意]] (... 2019年末をめどに、トヨタの広瀬工場における電子部品の生産をデンソーへ移管 ... 2022年以降、電子部品の量産開発機能をデンソーへ集約 ..., トヨタ自動車、 2018/06/01)
+# [[https://www.denso-wave.com/ja/system/qr/info/detail__180614-01.html][デンソーウェーブとNECソリューションイノベータが協業し、QRコード^®を用いた「顔認証なりすまし防止ソリューション（SQRC^®版）」の販売を開始]] (デンソーウェーブ、 2018/06/14)
 # [[https://srad.jp/submission/78134/][「公式」QRコードリーダーを使うと読み取り時の位置情報がQRコード作成者に提供される]] (... アプリケーション側では、GPSを使った高精度の位置情報がQRコード作成者に提供されることの説明は行われていない ..., スラド、 2018/08/11)
 # [[https://twitter.com/HiromitsuTakagi/status/1033877083850563584][たしかに位置が送られているぞー。 ...]] (@HiromitsuTakagi, 2018/08/26)
 # [[https://twitter.com/HiromitsuTakagi/status/1033914132922171392][... いろんな権限(Wi-Fiとか通話履歴とか) ...]] (@HiromitsuTakagi, 2018/08/26)
 # [[https://twitter.com/HiromitsuTakagi/status/1034041877924732931][... Permissionの確認はアプリが使うことへの同意にはなり得ても、外部へ送信すること（当該サイトが取得する）への同意にはならない ...]] (@HiromitsuTakagi, 2018/08/27)
-# [[https://m.qrqrq.com/service/news/][... アクセスログCSVに記載されていた緯度経度情報の提供を終了 ...]] (収集は？、 arara, 2018/08/27)
+# [[https://m.qrqrq.com/service/news/][... アクセスログCSVに記載されていた緯度経度情報の提供を終了 ...]] (まだ収集してる、 arara, 2018/08/27)
 # [[https://twitter.com/yng_hr/status/1034029919158718464][これはまさしく「本人の意図しない」かつ「事前の同意がない」及び「社会的なコンセンサスのない」動作。]] (@yng_hr, 2018/08/27)
+# [[https://m.qrqrq.com/service/news/][... アクセスログCSVダウンロードサービスの提供終了について ...]] (まだ収集してる、 arara, 2018/08/28)
 # [[https://twitter.com/pi__yo__ko/status/1034396159052115969][デンソーウェーブのQRコード関連特許で、\0の後に情報を埋める云々の技術に関わりそうなものを、とりあえず6件見つけた。 ... 特許5196045 ... 特許5206888 ... ]] (@pi__yo__ko, 2018/08/28)
 # [[https://twitter.com/pi__yo__ko/status/1034396160499146752][特許5206887 ... 特許5196046 ... 特許4924468 ... 特許4924206 ...]] (@pi__yo__ko, 2018/08/28)
 # [[https://twitter.com/pi__yo__ko/status/1034464334066245632][通常では読み取り困難にしたい、という方向の特許も見つかった。 ...]] (@pi__yo__ko, 2018/08/28)
@@ -4132,12 +4388,17 @@ H.265(HEVC) はパテントプールで溺れてる。
 # [[https://twitter.com/HiromitsuTakagi/status/1034589905521860608][利用者に不信感を与えない技術ですってよ。 ... 利用者に秘匿データの存在を認識させることがなく ... ]] (@HiromitsuTakagi, 2018/08/29)
 # [[https://twitter.com/HiromitsuTakagi/status/1034647201614446592][現在のユーザレビュー状況。8月16日時点でも虚偽説明していた。]] (スラドへのタレコミから 5 日後だけど位置情報の送信と提供を説明してない、 @HiromitsuTakagi, 2018/08/29)
 # [[https://twitter.com/pi__yo__ko/status/1034747253850701826][... 宅配ドライバなどが荷札のバーコードを読み取った際に時刻情報・位置情報も送信したい、というものがあった ... エンドユーザ向けに流用したくなっちゃったのかな?]] (@pi__yo__ko, 2018/08/29)
-# [[https://twitter.com/HiromitsuTakagi/status/1034790096250097664][デンソーウェーブのGDPR対応とは何だったのか？ ...]] (GDPR の罰金？、 @HiromitsuTakagi, 2018/08/29)
+# [[https://twitter.com/HiromitsuTakagi/status/1034790096250097664][デンソーウェーブのGDPR対応とは何だったのか？ ...]] (位置情報や IP アドレスも個人データになので GDPR の罰金？、 @HiromitsuTakagi, 2018/08/29)
 # [[https://twitter.com/HiromitsuTakagi/status/1034803365748781058][その後のレビュー ...]] (消される前はたくさんあった、 @HiromitsuTakagi, 2018/08/29)
 # [[https://twitter.com/kuroneko_ko2a/status/1034805951323299840][Apple Storeのレビューですが、この件のレビューを書いても消されてるみたい ...]] (レビューの "問題を報告する" 機能が乱用されてる？、 @kuroneko_ko2a, 2018/08/29)
 # [[http://nlab.itmedia.co.jp/nl/articles/1808/28/news115.html][QRコード“読み取り”で位置情報送信の危険性？　一部アプリで物議、サービス提供社は当該機能を停止に]] (... 個人や端末を特定できる情報ではなかったと認識しています ..., ITmedia)
 # [[https://twitter.com/M3akiba/status/1035370817800921088][自動車組込ソフトエンジニアがこの認識だと、車のGPS情報は常時吸い上げられて収集されるわけですね。メーカーは購入者がどこにいるか随時わかる ...]] (@M3akiba, 2018/08/31)
 # [[https://twitter.com/info_kvaluation/status/1035526803660521472][QRコードをDMなどに見せかけて位置を知りたい唯一の人に送り、読み取られれば、その個人の位置情報である ...]] (ストーカー向け？、 @info_kvaluation, 2018/08/31)
+# [[https://twitter.com/stone__engraver/status/1036646243122835458][... アプデ来た "位置情報の使用停止" ...]] (Android 向けのみ、 @stone__engraver, 2018/09/03)
+# [[https://twitter.com/yuhkan/status/1036727530928001024][... BIND_GET_INSTALL_REFERRER_SERVICE」って新規の権限要求 ...]] (Google Play Referrer API, Firebase Analytics?, @yuhkan, 2018/09/03)
+# [[https://tech.nikkeibp.co.jp/atcl/nxt/news/18/02566/][デンソーウェーブが公式QRコードリーダーを更新、位置情報の無断収集を中止]] (... 無断で位置情報を収集していた機能を停止 ... iOS向けが9月6日 ... デンソーウェーブは、「“Q”とQRコードメーカーの実質的な開発はアララであり、サービスはアララが提供 ..., 日経 xTECH, 2018/09/06)
+# [[https://tech.nikkeibp.co.jp/atcl/nxt/news/18/02578/][「デンソーウェーブ公式」QRコードリーダーで取得した位置情報を破棄へ、開発元のアララ]] (... QRコードを読み取った日時や、IPアドレス、ソフトが使う識別子は今後も取得する ..., 日経 xTECH, 2018/09/07)
+# [[https://www.arara.com/news/entry5684/][「公式QRコードリーダー“Q”」および「QRコードメーカー」での位置情報データ収集ならびに取り扱いに関して]] (... これまで取得した位置情報 ... 破棄する予定 ..., arara, 2018/09/07)
 
 *** g06+
 
@@ -4254,6 +4515,17 @@ Mate9 が問題になってる。 (無問題了？？)
 # 認定修理店もある。 (スマホ修理工房、札幌、仙台、東京、横浜、名古屋、広島、福岡、 2018/06/20~)
 # Y!mobile 店舗での取り次ぎは終了。 (2016/10/20~2018/06/30)
 #
+# Performance Mode
+# ベンチマークテストのときに、こっそり普段よりも速くしてるのが発覚した。 (3DMark, benchmark detection, AnandTech, 2018/09/04)
+# よそもやってると言ったらしいので、楽しみに待ってればいいのかしら？ (AI による最適化だとも言ったみたい)
+# 最初の Honor Play に続いて、 P20, P20 Pro, Nova 3 にも見つかった。 (Kirin 970, UL, 2018/09/06)
+# そのうち、バッテリーよりも速度を優先する機能を追加する計画らしい。 (バレたから？)
+# (ほとんどの Android スマホがやってた時期はあったけど、最近は 2017 年の OnePlus 5 くらい？)
+# [[https://www.anandtech.com/show/7384/state-of-cheating-in-android-benchmarks][They're (Almost) All Dirty: The State of Cheating in Android Benchmarks]] (AnandTech, 2013/10/02)
+# [[https://www.xda-developers.com/oneplus-5-benchmark-cheating-reviews/][Do NOT Trust OnePlus 5 Benchmarks in Reviews - How OnePlus Cheated]] (XDA Developers, 2017/06/20)
+# [[https://www.anandtech.com/show/13318/huawei-benchmark-cheating-headache][Huawei & Honor's Recent Benchmarking Behaviour: A Cheating Headache]] (GFXBench, benchmark detection mode, AnandTech, 2018/09/04)
+# [[https://benchmarks.ul.com/news/ul-delists-huawei-phones-with-suspect-benchmark-scores][UL delists Huawei phones with suspect benchmark scores]] (UL, 2018/09/06)
+#
 # VxWorks OS
 # 米 Wind River Systems 社製 の RTOS 。
 # スマホを含めた、いろんな通信機器に使われてる。 (SoC, BSP, P9 lite, ...)
@@ -4318,7 +4590,7 @@ Mate9 が問題になってる。 (無問題了？？)
 #   ホーム画面にアイコンを出したければ、アプリでなんとかする。
 #
 # nova 3
-# 日本で売ってない。
+# 日本では、まだ売ってない。
 # 顔認証できる。 (3D)
 # エジプト向けの広告動画で、また Canon の一眼レフを宣伝しちゃった。 (ストラップに EOS とあった)
 # (免責事項の表示が便利なので、広告と実物が違いすぎる問題は解消されない？)
@@ -4578,7 +4850,7 @@ Nexus 6 を作ってた。
 *** jetfon
 
 マヤシステム製。 (OEM)
-FREETEL の名前でスマホの製造販売を続ける。
+FREETEL の名前でスマホの製造販売を続けてる。
 ドコモとソフトバンクの VoLTE に対応。 (au は更新で対応予定)
 DSDS 対応。
 専用アプリを使えば、国外でのパケット通信を契約しやすい。 (CloudSIM)
@@ -4730,7 +5002,7 @@ au VoLTE 対応。
 発売後 2 年間に、最大 2 回のバージョンアップを約束してる。
 # エモパー (emopa, AI)
 # ワンセグ (|\||-||< 受信料)
-# OLED? (2018/??/??)
+# OLED? (AQUOS R3?, 2018/??/??)
 #
 # 以前のスマホは Android 4.4 。
 # 標準搭載のエコ技は寡黙で強引だけど、バッテリーと財布にやさしかった。
@@ -4922,9 +5194,12 @@ Pixel とかも作ってた。
 # Pixel/Pixel XL
 # 日本では売ってない。 (販売終了)
 
-*** BlackBerry KEYone
+*** BlackBerry KEY2
 
 中国 TCL Communication Technology 製。 (TCL 通訊科技)
+au VoLTE 対応。
+どの回線でも使える。 *(!?)*
+DSDS 対応。 (SIMx2 のモデルのみ)
 QWERTY 配列のキーボードが特徴。
 オバマ大統領の愛用品として有名だった製品の Android 版。
 # 仏 Alcatel は TCL の子会社。
@@ -4932,6 +5207,8 @@ QWERTY 配列のキーボードが特徴。
 # Alcatel SHINE LITE (au VoLTE 対応)
 # ドラゴントレイルガラス。 (旭化成)
 # DTEK
+# Hub+
+# Privacy Shade
 #
 # Vertu と提携。
 #
@@ -4940,6 +5217,7 @@ QWERTY 配列のキーボードが特徴。
 # DSDS 対応。 (SIMx2 のモデルのみ)
 # au VoLTE 対応。
 # どの回線でも使える。 *(!?)*
+# au で売ってるのも SIM フリー。 *(!?)*
 
 *** VAIO Phone A
 
@@ -5040,6 +5318,7 @@ DSDV 対応。 (SIMx2 + microSD スロット)
 #
 # [[http://downloads.oneplus.net/][OxygenOS]] 5.0 (Android 8.0)
 # OnePlus Switch
+# Gaming Do Not Disturb Mode (benchmark mode, OnePlus 5)
 #
 # EngineerMode (OxygenOS 4.5.1/4.5.14, Qualcomm?)
 # adb shell am start -n com.android.engineeringmode/.qualcomm.DiagEnabled --es "code" "angela"
@@ -5051,6 +5330,8 @@ DSDV 対応。 (SIMx2 + microSD スロット)
 
 # *** Vivo (ビーボ、維沃)
 # 中国 BBK の子会社。
+#
+# Face Access (3D, infrared, V11)
 #
 # X20 Plus UD (2018/02/01)
 # Funtouch OS 3.2 (Android 7)
@@ -5329,6 +5610,7 @@ Android 9 の公開と同時にバージョンアップできた、国内で唯�
 # Face ID
 # optical in-display 3D fingerprint sensor? (ridge data?, patent number 20180225498)
 # [[http://pdfaiw.uspto.gov/.aiw?PageNum=0&docid=20180233867][Patent Images]] (new connector?, patent number 20180233867, USPTO: United States Patent and Trademark Office)
+# MFi program (Made For iPhone/iPad/iPod, third-party certifications)
 
 # App Store (Apple tax)
 #
@@ -5345,12 +5627,14 @@ Android 9 の公開と同時にバージョンアップできた、国内で唯�
 # 2018/10/03 新しいアプリと更新するアプリには、プライバシーポリシーが必須になる。 (link)
 #            これまでは、個人情報とかを利用する一部のアプリにしかなかった。
 #            収集するデータや、その使い方が全部わかるようになるハズ。
+#            位置情報とかを、第三者と勝手に共有してるアプリはまだある。 (Guardian Mobile Firewall, 2018/09/07)
 # [[https://developer.apple.com/ios/submit/][Submitting iOS apps to the App Store]]
 # [[https://9to5mac.com/2018/02/15/apple-require-new-apps-support-iphone-x/][Apple will require all new apps to natively support iPhone X display from April]] (2018/02/15)
 # [[https://9to5mac.com/2018/05/08/apple-location-apps-third-parties/][Apple cracking down on applications that send location data to third-parties]] (2018/05/08)
 # [[https://developer.apple.com/news/?id=05072018a][Upcoming iOS 11 App Update Requirements]] (2018/05/07)
 # [[https://www.supremecourt.gov/docket/docketfiles/html/public/17-204.html][Docket for 17-204]] (U.S. Supreme Court)
 # [[https://gadgets.ndtv.com/entertainment/news/netflix-ios-app-itunes-billing-missing-sign-up-1902205][It Seems You Can No Longer Sign Up for Netflix via Its iOS App]] (NDTV, 2018/08/17)
+# [[https://guardianapp.com/ios-app-location-report-sep2018.html][Report: Location Data Monetization in iOS Apps]] (Guardian Mobile Firewall, 2018/09/07)
 #
 # ブラウザゲームを排除しようと、 Yahoo! Japan のゲームプラスに圧力を加えた？
 # [[https://www.nikkei.com/article/DGXLASDZ18HV5_Y7A710C1TI1000/][アップルのくびき、ゲームで解くヤフーが脱アプリ]] (日本経済新聞、 2018/07/18)
