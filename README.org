@@ -866,6 +866,7 @@
 # [[https://www.blog.google/outreach-initiatives/public-policy/protecting-what-we-love-about-internet-our-efforts-stop-online-piracy/][Protecting what we love about the internet: our efforts to stop online piracy]] (Google Blog, 2018/11/07)
 # [[https://p2ptk.org/copyright/1398][Google、最新の海賊版対策レポートを公表　海賊版サイトのランク降格の有効性を強調する]] (P2Pとかその辺のお話R, 2018/11/07)
 # [[https://miau.jp/ja/880][文化庁文化審議会法制・基本問題小委員会で静止画ダウンロード規制に関して意見を述べました]] (MIAU, 2018/11/09)
+# [[https://www.kri.sfc.keio.ac.jp/ja/press_file/20181121_apl.pdf][漫画のインターネット流通環境整備に関する勉強会発足のお知らせ]] (慶應義塾大学 SFC 研究所 APL, 2018/11/21)
 #
 # 知的財産戦略本部 検証・評価・企画委員会 コンテンツ分野会合 1 (2018/10/30 内閣府)
 # 著作権の側による、座長が議事録を非公開にしちゃった会合の続き。 (親会)
@@ -981,8 +982,17 @@
 # 電気通信サービスに係る内外価格差調査 (2018/09/19 総務省)
 #
 # モバイル市場の競争環境に関する研究会 (2018/10/10~ 総務省)
+# モバイルサービス等の適正化に向けた緊急提言 (案) が提出された。 (2018/11/26)
+# - 通信料金とスマホ代金の、完全な分離。
+# - 4 年縛りを禁止。
+# - 契約の自動更新で、料金とかに差をつけるのを禁止。
+# - 販売代理店も規制。
+# - ...
 # 中間まとめ予定。 (2019/02/??)
 # [[https://twitter.com/trokuma/status/1064457447413174278][ドコモの2017年度の端末機器収支はなんと月サポを除いても-400億円の赤字 ...]] (@trokuma, 2018/11/19)
+#
+# 第 40 回規制改革推進会議 (2018/11/19, 内閣府)
+# 答申によると、通信料金とスマホ代金の完全な分離を図るらしい。
 
 # 「電波有効利用成長戦略懇談会 報告書（案）」に対する意見募集 (2018/07/09 総務省)
 # 「電波有効利用成長戦略懇談会 報告書」及び意見募集の結果の公表 (2018/08/31 総務省)
@@ -1208,6 +1218,8 @@
 #            SoftBank 会長は、決算会見で今のファンドを続けると表明。 (2018/11/05)
 #            トルコ大統領は、音声記録をサウジアラビアや米独仏英と共有してると公表。 (2018/11/10)
 #            米 CIA は、皇太子が殺せって命令したと考えてるみたい。 (smoking gun?, 2018/11/16)
+#            米大統領は声明で、わからないんだから気にすんなって。 (米下院情報委員会に対応を調査されるかも、 2018/11/20)
+#            (皇太子が "Khashoggi を黙らせろ" って命令してる、音声記録がある？)
 # 2018/12/19 東京証券取引所に上場予定。 (銘柄コードは串刺し)
 #            フィッシングサイトが確認されてるので注意。 (2018/11/14)
 # 2019/??/?? 米で T-mobile (Deutsche Telekom) と Sprint (SoftBank) は合併するかも。
@@ -1268,7 +1280,6 @@ DSDS 対応スマホで音声通話定額を利用するなら、ドコモがお
 # (スマホをなくすと、オンラインショップで買えなくなった？)
 # [[http://d.hatena.ne.jp/Kango/20180813/1534182978][docomo Online Shopへの不正ログインとiPhoneの不正購入についてまとめてみた]] (2018/08/13)
 # [[https://www.mydocomo.com/onlineshop/information/notice/20180815_01.html][ドコモオンラインショップにおける2段階認証開始について]] (2018/08/15)
-# [[https://twitter.com/NaomiSuzuki_/status/1025656923729715200][... 佐川急便の偽サイトの一部が、昨日リニューアルし、 ... アップルからのお届け物なので携帯電話の認証が必要という理由で、電話番号とSMSで届くコードの入力を求めます。]] (@NaomiSuzuki_, 2018/08/15)
 # [[https://www.mydocomo.com/onlineshop/information/notice/20180822_01.html][ドコモオンラインショップにおける商品受取方法の変更について]] (2018/08/22)
 # [[https://twitter.com/Chikara1112/status/1033593219630551041][dポイント盗まれた ... 2、3日前から急増しているようだ ...]] (@Chikara1112, 2018/08/26)
 # [[https://www.nttdocomo.co.jp/info/notice/page/180830_00.html][dポイントを安心してご利用いただくためのお願い]] (... dポイントが悪意のある第三者によりdポイント加盟店にて不正に利用された ..., 2018/08/30)
@@ -2177,7 +2188,7 @@ au 回線にだけ、従量制のエコプランがある。 (SMS 付き)
 # フルMVNOにより、キャリア LTE (MVNO) とプライベート LTE (自営) が連携できる。 (研究中)
 #
 # Virtual は "仮想" よりも、 "あたかも ?? のように振る舞う" がわかりやすい。
-# VTuberは、あたかも美少女のようにふるまうおっさん。
+# VTuberは、あたかも美少女のように振る舞うおっさん。
 # MNO は、モバイルネットワークをオペレート (運用) する会社。 (キャリア)
 # MVNO は、あたかも MNO のように振る舞う会社。
 # - 基地局を運用してない。 (RAN)
@@ -2256,6 +2267,8 @@ au 回線にだけ、従量制のエコプランがある。 (SMS 付き)
 # IIJmio ひかりとモバイルの IPv6 アドレスは基本的に違いなく、 IIJ が確保してるアドレスを渡している。
 # R15 がノッチで Find X にノッチが無い理由は、Find X は二層構造で通話スピーカーを格納することができたから。 (Oppoの中の人)
 # ホームランでの IIJ 看板直撃は、予算組んでるのでユーザーに不利益はない。
+
+# IIJ Technical DAY 2018 (#iij_its2018, 2018/11/22)
 
 # 2008/??/?? L3 接続で 3G 開始。 (国内初)
 # 2008/10/09 東京ドームでホームランが IIJ の看板を直撃。
@@ -2770,6 +2783,7 @@ NTT コミュニケーションズでプロバイダをしてるところ。
 # 2018/03/06 LINE 請求書払いを開始。 (8.2.1)
 # 2018/03/07 LINE ウォレットを開始。 (8.3.0)
 # 2018/08/28 LINE ポイントでの料金支払いを開始。 (契約者連携が必須)
+# 2018/11/22 LINE Pay がおサイフ対応。 (QUICPay)
 # 2018/12/14 LINE Pay で大阪市に納税できる予定。 (神奈川県は 2019/01/??~)
 
 *** SkyPhone (クアッドシステム)
@@ -2816,8 +2830,10 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 # ビデオチャットで通話できるようになった。 (音声だけにもできる、51.0.0.20.85, 2018/06/26)
 # たくさんのアカウントが乗っ取られてるらしい。 (2018/08/04)
 # 創業者の 2 人は、 Facebook からの独立性が失われたことを理由に辞職。 (2018/09/24)
+# URL にパスワードを平文で表示しちゃうバグを修正して、第三者に見られたかも知れない人にはパスワードの変更を求める通知を送った。 ("Download Your Data", Hacker News, 2018/11/18)
 # [[https://mashable.com/2018/08/13/instagram-hack-locked-out-of-account/][Instagram users are reporting the same bizarre hack]] (Mashable, 2018/08/04)
 # [[https://techcrunch.com/2018/09/24/instagram-founders-leave/][Why Instagram’s founders are resigning: independence from Facebook weakened]] (TechCrunch, 2018/09/24)
+# [[https://thehackernews.com/2018/11/instagram-password-hack.html][Instagram Accidentally Exposed Some Users' Passwords In Plaintext]] (Hacker News, 2018/11/18)
 #
 # 個人情報を含めた 5000->8700 万人分？のデータが、ユーザーの同意なしで流出。 (Facebook の月間利用者は 20 億人以上)
 # FTC とかで調査中だけど、罰金とかで大変なことになるかも？
@@ -2907,6 +2923,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 # 2018/03/28 パートナーカテゴリの段階的な終了を告知。 (~2018/10/01)
 #            CCC Marketing は、生データを使えるコンテストを開催しちゃった。 (DDD: Data Democracy Days, 2018/03/21~2018/04/07)
 # 2018/04/03 露 IRA に関係するものを削除。
+#            削除されてた露 FAN から、損害賠償とアカウントの再開を求めて訴えられた。 (Federal Agency of News)
 # 2018/04/04 API 変更で、アクセス制限を強化。
 #            電話番号やメールアドレスで、アカウントを検索できなくなった。
 #            ついでに、 CA だけで最大で 8700 万人分のデータが流出してるかもと発表。
@@ -3055,6 +3072,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 # 2018/07/10 英情報委員会事務局にも、罰金を科されることになりそう。 (ICO)
 #            罰金は、 GDPR と同じに引き上げられてる。 (DPA: Data Protection Act 2018, 2018/05/25~)
 #            CA の件では、罰金 GBP 500000 が上限だった。 (DPA: Data Protection Act 1998, 2018/10/25)
+#            Facebook は異議を申し立ててる。 (Guardian, 2018/11/21)
 # 2018/07/11 研究者たちには、データ提供を再開。 (SSO: Social Science One)
 #            (個人情報は伏せてるらしい)
 # 2018/07/13 Hillary Clinton 陣営を攻撃してメールを暴露したことで、露情報機関の 12 人を起訴。 (WikiLeaks に流した？)
@@ -3099,6 +3117,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            少数派のイスラム系ロヒンギャ族の虐殺が報告されて、ミャンマー軍司令官たちを削除。 (国連、 2018/08/27, 2018/10/15)
 #            白人至上主義グループとも関係がある、極右グループの Proud Boys を削除。 (Business Insider, 2018/10/30)
 #            シンガポール政府からの削除要請を拒否。 (マネーロンダリング？、 States Times Review, Reuters, 2018/11/10)
+#            南スーダンで人身売買した投稿を、アカウントごと削除。 (子供の強制的な結婚を防げなかった、 VICE news, 2018/11/20)
 #            (アカウントを削除して見えなくするのは、軍のやり方と同じだって批判もある)
 # 2018/08/10 ページ機能での公開に、許可がいるようになる。 (Page Publising Authorization)
 #            アカウントの二要素認証と、位置情報が必須。 (まだ米で読んでる人が多いとこだけ)
@@ -3174,6 +3193,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 # 2018/09/26 年末までにフェイクニュースへの自主的な対策をすることで、 EU と合意。 (Code of Practice)
 #            効果がなければ、新しい規制を作るらしい。
 #            間違った投票案内を、報告できるようになった。 (Incorrect Voting Info, 2018/10/15)
+#            Google も、 Facebook みたいな政治広告の審査や透明性レポートの公開とかを予定。 (Google Blog, 2018/11/22)
 # 2018/09/26 2 段階認証のために登録した電話番号も、ターゲティング広告に利用してると判明。 (shadow contact)
 #            去年質問したときは、 Facebook 広報は否定してた。 (Gizmodo)
 #            大学での調査が公表されて、裏付けられた。 (Northeastern and Princeton University)
@@ -3266,6 +3286,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #              調査してた CSO は、 Facebook COO がクビにしてる。 (CSO: Chief Security Officer, 最高セキュリティ責任者)
 #            - 問題を大きく批判する相手の疑わしい情報を、よそに依頼してこっそり流した。 (Definers Public Affairs, ~2018/11/14)
 #              CEO と COO は、報道されるまで知らなかったと言ってる。
+#              6 月に退任は決まってた広報や国際問題を担当する責任者が、辞職することになった。 (後任は英の元副首相、 2018/11/21)
 #            - 政治広告の規制法案を避けるために、こっそりロビー活動してる。 (Honest Ads Act)
 #              CEO は、法案への支持を表明したことがある。
 #            - Apple CEO へのインタビューに煽られて、 CEO が Android を使えって経営陣に指示。 (MSNBC, 2018/04/06)
@@ -3274,18 +3295,26 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            爆発物を贈られた投資家設立の財団は、 Facebook COO を非難する手紙を公開。 (Open Society Foundations, 2018/11/15)
 #            米民主党の上院議員も、公開で CEO 宛てのお手紙を送ってる。 (米司法委員会でも言及、 Amy Klobuchar, 2018/11/16)
 #            従業員たちには、経営陣への不満が募ってるみたい。 (Vanity Fair, 2018/11/16)
+#            CEO は、辞めるつもりないって答えた。 (Facebook COO も辞めないらしい、 CNN, 2018/11/20)
 # 2018/11/15 透明性レポートを公開。
 #            各国政府からの開示請求は、 103815 件。 (去年は 82341 件)
 #            4 月からの半年で、 15 億以上の偽アカウントを削除。
 # 2018/11/17 同居人を特定する技術の特許を申請してる。 (Fortune)
 #            (またユーザーのデータって扱いにして、アカウントなしで利用？)
+# 2018/11/20 新しい広告や、広告の修正をするシステムがダウン。 (CNBC)
+#            機会を逃した広告主が怒ってる。 (Black Friday, Cyber Monday)
 # 2018/11/22 英の元副首相が、 Facebook の国際問題とかを担当することになる予定。
 #            (EU はもちろん、英議会による CEO の招待にも対応？)
+# 2018/11/24 英議会が英滞在中の米 Six4Three の創業者から、 Facebook とやりとりした資料を押収。 (Guardian)
+#            Six4Three は、 CA の件で Facebook を訴えてる。 (Facebook 向けのアプリを作ってたとこ)
+#            (米で非公開にされてる裁判資料)
 # 2018/11/27 英国会議事堂で、議会向けの特別な公聴会を開催予定。 (TechCrunch, 2018/10/31)
 #            フェイクニュースとかについて調査する、国際的な委員会を提案する？
 #            英とカナダによる CEO への招待状は、また拒否された。 (UK Parliament, 2018/10/31, 2018/11/02)
 #            次なる招待状には豪とアルゼンチンにアイルランドも加わったけど、これも拒否。 (UK Parliament, 2018/11/07, 2018/11/12)
-#            (英の元副首相も出番なし？)
+#            さらなる招待状にはブラジル、シンガポール、ラトビアも加わったけど、それでも拒否。 (UK Parliament, 2018/11/16, 2018/11/??)
+#            欧州と中東やアフリカ向けポリシーの責任者が、証言する予定。 (中継される、 2018/11/25)
+#            (豪は欠席して 8 -> 7 カ国になりそう)
 # 2018/??/?? 英で検討されてる法案は、 SNS にも年齢認証を義務付ける？ (BuzzFeed, 2018/09/20)
 #            社会的悪影響を防ぐって建前で、年齢とかを収集できるようになる？ (social harms)
 #            ヘイトスピーチを 24 時間以内に削除しないと罰金っていう、独の法律も参考にしてるらしい。
@@ -3456,7 +3485,16 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 # [[https://twitter.com/patrickgaspard/status/1062886458527309824][My letter to @facebook ... George Soros & @OpenSociety ...]] (@patrickgaspard, 2018/11/15)
 # [[https://www.klobuchar.senate.gov/public/index.cfm/2018/11/klobuchar-warner-coons-blumenthal-press-facebook-on-reports-that-they-retaliated-against-critics][Klobuchar, Warner, Coons, Blumenthal Press Facebook on Reports That They Retaliated Against Critics]] (U.S. Senator Amy Klobuchar, 2018/11/16)
 # [[https://www.vanityfair.com/news/2018/11/facebook-employee-morale-and-stock-price-both-take-a-plunge][At Facebook, Employee Morale and Stock Price Both Take a Plunge]] (Vanity Fair, 2018/11/16)
-# [[http://fortune.com/2018/11/17/facebook-patent-household/][Facebook Filed a Patent to Analyze Who You Live With]] (2018/11/17)
+# [[https://www.parliament.uk/documents/commons-committees/culture-media-and-sport/181116-Grand-ctte-to-Mark-Zuckerberg.pdf][Letter from the Grand Committee to Mark Zuckerberg, Facebook, re oral evidence, 19 November 2018]] (UK Parliament, 2018/11/16)
+# [[http://fortune.com/2018/11/17/facebook-patent-household/][Facebook Filed a Patent to Analyze Who You Live With]] (Fortune, 2018/11/17)
+# [[https://news.vice.com/en_us/article/8xpqy3/a-teenage-girl-in-south-sudan-was-auctioned-off-on-facebook][A teenage girl in South Sudan was auctioned off on Facebook]] (VICE news, 2018/11/20)
+# [[https://www.cnbc.com/2018/11/20/facebooks-ad-platform-goes-down.html][Facebook's ad platform goes down at a horrible time for Black Friday retailers]] (CNBC, 2018/11/20)
+# [[https://edition.cnn.com/2018/11/20/tech/mark-zuckerberg-interview/index.html][As Facebook's crises mount, Mark Zuckerberg stands his ground in exclusive CNN interview]] (CNN, 2018/11/20)
+# [[https://www.reuters.com/article/us-usa-russia-facebook/facebook-sued-by-russian-firm-linked-to-woman-charged-by-us-idUSKCN1NP2HE][Facebook sued by Russian firm linked to woman charged by U.S.]] (Reuters, 2018/11/20)
+# [[https://newsroom.fb.com/news/2018/11/elliot-schrage-on-definers/][Elliot Schrage on Definers]] (2018/11/21)
+# [[https://www.theguardian.com/technology/2018/nov/21/facebook-appeal-against-information-commissioners-office-fine-cambridge-analytica][Facebook to lodge appeal against ICO's £500,000 fine]] (Guardian, 2018/11/21)
+# [[https://www.blog.google/around-the-globe/google-europe/supporting-european-union-parliamentary-elections/][Supporting the European Union Parliamentary Elections]] (Google Blog, 2018/11/22)
+# [[https://www.theguardian.com/technology/2018/nov/24/mps-seize-cache-facebook-internal-papers][Parliament seizes cache of Facebook internal papers]] (Guardian, 2018/11/24)
 
 *** WhatsApp (WhatsApp)
 
@@ -3497,6 +3535,7 @@ Facebook に買収された。 (2014/10/06)
 オープンソース。
 # Speex -> Opus
 # Signal Protocol は、他のアプリにも使われてる。 (e2e encryption)
+# Sealed sender? (2018/10/29)
 #
 # 中東の一部でブロックされてる。
 # Google や Amazon も経由できなくなった。 (domain fronting, GAE: Google App Engine, AWS: Amazon Web Services)
@@ -3876,6 +3915,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://www.theregister.co.uk/2018/09/26/canadian_security_boss_says_theres_no_reason_to_ban_huawei/][Canadian security boss ain't afraid of no Huawei, sees no reason for ban]] (Register, 2018/09/26)
 # [[https://www.rubio.senate.gov/public/index.cfm/press-releases?ID=EBDC659C-93D6-4620-B3B8-E17F82A80A2A][Rubio, Warner Urge Canadian Prime Minister Trudeau To Reconsider Huawai Inclusion in Canada's 5G Network]] (U.S. Senator for Florida, Marco Rubio, 2018/10/12)
 # [[https://uk.reuters.com/article/uk-germany-china-5g-exclusive/exclusive-german-officials-sound-china-alarm-as-5g-auctions-loom-idUKKCN1NI1W8][Exclusive: German officials sound China alarm as 5G auctions loom]] (独も検討中？、 2018/11/13)
+# [[https://www.reuters.com/article/us-usa-china-huawei/u-s-asks-allies-to-shun-huawei-equipment-wsj-reports-sector-stocks-fall-idUSKCN1NR2E6][U.S. asks allies to shun Huawei equipment, WSJ reports; sector stocks fall]] (米政府が同盟国の政府や通信会社にも Huawei の機器を使わないよう要求してる、 Reuters, 2018/11/22)
 #
 # 連邦通信委員会が、ネット中立性を廃止。 (network neutrality, FCC: Federal Communications Commission, 2018/04/23~)
 # ネットが公共インフラじゃなくなる。 (OMB: Office of Management and Budget, 米行政管理予算局、 2018/06/11~)
@@ -4079,6 +4119,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # 芝麻信用 (sesame credit, Alibaba) や、騰訊征信 (Tencent) とかの 8 社が信用評価機関。
 # 企業が信用情報を得点にして公開で遊んでたら、当局に目を付けられてディストピアになりそう？ (信用スコア)
 # [[http://www.gov.cn/zhengce/content/2014-06/27/content_8913.htm][社会信用システム建設計画綱要]] (2014/06/27)
+# [[http://j.people.com.cn/n3/2018/1017/c94475-9509273.html][北京戸籍取得者はポイント制に基づき今年は6019人が取得]] (人民日報、 2018/10/17)
 #
 # Dragonfly project (search and censorship, twin engine?)
 # Google は、こっそり検閲エンジンを作ってる。 (検閲の詳細は中国の国家機密)
@@ -4200,7 +4241,9 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # - エアギャップ
 # - ハックされないね
 # - 脳をハックされたんだ
+# スマホは使ってると言って、安心感を演出しつつ不安も煽ってる。 (衆議院内閣委員会、 2018/11/22)
 # (経団連会長の執務室に初めてパソコンが導入されたのも、 2018/05/?? だけど)
+# [[https://www.theguardian.com/world/2018/nov/15/japan-cyber-security-ministernever-used-computer-yoshitaka-sakurada][System error: Japan cybersecurity minister admits he has never used a computer]] (Guardian, 2018/11/15)
 # [[https://twitter.com/CybershotTad/status/1063088768935051265][桜田大臣の記事、ガーディアン紙にて読まれている記事1位 ...]] (@CybershotTad, 2018/11/15)
 
 # 上場したら、ホームページに載ってなかった役員が...
@@ -4639,6 +4682,9 @@ OCN モバイル ONE との SIM 契約なしで使える。
 #   (退職金は US$ 90 million がいいらしい)
 # - 要求への対応を、経営陣が会議で検討した？ (2018/11/05)
 # - 行動計画に要求の一部が反映されたけど、ストライキの主催者たちとまだ話し合ってない。 (CLO たちはそのまま？、 2018/11/08)
+# - 口外禁止条項つきの個人請負では、警備員に取調べされても Google は対応しないらしい。 (Guardian, 2018/11/25)
+#   英ロンドンでモロッコ系英国人が Wi-Fi の調査をしてたら疑われて、和解金と口外禁止条項つきで契約解除されてた。
+#   (ガイドラインでは、 Google の依頼を受けて調査してることを説明しても良かった？)
 # Google アカウントへのサインインに、 JavaScript が必須になった。 (reCAPTCHA v3?, 2018/10/31)
 # 英国営事業の医療アプリが、約束を破った Google の手に渡ってしまった。 (Streams, UK NHS, DeepMind Health, Guardian, 2018/11/14)
 # (画面の録画やスクリーンショットを、勝手に送信するアプリとかも話題になってるけど)
@@ -4670,6 +4716,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://security.googleblog.com/2018/10/announcing-some-security-treats-to.html][Announcing some security treats to protect you from attackers’ tricks]] (Google Online Security Blog, 2018/10/31)
 # [[https://www.blog.google/inside-google/company-announcements/note-our-employees/][A note to our employees]] (Google Blog, 2018/11/08)
 # [[https://www.theguardian.com/technology/2018/nov/14/google-betrays-patient-trust-deepmind-healthcare-move][Google 'betrays patient trust' with DeepMind Health move]] (Guardian, 2018/11/14)
+# [[https://www.theguardian.com/technology/2018/nov/25/google-settled-racism-case-from-contractor-treated-like-a-terrorist][Google settled racism case from contractor 'treated like a terrorist']] (Guardian, 2018/11/25)
 #
 # FBI が捜査のためにデータ提供を求めると、あとで対象のアカウントに通知することがある？
 # [[https://motherboard.vice.com/en_us/article/pawjjn/google-email-secret-fbi-investigation][Google Notifies People Targeted by Secret FBI Investigation]] (Motherboard, 2018/09/04)
@@ -4724,6 +4771,12 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://www.reuters.com/article/us-google-data-irish-regulators/at-least-two-u-s-attorneys-general-investigating-google-glitch-idUSKCN1MJ1M0][U.S., European regulators investigating Google glitch]] (Reuters, 2018/10/09)
 # [[https://www.commerce.senate.gov/public/index.cfm/pressreleases?ID=490200B3-8822-4175-8D5F-72B9E73CC118][Commerce Committee Leaders Seek Google+ Memo on Vulnerability]] (U.S. Senate Committee On Commerce, Science, & Transportation, 2018/10/11)
 # [[https://www.klobuchar.senate.gov/public/index.cfm/2018/10/dems-question-if-google-violated-ftc-privacy-settlement][Dems question if Google violated FTC privacy settlement]] (U.S. Senator Amy Klobuchar, 2018/10/24)
+
+# Google Search
+#
+# 検索結果で自社を優先して、 EU に罰金を科されてた。 (2017/??/??)
+# EU で 14 の比較サイトから、まだ続けてるって公開で非難された。 (CSS: Comparison Shopping Service, Search Neutrality, 2018/11/22)
+# [[http://www.searchneutrality.org/google/comparison-shopping-services-open-letter-to-commissioner-vestager][Open Letter to Commissioner Vestager from 14 European CSSs]] (Search Neutrality, 2018/11/22)
 
 Android 6 以前だと、 Google によるセキュリティパッチの公開もない。 (2018/08/05 が最後)
 Android 4 以前だと、 Google Play すら使えない。 (4.1 以降には、まだ対応してる)
@@ -4929,9 +4982,11 @@ H.265(HEVC) はパテントプールで溺れてる。
 
 # ふえるパテントプール。 (H.265)
 # MPEG LA, HEVC Advance, Technicolor SA, Velos Media, ...?
+# (H.264 は、 MPEG LA のみ)
 #
 # Alliance for Open Media (2015/09/01)
 # VP10 -> AV1 (AOMedia Video 1, royalty-free)
+# AVIF (AV1 Still Image File Format)
 # Youtube とかは、こっちに移行するみたい。
 # [[https://aomedia.org/the-alliance-for-open-media-kickstarts-video-innovation-era-with-av1-release/][The Alliance for Open Media Kickstarts Video Innovation Era with “AV1” Release]] (2018/03/28)
 # [[https://code.facebook.com/posts/612340875779169/facebook-video-adds-av1-support/][Facebook video adds AV1 support]] (2018/04/24)
@@ -4942,11 +4997,13 @@ H.265(HEVC) はパテントプールで溺れてる。
 # [[http://www.jbkempf.com/blog/post/2018/Introducing-dav1d][Introducing dav1d: a new AV1 decoder]] (... Dav1d is an AV1 Decoder ..., VideoLAN, Jean-Baptiste Kempf, 2018/10/01)
 # [[https://developers.google.com/web/updates/2018/09/chrome-70-media-updates][Audio/Video Updates in Chrome 70]] (... AV1 decoder is now supported in Chrome Desktop ... supported container is MP4 (ISO-BMFF) ..., 2018/10/05)
 #
-# AVIF (AV1 Still Image File Format)
-#
 # VVC (Versatile Video Coding)
 # H.265 (HEVC) の次も開発中。 (JVET: Joint Video Experts Team, 2020/10/??)
 # [[http://blog.chiariglione.org/the-mpeg-machine-is-reasy-to-start-again/][The MPEG machine is ready to start (again) – Leonardo Chiariglione | Blog]] (2018/04/20)
+#
+# Huawei と ZTE は、動画の特許問題で訴えられてる。 (H.264, 2017/02/15~)
+# 独地裁は、 Huawei と ZTE の侵害を認めた。 (Business Wire, 2018/11/16)
+# [[https://www.businesswire.com/news/home/20181115006116/en/German-Court-Rules-Huawei-ZTE-Products-Infringe][German Court Rules Huawei, ZTE Products Infringe AVC Patents]] (Business Wire, 2018/11/16)
 
 # 2017/05/25 dtab Compact d-01J タブレット発売。 (Huawei MediaPad M3 ベース)
 #            消費者向けとしては初の eSIM 搭載。
@@ -5039,7 +5096,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Cloud AutoML (Transfer Learning, GCP)
 #
 # A2DP (Advanced Audio Distribution Profile, Bluetooth, SBC: SubBand Codec, Android 1.5)
-# PHA (Potentially Harmful Applications, Verify Apps)
+# PHA (Potentially Harmful Applications, Google Play Protect, Verify Apps)
 # SMS -> RCS (Rich Communication Service, GSMA Universal Profile, Google Jibe Hub)
 # XMPP
 # Google Assistant (AI, Pixel Buds, Call Screen), Allo (Signal Protocol), iPhone
@@ -5107,6 +5164,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Android Dev Summit (2018/11/07~08)
 # [[https://github.com/google/oss-fuzz][OSS-Fuzz - continuous fuzzing of open source software]]
 # Files Go -> Files by Google (Bluetooth, Wi-Fi Direct)
+# Android Auto (In-Vehicle Infotainment, Android 5~, OAA: Open Automotive Alliance, 2015/03/19)
 #
 # ServiceMode, EngineerMode
 # stock ROM (official firmware)
@@ -5188,6 +5246,8 @@ H.265(HEVC) はパテントプールで溺れてる。
 # [[http://www2.sagawa-exp.co.jp/whatsnew/detail/721/][佐川急便を装った迷惑メールにご注意ください]] (佐川急便、 2018/07/27)
 # [[https://www.softbank.jp/mobile/info/personal/news/support/20180730a/][運送会社などを装った不審なメールに関するご注意]] (ソフトバンク、 2018/07/30)
 # [[https://www.antiphishing.jp/news/alert/sagawa_20180810.html][佐川急便をかたるフィッシング]] (フィッシング対策協議会、 2018/08/10)
+# [[https://twitter.com/NaomiSuzuki_/status/1025656923729715200][... 佐川急便の偽サイトの一部が、昨日リニューアルし、 ... アップルからのお届け物なので携帯電話の認証が必要という理由で、電話番号とSMSで届くコードの入力を求めます。]] (@NaomiSuzuki_, 2018/08/15)
+# [[https://twitter.com/NaomiSuzuki_/status/1064498521238192128][... 収束の気配がありません。]] (@NaomiSuzuki_, 2018/11/19)
 
 # Man-In-The-Disk attack
 #
@@ -5350,6 +5410,13 @@ Nexus と名の付いたスマホは Google の発注したモデル。
 # ThinQ AI
 # DTS:X (3D surround sound format)
 #
+# LG Q Stylus (2018/12/07?)
+# Android 8.1
+# ドコモと au VoLTE 対応。
+# 防水ワンセグ。 (|\||-||< 受信料)
+# スタイラスペン。
+# 楽天モバイルのみ？
+#
 # Pixel 2 XL
 # 日本では売ってない。
 # POLED の焼き付き問題は、更新で輝度の上限をちょっと下げた。 (-50cd/m^2)
@@ -5504,10 +5571,19 @@ Mate9 が問題になってる。 (無問題了？？)
 #   ホーム画面にアイコンを出したければ、アプリでなんとかする。
 #
 # Mate 20 Pro
-# 日本で売ってない。 (欧州で 2018/10/16 発売)
+# 日本ではまだ売ってない。 (欧州で 2018/10/16 発売)
 # OLED は、中国 BOE と韓国 LG 製がある。
 # ディスプレイが緑色になる？ (LG のみ？)
+# 曲げに弱い？
 # [[https://www.gsmarena.com/huawei_responds_to_the_mate_20_pros_screen_light_bleeding_issue-news-34037.php][Huawei responds to the Mate 20 Pro's screen issues]] (GSMArena, 2018/11/02)
+# [[https://www.notebookcheck.net/Huawei-Mate-20-Pro-found-to-have-durability-issues.366751.0.html][Huawei Mate 20 Pro found to have durability issues]] (NotebookCheck, 2018/11/24)
+#
+# Mate 20 lite (2018/11/30?)
+# EMUI 8.2 (Android 8.1)
+# ソフトバンクとドコモ VoLTE 対応。 (更新で au VoLTE 対応予定)
+# DSDV 対応。
+# 大容量バッテリー。
+# ビッグカメラグループが独占販売。
 #
 # nova 3 (2018/10/05)
 # EMUI 8.2 (Android 8.1)
@@ -5684,6 +5760,7 @@ DSDS 対応。 (SIMx2 + MicroSD スロット)
 # DSDS 対応。 (SIMx2 + microSD スロット)
 # 国内大手キャリアの VoLTE に全て対応。 (14.0400.1803.045, au VoLTE 対応、 2018/05/31)
 # どの回線でも使える。 *(!?)*
+# Android 9? (2019/01/??)
 #
 # ZenFone Max Plus (M1) (2018/02/17)
 # Android 7
@@ -5897,6 +5974,7 @@ Note7 は、バッテリーの爆発で回収されたけど。
 # ISOCELL Plus (GM1, GD1, CMOS Image Sensor, 48MPixels, pixel size 0.8μm, Gyro-based EIS: Electronic Image Stabilization, Tetracell, 2019/??/??)
 # One UI
 # Foldables (screen continuity, Android Dev Summit 2018)
+# S Pen (Stylus)
 #
 # Galaxy の SIM フリー版は、海外にしかない。
 #
@@ -6290,6 +6368,7 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # Android One の割に高性能。
 # TJC が代理店。 (上陸する？)
 # 小米日本合同会社を設立。 (2018/08/06?)
+# 中国 Meitu と提携。 (メイツー、美図、 2018/11/19)
 #
 # 安いスマホの設定画面には、広告を表示するのがビジネスモデルらしい。
 # プリインストールの "MSA" アプリは、アンインストールとかできない。
@@ -6314,12 +6393,20 @@ DSDV 対応。 (SIMx2 + microSD スロット)
 大容量バッテリー。
 # OPPO Japan 設立。 (2017/08/?? Emilai?)
 # OPPO Digital Japan とは違う。
-# 2018/02/09 に R11s を発売。 (日本上陸)
+# 2018/02/09 R11s を発売。 (日本上陸)
+# 2019/01/?? 認定修理店ができそう。 (スマホ修理工房と iPhone 修理工房の一部店舗が予定されてる)
 #
 # O-Share?
 # アプリフリージング (Android 8~ は、バックグラウンドのアプリを閉じるのがデフォルト)
 #
-# R17 Neo (CPH1893, 2018/11/22?)
+# AX7 (CPH1901, 2018/12/??)
+# Android 8.1 (ColorOS 5.2)
+# ソフトバンクと au VoLTE 対応。
+# どの回線でも使える。 *(!?)*
+# DSDV 対応。 (SIMx2 + microSD スロット)
+# 大容量バッテリー。
+#
+# R17 Neo (CPH1893, 2018/11/22)
 # Android 8.1 (ColorOS 5.2)
 # au VoLTE 対応。
 # OLED は、韓国 Samsung 製。 (NTSC)
@@ -6543,6 +6630,7 @@ Android 9 の公開と同時にバージョンアップできた、国内で唯�
 # fulfillment center (労働問題で話題の倉庫)
 # Amazon Pay (QRコード決済、 2018/08/29~)
 # Amazon Corretto (OpenJDK, no-cost LTS, Amazon Linux 2, 2019/04/??~)
+# Alexa Mobile Accessory (AMA Kit, Bluetooth, 2018/11/20~)
 #
 # Amazon Rekognition (画像認識)
 # 顔認識システムを、米警察とかにも売り込んでる。
@@ -6588,8 +6676,9 @@ Android 9 の公開と同時にバージョンアップできた、国内で唯�
 # Android 7.1.2 検証中で、 Android 8 も検討してはいるみたい。
 # [[http://trinity.jp/blog/2017/10/nuans_neo_reloadedos.html][NuAns NEO %5BReloaded%5DにおけるOS、セキュリティ、ファームウェアアップデートについて]]
 # Android 7.1.2 に更新すれば、セキュリティパッチレベルが 2017/10/05 になる。 (V22-05, 2017/11/09)
-# [[https://neo.nuans.jp/news/20180806/][NuAns NEO [Reloaded] クローズドベータテスター募集のお知らせ]] (Android 8.1, 2018/06/06)
+# [[https://neo.nuans.jp/news/20180806/][NuAns NEO %5BReloaded%5D クローズドベータテスター募集のお知らせ]] (Android 8.1, 2018/06/06)
 # [[https://neo.nuans.jp/news/20181102/][新ファームウェア配信のお知らせ]] (V31-06, Android 8.1.2, 2018/11/15)
+# [[https://trinity.jp/166281/][NuAns NEO %5BReloaded%5Dの今後]] (... セキュリティアップデートについては、今後、クォーターを目処にリリースをしていく予定 ... 発売より2年間は提供 ... 新規機能の追加やAndroid 9（Pie）へのアップデートは予定していません ..., 2018/11/21)
 
 # *** UPQ Phone A01X
 #
@@ -6611,7 +6700,7 @@ Android 9 の公開と同時にバージョンアップできた、国内で唯�
 # *** FINNEY SMARTPHONE (スイス SIRIN LABS)
 # 製造は台湾 FIH Mobile 。 (台湾鴻海の子会社)
 # SIRIN OS
-# コールドストレージ
+# コールドウォレット。
 # 世界初のブロックチェーンスマホ？ (2018/11/??)
 # SIRIN LABS JAPAN 設立。 (2018/07/17?)
 
@@ -6643,6 +6732,13 @@ Android 9 の公開と同時にバージョンアップできた、国内で唯�
 # 世界初の折り曲げられるスマホ？ (開いたらタブレット？)
 # 世界一薄い OLED を作った会社。 (0.01mm, 2014/08/13)
 # 日本では売ってない。 (中国で 2018/12/?? 発売予定)
+
+# *** X5-Touch (2018/12/??)
+#
+# アラブ首長国連邦 (UAE) Thuraya 製。 (スラーヤ)
+# Android 7.1
+# 衛星電話も使える。
+# 防水。
 
 # Android Go Edition (MWC 2018~)
 #
@@ -6678,7 +6774,7 @@ Android 9 の公開と同時にバージョンアップできた、国内で唯�
 
 # Apple SIM (eSIM)
 # Apple A11 Bionic (10nm) -> A12 (7nm) -> (5nm?) -> (3nm?), TSMC
-# Siri (AI)
+# Siri (SiriKit, AI)
 # IPv6 (iOS 10.3)
 # HFS+ -> APFS
 # jailbreak (iBoot)
@@ -6712,6 +6808,7 @@ Android 9 の公開と同時にバージョンアップできた、国内で唯�
 # DEP (Device Enrollment Program)
 # Data and Privacy (personal data download, GDPR)
 # [[http://patft1.uspto.gov/netacgi/nph-Parser?patentnumber=10102359][United States Patent: 10102359]] (voice authentication, voiceprint)
+# CarPlay (IVI: In-Vehicle Infotainment, iOS 7~, iPhone 5~, 2014/03/02)
 #
 # Hawkeye Access (TrueDepth camera, ARKit 2, hands-free, eye tracking cursor, Hawkeye Labs)
 
@@ -6750,6 +6847,13 @@ Android 9 の公開と同時にバージョンアップできた、国内で唯�
 # [[https://www.supremecourt.gov/docket/docketfiles/html/public/17-204.html][Docket for 17-204]] (U.S. Supreme Court)
 # [[https://gadgets.ndtv.com/entertainment/news/netflix-ios-app-itunes-billing-missing-sign-up-1902205][It Seems You Can No Longer Sign Up for Netflix via Its iOS App]] (NDTV, 2018/08/17)
 # [[https://guardianapp.com/ios-app-location-report-sep2018.html][Report: Location Data Monetization in iOS Apps]] (Guardian Mobile Firewall, 2018/09/07)
+#
+# 30% の手数料が独占禁止法に反するって、米で消費者団体に訴えられてる。 (2011/??/??~)
+# いまだに、消費者団体には訴える資格があるかどうかを争ってる段階。 (原告適格)
+# 地裁では、消費者団体の訴える資格を認めず。 (アプリの開発者が消費者に販売してると判断、 2013/??/??)
+# 控訴裁は、消費者団体の訴える資格を認めた。 (Apple が消費者に直接販売してると判断、 2017/??/??)
+# 最高裁は？ (2018/11/25~)
+# [[https://www.reuters.com/article/us-usa-court-apple/how-much-for-that-app-u-s-top-court-hears-apple-antitrust-dispute-idUSKCN1NU0JV][How much for that app? U.S. top court hears Apple antitrust dispute]] (Reuters, 2018/11/25)
 
 # "HennaSIM" (変な SIM)
 # 格安キャリアで、貼る SIM を提供してた。 (2018/07/01~)
@@ -6787,6 +6891,8 @@ Android 9 の公開と同時にバージョンアップできた、国内で唯�
 #            セキュリティのためには、プライバシーを顧みない献身的なユーザーが必要らしい。 *(!?)*
 # 2018/11/17 一部のアプリが、再開された。 (削除から 9 週間が経過)
 #            マーケティング目的の収集がデフォルト。 (有料)
+# 2018/11/19 ウイルスバスターのアプリは、機能を削減して再開された。
+#            よそのアプリの通信を、邪魔しなくなった？ (データ収集は？)
 # [[https://forums.malwarebytes.com/topic/217353-get-rid-of-open-any-files-rar-support/][Get rid of Open Any Files: RAR Support]] (Malwarebytes Forums, 2017/12/26)
 # [[https://twitter.com/privacyis1st/status/1038386825734316032][... Reported to @Apple ...]] (@privacyis1st, 2018/09/08)
 # [[https://twitter.com/privacyis1st/status/1038867958435639296][Hey @TrendMicro . Your MacOS app Dr.Unarchiver is doing same user data exfiltration. ...]] (@privacyis1st, 2018/09/09)
@@ -6819,6 +6925,8 @@ Android 9 の公開と同時にバージョンアップできた、国内で唯�
 # [[https://www.trendmicro.com/ja_jp/about/announce/announces-20180912.html][App Store上の当社アプリに関する重要なお知らせ]] (... 一部製品の公開が再開 ..., 2018/11/17)
 # [[https://appweb.trendmicro.com/SupportNews/NewsDetail.aspx?id=3271][当社アプリがApp Storeから一時公開停止されている件について]] (... サポート情報 ... 一部製品の公開が再開 ..., 2018/11/17)
 # [[https://twitter.com/ikuos/status/1063703610322694144][... パスワード管理アプリが、マーケティング目的で、自動ログインしたURL収集 ...]] (@ikuos, 2018/11/17)
+# [[https://twitter.com/piyokango/status/1063892057985441793][... データ収集に関する情報開示ならびに同意取得プロセスの改善 ...]] (VPN では名前や電話番号に URL とかを収集、 @piyokango, 2018/11/17)
+# [[https://www.trendmicro.com/ja_jp/about/announce/announces-20180912.html][App Store上の当社アプリに関する重要なお知らせ]] (... Appleの要件に沿う形で一部の機能を変更しています ..., 2018/11/19)
 
 # ブラウザゲームを排除しようとしてる？
 #
