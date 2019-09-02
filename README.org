@@ -1665,6 +1665,7 @@
 # 「電気通信事業法第27条の3等の運用に関するガイドライン」の案に関する意見募集 (2019/07/12 総務省)
 # 電気通信事業報告規則の一部を改正する省令案等に関する意見募集 (2019/07/19 総務省)
 # 電気通信事業法の一部を改正する法律の施行に伴う関係省令等の整備等に対する意見募集の結果及び情報通信行政・郵政行政審議会からの答申 (2019/08/23 総務省)
+# モバイル市場の競争環境に関する研究会 16, ICTサービス安心・安全研究会 消費者保護ルールの検証に関するWG 14 (2019/08/29 総務省)
 # - スマホ代金の割引き上限が 2 万円になる。 (通信料金で赤字を補填してた)
 # - 原則として、 2 年よりも長い縛りを禁止。 (固定回線がないとこは例外？)
 # - 次の契約から 2 年縛りを 1000 円で解約。 (これまでは 9500 円くらい)
@@ -1672,6 +1673,7 @@
 # - 長期利用割引の上限が、 1 ヶ月分の料金。 (議論してない？)
 # - 対象は、契約数 100 万件以上のキャリア。 (MVNO を含む)
 # - これからは、 2 次以降の代理店も届出制。 (届出媒介等業務受託者)
+# スマホ向けには、 2019/10/01 施行予定。
 # (ソフトバンクの CM キャンペーン "しばられるな" を採用したに違いない)
 # [[https://k-tai.watch.impress.co.jp/docs/news/1187496.html][ドコモの主張は「端末割引は3万円まで」 総務省有識者会合で議論]] (... KDDI ... 現行のガイドラインを省令化 ... ソフトバンク ... 別店舗で端末を購入 ... 割引上限と同じ金額で制限すべき ... MVNO委員会およびIIJは、景品表示法の総付景品の割合と同じ20％をひとつの基準 ... 楽天モバイル ... 「端末販売時の通信回線契約を条件とすることを禁止」「SIMロックの設定禁止など」「端末割引は上限を金額を定める」「MNP手数料の撤廃」「違約金の禁止」 ..., Impress, 2019/05/30)
 # [[https://www.itmedia.co.jp/mobile/articles/1905/31/news107.html][ドコモの“端末割引”上限は「3万円」に？ 真相を確認した]] (... ドコモ広報に確認したところ ... 割引額というよりはドコモの ... 下取り額を加味した支出額を、最大3万円 ..., ITmedia, 2019/05/31)
@@ -1685,6 +1687,8 @@
 # [[https://www.itmedia.co.jp/mobile/articles/1907/05/news059.html][MVNOの深イイ話：“通信と端末の分離”で何が起こる？ キャリア、MVNO、端末メーカーへの影響を考える (1/4)]] (... 2年を超える縛りについては一律禁止 ... SoftBank Air等の固定ブロードバンド回線の代替として提供される全国BWAの3年縛りプランを除き ..., ITmedia, 2019/07/05)
 # [[https://www.itmedia.co.jp/mobile/articles/1908/23/news112.html][総務省の新政策にAppleが猛反発 「競争の抑制につながる」「差別的な対応」]] (... 在庫を大量に抱えるメーカーに恩恵 ... 高品質の製品のみを提供する企業には損害 ..., これまでに売れ残りの在庫処分を Apple が問題視してきたのか不明、 ITmedia, 2019/08/23)
 # [[https://k-tai.watch.impress.co.jp/docs/news/1203473.html][総務省、電気通信事業法改正に伴う省令改正についてのパブリックコメントを公開]] (... クアルコムジャパンは「 ... 政府が値引き額を定めることは、結果的に事業者間の競争を阻害し、消費者の負担を増加させる ..., 今の消費者は負担が少ない？、 Impress, 2019/08/26)
+# [[https://www.itmedia.co.jp/news/articles/1908/30/news065.html][総務省、“駆け込み購入”あおるスマホ広告を問題視 10月の携帯料金規制強化で]] (... ソフトバンクの担当者は「ルールが変わる前に今の在庫を売っておきたいという代理店の意向 ..., ITmedia, 2019/08/30)
+# [[https://internet.watch.impress.co.jp/docs/yajiuma/1204297.html][一部ドコモショップで「解約」だと来店予約できない問題、事実と判明し是正される]] (... BUZZAP!が報じていたもの ..., Impress, 2019/08/30)
 
 # 「電波有効利用成長戦略懇談会 報告書（案）」に対する意見募集 (2018/07/09 総務省)
 # 「電波有効利用成長戦略懇談会 報告書」及び意見募集の結果の公表 (2018/08/31 総務省)
@@ -1738,6 +1742,7 @@
 # プラットフォームサービスに関する研究会における中間報告書（案）に対する意見募集の結果及び中間報告書の公表 (2019/04/05 総務省)
 # デジタル・プラットフォーマーの取引慣行等に関する実態調査について(中間報告) (2019/04/17 公正取引委員会)
 # プラットフォームサービスに関する研究会 8 (2019/05/24 総務省)
+# (令和元年8月29日)「デジタル・プラットフォーマーと個人情報等を提供する消費者との取引における優越的地位の濫用に関する独占禁止法上の考え方(案)」に対する意見募集について (2019/08/29 公正取引委員会)
 # GAFA 規制？ (Apple, Alphabet(Google), Amazon, Tencent, Alibaba, Facebook, ...?)
 # Google と Apple が出席して、非公開で聞き取り調査。 (Facebook は書面で回答して Amazon は拒否、 2018/11/28)
 # 大規模なアンケート調査を開始。 (独占禁止法 40 条？、 2019/02/27~2019/03/26)
@@ -1762,6 +1767,8 @@
 # [[https://www.itmedia.co.jp/news/articles/1904/18/news061.html][「利用料に不満」は楽天市場、「返品に不満」はAmazon 公取委のモール出店者調査]] (... モールの利用料 ... 返品の条件 ... 規約の一方的な変更 ... 規約の変更の中に「不利益な内容 ... 出店や出品を承認しなかった場合、その理由について「説明がなかった」 ... 価格や品ぞろえについて、モール運営者から「要請や指示 ... 検索アルゴリズムが不透明 ... 出店者に責任がない場合でも、返品を受け入れ ... 返品に関する費用を負担 ..., ITmedia, 2019/04/18)
 # [[https://headlines.yahoo.co.jp/hl?a=20190420-00000001-mai-bus_all][巨大IT規制 行政処分も視野 政府が検討、ネット通販から（毎日新聞）]] (... 政府の作業部会の中間報告案が19日、判明 ... 4月24日に開催される検討会に報告 ... 早ければ来年の通常国会への法案提出 ... 規制対象はネット通販で利用者が多いオンラインモールと、スマートフォン用アプリなどを売るアプリストアの運営事業者 ... 「データポータビリティー」制度についても検討 ..., 2019/04/20)
 # [[https://business.nikkei.com/atcl/gen/19/00052/061900004/][「努力義務違反の可能性」、グーグルの対応、国が指摘]] (... データの詳細や利用方法について ... 問い合わせ窓口がない ... フェイスブックとアップルは英語で質問に回答した。アマゾンは記者のパソコンで開けないファイル形式でデータを送ってきた。楽天、LINE、ヤフーは開示を拒んだ ..., 日本経済新聞、 2019/07/12)
+# [[https://www.nikkei.com/article/DGXMZO49143800Z20C19A8MM8000/][公取委、IT巨人の個人データ利用を規制 指針案]] (... (1)安全管理が不十分(2)利用目的をはっきり知らせない(3)規約にないデータの収集・第三者への提供(4)サービスの対価以上に提供を強いる ... 独禁法上の「優越的地位の乱用」 ... 企業と個人の間のデータのやり取りにも適用 ... プラットフォーマーが利用者個人との力の差を利用して強制的に個人情報の提供を同意させたり、不要な情報を吸い上げたりする行為は独禁法での規制 ..., 日本経済新聞、 2019/08/29)
+# [[https://twitter.com/yamadataro43/status/1167058778790825984][... 29日の自民党本部開催の競争政策調査会で「デジタルプラットフォーマの優越的地位の濫用に関する独禁法上の考え方」にクレカを含む決済事業者が対象に含まれると私が部会長、役員のもと公正取引委員会に確認 ...]] (山田太郎参議院議員、 @yamadataro43, 2019/08/29)
 
 # 文化審議会著作権分科会 著作物等の適切な保護と利用・流通に関する小委員会 4 (2018/10/23 文化庁)
 # 文化審議会著作権分科会 54 (2019/07/05 文化庁)
@@ -1858,6 +1865,7 @@
 # SIM の交換を偽装されたら、 SIM を乗っ取られることになる。
 # 電話番号や SMS で認証してるアカウントも、乗っ取られそう。
 # [[https://motherboard.vice.com/en_us/article/vbqax3/hackers-sim-swapping-steal-phone-numbers-instagram-bitcoin][The SIM Hijackers]] (Motherboard, 2018/07/17)
+# [[https://www.wired.com/story/jack-dorsey-twitter-hacked/][How Twitter CEO Jack Dorsey's Account Was Hacked]] (... SIM swap attacks ..., AT&T?, WIRED, 2019/08/30)
 
 # SS7 attack (Signalling System No.7, 共有線信号方式)
 #
@@ -2013,6 +2021,8 @@
 #            高額決済のボーナスを取り消された人たちに、使わないって決意させた。 (既定の損失補填、 2019/01/08~2019/01/10)
 #            (懸賞金額とビッグカメラの便乗値上げで、景品表示法違反も？)
 #            Yahoo! ショッピングとヤフオク！から、オンライン決済に対応。 (2019/06/03)
+#            不正利用への補償が、利用規約に記載された。 (2019/08/28)
+#            請求書払いを開始。 (2019/09/02)
 #            Yahoo! マネーを統合予定。 (2019/09/30?)
 #            [[https://www.paypay-corp.co.jp/notice/20181203/01/][3万円以上のお支払いをする場合の注意点]] (... 店舗にご本人様を確認できる確認書類（※）の提示 ..., 運転免許証やパスポートとか見せなきゃ使えない、 PayPay, 2018/12/03)
 #            [[https://www.paypay-corp.co.jp/notice/20181214/01/][身に覚えのないクレジットカードの請求がきたら]] (PayPay, 2018/12/14)
@@ -2032,6 +2042,7 @@
 #            [[https://www.businessinsider.jp/post-186575][PayPay｢5回に1回やたら当たるくじ｣が突然の終了予告した理由 ── ｢景表法｣の懸念とは何か]] (... 景品限度額 ... 一般懸賞 ... 懸賞に係る売上予定総額の2％ ... PayPay広報 ... 初回の100億円還元に関しては、景表法上の問題はない ..., BUSINESS INSIDER JAPAN, 2019/03/06)
 #            [[https://paypay.ne.jp/notice/20190522/02/][クレジットカード取引におけるセキュリティの改善状況について]] (PayPay, 2019/05/22)
 #            [[https://paypay.ne.jp/notice/20190823/01/][PayPayでお支払いやチャージができない（復旧済み）]] (... Amazon Web Services（AWS）のネットワークおよびデータベース障害 ..., 2019/08/23)
+#            [[https://paypay.ne.jp/notice/20190828/02/][（プレスリリース）不正利用による被害を補償する制度の導入について ...]] (... 全てのユーザーを対象 ... 2019年8月28日より適用 ..., 2019/08/28)
 # 2018/10/23 Yahoo! JAPAN ID の、生体認証ログインを開始。 (FIDO2, Android 7~, Chrome70)
 #            iOS 向けのYahoo! ショッピングアプリで、生体認証ログインを開始。 (FIDO2?, 2019/05/09)
 # 2018/10/23 砂漠のダボス会議の初日。 (FII: Future Investment Initiative, 未来投資イニシアチブ、 ~/2018/10/25)
@@ -2212,6 +2223,7 @@ DSDS 対応スマホで音声通話定額を利用するなら、ドコモがお
 # 2017/11/28 マルチプロファイル SIM を開発したと発表。 (渡航者向け？)
 # 2018/04/11 マンホール型基地局を試作したと発表。 (エリア半径 90m)
 # 2018/04/25 d 払いで、 QR コード決済を開始。
+#            不正利用への補償が、利用規約に記載された。 (2019/08/28)
 # 2018/05/09 RCS 開始。
 # 2018/05/29 d アカウントの生体認証ログインを開始。 (FIDO)
 # 2018/05/30 音声対話 AI アプリの my daiz を提供。 (corevo)
@@ -2224,13 +2236,14 @@ DSDS 対応スマホで音声通話定額を利用するなら、ドコモがお
 # 2019/03/01 音声を文章にリアルタイム変換する、通話アプリを提供開始予定。 ("みえる電話")
 #            ドコモ回線の途中で音声通話が録音されて、文章に変換したのをパケットとして受信する。 (通話とパケット料金がいる)
 #            内容を最長 6 ヶ月保存して、利用されることに同意がいる？ (トライアルのときだけ？)
-# 2019/03/?? ドコモレンディングプラットフォームで、消費者金融を開始予定。
+# 2019/08/29 ドコモレンディングプラットフォームで、消費者金融を開始。
 #            新生銀行から借りて、 d アカウントのドコモ口座に振り込まれる。 (バーチャルウォレット)
 #            セブン銀行 ATM を利用できて、マネーフォワードが督促してくる。
-#            信用スコアは、レーダーチャートでごまかす？ (ドコモスコアリング)
+#            信用スコアは、レーダーチャートでごまかす。 (ドコモスコアリング)
 #            アプリは追跡してくる？ (レンディングマネージャー)
 #            (提携銀行を増やして、社会信用システムを兼ねた情報銀行を作ってる？)
 #            [[https://www.nttdocomo.co.jp/info/news_release/2018/10/17_01.html][金融機関向けに「ドコモレンディングプラットフォーム」を提供]] (2018/10/17)
+#            [[https://www.nttdocomo.co.jp/info/news_release/2019/08/29_00.html][（お知らせ）金融機関向けに「ドコモレンディングプラットフォーム」の提供を開始]] (... ドコモ契約者のサービス利用状況から分析した信用スコア ... 融資サービスの手続きの中でのみ活用されます。お客さまの同意なく信用スコアを算出し、提携企業等の第三者に提供することはありません ..., 2019/08/29)
 # 2019/09/30 プリペイド SIM の提供を終了予定。 (Japan Welcome SIM)
 #            新規受け付けは 2019/06/13 終了予定。
 # 2019/10/01 GPS を補正して誤差 ?cm で位置情報を測定できるようになる予定。 (GNSS 位置補正情報配信基盤、法人向け)
@@ -2239,12 +2252,13 @@ DSDS 対応スマホで音声通話定額を利用するなら、ドコモがお
 
 ** au
 
-| 音声通話込み      |  1GB |  4GB |  7GB | 20GB | 60GB (*1) |
-|-------------------+------+------+------+------+-----------|
-| ピタット (従量制) | 4480 | 5980 | 7480 |      |           |
-| フラット (定額制) |      |      | 6980 |      |           |
-| フラット (旧)     |      |      |      | 7500 |           |
-| データ MAX        |      |      |      |      |     10480 |
+| 音声通話込み       |  1GB |  4GB |  7GB | 20GB | 60GB (*1) |
+|--------------------+------+------+------+------+-----------|
+| ピタット (従量制)  | 4480 | 5980 | 7480 |      |           |
+| フラット (定額制)  |      |      | 6980 |      |           |
+| フラット (旧)      |      |      |      | 7500 |           |
+| データ MAX         |      |      |      |      |     10480 |
+# | データ MAX Netflix |      |      |      |      |      8050 | (2019/09/13, LTE NET 込み？)
 (*1) 公式には無制限と書いてる。 (3 日間で 6GB 以上使ったら遅くなるかも)
 # LTE NET を含む。 (+300)
 # 2019/06/01 改定。
@@ -2537,6 +2551,8 @@ Android スマホは SIM ロックされてない。 *(!?)*
 #            [[http://blogofmobile.com/article/118722][楽天モバイル、北陸・中国・四国で4G無線局免許を取得]] (... 四国総合通信局は2019年8月8日付け、北陸総合通信局および中国総合通信局は2019年8月9日付け ..., @paopao0128, 2019/08/09)
 #            [[https://www.jiji.com/jc/article?k=2019081500903][総務省、楽天に行政指導＝携帯基地局の整備遅れ]] (... 来年３月末までに、東京２３区や大阪市、名古屋市を中心に３４３２局の基地局を整備する計画 ... ６月末までの整備状況は同社が提出した計画を大きく下回っていたため ... ７月１７日に整備計画の修正や早期整備を求める行政指導を口頭で行った ..., 時事通信、 2019/08/15)
 #            [[http://blogofmobile.com/article/118874][総務省が楽天モバイルに行政指導、基地局の整備に遅れ]] (... 2019年8月15日午前の時点で総務省の電波利用ホームページに反映されたRakuten Mobileの基地局の開設局数 ... 日本全国では合計で286局 ..., @paopao0128, 2019/08/15)
+#            [[https://www.businessinsider.jp/post-197565][楽天モバ｢行政指導｣で総務省は“仕事をした気”になっていやしないか？]] (... 8月27日現在、総務省の｢電波利用ホームページ｣によると、検索しても全国に566局 ..., BUSINESS INSIDER JAPAN, 2019/08/27)
+#            [[http://blogofmobile.com/article/119280][楽天モバイル、北海道と沖縄県でLTE基地局の免許を取得]] (... 沖縄総合通信事務所は2019年8月20日付け、北海道総合通信局は2019年8月28日付け ...@paopao0128, 2019/08/30)
 # 2018/12/28 インフラシェアリング事業のガイドラインが公表された。 (総務省)
 #            鉄塔とかの設備を安く利用できるようになる。 (次は信号機)
 #            (移動通信分野におけるインフラシェアリングに係る電気通信事業法及び電波法の適用関係に関するガイドライン)
@@ -2558,6 +2574,7 @@ Android スマホは SIM ロックされてない。 *(!?)*
 # 2019/09/01 DMM モバイルを買収予定。
 #            [[https://corp.rakuten.co.jp/news/press/2019/0709_01.html][楽天モバイル、DMM社よりMVNO事業「DMM mobile」等を承継]] (... 契約数は約24万（2019年6月30日時点） ..., 2019/07/09)
 #            [[https://www.itmedia.co.jp/mobile/articles/1907/13/news022.html][石野純也のMobile Eye：DMM mobile買収で契約増の楽天モバイル ただしMNOとMVNOの両立は不可に？ ドコモ吉澤社長は不快感 (1/2)]] (... ドコモの吉澤和弘社長は筆者のインタビューに答える形で、「 ... MVNOは解消してもらいたい」 ... KDDI傘下でドコモ回線を使うビッグローブとは「既に話をしている」 ..., ITmedia, 2019/07/13)
+#            [[https://www.itmedia.co.jp/mobile/articles/1908/30/news049.html][MVNOに聞く：DMM mobile買収の衝撃 “MVNOの楽天モバイル”はどこに向かうのか？ (1/3)]] (... いずれは楽天モバイルに統合 ... MNOに移るかはお客さまに決めていただけますが、できればMNOに移ってほしい ... 1ユーザー1万円で楽天モバイルに事業を売りたいというMVNOがいたら ... ウエルカムです ..., ITmedia, 2019/08/30)
 # 2019/10/01 サービス開始予定。 (限定的？)
 #            最初のエリアは東京23区、名古屋市、大阪市のみ。
 #            エリア外は、 au 回線にローミング接続。 (~2026/03/末までの予定)
@@ -4033,6 +4050,7 @@ Apple 機器専用。
 # グループ通話のバグは、 iOS 12.1.4 で修正したみたい。 (親子には謝罪、例外として？報奨金を提供)
 # [[https://9to5mac.com/2019/01/28/facetime-bug-hear-audio/][Major iPhone FaceTime bug lets you hear the audio of the person you are calling … before they pick up]] (9to5Mac, 2019/01/28)
 # [[https://9to5mac.com/2019/02/07/apple-releasing-ios-12-1-4-to-fix-facetime-eavesdropping-bug-later-today/][Apple releasing iOS 12.1.4 to fix FaceTime eavesdropping bug later today %5BNow available%5D]] (9to5Mac, 2019/02/07)
+# [[https://googleprojectzero.blogspot.com/2019/08/a-very-deep-dive-into-ios-exploit.html][A very deep dive into iOS Exploit chains found in the wild]] (FaceTime 以外にも iOS 10~12 にウイルスを仕込んで追跡したり覗いて盗んだりとか 2 年間悪用されてた 14 の脆弱性を Google から通知されて修正してた、 Project Zero, 2019/08/29)
 
 *** Messenger (Facebook)
 
@@ -4090,7 +4108,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 # 2015/04/30 旧 API が使えなくなった。 (Graph API 1.0 Deprecation)
 # 2015/12/11 同意のないデータが、英 CA に売られてたことを把握。 (Cambridge Analytica, Guardian)
 #            CA は Facebook に、削除したよと返事したらしい。
-#            気付いたのは 3 ヶ月くらい前だった？ (CNBC, 2018/08/23)
+#            気付いたのは 3 ヶ月くらい前だった。 (CNBC, 2018/08/23)
 # 2016/04/27 EU 一般データ保護規則が成立。 (GDPR)
 # 2016/06/23 英の EU 離脱投票に利用されたみたい。 (露ゲート？、 Brexit)
 # 2016/08/?? 米と EU の間に、プライバシーシールドが発効。
@@ -4932,17 +4950,19 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            - 音声の盗み聞きを広告に利用してないって、 CEO が証言してた。 (広告以外なら無断利用しても問題ない？)
 #            - 1 週間くらい前に、人が聞くのを停止したらしい。 (GDPR に違反？)
 # 2019/08/20 外部の履歴を、広告に利用しない設定ができた。 (Off-Facebook Activity, "Facebook外のアクティビティ")
-#            よそのアプリやサイトから受け取って 48 時間以内に、履歴から識別情報を削除。 (広告以外に利用しちゃう)
-#            履歴を完全に削除しない。 (集めたら個人を再識別できそう？、 Clear History?)
+#            よそのアプリやサイトから受け取った履歴から、 48 時間以内に識別情報だけを削除。 (広告以外に利用しちゃう)
+#            履歴を完全には削除しない。 (集めたら個人を再識別できそう？、 Clear History?)
 #            まだアイルランド、韓国、スペインのみ。 (数ヶ月で増えるらしい)
 # 2019/01/01 仏でデジタルサービス税の予定。 (9to5Mac, 2018/12/18)
 #            売り上げの 3% 。 (EU でも検討中)
 #            スペインも。 (独伊 ...?、 Reuters, 2019/01/18)
 #            米国務長官がやめるよう求めてる。 (Reuters, 2019/04/04)
 #            チェコも。 (CZK 40 billion or GDP 0.8%, Reuters, 2019/04/13)
+#            経済協力開発機構で、国際的な課税ルールを検討中。 (OECD, 2019/05/31)
 #            G20 でも検討される。 (タックスヘイブン対策で共通の最低法人税率も？、 Reuters, 2019/06/08)
 #            米が、通商法 301 条で仏制裁を検討中。 (法案が仏上院を通過して 21 日以内に成立？、 Reuters, 2019/07/11)
 #            Amazon がコスト転嫁を表明。 (規模の小さな仏の業者は競争力が落ちるかもと警告、 Reuters, 2019/08/02)
+#            経済協力開発機構の課税ルールが決まったら、越えてる分を払い戻すことで仏と米が合意。 (CNN, 2019/08/26)
 # 2019/10/31 英が EU を離脱する予定？ (Brexit, 延長 x3)
 #            露大統領のウインクで祝福する看板が、英ロンドンに出現。 (BЯEXIT, BOЯIS, @Pr0ud_Bear, 2018/11/08)
 #            離脱派の資金源と報じられた人に、記者個人が名誉毀損で訴えられて基金を設立。 (SLAPP, @carolecadwalla, 2019/07/24)
@@ -4979,6 +4999,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            スイスのデータ保護情報委員会が、くわしく説明するよう求めるお手紙を送ってた。 (FDPIC, 2019/07/23)
 #            Apple Card で扱えないみたい。 (Apple Card Customer Agreement, Goldman Sachs, Verge, 2019/08/02)
 #            欧州委員会も、反競争的な影響がないか調査してる。 (Bloomberg, 2019/08/20)
+#            バグ報告の報奨金制度を一般公開。 (Bug Bounty, @Libra_, 2019/08/27)
 #            各国政府から、中止を要求されるかも。 (shadow banking?)
 #            (広告利用に同意がいるだけ？暗号通貨で単一市場？ WeChat と同じ？これで会社分割されても大丈夫？)
 #            (Facebook が扱えない情報をなくして、プライバシーを社会的に殺す計画を CEO が実行に移しちゃう？)
@@ -5346,6 +5367,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 # [[https://www.eff.org/wp/caught-net-impact-extremist-speech-regulations-human-rights-content][Caught in the Net: The Impact of "Extremist" Speech Regulations on Human Rights Content]] (EFF, 2019/05/30)
 # [[https://www.reuters.com/article/us-facebook-shareholders/inflatable-angry-emoji-looms-over-facebook-annual-meeting-as-users-vent-frustrations-idUSKCN1T017G][Inflatable angry emoji looms over Facebook annual meeting as users vent frustrations]] (Reuters, 2019/05/30)
 # [[https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/age-appropriate-design-a-code-of-practice-for-online-services/][Age appropriate design: a code of practice for online services]] (ICO, 2019/05/31)
+# [[https://www.oecd.org/tax/beps/international-community-agrees-on-a-road-map-for-resolving-the-tax-challenges-arising-from-digitalisation-of-the-economy.htm][International community agrees on a road map for resolving the tax challenges arising from digitalisation of the economy]] (OECD, 2019/05/31)
 # [[https://www.reuters.com/article/us-facebook-investors/facebook-keeps-three-yearly-say-on-pay-vote-amid-outside-investor-doubts-idUSKCN1T504X][Facebook keeps three-yearly 'say on pay' vote, amid outside investor doubts]] (Reuters, 2019/06/03)
 # [[https://www.abc.net.au/news/2019-06-05/abc-raided-by-australian-federal-police-afghan-files-stories/11181162][ABC raid: AFP leave Ultimo building with files after hours-long raid over Afghan Files stories]] (ABC, 2019/06/05)
 # [[https://www.telegraph.co.uk/education/2019/06/04/universities-trawl-students-social-media-look-suicide-risk-new/][Universities to trawl through students’ social media to look for suicide risk, under new project]] (Telegraph, 2019/06/05)
@@ -5407,6 +5429,8 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 # [[https://www.bloomberg.com/news/articles/2019-08-20/facebook-s-libra-currency-gets-european-union-antitrust-scrutiny][Facebook's Libra Currency Gets European Union Antitrust Scrutiny]] (Bloomberg, 2019/08/20)
 # [[https://www.cnbc.com/2019/08/23/facebook-releases-new-cambridge-analytica-documents.html][Facebook learned about Cambridge Analytica as early as September 2015, new documents show]] (CNBC, 2019/08/23)
 # [[https://www.reuters.com/article/us-facebook-germany/german-cartel-office-to-take-facebook-case-to-high-court-idUSKCN1VG1AJ][German cartel office to take Facebook case to High Court]] (Reuters, 2019/08/26)
+# [[https://edition.cnn.com/2019/08/26/business/digital-tax-france-us/index.html][US and France reach compromise on digital tax]] (CNN, 2019/08/26)
+# [[https://twitter.com/Libra_/status/1166337048237789185][The #LibraAssociation is announcing a bug bounty ...]] (@Libra_, 2019/08/27)
 
 *** WhatsApp (WhatsApp)
 
@@ -5520,6 +5544,9 @@ Google アカウントを登録した相手には、メールアドレスで掛�
 # 中国から DDoS 攻撃を受けてると、公式にツイート。 (@telegram, @durov, 2019/06/12)
 # - 香港で、大規模デモの連絡にも使われてる。 (逃亡犯条例の改正で、行方不明者が中国で刑事裁判を受けてたのとかが合法化？)
 # - 中国で、大規模なネットの取締りをしてる。 (整治工作、人民網、 2019/06/12)
+# - 香港で、政府がブロッキングを計画してる。 (デモ鎮圧を口実に緊急情況規例条例を発動？、 HKISPA, 2019/08/28)
+#   (大規模デモ封じ？いずれ金盾？天安門事件を再現？澳門もいっしょに中国の法律で上書き？次は台湾？)
+# - 香港で、政府がグループチャットに潜入中？ (電話番号を元にデモ参加者を特定してるみたい、 CAC, Reuters, 2019/08/30)
 # (情報拡散事業者の登録を拒否したりして、 LINE とかも露にブロックされてた)
 # [[https://github.com/zapret-info/z-i][Register of Internet Addresses filtered in Russian Federation]]
 # [[http://tass.com/economy/1006868][Telecom watchdog demands Apple stop using Telegram, sending push notifications]] (TASS, 2018/05/28)
@@ -5536,6 +5563,8 @@ Google アカウントを登録した相手には、メールアドレスで掛�
 # [[https://twitter.com/telegram/status/1138768124914929664][... DDoS attack ...]] (@telegram, 2019/06/12)
 # [[https://twitter.com/durov/status/1138942773430804480][... from China ...]] (@durov, 2019/06/12)
 # [[http://media.people.com.cn/BIG5/n1/2019/0612/c14677-31132786.html][中央網信辦等四部委聯合開展互聯網網站安全專項整治]] (人民網、 2019/06/12)
+# [[https://www.hkispa.org.hk/139-urgent-statement-of-hkispa-on-selective-blocking-of-internet-services.html][Urgent Statement of HKISPA on Selective Blocking of Internet Services]] (HKISPA: Hong Kong Internet Service Providers Association, 香港インターネットプロバイダー協会、 2019/08/28)
+# [[https://www.reuters.com/article/us-hongkong-telegram-exclusive-idUSKCN1VK2NI][Exclusive: Messaging app Telegram moves to protect identity of Hong Kong protesters]] (Reuters, 2019/08/30)
 
 ** IP 電話 (050)
 
@@ -6500,6 +6529,8 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://twitter.com/HiromitsuTakagi/status/1165636020273987584][... 既保有のデータから評価情報を自ら生成する行為が「取得」に当たらないという勘違い。法の取得とは個人情報データベースに「個人データとして」登録する瞬間を言うのだから、自ら生成も取得である。]] (@HiromitsuTakagi, 2019/08/25)
 # [[https://www.ppc.go.jp/news/press/2019/20190826/][個人情報の保護に関する法律に基づく行政上の対応について]] (... リクルートキャリアに対し ... 個人情報保護法第42条第1項に基づき勧告及び法第41条に基づき指導 ..., この件が初の勧告で PDF に 20 条の安全管理措置と 23 条 1 項の第三者提供の制限への違反と書いてる、個人情報保護委員会、 2019/08/26)
 # [[https://www.recruitcareer.co.jp/news/pressrelease/2019/190826-01/][『リクナビDMPフォロー』に係る当社に対する勧告等について]] (いまだに提供先を明かしてない、リクルートキャリア、 2019/08/26)
+# [[https://www.mhlw.go.jp/stf/kaiken/daijin/0000194708_00145.html][根本大臣会見概要]] (... 記者 ... 他にも多くの就職情報サイト ... 聞き取りや注意喚起をされるお考えはありますか ... 大臣 ... 一般論として ... 募集情報等提供事業者にあたる「リクナビ」等の求人サイトや労働者を募集する企業 ... 個人情報の取扱い等の観点のみではなく ... 職業安定法等の違反について、しっかりと事実関係の確認を行った上で、必要な対応を行うこととなる ..., 2019/08/27 厚生労働省)
+# [[https://twitter.com/syuukatsukowasu/status/1167400617112793088][リクナビDMPフォロー購入企業 ... 38社中26社判明したがリクルートの謝罪会見後の判明はゼロ ...]] (26 社のリスト画像あり、 @syuukatsukowasu, 2019/08/30)
 #
 # 暗号通貨を無断採掘してる人が、警告もなく逮捕されちゃった。 (Cryptocurrency Mining, 仮想通貨)
 # 対象になった Coinhive は、ブラウザに暗号通貨を採掘させる JavaScript 。 (Monero)
@@ -6938,6 +6969,8 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://www.yomiuri.co.jp/economy/20190808-OYT1T50052/][韓国向け半導体材料、きょうにも初の輸出許可…管理厳格化]] (... 経産省が許可を出すのは、レジストとみられる。サムスングループ向けとなる可能性 ..., 読売新聞、 2019/08/08)
 # [[https://japanese.joins.com/article/497/256497.html][韓国も「ホワイト国」除外で対抗…「対日輸出の優遇措置を撤回」]] (... ホワイト国 ... を『カの１』『カの２』の２つの地域に細分化 ... 改正案で日本を新設した『カの２』地域に分類し、原則的に『ナ』地域水準の輸出統制 ... 事実上、戦略物資の輸出優遇はなくして実質的に『ホワイト国』から排除 ... ９月中に施行する予定 ..., 中央日報、 2019/08/12)
 # [[https://japanese.joins.com/article/852/256852.html][青瓦台、ＧＳＯＭＩＡ破った…韓日米の安保地形に亀裂（１）]] (... ２２日、青瓦台で韓日軍事情報包括保護協定（ＧＳＯＭＩＡ） ... を延長しないことを決めた ... 国家安全保障会議（ＮＳＣ） ... 事務処長である金有根（キム・ユグン）国家安保第１次長は「 ... ホワイト国（安保友好国）から韓国を除くことによって両国間の安保協力環境に重大な変化を招いた」 ..., 中央日報、 2019/08/23)
+# [[https://www.yomiuri.co.jp/economy/20190830-OYT1T50171/][フッ化水素の輸出も初許可、韓国政府「一喜一憂しない」]] (... 韓国の聯合ニュースによると、許可が出されたのは２９日で、サムスン電子向けの１件 ..., 読売新聞、 2019/08/30)
+# [[https://japanese.joins.com/article/152/257152.html][日本から輸入していた「高純度フッ化水素」、ＬＧディスプレーが国産化に成功]] (... サムスンディスプレーも今月中に国産化テストを終わらせる ..., 中央日報、 2019/09/02)
 
 # 上場したら、ホームページに載ってなかった役員が...
 #
@@ -7115,8 +7148,8 @@ OCN モバイル ONE との SIM 契約なしで使える。
 
 # QualPwn
 #
-# 同じ Wi-Fi に接続してる相手なら、攻撃したり乗っ取ったりできる脆弱性。
-# Qualcomm のチップを載せた、多くのスマホとかが対象。 (SoC やモデム)
+# Wi-Fi で同じアクセスポイントに接続してる相手なら、攻撃したり乗っ取ったりできる脆弱性。
+# Qualcomm のチップを載せた、多くの Android スマホとかが対象。 (SoC やモデム)
 # Android のセキュリティパッチは 2019/08/05 に公開されたけど、降ってこないかも。
 # [[https://www.qualcomm.com/company/product-security/bulletins][Security Advisories | Product Security]] (Qualcomm, 2019/08/05)
 # [[https://blade.tencent.com/en/advisories/qualpwn/][QualPwn - Exploiting Qualcomm WLAN and Modem Over The Air]] (BlackHat USA 2019, Tencent, 2019/08/08)
@@ -7210,7 +7243,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # 2019/06/05 Beta 4 (API level 29)
 # 2019/07/10 Beta 5 (Release Candidate)
 # 2019/08/07 Beta 6 (Final Release Candidate)
-# 2019/Q3
+# 2019/09/03?
 # - TLS 1.3
 # - WPA3 (Wi-Fi)
 #   Easy Connect (QR)
@@ -7225,11 +7258,12 @@ OCN モバイル ONE との SIM 契約なしで使える。
 #   アプリの開発者が、録音できるように作ってるとは限らないけど。
 # - AV1, Opus, HDR10+
 # - Project Mainline (APEX: Android Pony EXpress)
-#   Android OS のセキュリティパッチが Google Play から降ってくる。 (全部じゃないけど)
+#   Android OS のセキュリティパッチが Google Play から降ってくる。 (一部のみ)
 #   Project Treble で、スマホの製造元を介さずに Google が更新できる部分を増やしてく予定？
 # - Desktop mode
 # - 5G
 # - デザート廃止！？
+#   Q をイースターエッグの鍵にしただけ？ (Picross)
 #   [[https://blog.google/products/android/evolving-android-brand/][A pop of color and more: updates to Android’s brand]] (Google Blog, 2019/08/22)
 #
 # Android 9 メモ。
@@ -7524,6 +7558,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 #   英ロンドンでモロッコ系英国人が Wi-Fi の調査をしてたら疑われて、和解金と口外禁止条項つきで契約解除されてた。
 #   (ガイドラインでは、 Google の依頼を受けて調査してることを説明しても良かった？)
 # - Alphabet CLO たちの 2018 年度報酬が、株式だけで US$ 47 million を越えてる。 (Register, 2019/05/03)
+# - Alphabet CLO が子供の養育を拒否し続けてるけど、 Google もコメントを拒否し続けてる。 (Medium, 2019/08/28)
 # Google アカウントへのサインインに、 JavaScript が必須になった。 (reCAPTCHA v3?, 2018/10/31)
 # - サインインすると、人扱いされやすくなるみたい。 (ロボットより匿名を排除したがってる、 Register, 2019/06/28)
 # 米ミズーリ州で、独占禁止法とかに反してないか調査されてる。 (Ars Technica, 2018/11/14)
@@ -7564,6 +7599,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # Youtube で、児童ポルノみたいなコメントを集める動画が問題になってる。 (広告の引き上げも発生、 Bloomberg, 2019/02/20)
 # - 問題のあるコメントやチャンネルを、削除してる。 (@PhillyD, 2019/02/21)
 # - 主に未成年が映ってる動画に、コメントを残せなくなった。 (Youtube Creator Blog, 2019/02/28)
+# - Youtube Kids のサイト版ができた。 (アプリ版は 2015/02/23 から、 www.youtubekids.com, Youtube Help, 2019/08/29)
 # Youtube での検索結果に、第三者チェックの評価も表示。 (まだインドのみ、 BuzzFeed, 2019/03/07)
 # 2018 年にポリシー違反で削除した広告は、 23 億件。 (Google Ads Blog, 2019/03/14)
 # 米上院司法委員会で、 Android の位置情報を追跡するのは必要なことで無効にできないって宣言しちゃった。 (EFF, 2019/03/15)
@@ -7668,6 +7704,8 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://www.wired.com/story/most-google-walkout-organizers-left-company/][Most of the Google Walkout Organizers Have Left the Company]] (WIRED, 2019/07/16)
 # [[https://techcrunch.com/2019/08/02/google-ordered-to-halt-human-review-of-voice-ai-recordings-over-privacy-risks/][Google ordered to halt human review of voice AI recordings over privacy risks]] (TechCrunch, 2018/08/02)
 #   [[https://about.google/community-guidelines/][About Google's Community Guidelines]] (... disrupting the workday to have a raging debate over politics or the latest news story does not. ..., 2019/08/23)
+# [[https://medium.com/@jennifer.blakely/my-time-at-google-and-after-b0af688ec3ab][My Time at Google and After]] (Medium, 2019/08/28)
+# [[https://support.google.com/youtube/thread/12980033][Updates coming to YouTube Kids]] (Youtube Help, 2019/08/29)
 #
 # FBI が捜査のためにデータ提供を求めると、あとで対象のアカウントに通知することがある？
 # [[https://motherboard.vice.com/en_us/article/pawjjn/google-email-secret-fbi-investigation][Google Notifies People Targeted by Secret FBI Investigation]] (Motherboard, 2018/09/04)
@@ -7716,7 +7754,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://blog.chromium.org/2018/11/further-protections-from-harmful-ad.html][Further protections from harmful ad experiences on the web]] (Chromium Blog, 2018/11/05)
 # [[https://blog.chromium.org/2018/11/notifying-users-of-unclear-subscription.html][Notifying users of unclear subscription pages]] (Chromium Blog, 2018/11/08)
 # [[https://www.theregister.co.uk/2019/01/22/google_chrome_browser_ad_content_block_change/][Wow, fancy that. Web ad giant Google to block ad-blockers in Chrome. For safety, apparently]] (セキュリティの強化で拡張機能の広告ブロックも制限される提案が議論を呼んでる、 Android 版にはブラウザ内で広告ブロックする拡張機能を提供させてない、 uBlock Origin, uMatrix, webRequest -> declarativeNetRequest API, Register, 2019/01/22)
-# [[https://blog.chromium.org/2019/08/potential-uses-for-privacy-sandbox.html][Potential uses for the Privacy Sandbox]] (declarativeNetRequest API を押し通そうとしてる人がブラウザによって利用者の属性を収集して広告主にバラまく仕組みを提案しちゃった、 Chromium Blog, 2019/08/22)
+# [[https://blog.chromium.org/2019/08/potential-uses-for-privacy-sandbox.html][Potential uses for the Privacy Sandbox]] (declarativeNetRequest API を押し通そうとしてる人がブラウザが内部で利用者の属性を収集して広告主にバラまく仕組みを提案しちゃった、 Chromium Blog, 2019/08/22)
 
 # Google+
 #
@@ -8128,6 +8166,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # [[https://jpn.nec.com/press/201907/20190717_01.html][NEC、EU首脳会議の要人入場管理に顔認証システムを提供]] (... 2019/05/09 ... 高官の警護を担うルーマニアの政府機関であるProtection and Guard Serviceに ... システムを提供 ... 招待状に記載されたQRコードと組み合わせた2要素認証 ... 顔画像の利用は、本会議参加者の事前同意を受けて行われました ... EU首脳会議のセキュリティ対策で生体認証が利用された初めての事例 ..., 非公式会合のゲートで登録されてない人だけ検出？、 NEC, 2019/07/17)
 # [[https://www.washingtonpost.com/technology/2019/07/07/fbi-ice-find-state-drivers-license-photos-are-gold-mine-facial-recognition-searches/][FBI, ICE find state driver’s license photos are a gold mine for facial-recognition searches]] (FBI と移民税関執行局が令状も取らずに運転免許証のデータベースを顔認識システムに使ってる、 Washington Post, 2019/07/07)
 # [[https://threatpost.com/researchers-bypass-apple-faceid-using-biometrics-achilles-heel/147109/][Researchers Bypass Apple FaceID Using Biometrics ‘Achilles Heel’]] (iPhone の Face ID なら持ち主の意識を奪ってテープを貼ったメガネを掛けさせれば目の周辺を顔認証に使われないので突破できる、 BlackHat USA 2019, Threatpost, 2019/08/08)
+# [[https://www.thecrimson.com/article/2019/8/27/incoming-freshman-deported/][Incoming Harvard Freshman Deported After Visa Revoked]] (米 Harvard 大学の新入生が SNS に書き込まれた他人の投稿を理由に空港で入国拒否された、 Harvard Crimson, 2019/08/27)
 #
 # ディスプレイで指紋を読み取るモジュールも、突破されてる。 (OLED 向け)
 # "Clear ID" (FS9500, optical, Synaptics)
@@ -8295,6 +8334,8 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Made by Google (hardware sustainability)
 # Google Go (lightweight search app, 2019/08/21)
 # MediaPipe (Real-Time Hand/Palm Tracking, on-device sign language?, CVPR 2019)
+# Google Play Security Reward Program (HackerOne, Bug Bounty)
+# Developer Data Protection Reward Program (Bug Bounty)
 #
 # ServiceMode, EngineerMode
 # stock ROM (official firmware)
@@ -8342,6 +8383,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # [[https://github.com/nickspaargaren/pihole-google][nickspaargaren/pihole-google: Completely block Google and its services]] (GAFAM filter list)
 # Super Club SIM (nanoSIM + MicroSD, prepaid, 香港 CSL, 2019/07/05)
 # Open Enclave SDK (CCC: Confidential Computing Consortium, Alibaba, Arm, Baidu, Google, Intel, Microsoft, Tencent, ..., Linux Foundation, 2019/08/21)
+# 特務機関 NERV 防災アプリ (@UN_NERV, @NERVPR, iOS 向け、Android 向けも予定、ゲルヒン、 2019/09/01)
 #
 # Google Experience Device, Google Play Edition (EOL)
 # Android Beam (Android 4.0~9.0)
@@ -8739,13 +8781,14 @@ Nexus 6P を作ってた。
 # Phone Clone
 # 純正交換用バッテリー (内蔵電池パック) + 自分で交換キット (P9, P9 lite, nova lite, P10 lite)
 # PC Mode (EMUI 8.0~)
+# HiApp
 # AppGallery (EMUI 9.0~, nova3, 2018/10/05)
 # Huawei Pay
 # HiAI engine (P20)
 # HWA (High-Res Wireless Audio, LHDC: Low latency and High-Definition audio Codec, Savitech)
 # EROFS (Extendable Read Only File System)
 # GPU Turbo
-# HarmonyOS (HongMeng (鴻蒙), ARK OS, smart TV, IoT?, ... smart phone?, open source?)
+# HarmonyOS (HongMeng (鴻蒙), ARK OS, smart TV, smartwatch?, IoT?, ... smart phone?, open source?)
 # Ark Compiler (EMUI 9.1~, open source?, Android Q compatible?)
 # Map Kit? (navi?, Booking Holdings?, 2019/10/??)
 # bootloader unlock code (~2018/07/22)
@@ -8845,6 +8888,8 @@ Nexus 6P を作ってた。
 # [[https://consumer.huawei.com/en/press/news/2019/huawei-launches-harmonyos/][Huawei Launches New Distributed Operating System, HarmonyOS]] (Huawei, 2019/08/09)
 # [[https://www.xda-developers.com/harmony-os-huawei-announce/][Huawei officially reveals Harmony OS, its first party operating system]] (GMS 認証を受けられなければ Mate 30 に HarmonyOS を載せる？、 XDA Developers, 2019/08/09)
 # [[https://www.commerce.gov/news/press-releases/2019/08/department-commerce-adds-dozens-new-huawei-affiliates-entity-list-and][Department of Commerce Adds Dozens of New Huawei Affiliates to the Entity List and Maintains Narrow Exemptions through the Temporary General License]] (BIS, 2019/08/19)
+# [[https://www.reuters.com/article/us-huawei-tech-usa/after-blacklisting-u-s-receives-130-plus-license-requests-to-sell-to-huawei-sources-idUSKCN1VH2K0][After blacklisting, U.S. receives 130-plus license requests to sell to Huawei: sources]] (130 社以上が米商務省に Huawei への輸出許可を申請したけど 1 社も認められてない、 Reuters, 2019/08/27)
+# [[https://www.reuters.com/article/us-huawei-tech-alphabet-idUSKCN1VI240][Huawei plans high-end phone launch under cloud of Google ban]] (... A Google spokesman told Reuters the Mate 30 cannot be sold with licensed Google apps and services ..., AOSP+AppGallery?, Reuters, 2019/08/28)
 #
 # 米司法省に、よその会社から営業秘密を組織的に盗んでるって訴えられた。 (2019/01/28)
 # 2012/09/13 米 T-Mobile が、 "Tappy" の動画を Youtube にアップロード。
@@ -9529,8 +9574,9 @@ DSDV 対応。
 # 中国 Black Shark 製。 (黒鯊科技、 Xiaomi が出資)
 # TAKUMI JAPAN が代理店。
 # DSDV 対応。 (microSD スロットなし)
+# プライベート LTE 対応。 (sXGP, Band 39)
 # ソフトバンクとドコモ回線向け。
-# メモリとストレージを半減させた廉価版も発売予定。 (2019/08/??)
+# メモリとストレージを半減させた廉価版も発売予定。 (2019/08/31?)
 
 *** Xperia
 
@@ -9641,7 +9687,7 @@ Note7 は、バッテリーの爆発で回収されたけど。
 # 防水おサイフ。
 # J:COM MOBILE のみ販売。 (大手キャリア向けを除く)
 #
-# Galaxy Fold (2019/04/26->2019/09/18?)
+# Galaxy Fold (2019/04/26->2019/09/06?)
 # 両面 OLED ディスプレイ。 (cover + Infinity Flex Display, Multi-Active Window, three active app)
 # OLED を内側に折りたたみできる。 (App Continuity)
 # レビュー用に貸し出したスマホで、故障が報告されてる。 (Bloomberg, 2019/04/17)
@@ -10501,7 +10547,8 @@ Android 9 の公開と同時にバージョンアップできた、国内で唯�
 # 半年毎の透明性レポートから、削除要求された回数を消しちゃった。 (Amazon Information Request Reports, 2019/01/31)
 # - 米の広域監視システムに参加したことがないって文言とかを、削除しちゃった。 (TechCrunch, 2019/08/01)
 # Amazon が、警察とかを含めた利用する側に透明性を確保するよう求めてる。 (新しい法律を作るのは支持、 2019/02/07)
-# 玄関とかのカメラを隣人や警察で共有する、子会社のホームセキュリティサービスで人種差別が横行。 (Motherboard, 2019/02/07)
+# 玄関とかのカメラを隣人や警察で共有する、子会社のホームセキュリティサービスで人種差別が横行。 (Ring, Motherboard, 2019/02/07)
+# - 405 もの米警察署が Amazon と提携して、覗いてる。 (Washington Post, 2019/08/28)
 # 商用利用や収集したデータの売却を規制する法案を、米議員が提出。 (Commercial Facial Recognition Privacy Act, 商用顔認識プライバシー法、 U.S. Senator Roy Blunt, 2019/03/14)
 # AI の研究者たちが、警察とかに売るのをやめるよう公開のお手紙を送った。 (Google, Facebook, Microsoft, ..., Medium, 2019/03/25)
 # Alexa からの音声の一部を、従業員が聞いてタグ付けしてると報じられた。 (Bloomberg, 2019/04/10)
@@ -10624,6 +10671,10 @@ Android 9 の公開と同時にバージョンアップできた、国内で唯�
 # [[https://www.bloomberg.com/news/articles/2019-08-02/amazon-gives-option-to-disable-human-review-of-alexa-recordings][Amazon Gives Option to Disable Human Review on Alexa]] (Bloomberg, 2019/08/02)
 # [[https://news.kddi.com/kddi/corporate/newsrelease/2019/08/19/3963.html][KDDIグループとセコム、国内初、5Gを活用したスタジアム警備の実証実験に成功]] (... ドローン (注2)・ロボット・警備員が装備したカメラ ... AIを活用した人物の行動認識機能で解析し、異常を自動認識して管制員に通知 ... 警備員とロボットへ現場急行を指示 ... 骨格の動きから人物の詳細な動きを認識 ..., スマート監獄警備システム？、 au, 2019/08/19)
 # [[https://jpn.nec.com/press/201908/20190822_01.html][NEC、ローソンが実施するスマート店舗(深夜省人化)実験において入店管理システムやセルフレジなどを提供]] (... QRコードをお持ちでないお客様は、入店管理機器に搭載されたカメラで顔を撮影 ..., スマート入獄店舗実験？、 NEC, 2019/08/22)
+# [[https://www.washingtonpost.com/technology/2019/08/28/doorbell-camera-firm-ring-has-partnered-with-police-forces-extending-surveillance-reach/][Doorbell-camera firm Ring has partnered with 400 police forces, extending surveillance concerns]] (Washington Post, 2019/08/28)
+# [[https://jpn.nec.com/press/201908/20190830_01.html][NEC、アサヒ飲料とクラウド型カメラ付自動販売機“まちを見守る自販機”を共同開発]] (... 映像をクラウド上へ自動的に保管 ... 警察への映像提供といった ... 管理が不要 ... NEC Safer Cities ... 生体認証や映像解析を ... 活用して ... 公平な都市の実現 ..., Insecam?, スマート監獄配信計画？、 NEC, 2019/08/30)
+# [[https://news.kddi.com/kddi/corporate/newsrelease/2019/09/02/3995.html][「映像×5G」でデジタルトランスフォーメーションを加速法人向け5G対応ソリューションの提供開始]] (... 2020年3月より ... カメラと画像解析エンジンによる分析 ... センサーと連携し、来場者の属性にあわせた ... 電子案内板や広告表示 ..., スマート監獄都市計画？、 au, 2019/09/02)
+# [[https://www.nttdata.com/jp/ja/news/release/2019/090200/][レジ決済無しで商品購入、デジタル店舗出店サービスを提供開始]] (... QRコードで認証入店することで、手に取った商品をそのまま持ち帰る ... カメラや重量センサーからのデータ解析を得意とする中国のCloudPick社（読み：クラウドピック）^注1と業務提携 ... 店内行動の可視化によりパーソナライズ ... 消費者の行動動線やアクションをデータで把握 ..., Amazon Go?, スマート監獄店舗計画？、 NTT DATA, 2019/09/02)
 
 # *** GRANBEAT (ONKYO)
 #
@@ -10673,7 +10724,7 @@ Android 9 の公開と同時にバージョンアップできた、国内で唯�
 # *** Venus Z10 (トルコ Vestel)
 # ロック画面に広告を表示。 (Google Play ポリシーでは制限された、 2017/11/??)
 
-# *** Mode1 RR (2019/07/29?)
+# *** Mode1 RR (2019/07/29)
 #
 # ピーアップ製。
 # Android 9
@@ -10731,25 +10782,25 @@ Android 9 の公開と同時にバージョンアップできた、国内で唯�
 # 防水。
 # 日本では売ってない。
 
-# *** Gemini PDA (2018/12/23)
+# *** Cosmo Communicator (2019/09/??)
 #
 # 英 Planet Computers 製。 (ODM)
 # 代理店は、リンクスインターナショナル。
+# Android 9 (Debian Linux?, Sailfish OS?)
+# DSDV 対応。
+# eSIM 対応。
+# 大容量バッテリー。
+# ノートパソコンみたいに QWERTY 配列のキーボードがある。
+# CES Unveiled に展示された。 (2019/01/08)
+# クラウドファンディング商品。 (米 Indiegogo)
+#
+# Gemini PDA (2018/12/23)
 # クラウドファンディング商品。 (米 Indiegogo)
 # Android 7.1.1 (Debian Linux, Sailfish OS, Multi-boot)
 # VoLTE 対応。 (?)
 # eSIM 対応。 (eSIM Wallet, SIM スロット 2 扱い)
 # ノートパソコンみたいに QWERTY 配列のキーボードがある。
 # PDA だった英 Psion の Android 版。
-#
-# Cosmo Communicator (2019/09/??)
-# CES Unveiled に展示された。 (2019/01/08)
-# クラウドファンディング商品。 (米 Indiegogo)
-# Android 9
-# DSDV 対応。
-# eSIM 対応。
-# 大容量バッテリー。
-# ノートパソコンみたいに QWERTY 配列のキーボードがある。
 
 # XPhone (2019/Q2?)
 #
@@ -10798,6 +10849,14 @@ Android 9 の公開と同時にバージョンアップできた、国内で唯�
 # [[http://wololo.net/2019/07/25/news-android-for-the-nintendo-switch-coming-within-5-days-and-vita3k-seeing-good-progress-with-persona-4-golden-to-show-graphics-soon/][News: Android For The Nintendo Switch Coming Within 5 Days And Vita3K Seeing Good Progress With Persona 4 Golden To Show Graphics Soon!]] (Android Q 対応？、 Wololo.net, 2019/02/25)
 # [[http://wololo.net/2019/06/10/nintendo-switch-news-bylaws-gets-gpu-acceleration-on-android-for-switch-and-promises-to-release-his-work-when-its-ready/][Nintendo Switch News: ByLaws gets GPU acceleration on Android for Switch and promises to release his work “when it’s ready”!]] (Wololo.net, 2019/06/10)
 # [[http://wololo.net/2019/07/27/android-for-the-nintendo-switch-has-finally-landed-you-can-now-run-lineageos-15-1-android-8-1-on-your-hacked-nintendo-switch/][Android for the Nintendo Switch has finally landed – You can now run LineageOS 15.1 (Android 8.1) on your hacked Nintendo Switch]] (Wololo.net, 2019/07/27)
+
+# Fairphone 3 (2019/09/03?)
+#
+# 蘭 Fairphone 製。
+# Android 9 (AOSP も予定？)
+# バッテリー交換できる。
+# 簡単に修理できる。 (7 つのモジュール化された部品を取り寄せて自分で交換、フレームは変えられない？)
+# 日本で売ってない。
 
 # Android Go Edition (MWC 2018~)
 #
@@ -10848,7 +10907,9 @@ Android 9 の公開と同時にバージョンアップできた、国内で唯�
 # Apple Wallet (Apple Pay, student ID)
 # Apple Card (no card number, no CVV, no expiration date, no signature, Goldman Sachs, Mastercard, iPhone 6~, iOS 12.4, 2019/08/20)
 # iCloud (free 5GB, Amazon S3, Google Cloud Platform, Microsoft Azure?, 雲上貴州大数据産業発展->中国電信)
-# Apple Store (Genius Bar, Authorized third-party repair center, Horizon Machine)
+# Apple Store (Genius Bar, Horizon Machine)
+# AASP (Apple Authorized Service Provider, third-party repair center, 正規サービスプロバイダ)
+# IRP (Independent Repair Provider, out-of-warranty iPhone repairs, 独立系修理プロバイダ？、 2019/08/29)
 # Secure Enclave Processor (SEP)
 # In-App Purchase
 # [[https://opensource.apple.com/][Apple Open Source]]
@@ -10889,9 +10950,13 @@ Android 9 の公開と同時にバージョンアップできた、国内で唯�
 # 音声アシスタント。
 # 匿名の請負業者が、一部の音声を人が聞いてると告発。 (1% 未満、応答評価らしい、 Guardian, 2019/07/26)
 # Apple が記事を認めて、聞くのを停止させて同意を得るよう修正してるみたい。 (TechCrunch, 2019/08/01)
+# デフォルトで録音しないように変更して、人が聞くのを再開する予定。 (オプトイン、 2019/08/28)
+# - 文字起こししたのは、これからも使う。 (人も見る？保存期間は？削除できない？)
+# - 間違って録音されたのは、削除。 (Apple の従業員だけが聞く)
 # (Google や Amazon での問題と同じって考えてよさそう)
 # [[https://www.theguardian.com/technology/2019/jul/26/apple-contractors-regularly-hear-confidential-details-on-siri-recordings][Apple contractors 'regularly hear confidential details' on Siri recordings]] (Guardian, 2019/07/26)
 # [[https://techcrunch.com/2019/08/01/apple-suspends-siri-response-grading-in-response-to-privacy-concerns/][Apple suspends Siri response grading in response to privacy concerns]] (TechCrunch, 2019/08/01)
+# [[https://www.apple.com/newsroom/2019/08/improving-siris-privacy-protections/][Improving Siri’s privacy protections]] (2019/08/28)
 
 # AirDrop (AWDL: Apple Wireless Direct Link, Bluetooth and Wi-Fi, iOS 7~)
 #
@@ -11126,6 +11191,8 @@ Android 9 の公開と同時にバージョンアップできた、国内で唯�
 # [[https://www.idc.com/getdoc.jsp?containerId=prUS44425818][Global Smartphone Shipments Down 6.0% in Q3 2018 as the Leading Vendor and the Largest Market Face Challenges, According to IDC]] (IDC, 2018/11/01)
 # [[https://www.macrumors.com/2019/04/17/apple-securities-fraud-lawsuit/][Apple Hit With Securities Fraud Lawsuit for Hiding iPhone Sales Drop]] (MacRumors, 2019/04/17)
 
+# Apple Special Event (2019/09/10)
+#
 # Apple Special Event (2018/09/12)
 # iPhone XS/XS Max, XR
 # A12 Bionic (7nm)
@@ -11204,7 +11271,7 @@ Apple Store (直営) と、 Apple 正規サービスプロバイダがある。
 # | 2009/06/19 | 3Gs            | Tethering                                                 |
 # | 2010/06/24 | 4              | FaceTime, Multitask, Aluminosilicate glass body           |
 # | 2011/10/05 |                |                                                           | Steve Jobs Dies at 56.
-# | 2011/10/14 | 4s (au)        | Dual-Core, iMessage, Siri                                 | iOS ~9.3.5 (2016/08/25)
+# | 2011/10/14 | 4s (au)        | Dual-Core, iMessage, Siri, iCloud                         | iOS ~9.3.5 (2016/08/25)
 # | 2012/09/21 | 5              | 4G, Lightning connector                                   |
 # | 2013/09/20 | 5c (docomo)    |                                                           | iOS ~10.3.3 (2017/07/19)
 # GPS patch (iOS 9.3.6 and 10.3.4, week number rollover, 2019/07/22)
@@ -11373,7 +11440,7 @@ au VoLTE 対応。
 | 2017/01/10 | 総務省のガイドライン改正。                                                                    |
 | 2017/08/01 | 割賦払いで買うと、 100 日後に解除できる。 解約の時は原則解除。 同じ回線なら解除なしで使える。 |
 | 2017/12/01 | 一括払いならすぐ解除できる。                                                                  |
-| 2019/09/01 | 契約してない人も解除できるようになる。 (2015/05/01 以降に発売されたスマホ)                    |
+| 2019/09/01 | 契約してない人も解除できる。 (2015/05/01 以降に発売されたスマホ)                              |
 # ガイドラインは "モバイルサービスの提供条件・端末に関する指針" になった。 (2017/01/10)
 # "SIM ロック解除の円滑な実施に関するガイドライン" として含まれてる。
 #
@@ -11385,13 +11452,14 @@ au VoLTE 対応。
 # (テザリングのときに、大手キャリアの APN に戻される iPhone が残ってた)
 
 大手キャリアが売ってるスマホのほとんどは、 SIM ロックされてる。
-au だけ、契約して買った本人しか解除できない。 (解約したら 3 ヶ月後くらいまで)
-解除しないと違う回線に移るとき、スマホを使い回せない。
+解除しないと、違う回線でスマホを使い回せない。
+中古を買っても解除できるようになった。 (2019/09/01)
 2015/05/01 より前に発売されたスマホは、解除できないことになってるのが多い。
 # ドコモは前倒しで、契約してない人も解除できるようになった。 (2019/02/20)
-# ソフトバンクはちょっとだけ前倒して、契約してない人も解除できるようになった。 (2019/08/21)
-# オンラインだと d アカウントがいる。 (無料)
-# 店舗だと、本人確認書類がいる？ (有料)
+# ソフトバンクはちょっとだけ前倒して、契約してない人も解除できるようになった。 (Y!mobile も、 2019/08/21)
+# au と UQ mobile も、契約してない人が解除できるようになった。 (2019/09/01)
+# オンラインだとアカウントがいるので、大手キャリアと何か契約しなきゃいけない。 (無料)
+# 店舗だと、本人確認書類がいる。 (有料)
 
 解除なしでも、同じ回線を使う格安キャリアで使えるようにはなってる。
 対象は 2017/08/01 以降に発売されたスマホ。 (iPhone 8 以降の2017 年秋モデルから)
