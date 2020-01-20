@@ -358,6 +358,16 @@
 # 代理店に対する指導などの措置義務。 (消費者は代理店と契約するワケじゃない)
 # 苦情処理義務。 (苦情を増やすのやめて)
 # (ただし、格安キャリアは初期契約解除制度の対象外)
+# [[https://twitter.com/tide_watcher/status/1214831805255188481][知人が携帯の機種変しに行ったら、書類に店長からのセールス指示書がまぎれていた ...]] (画像あり、 ... Disney はベタ付け ..., 強制加入させることらしい、 @tide_watcher, 2020/01/08)
+# [[https://twitter.com/tide_watcher/status/1215115346245373952][... ドコモ・au・ソフトバンク・ワイモバイルの携帯キャリアショップを全国で数百店舗展開している古参業者 ...]] (@tide_watcher, 2020/01/09)
+# [[https://nlab.itmedia.co.jp/nl/articles/2001/09/news126.html][「親が支払いしてるクソ野郎」 ドコモ代理店の書類に信じられないメモ書き 受け取った本人に話を聞いた]] (... 一家で自営業を営んでおり、父親の名義でまとめて支払うと都合がいいというだけ ..., ITmedia, 2020/01/09)
+# [[https://www.fnn.jp/posts/00430155CX/202001102023_CX_CX][ドコモショップで仰天メモ 渡された書類に「クソ野郎」]] (... 店長は、「メモを書いたのは自分だ」と説明し ... 『うちの社員にも同じような人間がいて、その人間のことを“クソ野郎”って呼んでいるんです』 ..., FNN, 2020/01/10)
+# [[https://k-tai.watch.impress.co.jp/docs/news/1228624.html][ドコモが謝罪、ショップでの不適切メモで]] (... 問題が発生した店舗は兼松コミュニケーションズが運営するドコモショップ市川インター店 ..., Impress, 2020/01/10)
+# [[https://www.itmedia.co.jp/mobile/articles/2001/14/news067.html][ショップでの“不適切なメモ”でドコモが謝罪 不要なオプション提案も問題視]] (... メモは店長が書いたとする報道もあるが、事実ではなく、「フロアを統括する責任者が書いた」（ドコモ） ..., ITmedia, 2020/01/14)
+# [[https://www.itmedia.co.jp/business/articles/2001/14/news088.html][ドコモ代理店の「クソ野郎」問題　事件発生から謝罪まで4日間かかった理由を運営会社に聞く (1/2)]] (... 1月6日： 事件の発生 ... お客は店長への面会も ... できなかった ... 1月8日： お客の通報 ... 1月9日： ... 兼松コミュニケーションズが問い合せフォームの内容から事件を把握 ... 店長とメモを書いた店員を本社に呼びつけ、ヒアリング ... 1月10日： ... 市川インター店で ... お客に対しておわび ... 店長とメモを書いた店員は同席していない ... 対応を謝罪する文章を公表 ..., ITmedia, 2020/01/14)
+# [[https://www.itmedia.co.jp/news/articles/2001/14/news128.html][「あれがドコモショップのリアル」──“クソ野郎”事件はなぜ起きたのか 現役店員が漏らした本音 (1/2)]] (... 当該店舗を「社員研修のため、11～14日の間お休みする」とした後、「当面の間臨時休業」にあらためた ... キャッシュバックは段階的に規制され ... 「分離プラン」を各社が導入 ... ショップには契約数獲得のノルマ ... だけが残っている状況 ..., ITmedia, 2020/01/14)
+# [[https://twitter.com/tide_watcher/status/1217027971074027520][... ご本人はTwitterを利用していません ... デマが多数流布されましたので、ご注意ください。]] (@tide_watcher, 2020/01/14)
+# [[https://twitter.com/tide_watcher/status/1217027972206485504][... 会社側は店長の存在を伏せており、TVメディアから複数回の取材が入ってはじめて「店舗責任者」が「店長」ではないことを明かしたそうです ...]] (@tide_watcher, 2020/01/14)
 #
 # 総務省からの "電気通信事業法に基づく指導" を、大手キャリアは仲良く受けた。 (2017/06/28)
 # ドコモは、さかのぼって初期契約解除制度での解約を受け付けてる。 (2017/07/14)
@@ -630,6 +640,7 @@
 # [[https://www.asahi.com/articles/ASMC65J0WMC6TIPE02Z.html][「漫画村」アップロード役の男に有罪判決 著作権法違反]] (... ７日、福岡地裁 ... 懲役１年６カ月執行猶予３年、罰金５０万円（求刑懲役１年６カ月、罰金５０万円） ... 漫画村をめぐる著作権法違反事件で判決が出るのは初めて ..., 朝日新聞、 2019/11/07)
 # [[https://nlab.itmedia.co.jp/nl/articles/1911/18/news087.html][講談社、海賊版リーチサイト「はるか夢の址」への訴訟で勝訴 運営者に約1億6000万円の支払命令]] (... 3人に対しては既に刑事事件でそれぞれ懲役3年6カ月、同3年、同2年4カ月の有罪判決が下されています ..., ITmedia, 2019/11/18)
 # [[https://japanese.engadget.com/2019/12/12/iphone-dmca/][iPhone暗号化キーを含むツイート、アップルがDMCA侵害として削除申請。後に撤回]] (... iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347bc1897bdd66b11815f036e94c951250c4dda916c00 ... 大手企業などが自社に都合の悪い記事を人の目に触れないように濫用する事例 ..., @s1guza, Engadget, 2019/12/12)
+# [[https://www.itmedia.co.jp/news/articles/2001/07/news100.html][竹書房、米Cloudflareを提訴 海賊版サイト巡り、損害賠償とデータ削除求める]] (... 損害賠償とデータの削除を求める訴訟を、東京地裁で2019年12月20日に起こした ... 漫画家・ハナムラさんと共同 ..., 代理人は中島博之弁護士、 ITmedia, 2020/01/07)
 #
 # これからのネットづくりと海賊サイトへのブロッキング要請を考える (2018/04/18)
 # コンテンツ文化研究会と、 JAIPA, MIAU, うぐいすリボンの共催。
@@ -1553,6 +1564,7 @@
 # 侵害コンテンツのダウンロード違法化等に関するパブリックコメントの実施について (2019/09/30 文化庁)
 # 「写り込みに係る権利制限規定の拡充に関する中間まとめ」に関する意見募集の実施について (2019/10/31 文化庁)
 # 侵害コンテンツのダウンロード違法化の制度設計等に関する検討会 1 (2019/11/27 文化庁)
+# 「侵害コンテンツのダウンロード違法化の制度設計等に関する検討会」における議論のまとめの公表について (2020/01/16 文化庁)
 # 前提のおかしなアンケート付きで、意見募集を開始。 (Excel 方眼紙、 2019/09/30)
 # - 提出を見送られた改正案への賛成と、区別できない。
 #   (文化庁は提出が見送られた改正案の問題を認めないまま)
@@ -1560,6 +1572,11 @@
 # 文化庁が、パブリックコメント外で実施したアンケート結果を公表。 (議事録の公開は 2019/12/13?, 2019/11/27)
 # - 日常生活に支障ないよねって主張で、ほとんど修正しない予定？ (見送られた改正案に問題なんてないらしい)
 # - 出版広報センターも、いまだに 3000 億円の損害を主張してる。 (漫画村の運営者に請求する？)
+# 文化庁が、たったの 3 回で報告書をまとめちゃった。 (2020/01/16)
+# - 合意されたのは、日本漫画家協会の要望だけっぽい。
+#   (リーチサイトの非親告罪を親告罪に、軽微？な量のスクリーンショットとパロディを除外)
+# - 日本消費者協会が、私的使用のための複製を放棄しちゃった。
+# - 両論併記して、パブリックコメントに寄せられた意見を全て却下するための準備を完了？
 # 通常国会に再提出？ (2020/01/??)
 # [[https://www.nihonmangakakyokai.or.jp/?tbl=information&id=8145][日本漫画家協会と出版広報センターが海賊版対策に関する共同声明を発表]] (... 侵害コンテンツのダウンロード違法化の要件設定 ... 可能だと信じています ... リーチサイト規制 ... 実現を望んでいます ..., リンクあり、日本漫画家協会、 2019/09/25)
 # [[https://twitter.com/KenAkamatsu/status/1176709541443948544][... 海賊版だけを確実に叩けるならば、ＤＬ違法化を不要とはしていません ...]] (@KenAkamatsu, 2019/09/25)
@@ -1655,8 +1672,65 @@
 # [[https://twitter.com/KenAkamatsu/status/1207261005215981569][... 「海賊版を退治しつつユーザーの萎縮を招かない」という絶妙なバランスを追求しています ...]] (@KenAkamatsu, 2019/12/18)
 # [[https://twitter.com/yamadataro43/status/1207281400212144128][... 1月から与党自民党内で、私が事務局長を務める知的財産戦略調査会小委員会にて時間を掛けて本格的に審査 ... 結果は毎回、メディアやネットに公開予定 ...]] (@yamadataro43, 2019/12/18)
 # [[https://fr-toen.cocolog-nifty.com/blog/2019/12/post-f17baa.html][第４１８回：２０１９年の終わりに（文化庁第２回検討会のダウンロード違法化・犯罪化対象範囲拡大条文案他）]] (... 異常なハイペースで検討を進めようとしている ... 僅かな場合は除かれるだろうが ... あらゆる ... デジタルでの保存行為が違法・犯罪となる可能性が出て ... 萎縮が発生するだろう事に変わりはない ... 民事の第３０条についても「第二十八条に規定する権利を除く」という文言を追加する案も ... ２次創作・パロディのダウンロードが全て対象外となるものではない ... リーチサイト規制についても、運営行為に対する刑事罰を非親告罪から親告罪に変更すること以外は国会提出断念版の条文案のまま ... 海賊版対策とは無関係の ... リンクは規制の対象外となるとしているが、これも文化庁の現時点での希望的観測 ..., @fr_toen, 2019/12/29)
+# [[https://www.sankei.com/entertainments/news/191230/ent1912300007-n1.html][海賊版ＤＬ違法化論議大詰め　スクショなど条件緩和も課題]] (... 来年１月７日では取りまとめ案が報告される予定 ... 小島立准教授（知的財産法）は「文化庁は軽微な例について、物理的な量と質だけで判断し ... ネットでの情報収集に対する悪影響は避けられないのではないか」 ... 検討会の構成員についても、「 ... 漫画以外の建築やデザインなどの関係者が含まれていない」 ..., 産経新聞、 2019/12/30)
 # [[https://twitter.com/KenAkamatsu/status/1212018756441931776][... 新しいＤＬ違法化 ... 来年早々には形になりそう ...]] (@KenAkamatsu, 2019/12/31)
 # [[https://twitter.com/KenAkamatsu/status/1212019717394878465][... もしフェアユース系の法案が本当に来たら ... 大騒ぎになりそう ...]] (@KenAkamatsu, 2019/12/31)
+# [[https://twitter.com/fj_twt/status/1214366814844542976][第2回の議事録が公開 ...]] (@fj_twt, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214484225711202305][... ３回目」の傍聴に来た ...]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214486908312506370][... 著作者の利益を不当に害しない場合を除く。）」を入れるかを議論中。CODA後藤、経団連藤原、大渕構成員が反対の演説中。]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214488246119350273][消費者協会河野「 ... 著作権者の利益を守るには ... 要件 ... を信用して ...]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214488486381682688][... 司法の判断に委ねるべき。」おいおい、日本消費者協会は市民の敵か。]] (著作権者に深刻な経済的打撃を与えているもの以外は自由な複製を認めることに「正当性がある」とした知財高裁の判決をよりにもよって日本消費者協会が放棄しようとしてる！？、 @HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214488822412500993][前田弁護士「 ... 特別な理由がある場合を除くと入れればいいのではないか。」]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214489912323362816][座長「 ... 必要と思えない ...]] (学者としての美意識らしいけど意味不明なので省略、 @HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214490163662880769][... 『正当な』にはどのような意味があるの？」]] (座長が議事を把握できてない？、 @HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214490885481615360][大渕「 ... 色々考えないといけないので ... （聞き取れない）]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214491040859607041][... わけのわからないものはやめていただきたい ... 」]] (前回の検討会のあと考えてこなかった？、 @HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214491243708698626][田村「刑罰法規の明確性は重要だというが、42条に既に入ってる ...]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214491939048869888][座長「 ... 次の回はここ以上のところは難しいと思う。最後は座長の提案しかない ...]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214491942353944577][... 要らない ... 読みにくいと、わからない ... 利用者にとっても良いこと ...]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214492143441473537][... 座長に一任いただけるのか」オイオイ]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214492989860413441][... 座長「次回詰めることに賛成する方は挙手を」全員「……」福井「挙手の前に言いたい ... パブコメの意見を不採用にしようとしている ...]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214493323630649344][... 座長一任で報告書に乗るのなら挙手できない ... 」 ...]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214493503058669569][座長「 ... 各委員にお見せして了解を取ることを視野に入れた座長案 ... 」]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214493942143569920][田村「座長案を見て回すならなぜ4回目を開かない ... 一つの方向性が ... 検討会の総意ということなら、今それはもう出せないということ ... 折衷案に賛成の構成員が5人くらい。事務局案が座長除いて7人くらい。」]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214495143459311616][経団連萩原「座長一任で結構 ... 録音録画には ... 入れない ... 要件を加える理由を説明する必要があるだろう。」]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214488246119350273][座長「 ... 今から30条全体を持ち出すのはちゃぶ台をひっくり返すようなもの ...]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214495400419184640][... 座長一任に賛成は挙手を」]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214495745417478145][挙手は5人程度。CODA後藤、経団連萩原、大渕、日本消費者協会、出版広報センター ... モロ分かり ...]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/SOFTIC_JP/status/1214516597118795777][... 主査一任を支持したのは、赤松、大渕、河野、後藤、堀内、萩原 ... 支持しなかったのは荻野、田村、福井、和田の各委員だったと思います ...]] (@SOFTIC_JP, 2020/01/07)
+# [[https://twitter.com/SOFTIC_JP/status/1214516914799575041][... 4回目が開催される場合には、予備日として確保された1月17日 ...]] (@SOFTIC_JP, 2020/01/07)
+# [[https://twitter.com/KenAkamatsu/status/1214568320516517888][会議では「権利者団体側としては、文化庁追加の３要件でまあ充分 ... 」と発言しました ...]] (@KenAkamatsu, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214583734629883904][第1回で合意に至ったこの3点のことだろうか。1つ目は「要件」じゃなくてただの配慮規定 ...]] (画像あり、 @HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214584287426535424][... スクショは違法にしない ... で朝日新聞は黙る ...]] (2 つ目、 @HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214586189883133954][... 「軽微なもの」は「原作のまま」に替わる案であろうか ...]] (3 つ目、 @HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214588255963734016][... 他人の論文を全部剽窃したもの ... この案ではそのダウンロードが違法化される ...]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214589337825755136][... イラスト ... も、作品の丸ごと利用である以上は「軽微な」では除かれず、ダウンロード行為が違法化 ... 量や質で絞るのは軸がズレている ...]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214592248341417984][... 「著作権者の利益を不当に害する」 ... が拒絶され ... 第2回で有力な代替案 ... 「不当に害しない場合を除く」という形で，裏側から書く ...]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214592758616211456][... 折衷案を提案したのが前田弁護士で ... 「著作権者の利益を不当に害しないと認められる特別な事情がある場合を除く」 ...]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214593308523020289][... 前回の時点でCODA後藤が ... 「 ... 不当に害する ... を立証して，訴訟なりしなきゃいけない…実効性が失われる ... 」]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214594549240123392][そこに福井弁護士が ... 「 ... 立証責任を権利者に負わせるのは…過酷だ ... 不当に権利者の利益を害さない場合は除く，という書き方でよろしいんじゃないかな ... 後藤 ... 大丈夫じゃないか」]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214595329980370949][... CODA後藤の発言 ... 田村構成員から確認の質問があって ... 前田先生や福井先生から出た，除く型 ... 後藤：いや，検討する余地がある ...]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214596201862983681][それに対する大渕 ...]] (画像あり、 ... 国民生活上何がやって良いものか、やって良くないのかという線引きを明確に示すことこそが非常に重要 ..., 著作権者の利益に関係なく私的使用のための複製を制限することが重要らしい、 @HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214597581583482880][この議論が第3回に持ち越され、条文が2つ用意されていた ... 「 ... 著作者の利益を不当に害しない場合を除く。」 ... 「…害しないと認められる特別な事情がある場合…」]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214600131812589569][... 入れないと問題となる ... 4つの例 ... 権利者の所在が不明になっているもの ... 著作物を使って別の文脈で議論する場合。新聞記事を ... 全員が買わないと ...]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214600133117038593][... 議論を封じるためのSLAPP訴訟 ... 海賊版サイトの生態系を研究 ... 座長がそこに何ら言及しようとしなかった。]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214602355649302528][座長は ... 要件の意味がわからないと言い、大渕は「わけのわからないものはやめていただきたい」と発言 ... 座長は「 ... ない方が利用者にとっても良いことだ」とトンデモ発言。]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214603502757896193][その直前に ...]] (リツイートあり、 ... 消費者協会河野「 ... 著作権者の利益を守るには ... 要件は ... 信用してまずはやってみることが大事」 ..., @HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214604294873178112][今回冒頭で合意したと整理されようとしたのが、「原作のまま」など他の要件を不要とする点 ... 福井弁護士は「 ... 「利益を不当に」の要件を入れるのを前提にそれらを入れないことに了承したもの ... 」と釘 ...]] (@HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/HiromitsuTakagi/status/1214618120112918528][... 第1回と第2回の議事録を「に害」で検索して該当箇所を読むと掴める ...]] (リンクあり、 @HiromitsuTakagi, 2020/01/07)
+# [[https://twitter.com/ryou_takano/status/1214684975779303424][... 「権利者の利益を不当に害する場合」だけに限定 ... 入れないとなったら他の懸念点をもう一回議論する必要があるから、座長一任なら「入れる」以外あり得ないはずなんだけどな。]] (@ryou_takano, 2020/01/07)
+# [[https://www.sankei.com/entertainments/news/200107/ent2001070007-n1.html][海賊版ダウンロード違法化、対象絞り込みで一致せず 有識者検討会]] (... ７日、３回目の会合 ... 土肥一史座長（一橋大名誉教授）が取りまとめ案を作成したうえで委員に示し、了承を得られれば報告書として公表 ..., 産経新聞、 2020/01/07)
+# [[https://www.nikkei.com/article/DGXMZO5414466007012020CC1000/][ダウンロード規制で線引き 文化庁、法改正へ方針決定]] (... 議論の契機となった「漫画村」（18年4月に閉鎖）など、受信しながら閲覧する「ストリーミング」型は今回の規制からは外れる ..., 日本経済新聞、 2020/01/07)
+# [[https://www.yomiuri.co.jp/culture/20200107-OYT1T50268/][海賊版漫画のダウンロード違法化、パロディーは対象から除外…文化庁案]] (... 同庁は、違法化自体への賛同は得られたとして、次の通常国会への同法改正案提出を目指す ..., 読売新聞、 2020/01/07)
+# [[https://twitter.com/fukuikensaku/status/1214699269644357632][... 「著作権者の利益を不当に害する場合」への限定は ... 五分五分の情勢 ...]] (@fukuikensaku, 2020/01/08)
+# [[https://twitter.com/fukuikensaku/status/1214700928386752512][... 非親告罪だったリーチサイト規制を親告罪化することも合意 ...]] (@fukuikensaku, 2020/01/08)
+# [[https://twitter.com/yamadataro43/status/1214721993263611904][... 文化庁から第3回目の検討会内容はまだ未報告、第4回目開催も不明 ...]] (@yamadataro43, 2020/01/08)
+# [[https://twitter.com/heatwave_p2p/status/1214846402154516480][... 馬鹿げた議論でインターネット利用が狭められようとしている ... 海賊版サイトは放置したまま、自国民を広く犯罪者化 ...]] (@heatwave_p2p, 2020/01/08)
+# [[https://twitter.com/heatwave_p2p/status/1214849599275319298][「不当に害する」要件があろうがなかろうが ... 未来永劫続く副作用しかない ...]] (@heatwave_p2p, 2020/01/08)
+# [[https://twitter.com/heatwave_p2p/status/1214849689859706881][いま最も必要とされているのは、国外で海賊版サイトの運営者やロッカーサイトのアップローダーを突き止め、摘発ないし閉鎖に追い込むこと ... 米国では政府や業界団体がそれをやってる ...]] (@heatwave_p2p, 2020/01/08)
+# [[https://twitter.com/KenAkamatsu/status/1217782115191779329][... 本日マンガなどの海賊版サイト対策に関する報告書をまとめました ... 第４回は開催されず ... 軽微なものを ...→]] (@KenAkamatsu, 2020/01/16)
+# [[https://twitter.com/KenAkamatsu/status/1217782511171858432][→除外し、スクショや２次創作物のＤＬも違法とせず ...]] (@KenAkamatsu, 2020/01/16)
+# [[https://twitter.com/fukuikensaku/status/1217759855496163328][報告書が出ました。「軽微なもの」と「翻案作品」のDLを違法化対象から除くのは合意 ... 「著作権者の利益を不当に害する場合」への限定は賛否が割れ、両論併記 ...]] (@fukuikensaku, 2020/01/16)
 #
 # CROSS Party 2019 (2019/10/04)
 # JAIPA と横浜市も共催。
@@ -1757,6 +1831,7 @@
 # [[https://www.dnp.co.jp/news/detail/1193240_1587.html][大日本印刷 富士通と協力して情報銀行のシステムプラットフォームの提供を開始]] (... トライアル機能 ... 2020年2月より提供開始予定 ... 生活者が自身のパーソナルデータを管理 ... できる情報銀行システムプラットフォームを開発 ..., 自身のデータを削除できるのかすら書いてない、大日本印刷、 2019/11/28)
 # [[https://twitter.com/HiromitsuTakagi/status/1203206895806246912][... いつから優越的実質強制参加のやつを「情報銀行」言うようになったの？ ...]] (画像あり、 eポートフォリオ、 @HiromitsuTakagi, 2019/12/07)
 # [[https://twitter.com/sweetie089/status/1203214088844664832][生徒の情報なのに認可権限持ちが生徒や保護者ではなく文部科学省な時点で銀行でも何でもない ...]] (画像あり、 eポートフォリオ、 @sweetie089, 2019/12/07)
+# [[https://www.nishinippon.co.jp/item/n/576025/][入試で評価の記録サイト、利用には一企業ID 「利益誘導」疑う声も]] (... ジャパン e－ポートフォリオ（JeP） ... ベネッセのIDがないとアクセスできない ... IDは、ベネッセの主力商品である進研模試や教材と共通 ... 「新しいIDシステムの研究開発が遅れており、現時点でいつ移行できるかは分からない」（大学振興課大学入試室） ..., ベネッセが生徒の合否まで左右しそうな記録を握って入試問題の作成から採点まで受注しつつ模試や教材をアピール？、西日本新聞、 2020/01/16)
 #
 # 「情報銀行認定」に関する説明会の開催 (2018/10/02 総務省)
 # DoS 攻撃による自力救済を提案する迷惑な団体が、事業者を審査して認定することを説明。 (2018/10/19)
@@ -1874,6 +1949,7 @@
 # [[https://twitter.com/june_ya/status/1190145283025293313][某ドコモショップからメルマガ ... 2万円の端末出せばこういう売り方 ...]] (一括 1 円、 @june_ya, 2019/11/01)
 #
 # モバイル市場の競争環境に関する研究会 17~ (2019/09/11 総務省)
+# 携帯音声通信事業者による契約者等の本人確認等及び携帯音声通信役務の不正な利用の防止に関する法律施行規則の一部を改正する省令案に対する意見募集 (2020/01/10 総務省)
 # 5G を MVNO へ提供するための条件とか、検討されてる。
 # - 5G
 # - eSIM
@@ -1950,12 +2026,14 @@
 #
 # ゼロレーティングサービスに関するルール検討ワーキンググループ 1~ (2019/07/08~ 総務省)
 # ゼロレーティングサービスの提供に係る電気通信事業法等の適用に関するガイドライン (案) (2019/11/12 総務省)
+# 「ゼロレーティングサービスの提供に係る電気通信事業法の適用に関するガイドライン（案）」及び「電気通信事業法の消費者保護ルールに関するガイドライン」の改定案に対する意見募集 (2020/01/16 総務省)
 # [[https://www.itmedia.co.jp/mobile/articles/1907/14/news013.html][問題発生時は「事後対応」を基本に――データ通信の「ゼロレーティング」 ルール作りが本格化 (1/4)]] (... ゼロレーティングサービスと「通信の秘密」の法的な整理がなされていない ... ネット中立性を阻害 ... ワーキンググループの構成員である東京大学大学院の中尾彰宏教授 ... 本来はゼロレーティング対象となるはずのアプリ（匿名）のほぼ全通信がカウント（課金）されてしまっている事例を確認 ... 仕様が変わると課金されてしまう可能性がある ... 森亮二弁護士は「 ... 誤差が）大きいと『優良誤認』とみなされる可能性が高い」 ... 「総データ通信量」と「ゼロレーティング対象通信量」を見比べ ... ゼロレーティングサービスを使わない場合の“有効な”選択肢 ... 2019年内に ... とりまとめる予定 ..., ITmedia, 2019/07/14)
 # [[https://www.itmedia.co.jp/news/articles/1911/12/news133.html][総務省、“動画見放題”をうたう通信サービスの提供ルール策定へ 「事業者の責任明確に」専門家から指摘相次ぐ]] (... 総務省は11月12日 ... 指針案を公開 ... 動画サービスやSNSなど、一部サービスを利用する際のデータを通信料にカウントしない「ゼロレーティング」 ... は「 ... 新規に参入した事業者は不利 ... 非利用者の通信品質が低下する」などの問題が指摘されている ... 通信事業者がとるべき対策として ... 選定基準を公開 ... 利用データ量を正確に計測し表示 ... 通信制限を掛ける場合はゼロレーティング対象のサービスでも一律に制限する、など ... が望ましい ... 次回の検討会までに修正や再考を求められた箇所が多数 ... 次回開催が延期になる可能性も ..., ITmedia, 2019/11/12)
 # [[https://k-tai.watch.impress.co.jp/docs/news/1226956.html][カウントフリーでも上限超過後は一律規制を、総務省がガイドライン案を公開]] (... ゼロレーティングサービスの ... 通信の秘密を守る上で ... 必要最小限の範囲を超えた情報利用に警鐘 ... 正確にカウントされない場合があることなどを十分に説明 ... コンテンツの選定について合理的かつ明確な基準を定めて公開 ... データ通信量を計測し、各ユーザーに利用状況のデータを提供 ... 利用しないユーザーの通信品質の維持に努める ..., Impress, 2019/12/26)
 
 # 電気通信番号計画の一部を変更する告示案等に対する意見募集 (2019/09/27 総務省)
 # 電気通信番号計画の一部を変更する告示案等に対する意見募集の結果及び情報通信行政・郵政行政審議会からの答申 (2019/11/15 総務省)
+# 電気通信番号計画の一部を変更する告示案に対する意見募集 (2019/12/27 総務省)
 # IMSI の 441 な国コードに続く、事業者コードが 3 桁になる。 (441-?? -> 441-???, MCC-MNC, 440 は 2 桁のまま)
 # 11 桁の 020 番号を、 020-0 に移行して 14 桁にする。 (11 桁の付番は 2021/03/末まで)
 
@@ -1976,6 +2054,7 @@
 # デジタル市場競争会議 1~ (2019/10/04~ 首相官邸)
 # (令和元年10月31日)デジタル・プラットフォーマーの取引慣行等に関する実態調査(オンラインモール・アプリストアにおける事業者間取引) について (2019/10/31, 公正取引委員会)
 # プラットフォームサービスに関する研究会 16 (2019/11/29 総務省)
+# プラットフォームサービスに関する研究会最終報告書（案）に対する意見募集 (2019/12/23 総務省)
 # GAFA 規制？ (Apple, Alphabet(Google), Amazon, Tencent, Alibaba, Facebook, ...?)
 # Google と Apple が出席して、非公開で聞き取り調査。 (Facebook は書面で回答して Amazon は拒否、 2018/11/28)
 # 大規模なアンケート調査を開始。 (独占禁止法 40 条？、 2019/02/27~2019/03/26)
@@ -2096,6 +2175,18 @@
 # [[https://www.nikkei.com/article/DGXMZO43851350X10C19A4PP8000/][首相要請で規制を緩和 スーパーシティ法案を了承]] (日本経済新聞、 2019/04/17)
 # [[https://www.nikkei.com/article/DGXMZO45809560X00C19A6EAF000/][スーパーシティ法案を閣議決定 規制緩和、首相が省庁に要請]] (日本経済新聞、 2019/06/07)
 # [[https://business.nikkei.com/atcl/gen/19/00002/070200501/][廃案になったスーパーシティ構想、周回遅れからどう追い付く]] (... 6月26日に閉会した通常国会では廃案となった。廃案になったのは、規制緩和の手法を巡り内閣法制局との調整に時間がかかったため ... 秋の臨時国会に再提出し、成立を目指す ..., 日本経済新聞、 2019/07/02)
+#
+# 「GOVERNANCE INNOVATION: Society5.0の時代における法とアーキテクチャのリ・デザイン」報告書（案）の意見公募手続（パブリックコメント）を開始しました (2019/12/26 経済産業省)
+# 人に警戒されることなく、誘導とかできちゃう仕組みも欲しいみたい。 *(!?)*
+# [[https://twitter.com/HabukaHiroki/status/1210049215528759296][... 報告書を公表しました ... 法規制で細かなルールを定めるモデルに代わり、民間主導 ... を提示 ...]] (経済産業省 ... 情報経済課の課長補佐、 @HabukaHiroki, 2019/12/26)
+# [[https://twitter.com/HiromitsuTakagi/status/1215483432274296832][... どんな素人が書いてるの？ ...]] (おかしな説明の画像あり、 @HiromitsuTakagi, 2020/01/10)
+# [[https://twitter.com/so6287/status/1215494013702131713][... 図は行政と大企業と家畜みたい ...]] (おかしな図の画像あり、 @so6287, 2020/01/10)
+# [[https://twitter.com/so6287/status/1215495877936082945][国民はバーチャルでも現実でも国家・大企業により監視・モニタリングされ、個人データなどを骨の髄まで大企業・国にしゃぶられるのがsociety5.0の理想らしい ...]] (おかしな表の画像あり、 @so6287, 2020/01/10)
+# [[https://twitter.com/todkm/status/1215505425321222145][... 「個人」が単なる炎上好きなネット民扱い ...]] (@todkm, 2020/01/10)
+# [[https://twitter.com/token7/status/1215864858949734403][... 個々人のネットリテラシー向上の為に、企業に対してネット関連の規制を増やし、システム間通信の内容を監視出来るようにし、システムの内部処理フローの市場への開示を義務付け…]] (@token7, 2020/01/11)
+# [[https://twitter.com/token7/status/1215864860631691265][指定された一定のソースコードの実装を義務付け法令違反に当たる動作を抑制する、らしい。]] (@token7, 2020/01/11)
+# [[https://twitter.com/megayan/status/1215865475969646593][... 報告書（案）とやらに関わったのはこの方々 ...]] (画像あり、 @megayan, 2020/01/11)
+# [[https://twitter.com/sakichan/status/1216251556967796736][... ヤバそうなのは「サイバー空間での行為に対するエンフォースメントを確実にするため、共通の個人・法人ID基盤を整備する（5.3.5）」とか言ってること ...]] (@sakichan, 2020/01/12)
 
 # LTEInspector
 #
@@ -2513,7 +2604,6 @@ DSDS 対応スマホで音声通話定額を利用するなら、ドコモがお
 # 伊藤忠商事系列で、大手キャリアの代理店をやってるとこ。
 # 本人確認に不備があった。
 # 絆 (connexio) を大事にすると、怒られるらしい。
-#
 # ドコモは監督責任があるので指導された。
 
 # d アカウントの ID とパスワードが流出した？ (リスト型攻撃)
@@ -2598,7 +2688,9 @@ DSDS 対応スマホで音声通話定額を利用するなら、ドコモがお
      デザリングには上限がある。 (Netflix ~2GB, Pro ~20GB)
 (*2) 音声通話定額の料金が違う。
 LTE NET を含む。 (+300)
-# 2019/10/01 改定予定。
+# 2019/10/01 改定。
+# 2020/02/01 改定予定。
+#            データ MAX Pro のみ 9150 -> 7650 円。 (テザリング上限 20 -> 30 GB)
 #
 # テザリングとかのパケットは、無制限の対象外。 (越えたら ???kbps)
 # [[https://www.itmedia.co.jp/mobile/articles/1905/15/news131.html][2020年3月末までに「5G端末」を発売：au無制限プランの速度制限は「3日で6GBよりは緩い」 高橋社長が回答]] (... テザリング、データシェア、世界データを利用する場合の上限は合計20GBまで。20GBを超えると通信速度は翌月まで128kbpsに制限 ... 規制の目安は「3日間で6GBよりは緩い」、動画視聴は「HD動画を見続けられる程度」 ..., ITmedia, 2019/05/15)
@@ -2820,11 +2912,17 @@ au の子会社。
 # "my UQ mobile" からオプションの "Wi2 300 for UQ mobile" を申し込む。 (無料)
 # 3 日間で 6GB を越えたら、通信速度を制限されるかも。
 #
-# "ギガぞう" は月額 +500 円。 (2018/06/01~)
-# 通信の最適化を提供するのがデフォルト。
-# Wi-Fi だけじゃなくて 4G も対象。 *(!?)*
+# "ギガぞう Wi-Fi" アプリが使える。 (Wi2)
+# - スタンダードプランだと、月額 +350 円。 (5 台まで、 2018/06/01)
+#   通信の最適化されちゃうのがデフォルト。
+#   Wi-Fi だけじゃなくて 4G も対象。 *(!?)*
+#   使ってるときは、ゼロレーティングの対象外になるので注意。
+# - スマホ専用プランなら、月額 +150 円。 (1 台のみ、 2020/01/15)
+#   4G の通信の最適化なし。
+#   (Wi-Fi は通信の最適化されちゃう？)
 # [[http://www.uqwimax.jp/annai/news_release/201806012.html][UQ mobile向けにWi2アプリ「ギガぞう」を利用した安心・安全な公衆無線LANサービスの提供開始について | 【公式】UQコミュニケーションズ]] (... LTE通信を圧縮して通信量を節約する機能（ON/OFF可能） ..., 2018/06/01)
 # [[https://twitter.com/seijidohi/status/1002772419487002624][ギガぞう君はLTEでもWi-Fiでも最適化してくるのね。 ...]] (@seijidohi, 2018/06/01)
+# [[https://www.uqwimax.jp/information/202001151.html][ギガぞうWi-Fi 「スマホ専用プラン for UQ mobile」の提供について]] (... LTE通信の節約は非対応 ..., 2020/01/15)
 
 # @uqmobile.jp
 # MMS は月額 +200 円。
@@ -3002,6 +3100,7 @@ au の子会社。
 #            [[https://www.itmedia.co.jp/mobile/articles/1912/09/news066.html][iPhoneでも使える？ 楽天MNO回線のSIMを、いろいろなスマホに挿してみた (1/2)]] (... 楽天モバイルが対応製品とする機種ではないと、通話はできない ... SIMを挿すだけでデータ通信ができたのは、iPhone 11のみ。APNを自動で設定するとデータ通信ができたのがHUAWEI P20 lite ..., ITmedia, 2019/12/09)
 #            [[http://blogofmobile.com/article/122131][楽天モバイルが楽天回線のサービスエリアを更新、京都市・東大阪市・神戸市なども反映]] (... 2019年12月前半のうちにサービスエリアを2019年11月30日時点の情報に更新 ... 塗りつぶしただけの状態ではなくなり ... 楽天回線のサービスエリアを ... 確認できる ..., @paopao0128, 2019/12/10)
 #            [[https://www.itmedia.co.jp/mobile/articles/1912/13/news138.html][総務省、楽天モバイルに通信障害対策を要請 障害の原因は「ソフトウェア不具合」]] (... 障害の原因は「課金制御を行うネットワーク機器のソフトウェアの不具合だった」 ..., ITmedia, 2019/12/13)
+#            [[http://blogofmobile.com/article/122799][楽天回線対応アップデート、ようやく全機種に配信]] (... 遅れが生じたが、2020年1月8日に ... 案内したすべての機種に対してアップデートの配信を開始 ..., @paopao0128, 2020/01/12)
 # 2020/04/?? サービス開始予定？
 #            [[https://www.itmedia.co.jp/mobile/articles/1911/01/news152_2.html][下期の競争は落ち着く？ 楽天モバイルとどう付き合う？――KDDI高橋社長一問一答（2019年第2四半期決算編） (1/2)]] (... 現在のローミング方式（S8リンク）では、ローミングの際に通信が切断 ... 来年（2020年）の4月からは切断されない方式（S10リンク）に切り替える予定 ..., ITmedia, 2019/11/01)
 # 2020/06/?? 5G 開始予定？
@@ -3252,7 +3351,8 @@ au 回線だと、音声通話には au VoLTE 対応のスマホがいる。
 # 「接続料の算定に関する研究会」第三次報告書の公表 (2019/09/25 総務省)
 # 電気通信事業法施行規則及び第二種指定電気通信設備接続料規則の一部を改正する省令案等に対する意見募集 (2019/09/27 総務省)
 # 電気通信事業法施行規則及び第二種指定電気通信設備接続料規則の一部を改正する省令案等に対する意見募集の結果の公表及び再意見募集 (2019/10/31 総務省)
-# 実績原価方式 -> 将来原価方式に変更して、年度始めに接続料を改定？ (3 年分の予測？、 2020/??/??)
+# 電気通信事業法施行規則及び第二種指定電気通信設備接続料規則の一部を改正する省令案等に対する意見募集の結果及び情報通信行政・郵政行政審議会からの答申 (2019/12/24 総務省)
+# 実績原価方式 -> 将来原価方式に変更して、年度始めに接続料を改定する予定。 (3 年分の予測、 2020/??/??)
 # [[https://www.nikkei.com/article/DGKKZO51059480W9A011C1MM8000/][格安スマホ、通話も安く 回線コスト半額視野 総務省、携帯値下げ競争促す]] (... 通話サービス ... 格安スマホでも、時間に制限のない定額プランができるようになる見通し ..., 日本経済新聞、 2019/10/17)
 # [[https://twitter.com/fj_twt/status/1189741446162632705][... 個人D「特定されれば首が飛ぶため匿名で失礼します。携帯キャリアショップで働いているものです。」「キャリア様絶対正義」 ...]] (@fj_twt, 2019/10/31)
 # [[https://www.nikkei.com/article/DGXMZO52227260V11C19A1TJC000/][格安スマホ通話値下げへ、日本通信 大臣裁定申請]] (... 日本通信は14年からドコモに音声通話回線のレンタル料の値下げを求めてきたが ... 11年度から30秒当たり14円に据え置かれている ..., 日本経済新聞、 2019/11/15)
@@ -3869,6 +3969,10 @@ DNS で自社の IP アドレスを返して、内容を収集されることも
 # Huawei は来てない。 (呼んでない？)
 # 次回 01/11 大阪、 01/18 東京。
 
+# IIJmio meeting 26 (#iijmio)
+# PLMN 440-90 (プライベート LTE 共通、自営 PHS 優先)
+# 次回 05/09 大阪、 05/16 東京。
+
 # IIJ Technical DAY 2018 (#iij_its2018, 2018/11/22)
 # [[https://togetter.com/li/1291038][IIJ Technical DAY 2018 #iij_its2018]] (@goto_ipv6, Togetter, 2018/10/22)
 
@@ -3898,9 +4002,9 @@ DNS で自社の IP アドレスを返して、内容を収集されることも
 #            追加したパケットが使えるのは 3 ヶ月。 (カードを使えるのは買ってから 6 ヶ月以内)
 # 2019/春?   eSIM プラットフォーム開始予定。
 # 2019/05/02 [[https://twitter.com/IIJ_PR/status/1143330836818747392][... 東京ドームで ... ホームランがIIJmioの看板に直撃 ...]] (4 回目、 @IIJ_PR, 2019/06/25)
-# 2019/05/08 IIJ Public DNSサービス (ベータ版) を提供開始。 (~2022/03/31)
-#            オプトイン。 (Android 9)
-#            ログは 24 時間以内に削除。 (研究調査に使って統計を残す)
+# 2019/05/08 IIJ Public DNS サービス (ベータ版) を提供開始。 (DoT/DoH 対応、 ~2022/03/31)
+#            回線契約不要で、オプトイン。 (Android 9)
+#            ログは、 24 時間以内に削除。 (研究調査に使って統計を残す)
 #            DNS フィルタリングの対象外。
 #            [[https://www.iij.ad.jp/news/pressrelease/2019/0508.html][IIJ、「DNS over TLS」、「DNS over HTTPS」を利用したDNSの試験サービス「IIJ Public DNSサービス（ベータ版）」を提供開始]] (IIJ, 2019/05/08)
 #            [[https://twitter.com/tdtds/status/1131861921743826944][... 駅メモが起動しなくなった ...]] (@tdtds, 2019/05/24)
@@ -3942,6 +4046,8 @@ DNS で自社の IP アドレスを返して、内容を収集されることも
 # 2019/07/18 個人向け eSIM サービス開始。 (ベータ)
 #            データ通信のみ。 (動作確認されたスマホは iPhone XS 以降と、 Gemini PDA のみ)
 #            [[http://techlog.iij.ad.jp/archives/2607][IIJmio モバイルサービス eSIMプラン (ベータ版) に関する諸情報]] (... 仕様にいくつか制限があり ... すでに分かっている不具合・制限についてご紹介 ..., 2019/07/18)
+# 2020/01/16 DoH 提供。
+#            [[https://www.iij.ad.jp/news/pressrelease/2020/0116-2.html][IIJ、接続サービスで提供するDNSのセキュリティを強化]] (... モバイルサービスではDoHのみ対応 ..., 2020/01/16)
 # 2020/03/?? 自営 5G を提供する予定？ (ローカル 5G)
 #            [[https://www.iij.ad.jp/news/pressrelease/2019/1224.html][ローカル5Gの活用を目的とした無線プラットフォーム事業の展開について]] (... 「グレープ・ワン」）を立ち上げ ... 住友商事、IIJ、愛媛CATV、RWJは、ケーブルテレビ連盟とともに ... ローカル5Gサービス  ..., 2019/12/24)
 
@@ -4973,6 +5079,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            - インターポールの会合でも、バックドアを提案。 (ICPO: 国際刑事警察機構、 Ars Technica, 2019/11/18)
 #            米議員たちが公聴会で、バックドアを作れるようにしてあげるって発言。 (Reuters, 2019/12/10)
 #            - Apple にも iPhone のロックを解除する方法を要求。
+#              FBI とかの要求を、 Apple が断り続けてる。 (米大統領からも批判された、 Ars Technica, 2020/01/14)
 #            (盗聴できるようになったら別のアプリとかを作られて、脆弱性だけが残る？)
 # 2018/08/17 まだ差別的な住宅広告を続けてるって、苦情が届いた。 (HUD: Housing and Urban Development, 米住宅都市開発省)
 #            ターゲティング広告は人種とかも選べた頃があって、前から差別的だって問題にされてた。 (法律で禁止)
@@ -5060,6 +5167,8 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            - 国営の報道機関とかにラベルを貼る。 (2019/11/??~)
 #            - ページ管理者の情報を表示するタブ。 (2020/01/??~)
 #            - ...
+#            ディープフェイクや AI が合成した投稿も、削除の対象になった。 (2020/01/06)
+#            - Facebook と契約する第三者がチェックして、虚偽のラベルを貼る。 (削除基準に満たないもの)
 # 2018/09/12 新しい米大統領令に署名。
 #            外国人が米の選挙に干渉したら、制裁を加えるらしい。
 #            2018 年の米大統領選挙に干渉した人たちに、初制裁。 (露 IRA, U.S. Department of the Treasury, 2019/09/30)
@@ -6195,6 +6304,8 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 # [[https://ai.facebook.com/blog/deepfake-detection-challenge-launches-with-new-data-set-and-kaggle-site/][Deepfake Detection Challenge launches with new data set and Kaggle site]] (Facebook AI Blog, 2019/12/11)
 # [[https://venturebeat.com/2019/12/26/facebook-messenger-account-sign-up/][Facebook Messenger now requires a Facebook account to sign up]] (VentureBeat, 2019/12/26)
 # [[https://techcrunch.com/2020/01/01/the-california-consumer-privacy-act-officially-takes-effect-today/][The California Consumer Privacy Act officially takes effect today]] (TechCrunch, 2020/01/01)
+# [[https://about.fb.com/news/2020/01/enforcing-against-manipulated-media/][Enforcing Against Manipulated Media]] (2020/01/06)
+# [[https://arstechnica.com/tech-policy/2020/01/fbi-seeks-apples-help-in-unlocking-iphones-belonging-to-pensacola-gunman/][Unable to unlock gunman’s iPhones, the FBI (once again) asks for Apple’s help (updated)]] (Ars Technica, 2020/01/14)
 
 *** WhatsApp (Facebook)
 
@@ -6595,6 +6706,7 @@ LINE モバイルならパケットを消費しない。
 +通話定額に必須のアプリ。+
 音声通話定額で、設定変更がいらないアプリ。
 格安キャリアごとに、似たアプリがあったりなかったり。
+# “格安スマホ”の利用方法やサポート内容に注意－今までの携帯電話会社との違いを確認してから契約しましょう－ (2020/01/16 国民生活センター)
 
 # 「固定電話網の円滑な移行の在り方」二次答申～最終形に向けた円滑な移行の在り方～ (2017/09/27 総務省)
 # 2020/??/?? ISDN のディジタル通信モードを終了予定。 (2024/??/?? に？)
@@ -7074,7 +7186,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # 国の基準に合った設備じゃないとダメ。
 # 公安が立ち入り検査して、データを持ち帰ったりするよ。 (公安機関互聯網安全監督検査規定、 2018/11/01)
 # 国外からもデータを提出させる？ (数据安全管理弁法の意見募集中、 2019/05/28)
-# 暗号を核心、普通、商用に分類する法律を施行。 (商用を除いて国家機密、密码法、 2020/01/01)
+# 暗号を核心、普通、商用に分類する法律を施行。 (商用を除いて国家機密、解読できない暗号を禁止するだけ？、密码法、 2020/01/01)
 # ...
 # (米 CLOUD Act と相互運用？)
 # [[https://www.insideprivacy.com/uncategorized/china-releases-draft-measures-for-the-administration-of-data-security/][China Releases Draft Measures for Data Security Management]] (Inside Privacy, 2019/05/28)
@@ -7257,6 +7369,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://blog.cloudflare.com/cloudflare-transparency-update-joining-cloudflares-flock-of-warrant-canaries-2/][Cloudflare Transparency Update: Joining Cloudflare’s Flock of (Warrant) Canaries]] (Cloudflare の透明性レポートに令状のカナリアが 4 羽増えた、秘密鍵を開示させられたって公表するのは違法なので開示させられたことはないって事前に公表、 Cloudflare Blog, 2019/02/25)
 # [[https://www.chugoku-np.co.jp/local/news/article.php?comment_id=514988&comment_sub_id=0&category_id=256][令状なく位置情報取得 鹿児島県警、スマホ解析で誤る]] (... 押収したスマートフォン ... 裁判所の令状がなく、本人の同意もないまま、立ち寄り先履歴などの位置情報を誤って海外の外部サーバーから取得 ... 「国際捜査共助」をせずに取得すれば、相手国の主権を侵害する恐れ ... 県警は、位置情報が犯人性を示す重要な証拠とみていたが、手続きの適法性を問題視し、鹿児島地検は裁判所への証拠提出を見送った ..., 中国新聞、 2019/03/22)
 # [[https://kanegoonta.hatenablog.com/entry/2019/04/04/073107][位置情報を個人情報として取り扱わなくていいのか]] (... 論文 ... 「４点の位置情報で９５％の個人が特定可能」という趣旨 ..., いろんな資料からの引用の他にも Nature に掲載された 2013 年の論文や紹介記事とかへのリンクあり、 @kanegoota, 2019/04/04)
+# [[https://blog.cloudflare.com/first-half-2019-transparency-report-and-an-update-on-a-warrant-canary/][First Half 2019 Transparency Report and an Update on a Warrant Canary]] (令状のカナリアが削除されちゃった、 Cloudflare Blog, 2019/12/20)
 #
 # 総務省で運営してる認証局は、ブラウザから信頼されなかった。 (ApplicationCA2 Root, Mozilla)
 # 認証業務は、ちゃんと手順を守れないと信頼されない。 (BR 1.5.4)
@@ -8373,6 +8486,12 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # (GFPS: Google Fast Pair Service, estimated battery life?, Android 6.0~)
 # (コンビニで現金払い、 Pending transactions, Google Play Billing Library 2.0)
 #
+# プリインストールされたアプリも削除できるようにしてって、人権団体たちが公開のお手紙。 (Privacy International, 2020/01/08)
+# スマホの製造元たちが用意してる、よそのアプリが使えない権限とかも調べるよう求めてる。 (勝手な情報収集できちゃう？)
+# ユーザーが制限できないアプリでデータ収集して、プライバシーを放棄させちゃうとかダメ。
+# (Facebook が Device-integrated APIs で勝手にスマホの製造元とデータ共有してたのとか？)
+# [[https://privacyinternational.org/advocacy/3320/open-letter-google][An open letter to Google]] (Privacy International, 2020/01/08)
+#
 # 7 つのストーカー向けアプリが報告されて、削除。 (Avast, 2019/07/17)
 # (位置情報、連絡帳、通話履歴、 SMS, ...)
 # [[https://blog.avast.com/avast-identifies-stalker-apps][Google pulls stalker apps identified by Avast]] (Avast, 2019/07/17)
@@ -8396,6 +8515,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # AdSense で競合他社の広告を排除させてたので、 EUR 1.49 billion の罰金を科された。 (European Commission, 2019/03/20)
 # - Android や iOS 向けの AdSense アプリを、 2019 年内に廃止予定。 (Inside AdSense blog, 2019/07/15)
 # EU では最初に Google Play を起動したとき、ブラウザと検索エンジンを選択できるようになる予定。 (Google Blog, 2019/04/18)
+# - 選択できる検索エンジンをオークションで決定して、批判されてる。 (2020/03/01~2020/06/30, Verge, 2020/01/09)
 # (Microsoft も通った道？)
 # [[https://twitter.com/vestager/status/1019537297925197824][Fine of €4,34 bn to @Google ...]] (@vestager, 2018/07/17)
 # [[http://europa.eu/rapid/press-release_IP-18-4581_en.htm][Antitrust: Commission fines Google €4.34 billion for illegal practices regarding Android mobile devices to strengthen dominance of Google's search engine]] (European Commission, 2018/07/18)
@@ -8408,6 +8528,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[http://europa.eu/rapid/press-release_IP-19-1770_en.htm][Antitrust: Commission fines Google €1.49 billion for abusive practices in online advertising]] (European Commission, 2019/03/20)
 # [[https://www.blog.google/around-the-globe/google-europe/presenting-search-app-and-browser-options-android-users-europe/][Presenting search app and browser options to Android users in Europe]] (Google Blog, 2019/04/18)
 # [[https://adsense.googleblog.com/2019/07/intention-to-deprecate-apps.html][Upcoming changes to the AdSense mobile experience]] (Inside AdSense blog, 2019/07/15)
+# [[https://www.theverge.com/2020/1/9/21058120/google-android-search-engine-choice-duckduckgo-bing-default-eu-antitrust-ruling][Bing loses out to DuckDuckGo in Google’s new Android search engine ballot]] (Verge, 2020/01/09)
 
 # Google が Java API の著作権を侵害したとして、 Oracle から訴えられてる。 (係争中)
 #
@@ -8510,6 +8631,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # - Alphabet CLO たちの 2018 年度報酬が、株式だけで US$ 47 million を越えてる。 (Register, 2019/05/03)
 # - Alphabet CLO が子供の養育を拒否し続けてるけど、 Google もコメントを拒否し続けてる。 (Medium, 2019/08/28)
 # - Alphabet CLO たちへのセクハラ調査が、やっと開始された。 (CNBC, 2019/11/06)
+# - Alphabet CLO が、 2020/01/31 付けで退職。 (退職金なし、 Forbes, 2020/01/10)
 # Google アカウントへのサインインに、 JavaScript が必須になった。 (reCAPTCHA v3?, 2018/10/31)
 # - サインインすると、人扱いされやすくなるみたい。 (ロボットより匿名を排除したがってる、 Register, 2019/06/28)
 # 米ミズーリ州で、独占禁止法とかに反してないか調査されてる。 (Ars Technica, 2018/11/14)
@@ -8560,6 +8682,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # - Youtube Kids のサイト版ができた。 (アプリ版は 2015/02/23 から、 COPPA 対策？、 Youtube Help, 2019/08/29)
 # - 保護者に無断で子供の情報を収集してた件で、 FTC や NY 州と和解。 (COPPA 違反、罰金 US$ 170 million, FTC, 2019/09/04)
 #   子供向け動画に、ターゲティング広告が表示されなくなる。 (AI で判定中、 2019/12/10~, コメントや通知も削除)
+#   全ての国で適用された。 (Official YouTube Blog, 2020/01/06)
 #   (COPPA 違反の罰金としては過去最高額だけど、 Google なら 1 日未満で稼げちゃう)
 # Youtube での検索結果に、第三者チェックの評価も表示。 (まだインドのみ、 BuzzFeed, 2019/03/07)
 # 2018 年にポリシー違反で削除した広告は、 23 億件。 (Google Ads Blog, 2019/03/14)
@@ -8730,6 +8853,8 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://www.theverge.com/2019/12/16/21021005/google-youtube-moderators-ptsd-accenture-violent-disturbing-content-interviews-video][Google and YouTube moderators speak out on the work that gave them PTSD]] (Verge, 2019/12/16)
 # [[https://medium.com/@ksspiers/google-fires-another-worker-for-exercising-her-rights-and-protecting-coworkers-from-illegal-b86c41ef91b9][Google Fires Another Worker for Exercising her Rights and Protecting Coworkers from Illegal Company Retaliation]] (Medium, 2019/12/17)
 # [[https://medium.com/@rossformaine/i-was-googles-head-of-international-relations-here-s-why-i-left-49313d23065][I Was Google’s Head of International Relations. Here’s Why I Left.]] (Medium, 2020/01/02)
+# [[https://youtube.googleblog.com/2020/01/better-protecting-kids-privacy-on-YouTube.html][Better protecting kids’ privacy on YouTube]] (Official YouTube Blog, 2020/01/06)
+# [[https://www.forbes.com/sites/jilliandonfro/2020/01/10/alphabet-chief-legal-officer-david-drummond-leaves-company/][Alphabet’s Controversial Chief Legal Officer, David Drummond, Leaves Company]] (Forbes, 2020/01/10)
 #
 # FBI が捜査のためにデータ提供を求めると、あとで対象のアカウントに通知することがある？
 # [[https://motherboard.vice.com/en_us/article/pawjjn/google-email-secret-fbi-investigation][Google Notifies People Targeted by Secret FBI Investigation]] (Motherboard, 2018/09/04)
@@ -8750,6 +8875,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://www.theregister.co.uk/2019/07/09/chrome_ad_blocker/][Chrome's default-on ad blocker – which doesn't block adverts on 99% of websites – goes global]] (日本を含む全世界向け、 Register, 2019/07/09)
 # [[https://blog.chromium.org/2019/11/moving-towards-faster-web.html][Moving towards a faster web]] (読み込みの遅いサイトに目印をつける計画？、ようこそ Google AMP へ？、 Chromium Blog, 2019/11/11)
 # [[https://vivaldi.com/ja/blog/user-agent-changes/][User Agent Changes]] (Vivaldi ブラウザを使うユーザーが Google とかのサービスを利用すると妨害されるので User-Agent を公式に偽装、 1 文字変えただけの "Vivaldo" なら妨害されなかった、 Vivaldi, 2019/12/10)
+# [[https://www.zdnet.com/article/google-to-phase-out-user-agent-strings-in-chrome/][Google to phase out user-agent strings in Chrome]] (User-Agent Client Hints を策定して User-Agent への依存を段階的にやめるみたい、 ZDNet, 2020/01/14)
 #
 # Chrome 69 (2018/09/04)
 # - 動作をこっそり変更して、ダークパターンだと非難されてる。 (Chromium も同じと確認された)
@@ -8794,6 +8920,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://www.theregister.co.uk/2019/10/25/chrome_web_store_issues/][Google's Chrome Web Store under fire for shoddy service and cryptic policies]] (uBlock Origin を削除したあと理由を明かせないけど間違いだったと説明、これからいやがらせを繰り返されるかも？、 Register, 2019/10/25)
 # [[https://www.bleepingcomputer.com/news/software/google-begins-testing-extension-manifest-v3-in-chrome-canary/][Google Begins Testing Extension Manifest V3 in Chrome Canary]] (Chrome 80 の試験運用版で拡張機能でブロックできる広告の数を制限するテストが始まっちゃった、 Bleeping Computer, 2019/11/01)
 # [[https://github.com/uBlockOrigin/uBlock-issues/issues/780][Address 1st-party tracker blocking · Issue #780]] (liberation.fr を許可したら f7ds.liberation.fr とかでよそに転送して追跡されてるけど Chrome で防げない、 CNAME, @aeris22, 2019/11/10)
+# [[https://blog.chromium.org/2020/01/building-more-private-web-path-towards.html][Building a more private web: A path towards making third party cookies obsolete]] (declarativeNetRequest API を押し通そうとしてる人が第三者の cookie を無効するためだけに 2 年もかけるみたい、広告のためにパーソナライズと称したフィルターバブルを W3C で標準化させて Web を Facebook で置き換えちゃおうって計画も公表、年末から Chrome でトライアル？、 Privacy Sandbox, Chromium Blog, 2020/01/14)
 
 # Google+
 #
@@ -8956,10 +9083,11 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 # | 2019/09/?? | au       |                  | 6CC CA                                                  |
 # | 2019/1?/?? | Apple    |                  | Intel のスマホ向け Modem 事業を買収する予定             |
 # | 2019/12/?? | 3GPP     | 5G NR            | Release 16 -> ITU-R IMT-2020                            |
-# | 2019/??/?? | 楽天     |                  | 4G launch (MVNO -> MNO)                                 |
+# | 2020/01/06 | Qualcomm | 5G VoNR          | Voice over New Radio, ZTE’s 5G NR base station          |
 # | 2020/03/?? | SoftBank |                  | 2019/07/26~29 5G pre-service                            |
 # | 2020/春    | ドコモ   |                  | 2019/09/20 5G pre-service (O-RAN)                       |
 # | 2020/03/?? | au       |                  | 2019/09/?? 5G pre-service                               |
+# | 2020/04/?? | 楽天     |                  | 4G launch (MVNO -> MNO)                                 |
 # | 2020/06/?? | 楽天     |                  | 5G                                                      |
 # | 2022/03/?? | au       |                  | SA 5G NR                                                |
 # | 2022/??/?? | SoftBank |                  | SA 5G NR                                                |
@@ -8989,6 +9117,7 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 # 国際電気通信連合 (ITU) 2019年世界無線通信会議 (WRC-19) の結果 (2019/11/25 総務省)
 # ローカル5G導入に関するガイドライン案に係る意見募集の結果及び策定したガイドラインの公表 (2019/12/17 総務省)
 # MVNOに対する5Gサービスの提供に係る機能開放に関する要請 (2019/12/18 総務省)
+# 電波法関係審査基準の一部を改正する訓令案に係る意見募集の結果 (2019/12/20 総務省)
 # - エリアは、 10km^2 で 4600 カ所くらいに区切ったもの。 (4G の人口カバー率じゃない)
 # - 5 年以内に 50% のエリアで、親になる基地局を求めてる。 (子局はできるだけたくさん)
 # - 2 年以内に全都道府県でサービス開始。
@@ -9307,6 +9436,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # (solid-state Li-metal battery, 400 Wh/liter, ベルギー imec, 2019/06/18)
 # (全固体電池、セラミック、 IoT 向け？、村田製作所、 2019/06/26)
 # (全固体電池、 Li-metal battery, 太陽誘電、 2020/??/?? サンプル出荷？、 2021/??/?? 量産？、 2019/12/10)
+# (lithium-sulfur (LiS) battery, sulfur cathodes, Expansion-tolerant, Monash University, 2020/01/04)
 # (graphene battery?)
 # (single polymer flat lens?, MDL: Multilevel Diffractive Lense, 10μm)
 #
@@ -10778,7 +10908,7 @@ Sony の子会社。
 #
 # Xperia 5
 # 大手キャリア向けに発売されたスマホ。 (2019/10/25)
-# Android 10 更新予定。 (2019/12/??)
+# Android 10 更新。 (2020/01/07)
 # [[https://sumahoinfo.com/?p=35270][Xperia５のスペック、ソニー公式がまた「お答えできません」 UFS 2.1/3.0ストレージについて]] (... ソニーの公式フォラム上で ... 返答 ... 同社では公開しないことを決定しました ... UFS3.0の記載がある記事はドイツ語のサイトのみ ..., @sumahokuchikomi, 2019/09/25)
 #
 # Xperia 1 Professional Edition (2019/10/25)
@@ -10788,7 +10918,7 @@ Sony の子会社。
 # 防水。
 # 大手キャリア向けに発売されてたスマホ。 (DSDV 非対応、おサイフあり、 2019/06/14)
 # SIM フリー版も発売された。 (Professional Edition, 海外版がベース)
-# Android 10 更新予定。 (2019/12/??)
+# Android 10 更新。 (2020/01/07)
 # [[https://sumahoinfo.com/post-32952][Xperia 1のストレージ規格？→ソニー「お答えできません」、複数規格が混在？]] (... ソニーの公式フォラム上で ... 返答 ... 当社ではこの情報は公開しないことを決定しました ... 以前ちゃんと公開していた情報 ... 国内版Xperia 1はストレージ容量が64GBと海外版の‘１２８GBよりも少なくなっている ..., @sumahokuchikomi, 2019/06/25)
 # [[https://sumahoinfo.com/?p=36031][Xperia 1 Professional Editionとノーマル版と5万円の価格差は何の違い？両モデルのスペック比較]] (... ディスプレイ色温度調整 ... あり ... SIMがシングル→デュアル、ストレージ容量が64GB→128GBに、さらにはFelicaやワンセグといった機能を削られて5万円高い ..., @sumahokuchikomi, 2019/10/23)
 #
@@ -11018,6 +11148,8 @@ VoLTE 対応。
 # 月額制の動画見放題と誤認させて、動画ごとに別料金なサービスを提供してた。 (他もある)
 # 課徴金で身代半減するまで続けて、蔦屋に社名変更するかも？ (再発しそう)
 # [[https://twitter.com/TSUTAYA_DISCAS/status/1087964690129608704][... 月額933円「動画見放題プラン」なら新作・準新作を除く約10,000タイトルが見放題♪ ...]] (@TSUTAYA_DISCAS, 2019/01/23)
+#
+# TONE e20? (?)
 #
 # TONE e19 (2019/03/01)
 # TONE ware 4.0 (Android 8.1)
@@ -11374,6 +11506,7 @@ DSDS 対応。
 # Privacy Shade
 # DragonHinge (foldable, smartwatch?, 2020/??/??)
 # BlackBerry Messenger (Emtek, ~2019/05/31)
+# 5G? (TCL 10 5G?, 2020/??/??)
 #
 # Vertu と提携。
 # 英 Vertu は 2017/06/29 破産。
@@ -11444,6 +11577,8 @@ VAIO Phone Biz を OS だけ Android 6 にしたもの。
 DSDV 対応。 (SIMx2 + MicroSD)
 # ウイコウ・ジャパンを設立。 (2016/01/25)
 # 2017/02/25 に Tommy を発売。 (日本上陸)
+#
+# View 3? (?)
 #
 # Rakuten Mini (?)
 # eSIM のみ。
@@ -11716,8 +11851,13 @@ DSDV 対応。
 #
 # Titan (2019/12/??)
 # Android 9.0
+# DSDV 対応。
+# どの回線でも使える。 *(!?)*
+# 防水。
+# 大容量バッテリー。
 # QWERTY 配列のキーボード。
 # クラウドファンディング商品。 (米 Kickstarter)
+# 日本で正規販売開始予定。 (Amazon, 2020/02/18?)
 #
 # Atom (2018/09/26~2018/10/03)
 # Jelly Pro の後継。
@@ -11731,7 +11871,7 @@ DSDV 対応。
 # DSDV 対応。
 # インカメラで顔認証っぽいことができる。 (2D, 指紋認証もできる)
 # おサイフは検証中？ (やめた？)
-# 国内で正規販売開始。 (Amazon, 2018/12/23)
+# 日本で正規販売開始。 (Amazon, 2018/12/23)
 # Android 9.0 更新。 (Unihertz_Atom_20190808, 2019/08/09)
 #
 # Jelly Pro (2018/01/30)
@@ -11739,7 +11879,7 @@ DSDV 対応。
 # ドコモ VoLTE 対応。
 # au 回線では使えない。
 # [[https://twitter.com/Unihertz/status/950567270681518080][技適]] を取得。 (2018/01/09)
-# 国内で正規販売開始。 (Amazon, 2018/01/30)
+# 日本で正規販売開始。 (Amazon, 2018/01/30)
 # Android 8.1 更新で、顔認証っぽいことができるようになった。 (2D, Unihertz_Jelly-Pro_20180712, Unihertz_Jelly-Pro_N_20180712, 2018/07/13)
 #
 # ヴェルテ (ドゥモア) は Unihertz と代理店契約してない。 (2017/10/02)
@@ -12066,6 +12206,8 @@ Android 10 の公開と同時にバージョンアップできたのは、この
 # [[https://twitter.com/suzukimasatomo/status/1205166109873201152][国交省で、今現在、顔認証システムを使った「One ID導入に向けた個人データの取扱検討会」を開催中 ... 大阪メトロは考慮せずか ...]] (@suzukimasatomo, 2019/12/12)
 # [[https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00001/03387/][テレビの視聴履歴を「オプトアウト方式」で収集、民放5社が関東地域で実験へ]] (... 日本テレビ、テレビ朝日、TBSテレビ、テレビ東京、フジテレビジョンの民放5社 ... 12月13日に ... プレスリリース ... 2019年初頭に ... 続いて2回目 ... 総務省から野村総合研究所（NRI）への委託調査研究の一環 ... 期間は2019年12月18日～12月20日（技術テスト）と2020年1月14日～2月4日。視聴中のチャンネルや視聴時刻、IPアドレス、利用者が受信機に設定した郵便番号、受信機を識別するため独自に振り出した5社共通のIDを収集 ... 画面には表示されないデータ放送画面（透明スクリーン）が立ち上がり、視聴履歴をインターネット経由で放送局のサーバーに送信 ... 民放5社は「特定の個人を識別できる情報を含んでいません」 ... 収集したIPアドレスを基に、放送局が提供するWebサービスの利用履歴や、広告関連企業や調査会社などから購入した属性データなどと突合することを検討 ... 期間中は各社のデータ放送のトップ画面に「5社共同実験」のボタン ... 総務省は ... 氏名や住所などの情報とひも付かない視聴履歴（非特定視聴履歴）について ... 自主ルールなどを作成するよう促すにとどめて ... 民放各社やテレビメーカーが協議会を立ち上げ、2019年3月に「オプトアウト方式で取得する非特定視聴履歴の取扱いに関するプラクティス（Ver1.0）」を取りまとめた ..., リクルートキャリア方式を採用しちゃった？、日経 xTECH, 2019/12/18)
 # [[https://www.userlocal.jp/press/20191223fa/][顔画像から感情を読み取る表情推定AIを無料で提供開始 ～ディープラーニングが感情を数値化し、WebAPI出力～]] (... 「喜び」「怒り」「悲しみ」「驚き」「無表情」の5感情をそれぞれ数値化 ... 人の反応を取得可能で ... スタッフの ... 評価、表情トレーニングに活用できます ..., 顔画像とかを破棄するとは書いてない、 ユーザーローカル、 2019/12/23)
+# [[http://fds.or.jp/update116/][AI・IoT などの先進テクノロジーを活⽤した「イベント来場者属性・感情の⾒える化」を実施]] (... 日本電気株式会社（以下NEC）の協力のもとデータ収集と分析を実施 ... カメラ映像 ... 「通過人数」を計測。合わせて顔データから「性別」「年齢構成」を推定 ... スマホ端末のWi-Fi信号 ... 「観客数（滞留人数）」を推定 ... SNS ... 観客の生の声、関心度合い ... 感情」を見える化 ... カメラやセンサーで取得したデータは収集・分析後に破棄しており、観客及び来場者個人を特定可能な方法で保存しない ..., 観客のアカウントを特定してからカメラやセンサーのデータだけ破棄するってこと？、渋谷未来デザイン、 2020/01/10)
+# [[https://www.nttdata.com/jp/ja/news/release/2020/011600/][顔パスで買い物！レジ無しデジタル店舗出店サービス『Catch&Go™』がさらに進化]] (... 消費者は事前にスマートフォンから顔情報を登録 ... ゲートに設置されたタブレットで顔認証し入店 ... 在庫状況に応じて自動的に価格を変更 ... オンラインの場でしか実現できなかった個人の嗜好に最適化した ... 購買体験の提供 ... 2022年度末までに小売業界1000店舗へ導入することを目指します ..., 相手によって値段も変えれるスマート監獄店舗計画？、 NTT DATA, 2020/01/16)
 
 # *** GRANBEAT (ONKYO)
 #
@@ -12177,14 +12319,15 @@ DSDV 対応。 (SIMx2 + microSD スロット)
 #
 # 中国 Hisense Communication 製。 (海信通信、ハイセンス)
 # Android 8.1
-# 両面ディスプレイ。 (OLED + E Ink, EPD: ElectroPhoretic Display, 電気泳動ディスプレイ、電子ペーパー、白黒)
+# 両面ディスプレイ。 (OLED + E-ink, EPD: ElectroPhoretic Display, 電気泳動ディスプレイ、電子ペーパー、白黒)
 # OLED は、韓国 Samsung 製。
 # 売却された露 Yota Devices 製の YotaPhone とは別。 (2012/12/04)
 # - Yota は破産。 (2019/04/01)
 # 日本では売ってない。 (中国で 2018/11/01 発売)
 #
-# E Ink + LCD (dual display, HiSense A6L, 2019/11/??)
-# E Ink only (single display, HiSense A5, 2019/11/??)
+# E-ink + LCD (dual display, HiSense A6L, 2019/11/??)
+# E-ink only (single display, HiSense A5, 2019/11/??)
+# Color E-ink? (4096 colors)
 
 # *** FlexPai
 #
@@ -12895,7 +13038,7 @@ Apple Store (直営) と、 Apple 正規サービスプロバイダがある。
 ** Windows 10 Mobile (Microsoft)
   
 見たことがない。
-月例の更新も終了？
+月例の更新も終了。
 VoLTE 非対応がほとんど。
 よそのスマホへの乗り換えを、公式に勧めてる。
 
@@ -12919,14 +13062,14 @@ VoLTE 非対応がほとんど。
 # [[https://www.androidpolice.com/2019/04/12/windows-10-ported-to-oneplus-6t-complete-with-modern-warfare-2/][Windows 10 ported to OnePlus 6T, complete with Modern Warfare 2]] (Pixel 3 XL や OnePlus 6T で動いた、 @NTAuthority, Android Police, 2019/04/12)
 #
 # Windows Phone 8.1 までは、メインストリームサポートを終了。 (2017/07/11)
-# Windows 10 Mobile は 2019/12/10 で終了。
+# Windows 10 Mobile は 2020/01/14 で終了。 (KB4535289, Windows 7 の終了と同じ日になった)
 # Creators update 非対応なのがある。
 # |                             | Mainstream Support End Date |
 # |-----------------------------+-----------------------------|
 # | November Update (1511)      | 2018/01/09                  |
 # | Anniversary Update (1607)   | 2018/10/09                  |
 # | Creators Update (1703)      | 2019/06/11                  |
-# | Fall Creators Update (1709) | 2019/12/10 -> 2020/01/14?   |
+# | Fall Creators Update (1709) | 2019/12/10 -> 2020/01/14    |
 #
 # Bill Gates が Android を使ってる。
 # [[https://twitter.com/joebelfiore/status/917071399541391360]["But building new features/hw aren't the focus."]] (@joebelfiore, 2017/10/08)
@@ -13140,17 +13283,17 @@ au が 2022/03/?? まで。
 # [[https://www.wi-fi.org/news-events/newsroom/wi-fi-alliance-introduces-wi-fi-certified-wpa3-security][Wi-Fi Alliance® introduces Wi-Fi CERTIFIED WPA3™ security]] (2018/06/25)
 #
 # IEEE Std 802.11 WG
-# |    |    GHz | Mbps |    name |
-# |----+--------+------+---------|
-# | a  |      5 |   54 |         |
-# | b  |    2.4 |   11 |         |
-# | g  |    2.4 |   54 |         |
-# | n  | 2.4, 5 |  600 | Wi-Fi 4 | (Vantage)
-# | ac |      5 | 6933 | Wi-Fi 5 | (Vantage)
-# | ad |     60 | 6700 |         | (WiGig)
-# | ax | 2.4, 5 | 9608 | Wi-Fi 6 | (draft 4.0, 2020/06/??)
-# | ay |     60 |      |         | (draft 4.0, 2020/03/??)
-# |    |      6 |      |         | (EHT: Extreme High Throughput)
+# |    |    GHz         | Mbps |         name |
+# |----+----------------+------+--------------|
+# | a  |      5         |   54 |              |
+# | b  | 2.4            |   11 |              |
+# | g  | 2.4            |   54 |              |
+# | n  | 2.4, 5         |  600 | Wi-Fi 4      | (Vantage)
+# | ac |      5         | 6933 | Wi-Fi 5      | (Vantage)
+# | ad |             60 | 6700 |              | (WiGig)
+# | ax | 2.4, 5, (6)    | 9608 | Wi-Fi 6 (6E) | (draft 4.0, 2020/06/??)
+# | ay |             60 |      |              | (draft 4.0, 2020/03/??)
+# |    |          6     |      |              | (EHT: Extreme High Throughput)
 # [[https://www.wi-fi.org/news-events/newsroom/wi-fi-certified-6-delivers-new-wi-fi-era][Wi-Fi CERTIFIED 6™ delivers new Wi-Fi® era]] (... The Samsung Galaxy Note10 is the first Wi-Fi CERTIFIED 6 smartphone ..., Wi-Fi Alliance, 2019/09/16)
 # [[https://www.wi-fi.org/news-events/newsroom/wi-fi-alliance-brings-wi-fi-6-into-6-ghz][Wi-Fi Alliance® brings Wi-Fi 6 into 6 GHz]] (... Wi-Fi 6E ..., Wi-Fi Alliance, 2020/01/03)
 #
