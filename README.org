@@ -2623,7 +2623,7 @@
 #            国連の特別報告者が、サウジアラビアに裁判の中止を求めてる。 (皇太子たちについての追加の捜査？、 2019/06/19)
 #            華麗に上場を延期した WeWork のために、さらなる出資を決定。 (ソフトバンクの有利子負債が増える、 2019/10/23)
 #            低軌道衛星基地局の打ち上げを進めてた、 OneWeb が破産申請。 (ソフトバンクが資産売却も進めてる、 2020/03/27)
-#            オフィスに人を集める WeWork のための、さらなる出資を回避。 (新型コロナウイルスで分散が進む？、 2020/04/01)
+#            オフィスに人を集める WeWork のための、さらなる出資を中止。 (新型コロナウイルスで分散が進む？、 2020/04/01)
 # 2018/12/19 東京証券取引所に上場。 (銘柄コードは串刺し)
 #            フィッシングサイトが確認されてるので注意。 (2018/11/14)
 # 2019/03/11 Search for 3.11 (6 回目)
@@ -2723,6 +2723,7 @@
 #            [[https://xtrend.nikkei.com/atcl/contents/18/00282/00004/][【特報】新型コロナで都外から流入「5割減」スマホ人口動態調査]] (... Agoopはソフトバンク子会社で ... 「ラーメンチェッカー」などのアプリの利用者から事前の許諾を得たうえで、GPSの位置情報を取得 ..., 日経 xTECH, 2020/02/28)
 #            [[https://twitter.com/HiromitsuTakagi/status/1235943719397777409][ラーメン屋マップとか ... 利用者はわかってるのかねえ]] (画像とリンクあり、 @HiromitsuTakagi, 2020/03/07)
 #            [[https://twitter.com/HiromitsuTakagi/status/1236178482247258112][久々にラーメンチェッカー（名前変わってた）を動かしてみたら、こんな画面が出る ... バックグラウンドで一日中GPS稼働させ ... 利用者の意図に反して実行される ... のを作成者は認識 ... しているのでは？ ...]] (画像あり、 @HiromitsuTakagi, 2020/03/07)
+#            [[https://ccsi.jp/1719/][学校教育支援アプリのClassi（クラッシー）、サイバー攻撃により122万人分のIDが流出]] (... 宿題や小テストなどを配信するSaaS ... 13日、第三者による不正アクセスによって約122万人分のIDと暗号化されたパスワード、および2,031件の教員の公開用自己紹介文（任意記入）が流出したと発表 ... Classi（クラッシー）は全国の高校の約半数、高校生の1/3が利用し ... Classi株式会社（クラッシー）はベネッセとソフトバンクの合弁子会社 ..., ベネッセの ID も使えて年 3600 円で学校から生徒に教材を押し付けさせてデータを収集しちゃう e ポートフォリオで高校の半数が進研ゼミになりそう、 CCSI, 2020/04/13)
 # 2023/??/?? 成層圏を飛ぶ基地局？ (HAWK30, HAPSMobile, Facebook, Loon)
 #            日本の空でも飛べる？ (HAWK50?, 2025/??/??)
 # 2024/01/下 3G を停波する予定。 (2019/12/06)
@@ -2898,6 +2899,8 @@ DSDS 対応スマホで音声通話定額を利用するなら、ドコモがお
 #            [[http://blogofmobile.com/article/125410][NTTドコモの5Gサービスを試す、実測で1Gbps超も]] (... DOCOMOを含めて ... ノンスタンドアローン(NSA)構成のOption 3で運用しており、NR方式に接続するためにはLTE方式への常時接続が必要 ... 理論値が ... 下り最大3.4Gbps/上り最大182Mbpsで ... このうち下りは1.7GbpsがNR方式、1.7GbpsがeLTE方式 ... 実測で下り1Gbps超を記録したが、いずれもLTE方式は混雑していないと思われる環境 ..., @paopao012, 2020/03/30)
 # 2026/03/31 3G を停波する予定。 (2019/10/29)
 #            3G の一部から、新規受け付けを終了。 (i モードと FOMA 音声プラン、 2019/09/30)
+#            5G 契約すると、 3G を使えなくなる予定。 (2020/05/??)
+#            [[http://s-max.jp/archives/1790566.html][NTTドコモ、5G契約では2020年5月下旬以降に3G通信に非対応に！FOMAの2026年3月末終了に向けて段階的に利用を縮小へ]] (... 広報部に確認したところ「 ... 2020年5月下旬以降、5G契約で利用の場合、国内では4Gと5Gで快適な環境を提供 ... 」 ... 仮想移動体通信事業者（MVNO）についても5Gサービスをはじめた場合に5G契約であれば3Gを5月下旬以降利用しないようになる予定 ..., S-MAX, 2020/04/11)
 
 ** au
 
@@ -3230,18 +3233,41 @@ au の子会社。
 # 2020/03/31 WiMAX を停波。 (周波数は WiMAX2+ で利用予定)
 # 20??/??/?? PLMN 441-10 廃止予定。 (残る 440-01 に加えて 440-XY を新規取得するらしい)
 
-# ** 楽天モバイル
-#
-# |          | (*1) 2GB
-# |-
-# | UN-LIMIT | 2980 |
-# (*1) au 回線での上限。
-# 2020/04/08 4G サービス開始予定。
-# まだ狭いけど、楽天エリアならパケット通信が無制限。
-# "Rakuten Link" アプリなら、音声通話と SMS も無料。 (他のアプリだと 30 秒/ 20 円)
-# 公式サイトに載ったスマホしか音声通話できないかも。 (スマホの製造元と交渉中？)
-# スマホを SIM ロックしない。 *(!?)*
-# (通信の最適化は？)
+** 楽天モバイル
+
+|          | (*1) 2GB |
+|----------+----------|
+| UN-LIMIT |     2980 |
+(*1) au 回線での上限。
+# 2020/04/08 4G サービス開始。 (通信の最適化は？)
+# 2020/04/22 改定予定。 (2->5GB)
+
+楽天エリアなら、パケット通信が 1 日 10GB まで。 (公式には無制限と書いてる)
+エリアは "my 楽天モバイル" アプリで確認できる。 (エリア外は au 回線になる)
+楽天エリアがまだ狭いので注意。
+# [[http://blogofmobile.com/article/125724][楽天モバイルのSIMカードが到着、開通手続きを実施]] (... ネットワークを自動的に選択の項目をOFFにするとネットワークの検索を行える ... 一部の端末を除いてネットワークを検索する場合は基本的にSIMカードを装着する必要があり ... してネットワークの検索を行い、Rakutenまたは440-11を検出すればRakuten Mobileが整備した楽天回線のエリア ... 440-53を検出すればパートナー回線のエリア ... なお、Rakuten MobileのSIMカードを装着時は基本的に440-53もRakutenと表示されるほか、一部の端末は ... 440-53もRakutenと表示する場合がある ... いずれも検出できない場合は ... ほかの場所で開通手続きを行う方が無難 ..., @paopao0128, 2020/04/08)
+# [[https://www.itmedia.co.jp/mobile/articles/2004/10/news090.html][楽天モバイルの「Rakuten UN-LIMIT」、自社回線でも容量制限あり？ 詳細を確認した]] (... 楽天回線でも1日10GBを超えると通信速度が制限される――。そんな報告がネットで上がっている ... 楽天モバイルに確認したところ、「（10GBなどの）明確な数値を決めているわけではないが ... 公平な通信環境を提供できないと判断したら、通信の制御や最適化を行う場合がある」とのこと ... 低速時の通信速度は公表していない。通信速度が制御された場合、翌日の0時にもとの速度に戻る ..., ITmedia, 2020/04/10)
+# [[https://twitter.com/denpa893/status/1248574788253020160][... 確かに楽天モバイル自前エリアで10GB使うと上下1Mbpsに制限される ... 記載すべき ...]] (@denpa893, 2020/04/10)
+# [[http://blogofmobile.com/article/125831][楽天モバイル、auローミングエリアでは残り400MB・200MB・0MBで通知]] (... 電子メールとSMSの両方に残量の通知が行われた ... アカウントを登録した電子メールアドレス ... Rakuten Mobileの電話番号宛であるが、Rakuten Linkではなく標準のSMSクライアントでSMSを受信 ..., @paopao0128, 2020/04/13)
+
+"Rakuten Link" アプリなら、音声通話と SMS も無料。 (他のアプリを使うと従量制)
+公式サイトに載ったスマホしか音声通話できないかも。 (スマホの製造元と交渉中？)
+iPhone では使えないアプリなので注意。
+# [[http://blogofmobile.com/article/125738][楽天モバイルの楽天回線、iPhone 11 ProでVoLTEとテザリングを利用する]] (... データ通信および音声通話、テザリングは利用できることを確認 ... パートナーエリアではSMSは送受信ともに利用できる手段を見つけ出せていない ..., @paopao0128, 2020/04/08)
+# [[http://blogofmobile.com/article/125768][楽天モバイルのSIMカードとRakuten Linkの端末を分離、海外SIMカードでも利用可能]] (... 複数の端末で同じ楽天アカウントを使用してRakuten Linkのアクティベーションを試みると、最後にアクティベーションした端末のみ ... Rakuten Linkを利用できる ... SIMカードを装着した端末とRakuten Linkを利用する端末を分離した際に ... SIMカードの装着に関係なく、Rakuten Linkで優先的に着信を受ける ... あくまでも2020年4月9日時点の動作 ..., @paopao0128, 2020/04/10)
+# [[https://elibom.net/2020/04/13/rakuten-link-3/][「Rakuten Link」のSMS認証に潜む重大な欠陥]] (... 電話番号の下6桁を入れると通ってしまう ... SMSで届いた本来の認証コードが下6桁と一致していたわけではありません ... 「電話番号を知られたが最後、乗っ取り放題になる」というわけではありません。しかし ... この仕様に関しては強く再考を促したい ..., elibom, 2020/04/13)
+
+スマホを SIM ロックしない。 *(!?)*
+eSIM も発行してる。
+動作しないスマホも確認されてるので注意。
+# [[https://mobile.rakuten.co.jp/device/][動作確認済み端末]]
+# [[https://network.mobile.rakuten.co.jp/faq/detail/00001495/][APN情報を確認したい]] (... 楽天モバイル以外で購入された製品は動作保証対象外 ... iPhone X以前のモデルでは動作しないことが確認されています ..., 2020/04/08?)
+# [[https://network.mobile.rakuten.co.jp/product/sim/esim/][eSIMとは]] (... iPhone ... Pixel 4 ... は動作保証外 ... SIMロック解除 ... が必要 ..., 2020/04/08)
+# [[http://blogofmobile.com/article/125827][楽天モバイル、楽天回線のAPN情報を公開]] (... APN情報の通りに設定してもデータ通信を利用できない場合、ベアラーをLTEに設定するとデータ通信を利用できる場合がある ..., @paopao0128, 2020/04/12)
+
+パケットを繰り越せない。
+追加したパケットが使えるのは 31 日間。 (1GB 単位で買える)
+パケットを使い切った後の通信速度は、 1Mbps 。
 
 # 基地局の場所が足りない。 (都市部)
 # 単独の大手キャリアとしては、設備投資が足りない。 (仮想化)
@@ -3423,18 +3449,20 @@ au の子会社。
 #            [[https://network.mobile.rakuten.co.jp/cms/attention-news/157][（復旧報）通信障害のお知らせ（更新：影響人数約70名（2月17日 午後11時50分））]] (... 利用できない ... 音声通話 ... 原因 ... 調査中 ..., 2020/02/17)
 #            [[https://network.mobile.rakuten.co.jp/cms/news/159][「無料サポータープログラム」正式プランへの移行および期間延長のお知らせ]] (... 2020年3月31日（火）23:59までとご案内しておりましたが、正式プラン開始まで延長  ... 詳細につきましては2020年3月3日（火）に発表 ..., 2020/02/26)
 #            [[https://network.mobile.rakuten.co.jp/cms/attention-news/163][「無料サポータープログラム」正式プランへの移行および期間延長のお知らせ]] (... 無料サポータープログラム「100GB無料プラン」、5月末までご利用いただけます ..., 2020/03/03)
-# 2020/04/07 格安キャリアとしての新規受け付けを終了。
-#            [[https://mobile.rakuten.co.jp/news/service_20190906/][楽天回線への移行について]] (... 移行時に選択できるプランはお客様によって異なります ..., 2020/03/03)
-#            [[https://www.itmedia.co.jp/mobile/articles/2003/03/news126.html][楽天モバイル、4月7日をもってMVNOサービスの新規受け付けを終了 完全終息は未定]] (... 同日までに契約した回線は、当面の間、そのまま利用できる ... ただし、「 ... どこかのタイミングで」（山田善久社長）、MNOサービスへの切り替えは行われる ..., ITmedia, 2020/03/03)
-#            [[https://www.itmedia.co.jp/news/articles/2003/03/news112.html][楽天モバイル、MVNOサービスは4月7日に新規受け付け終了 正式キャリアサービス開始に伴い]] (... MVNOサービスのユーザー数は、19年12月時点で約230万人 ..., ITmedia, 2020/03/03)
-#            [[https://www.itmedia.co.jp/news/articles/2003/03/news127.html][楽天モバイル、「UN-LIMIT」以外の楽天回線プランも存在？ 一部ユーザー向けに夏ごろ案内]] (... MVNOを契約しているユーザーの一部は ... 契約している内容のまま、MVNO回線から楽天回線へ移行できる ..., ITmedia, 2020/03/03)
 #            [[http://blogofmobile.com/article/124818][楽天モバイルがサービスエリアを更新、北海道や沖縄県にも楽天回線エリア]] (@paopao0128, 2020/03/13)
 #            [[http://blogofmobile.com/article/125326][楽天モバイル、楽天回線のサービスエリアを更新]] (... 2020年3月16日時点の情報に更新 ..., @paopao0128, 2020/03/26)
 #            [[https://www.itmedia.co.jp/mobile/articles/2003/27/news102.html][3月26日に楽天モバイルで通信障害 現在は回復]] (... 原因はネットワーク機器のソフトウェアアップデート ... 影響範囲が狭いため、お知らせ等には公表しておらず、問い合わせのあったユーザーに対して個別に対応 ..., ITmedia, 2020/03/27)
 #            [[https://twitter.com/tezawaly/status/1244625858020569093][my楽天モバイルの残量表示が ... 自社回線エリアで使っているのに全エリアの利用量は増えず、パートナー回線の残量だけ減るのが謎 ...]] (@tezawaly, 2020/03/30)
 #            [[https://twitter.com/arkw3/status/1244766548230733824][... 「my楽天モバイル」アプリ、位置情報提供協力のお願いが出てきたけど、同意しか選べない ...]] (画像あり、 @arkw3, 2020/03/31)
 #            [[https://twitter.com/tezawaly/status/1245238051145580544][「my楽天モバイル」アプリの表示問題について、楽天モバイルから「アプリの不具合による事象」で、4/1に修正予定との回答 ...]] (@tezawaly, 2020/04/01)
-# 2020/04/08 4G サービス開始予定？
+#            [[http://blogofmobile.com/article/125729][楽天モバイル、4月7日時点のエリアを公開]] (... ほぼ商用化の時点のサービスエリアと考えられる ..., @paopao0128, 2020/04/08)
+# 2020/04/07 格安キャリアとしての新規受け付けを終了。
+#            [[https://mobile.rakuten.co.jp/news/service_20190906/][楽天回線への移行について]] (... 移行時に選択できるプランはお客様によって異なります ..., 2020/03/03)
+#            [[https://www.itmedia.co.jp/mobile/articles/2003/03/news126.html][楽天モバイル、4月7日をもってMVNOサービスの新規受け付けを終了 完全終息は未定]] (... 同日までに契約した回線は、当面の間、そのまま利用できる ... ただし、「 ... どこかのタイミングで」（山田善久社長）、MNOサービスへの切り替えは行われる ..., ITmedia, 2020/03/03)
+#            [[https://www.itmedia.co.jp/news/articles/2003/03/news112.html][楽天モバイル、MVNOサービスは4月7日に新規受け付け終了 正式キャリアサービス開始に伴い]] (... MVNOサービスのユーザー数は、19年12月時点で約230万人 ..., ITmedia, 2020/03/03)
+#            [[https://www.itmedia.co.jp/news/articles/2003/03/news127.html][楽天モバイル、「UN-LIMIT」以外の楽天回線プランも存在？ 一部ユーザー向けに夏ごろ案内]] (... MVNOを契約しているユーザーの一部は ... 契約している内容のまま、MVNO回線から楽天回線へ移行できる ..., ITmedia, 2020/03/03)
+#            [[https://www.itmedia.co.jp/mobile/articles/2004/08/news064.html][楽天モバイルのキャリアサービスがスタート 「無料サポータープログラム」ユーザーの移行も受け付け開始]] (... 4月7日20時59分（店頭では同日の閉店時間）をもってMVNOサービスの新規受け付けを終了した。Web申し込みの場合、4月30日までに開通（利用開始）手続きを取らないと、申し込みがキャンセルとなるので注意 ... 「FREETEL SIM」 ... と、「DMM mobile」の音声プランを利用しているユーザーがMNOサービスに移行する場合は、いったんMNPで転出手続きを取った上で、MNP転入でMNOサービスを新規申し込みする必要がある ..., ITmedia, 2020/04/08)
+# 2020/04/08 4G サービス開始。
 #            料金プランを発表。 (2020/03/03)
 #            [[https://www.itmedia.co.jp/mobile/articles/1911/01/news152_2.html][下期の競争は落ち着く？ 楽天モバイルとどう付き合う？――KDDI高橋社長一問一答（2019年第2四半期決算編） (1/2)]] (... 現在のローミング方式（S8リンク）では、ローミングの際に通信が切断 ... 来年（2020年）の4月からは切断されない方式（S10リンク）に切り替える予定 ..., ITmedia, 2019/11/01)
 #            [[https://k-tai.watch.impress.co.jp/docs/news/1230910.html][楽天モバイル山田社長が語る、これまでとこれからの歩み]] (... 2019年12月の平均が15GB以上 ... 同時期の国内平均は4.1GB ... iPhoneについてはノーコメント ... 23日午後、一時的に ... 一時的にeSIMの交換を受け付けるシステムで問題があったことを認めつつ、すぐ復旧 ... 大手3社が手がける「+メッセージ」との相互接続 ... 現時点では白紙 ..., Impress, 2020/01/23)
@@ -3456,6 +3484,12 @@ au の子会社。
 #            [[https://gadget-shot.com/guide/48957][楽天モバイル自社回線のeSIMがiPhoneで利用可能に！eSIM再発行手数料は0円、設定方法はQRを読み込むだけ]] (... iPhoneは現時点では楽天モバイルが正式に対応している機種ではない ... Rakuten mini発売時はRakuten mini専用だったeSIMが、現在では他のデバイスでも導入可能 ... Rakuten Mini→iPhone 11 Pro→iPad mini 5と再発行を2つ跨いだところ、iPad mini 5で ... 「SIMカード交換」のボタンがグレーアウト ... 何かしらの制限がある可能性 ... eSIM対応iPhone（XS、XR以降） ... 楽天回線・au回線の細かい切り替え制御には期待できないという点はあるものの ... 問題なく使えている印象 ..., ガジェットショット、 2020/03/05)
 #            [[https://jp.reuters.com/article/japan-rakuten-mobile-idJPKBN20T14Y][アングル：楽天の携帯事業、独自アプリが秘める通信料金「破壊力」]] (... 「楽天Ｌｉｎｋ」を通じて提供する通話・ショートメッセージ（ＳＭＳ）の無料サービス ... ユーザーＩＤ間だけでなく、電話番号による固定電話や他社の携帯電話への通話も無料 ..., Reuters, 2020/03/06)
 #            [[https://japanese.engadget.com/jp-2020-04-05-sim.html][楽天モバイル、SIMカードを発送開始]] (... 筆者にも4月4日夜の時点で「製品発送完了のお知らせ」のメールが届いています ..., Engadget 日本版、 2020/04/06)
+#            [[http://blogofmobile.com/article/125650][楽天モバイル、MNOサービスのSIMカードを順次発送]] (... 先行申し込みを実施した顧客に対しては2020年4月3日より電子メールを通じて製品発送の通知を順次配信 ... eSIMの場合 ... プロファイルのダウンロードに関する電子メールを送信すると案内しており ... 何らかの書類が到着後、すなわち本人確認の終了後にeSIMプロファイルのダウンロードを可能とする模様 ..., @paopao0128, 2020/04/06)
+#            [[https://www.itmedia.co.jp/mobile/articles/2004/08/news071.html][楽天モバイルが「Rakuten UN-LIMIT」を改定 KDDIエリアは月間5GBまで、超過後は1Mbpsに]] (... 5GB超過後の1Mbpsは4月8日から順次、データ容量5GBは4月22日から順次、Rakuten UN-LIMITの契約者に適用 ..., ITmedia, 2020/04/08)
+#            [[https://www.itmedia.co.jp/mobile/articles/2004/08/news120.html][楽天モバイルの小型基地局「Rakuten Casa」始動 九州の一部を除く全国で受け付け開始]] (... 自宅周辺に楽天モバイルの屋外基地局がなくても ... 設置者以外のキャリアサービスの契約者も利用可能 ... 開始当初は ... 「楽天ひかり」にのみ対応 ..., ITmedia, 2020/04/08)
+#            [[https://k-tai.watch.impress.co.jp/docs/news/1245707.html][楽天モバイルが本格スタート、auローミングエリアは月5GBへ]] (... 楽天モバイル代表取締役会長兼CEOの三木谷浩史氏 ... 「 ... 家計に占める通信費を下げ、消費循環を後押ししていく ... 」 ..., Impress, 2020/04/08)
+#            [[https://www.itmedia.co.jp/mobile/articles/2004/09/news064.html][楽天モバイルのeSIMが「iPhone」「Pixel 4」に対応 動作保証はなし]] (... eSIMを書き込む前に「SIMロック」を解除する必要がある ..., ITmedia, 2020/04/09)
+#            [[https://twitter.com/june_ya/status/1247911009794150400][... デュアルSIM端末で楽天回線じゃない方で通信してるときに番号通知されてしまうあれは、直ったんだろうか。番号規則的にアウトなやつ。]] (@june_ya, 2020/04/09)
 # 2020/06/?? 5G 開始予定？
 #            [[https://www.anritsu.com/ja-JP/test-measurement/news/news-releases/2019/2019-12-25-jp01][楽天モバイルが5G NR端末受入試験にアンリツのプロトコルテストプラットフォームを採用]] (... これまでも楽天モバイル株式会社の4Gデバイス受入試験をサポート ..., アンリツ、 2019/12/25)
 #            [[https://www.jiji.com/jc/article?k=2020012001149][楽天、マレーシアの５Ｇに参入検討 研究開発施設を建設も]] (... 楽天は現在、マレーシア側のパートナーを探すため、通信事業者などと接触 ... 参入時期は未定 ..., 時事通信、 2020/01/21)
@@ -3697,19 +3731,25 @@ au 回線だと、音声通話には au VoLTE 対応のスマホがいる。
 # 運用開始。
 
 # L2 接続料は年度末に改定。 (JPY/10Mbps)
-# |   4G |   ドコモ |      au | ソフトバンク |
-# |------+----------+---------+--------------|
-# | 2008 | 12671760 |         |              |
-# | 2009 |  9396038 |         |              |
-# | 2010 |  7458418 |         |              |
-# | 2011 |  4843632 |         |              |
-# | 2012 |  2846478 |         |              |
-# | 2013 |  1234911 | 2751142 |      3517286 |
-# | 2014 |   945059 | 1166191 |      1352562 |
-# | 2015 |   784887 |  967983 |      1166697 |
-# | 2016 |   674818 |  858335 |       948803 |
-# | 2017 |   552075 |  765638 |       773519 |
-# | 2018 |   524493 |  610969 |       606281 |
+# |           |      ドコモ |      au | ソフトバンク |
+# |-----------+-------------+---------+--------------|
+# |      2008 |    12671760 |         |              |
+# |      2009 |     9396038 |         |              |
+# |      2010 |     7458418 |         |              |
+# |      2011 |     4843632 |         |              |
+# |      2012 |     2846478 |         |              |
+# |      2013 |     1234911 | 2751142 |      3517286 |
+# |      2014 |      945059 | 1166191 |      1352562 |
+# |      2015 |      784887 |  967983 |      1166697 |
+# |      2016 |      674818 |  858335 |       948803 |
+# |      2017 |      552075 |  765638 |       773519 |
+# |      2018 |      524493 |  610969 |       606281 |
+# |      2019 | (*1) 493023 |  529492 |       486523 |
+# | (*2) 2020 |      414368 |  328420 |       310940 |
+# |      2021 |      332114 |         |              |
+# |      2022 |      279247 |         |              |
+# (*1) ドコモが説明資料に書いてないので、日経 xTECH が報じた前年度比 -6% で計算。 (2020/04/10)
+# (*2) 将来原価方式。
 #
 # 「接続料の算定に関する研究会」第三次報告書の公表 (2019/09/25 総務省)
 # 電気通信事業法施行規則及び第二種指定電気通信設備接続料規則の一部を改正する省令案等に対する意見募集 (2019/09/27 総務省)
@@ -3753,7 +3793,7 @@ au 回線だと、音声通話には au VoLTE 対応のスマホがいる。
 # 2019/11/22 家電量販店とかで、新品の iPhone を販売開始。 (Apple Premium Reseller, SIM フリー)
 # 2019/12/01 トーンモバイルが CCC から DTI の子会社に戻った。 (フリービット)
 # 2020/02/12 丸紅ネットワークソリューションズが、フル MVNO を開始。 (eSIM, MVNE のみ)
-# 2020/04/08 楽天モバイルが、大手キャリアになる予定。 (4G)
+# 2020/04/08 楽天モバイルが、大手キャリアになった。 (4G, MVNO の新規受け付けを終了)
 
 # ** wjroc (ヌノス寸)
 #
@@ -4991,6 +5031,7 @@ NTT コミュニケーションズでプロバイダをしてるところ。
 #            録音を拒否できるようになった。 (2019/09/06)
 #            (Google や Apple と Amazon での問題と同じって考えてよさそう)
 #            [[http://clova-blog.line.me/ja/archives/20863347.html][「アクティビティ」機能を追加しました]] (人が聞いてるのかどうかを書いてない、 2019/09/06)
+#            [[http://clova-blog.line.me/ja/archives/24010827.html][LINEで音声検索・音声操作ができるようになりました！]] (... Android 版：LINEバージョン 10.5.2以上 ... iOS版は後日公開を予定 ... LINEの新機能をいち早く試せる『LINE Labs』にて公開 ..., 2020/04/08)
 # 2018/03/06 LINE 請求書払いを開始。 (8.2.1)
 # 2018/03/07 LINE ウォレットを開始。 (8.3.0)
 # 2018/08/28 LINE ポイントでの料金支払いを開始。 (契約者連携が必須)
@@ -4998,7 +5039,7 @@ NTT コミュニケーションズでプロバイダをしてるところ。
 # 2018/12/14 LINE Pay で大阪市に納税できる予定。 (神奈川県は 2019/01/??~)
 # 2019/04/17 LINE Pay アプリを提供開始。 (Android, 決済用)
 #            iOS 向けも開始。 (2019/04/23)
-#            JPQR 対応。 (2019/08/01)
+#            JPQR 対応。 (CPM, 2019/08/01, MPM, 2020/04/09)
 #            生体認証ログインを開始。 (v2.0.0, FIDO2?, 2019/12/03)
 # 2019/04/24 [[https://linecorp.com/ja/pr/news/ja/2019/2688][【LINE Pay】スマホと身分証があればできる「LINE Pay かんたん本人確認」を開始]] (... 2018年11月の犯罪収益移転防止法施行規則の改正により可能になった、オンラインで完結する本人確認方法（e-KYC） ... 身分証の撮影データ ... スマートフォンのカメラで身分証と自分の顔を撮影することで、送信 ... NECの「Digital KYC」 ... 「FIDO」に準拠 ..., 顔写真を送信するのに FIDO 準拠？)
 # 2019/06/27 みずほ銀行やオリコと合弁の LINE Credit で、消費者金融を開始。 (LINE Score)
@@ -5413,16 +5454,24 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            - 特徴が似た人への、ターゲティング広告にも利用してる？ (Lookalike Audiences, 疑似オーディエンス)
 #            米政府が新型コロナウイルスの監視を理由に、位置情報の利用を検討中。 (COVID-19, Washington Post, 2020/03/17)
 #            - 全地球追跡システムを構築させるのと同じ？ (Amazon, Apple, Facebook, Google, ...)
-#              (感染者を追跡しつつ接触相手も特定してたりする国が増えてる、中韓台英、タイ、イスラエル、イラン、 ...)
+#              (感染者を追跡しつつ接触相手も特定してたりする国が増えてる、中露韓台英豪、タイ、イスラエル、イラン、インド、 ...)
 #            - シンガポール政府がアプリを作って、スマホへのインストールを呼び掛けてる。 (Straits Times, 2020/03/20)
 #              Bluetooth で ID の交換を記録して、接触履歴の収集を開始。 ("TraceTogether", 6feet?, open source?)
 #            - Edward Snowden が、終息しても追跡システムの利用は続くって警告。 (TNW, 2020/03/25)
 #            - 米政府が、広告業者からスマホの位置情報を取得して追跡を開始。 (WSJ, 2020/03/28)
 #              Facebook が、位置情報を加工して研究者のチームに提供。 (COVID-19 Mobility Data Network, Reuters, 2020/04/02)
 #              Google は、位置情報を加工して公開。 (COVID-19 Community Mobility Reports, Google Blog, 2020/04/03)
+#              ...
+#              Amazon は感染者が出た倉庫の従業員を黙らせようとして、ストライキ多発。 (首にされた人もいる、 Verge, 2020/04/10)
 #            - 日本政府が、キャリアやプラットフォーマーからのデータ提供を要請。 (統計のみらしい、 Impress, 2020/03/31)
 #              (ドコモ、 au, ソフトバンク、 Google, LINE, ...?)
-#            - (PEPP-PT: Pan-European Privacy-Preserving Proximity Tracing, open source?, 2020/04/??)
+#            - 米マサチューセッツ工科大学が、アプリを開発中。 (MIT, 2020/04/10)
+#              アプリが位置情報を記録しといて、医療機関とかが提供する感染者の移動経路と照合。
+#            - (PEPP-PT: Pan-European Privacy-Preserving Proximity Tracing, Bluetooth, open source?, 2020/04/??)
+#            - (PPCT: Privacy-Preserving Contact Tracing, API, Bluetooth, Apple, Google)
+#              接触履歴の収集が、 Android と iOS で共通化される予定。 (OS に組み込み？、 2020/05/??)
+#              (アプリが公的な外出許可証みたいに扱われると感染者を増やしちゃうかも？)
+#            - (PPCT, Code for Japan, ITmedia, 2020/04/11)
 # 2018/07/13 Hillary Clinton 陣営を攻撃してメールを暴露したことで、露情報機関の 12 人を起訴。 (WikiLeaks に流した？)
 #            事実だったとしても、主権免除で GRU を起訴できない？ (よその政府に裁判権は及ばない、 ABC, 2018/11/13)
 #            共和党の元財務副委員長も、メールの件でカタール政府を訴えて FSIA で棄却されてる。 (Washington Post, 2018/08/09)
@@ -6055,6 +6104,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            EU 各国で法整備のあと、 2 年以内に施行？ (~2021/??/??)
 #            パブリックドメインの Mueller report を、 Scribd が自動削除。 (出版社のせい？、 Techdirt, 2019/04/22)
 #            仏で施行されるけど、 Google はリンク税を支払わないと表明。 (2019/10/24 施行予定、 Engadget, 2019/09/26)
+#            - Google が報道機関とかへのリンク税を支払うべきって、仏競争委員会の判断に従うって表明。 (Reuters, 2020/04/09)
 # 2019/04/21 スリランカの 8 カ所で爆破事件。 (NYT)
 #            Facebook を含む、いくつかの SNS が遮断されたみたい。
 # 2019/04/25 カナダのプライバシー委員会に、訴えられた。 (OPC: Privacy Commissioner of Canada)
@@ -6802,6 +6852,10 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 # [[https://k-tai.watch.impress.co.jp/docs/news/1244166.html][政府、新型コロナ拡大防止に「位置情報や検索履歴の統計データ」の提供求める]] (Impress, 2020/03/31)
 # [[https://www.reuters.com/article/us-health-coronavirus-facebook-location/in-coronavirus-fight-oft-criticized-facebook-data-aids-u-s-cities-states-idUSKBN21K3BJ][In coronavirus fight, oft-criticized Facebook data aids U.S. cities, states]] (Reuters, 2020/04/02)
 # [[https://www.blog.google/technology/health/covid-19-community-mobility-reports/][Helping public health officials combat COVID-19]] (Google Blog, 2020/04/03)
+# [[https://www.reuters.com/article/us-google-france/french-regulator-google-must-pay-french-news-and-publishing-firms-for-using-their-content-idUSKCN21R14X][France rules Google must pay news firms for content]] (Reuters, 2020/04/09)
+# [[https://www.theverge.com/2020/4/10/21216172/amazon-coronavirus-protests-response-safety-jfk8-fired-covid-19][Warehouse workers are forcing Amazon to take COVID-19 seriously]] (Verge, 2020/04/10)
+# [[https://www.media.mit.edu/articles/safe-paths-a-privacy-first-approach-to-contact-tracing/][Safe Paths: A privacy-first approach to contact tracing]] (MIT, 2020/04/10)
+# [[https://www.itmedia.co.jp/pcuser/articles/2004/11/news027.html][ロックダウンを繰り返さないために：AppleとGoogleが協力した新型コロナ対策「接触追跡」とは何か？ (1/4)]] (... ..., ITmedia, 2020/04/11)
 
 *** WhatsApp (Facebook)
 
@@ -7562,6 +7616,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 #            日本を含む 120 カ国以上が、お金を払ってまで機密情報を提出する仕組み。 (中露は買ってない)
 #            (スイス政府が調査を始めたけど知ってた？、まだ使ってる国があるらしい？)
 #            (Crypto AG, 米 CIA, 独 BND, 1960/??/??~2018/??/??)
+# 2020/04/08 LibreSSL が TLS 1.3 に対応。 (3.1.0)
 # 2020/??/?? TLS 1.0 と 1.1 が、非推奨になる予定。 (IETF, 2020/01/06)
 #            Chrome 72 で非推奨になった。 (2019/01/29)
 #            (すでに SSL 3.0 以下は非推奨、 RFC 7568, 2015/06/25)
@@ -7603,6 +7658,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://www.justice.gov/opa/pr/united-states-files-civil-lawsuit-against-edward-snowden-publishing-book-violation-cia-and][United States Files Civil Lawsuit against Edward Snowden for Publishing a Book in Violation of CIA and NSA Non-Disclosure Agreements]] (DOJ, 2019/09/17)
 # [[https://tools.ietf.org/html/draft-ietf-tls-oldversions-deprecate-06][Deprecating TLSv1.0 and TLSv1.1]] (IETF, 2020/01/06)
 # [[https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/][How the CIA used Crypto AG encryption devices to spy on countries for decades]] (Washington Post, 2020/02/11)
+# [[https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/libressl-3.1.0-relnotes.txt][3.1.0 Release Notes]] (LibreSSL, 2020/04/08)
 #
 # 軍用ドローン計画の Project Maven で、血肉も滴るいい AI パイロットを育てるかも。 (Google, Amazon, 2017/03/06)
 # 米サイバー軍を統合軍に格上げした。 (UCC: US Cyber Command, 2017/08/18)
@@ -8042,6 +8098,9 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://twitter.com/Yomiuri_Osaka/status/1238275039188770816][今日3/13 #読売新聞解説面では、12の行政機関のウェブサイトから国民の閲覧履歴が #グーグルに提供されていた問題を取り扱います ... グーグルアナリティクス ...]] (@Yomiuri_Osaka, 2020/03/13)
 # [[https://twitter.com/HiromitsuTakagi/status/1238289351668162561][こういうのですかいの？ ...]] (復興庁のスクリーンショットあり、 @HiromitsuTakagi, 2020/03/13)
 # [[https://twitter.com/HiromitsuTakagi/status/1238292615801405440][こっちはどうなのかしら ...]] (公正取引委員会のスクリーンショットあり、 @HiromitsuTakagi, 2020/03/13)
+# [[https://www.asahi.com/articles/ASN495JDNN49ULFA011.html][内定者にSNSで「辞退して。邪魔です」 入社前に自殺]] (朝日新聞、 2020/04/09)
+# [[https://www.jiji.com/jc/article?k=2020040900988][内定者自殺「パワハラ原因」 パナ子会社に謝罪要求―遺族側]] (... 代理人の川人博弁護士によると、パナソニック産機システムズの採用担当の元課長は、内定者専用のＳＮＳで ... 内定辞退も促していた ... 内定者のため労災の対象外だが ... 労働契約は結ばれており、安全配慮義務違反だ ..., リクルート出身の人事課長が EDGE 社のエアリーフレッシャーズを内定者に使わせて選別しつつ辞退予備群発見機能が辞退するかもって予測しただけの人を追い出すために利用してた？、内定辞退予測によって追い込まれた最初の自殺者になりそう、時事通信、 2020/04/09)
+# [[https://twitter.com/HiromitsuTakagi/status/1248253793331892225][これ、初めから内定者の一定割合を追い出す予定で言ってるよね ... 「辞退を決めた学生がいつまでも意思表示をしないと、他の学生の入社可能性を潰してしまいます。」 ...]] (リンクと画像あり、 @HiromitsuTakagi, 2020/04/09)
 #
 # 暗号通貨を無断採掘してる人が、警告もなく逮捕されちゃった。 (Cryptocurrency Mining, 仮想通貨)
 # 対象になった Coinhive は、ブラウザに暗号通貨を採掘させる JavaScript 。 (Monero)
@@ -8817,11 +8876,10 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # |        800 |          | *19*   | *18(26)* |         |                 |
 # |        900 |      *8* |        |          |         |                 |
 # |       1500 |       11 | 21     | 11       |         |                 |
-# |       1800 |        3 | 3      |  3       | 3 (*1)  | 総務省では 1700 |
+# |       1800 |        3 | 3      |  3       | 3       | 総務省では 1700 |
 # |       2100 |      *1* | *1*    | *1*      |         | 総務省では 2000 |
 # |       2500 |       41 |        | 41       |         | AXGP, WiMAX 2+  |
 # |       3500 |       42 | 42     | 42       |         | 総務省では 3400 |
-# (*1) 2020/04/08 開始予定。 (無料モニター開始は 2019/10/01)
 #
 # 3G band
 # | freq (MHz) | SoftBank | docomo  | au (CDMA2000) |
@@ -8840,10 +8898,11 @@ OCN モバイル ONE との SIM 契約なしで使える。
 
 ** Android (Google)
 
-最新の Android 10 が公開されたけど、公式のお菓子を用意してない！ (いたずらしてるよ？)
+次期 Android 11 はテスト中。
+最新の Android 10 が公開されたけど、公式のお菓子を用意してない！
 バージョンアップするとしたら、 Android 9 以上のスマホ？
 30000 円くらいを目安に考えてる。
-普及してる Android 8 なら、 20000 円くらい。
+前に普及してた Android 8 なら、 20000 円くらい。
 格安のは機能が削られてる。
 (バーゲン品や中古は除く)
 # 機能を変えるための "バージョンアップ" 。
@@ -8880,6 +8939,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # - call-screening
 # - screen record
 # - context-aware Bluetooth airplane mode (A2DP headphones, hearing aid)
+# - mandatory seamless updates (A/B partition, Android 7.0)
 #
 # Android 10 メモ。
 # 2019/03/13 Beta 1 (*Pixel only*)
@@ -9517,10 +9577,10 @@ OCN モバイル ONE との SIM 契約なしで使える。
 #   (chrome://flags/#enable-site-per-process, Site Isolation)
 # Chrome 79 (2019/12/10)
 # - パスワードの流出とかを通知。 ("Check password safety", "パスワードの安全性を確認", Password Checkup)
-# Chrome 81 (2020/03/17?)
-# - TLS 1.0 と 1.1 を使えなくなる。
-# Chrome 82 (2020/04/??)
+# Chrome 83 (2020/05/??)
 # - FTP が使えなくなる。
+# Chrome 84 (2020/07/??)
+# - TLS 1.0 と 1.1 を使えなくなる。
 # Chrome 86 (2020/10/??)
 # - HTTPS なサイトに含まれる HTTP をブロック。 (手動で許可したサイトを除く)
 # (Web NFC trial, Chrome 81, #enable-webnfc)
@@ -9716,12 +9776,13 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 # | 2019/04/16  | Intel    |                  | 5G Modem 開発中止                                       |
 # | 2019/09/??  | au       |                  | 6CC CA                                                  |
 # | 2019/12/02  | Apple    |                  | Intel のスマホ向け Modem 事業を買収                     |
-# | 2020/01/06  | Qualcomm | 5G VoNR          | Voice over New Radio, ZTE’s 5G NR base station          |
+# | 2020/01/06  | Qualcomm | 5G VoNR          | Voice over New Radio, ZTE 5G NR base station            |
 # | 2020/02/18  | Qualcomm | Snapdragon X60   | 5G Modem, mmWave-sub6 CA, FDD-TDD sub6 CA, DSS, VoNR    |
 # | 2020/03/25  | ドコモ   |                  | NSA 5G launch (sub6), AQUOS R5G, Galaxy S20             |
 # | 2020/03/26  | au       |                  | NSA 5G launch (sub6), Galaxy S20                        |
 # | 2020/03/27  | SoftBank |                  | NSA 5G launch (sub6), AQUOS R5G, Axon 10 Pro 5G         |
-# | 2020/04/08? | 楽天     |                  | 4G launch (MVNO -> MNO)                                 |
+# | 2020/04/08  | 楽天     |                  | 4G launch (MVNO -> MNO)                                 |
+# | 2020/04/09  | MediaTek | Dimensity 1000?  | VoNR, Ericsson SA 5G NR base station                    |
 # | 2020/06/??  | 3GPP     | 5G NR            | Release 16 -> ITU-R IMT-2020                            |
 # | 2020/06/??  | ドコモ   |                  | 5G mmWave                                               |
 # | 2020/06/??  | 楽天     |                  | 5G                                                      |
@@ -10239,6 +10300,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Nearby Sharing? (cross-device file transfer?)
 # [[https://github.com/google/OpenSK][OpenSK]] (Open-source Security Keys, 2FA, Nordic nRF52840 chip, FIDO2?, 2020/01/30)
 # #AndroidHelp (@Android, 2020/01/27)
+# Phone (dialer app, Android 7~, 2020/04/08)
 #
 # ServiceMode, EngineerMode
 # stock ROM (official firmware)
@@ -11012,6 +11074,7 @@ Nexus 6P を作ってた。
 # 2018/06/17 買ってから毎月セキュリティパッチがきてたけど、発売から 2 年が経過。 (B395 の配信は 2018/05/??)
 # 2018/06/?? B396 は来た。 (セキュリティパッチの日付が 2018/06/01 なので、 Bluetooth のペアリング修正を含まない？)
 # 2018/08/?? B398 が来た。 (セキュリティパッチの日付が 2018/07/01 な上に、新機能を追加してきた！)
+# 2020/04/?? B401 が襲来！ (セキュリティパッチの日付を 2019/08/01 にして、 "AppGallery" も追加された)
 # - 省電力モード (電池)
 #   遅くなったりするけど、バッテリーのために ON 。
 #   バッテリーセーバーとして Android 5 で追加されたもの。
@@ -11058,14 +11121,16 @@ Nexus 6P を作ってた。
 # EMUI 9.1 (Android 9)
 # OLED
 # どの 4G 回線でも使える。 (楽天を含む)
-# どの 5G 回線でも使える予定。 (NSA/SA, 更新で対応、楽天を除く？)
+# どの 5G 回線でも使える。 (NSA/SA, LIO-N29 10.0.0.136, 2020/04/10, 楽天を除く？)
 # DSDV 対応。 (SIM + SIM or NM Card)
 # 大容量バッテリー。
 # 防水。
+# 日本で最初の SIM フリーな 5G スマホ？
 # 米による輸出制限の影響を受ける、日本で最初のスマホ。 (GMS -> HMS)
 # Google 製アプリがプリインストールされてない。 (Google Play -> AppGallery)
-# LINE アプリとか使えない。
-# 100 人限定で先行販売される予定。 (2020/03/28?)
+# LINE アプリとか使えない。 (準備中？)
+# 100 人限定で先行販売された。 (2020/03/28)
+# [[https://k-tai.watch.impress.co.jp/docs/column/minna/1245824.html][HUAWEI Mate30 Pro 5GでGoogleサービスを使うには？]] (... 「Phone Clone」というアプリを使って、旧端末から ... すべてのアプリを移行できるわけではない ... 「Twitter」「Instagram」「Slack」「Dropbox」「あすけん」など ... 移行できました。ただし、「LINE」や「Netflix」「Pokemon GO」など、移行できなかった ... 更新は難しそうです ... Googleアプリは、「Phone Clone」で移行できるアプリもあるのですが、正しく作動しなかったり、Googleアカウントが登録できなかったり ... なので、GoogleマップやGoogleフォトは、ブラウザからWeb版にアクセス ... カスタマーサービスセンターの方が ... 「LINEは5月を目処に使えるように準備中」とのこと ... 「LINE」アプリなのか、海外向けの「AppGallery」で配信されている「LINE Lite」のどちらになるかはわかりません ..., Impress, 2020/04/09)
 #
 # nova 5T (2019/11/29)
 # EMUI 9.1 (Android 9)
@@ -11841,6 +11906,7 @@ VoLTE 対応。
 # [[https://k-tai.watch.impress.co.jp/docs/interview/1197464.html][端末に見る富士通コネクテッドテクノロジーズの変革、この1年で何が変わったのか？]] (... SIMフリー市場“専用”の端末を開発することは考えていません ..., Impress, 2019/07/24)
 # [[http://blogofmobile.com/article/125420][NTTドコモ向けarrows 5G F-51Aは初の日本製5Gスマホに]] (... 富士通コネクテッドテクノロジーズ ... の担当者によると ... Japan E.M.Solutionsが保有する兵庫県加東市の工場で製造 ..., @paopao0128, 2020/03/30)
 # [[https://www.fujitsu.com/jp/group/fcnt/about/resources/news/20200406.html][富士通コネクテッドテクノロジーズ、米Qualcomm社との協業により、Qualcomm Snapdragon 865 Modular Platformを使用した5Gスマートフォンのリファレンスデザインを開発]] (... Sub-6＋ミリ波対応 ... ベースとした製品は当社初の5G対応スマートフォン「arrows 5G」 ..., 2020/04/06)
+# [[http://blogofmobile.com/article/125641][FCNT製スマホの製造工場に5G基地局を設置した模様、無線機は富士通製]] (... DOCOMOが ... 公表している ... 5Gを利用できる施設に ... 含まれていない ... 一般の顧客が利用できない施設の可能性が高い ... 加東市佐保に所在する工場はJapan E.M.Solutions、Panasonicおよびその子会社、Ricoh Electronic Devices (リコー電子デバイス)に絞られ ... DOCOMO向けの ... arrows 5G F-51AはJapan E.M. Solutionsが運営する加東市佐保の工場で製造される ..., @paopao0128, 2020/04/08)
 #
 # arrows M05 (2019/12/18)
 # Android 9
@@ -12136,13 +12202,16 @@ au VoLTE に対応。
 # feature drop (new features for Pixel, 2019/12/09)
 # Android Flash Tool (AOSP, 2020/01/28)
 #
+# Pixel 4a?
+# Barely Blue?
+#
 # Pixel 4, 4 XL (2019/10/24)
 # Android 10
 # au VoLTE に対応。 (ドコモとソフトバンクは？)
 # DSDS 対応。
 # eSIM 対応。 (Google Fi)
 # OLED は、韓国 Samsung 製。 (4 XL)
-# 顔認証できる。 (3D, 指紋認証なし、ロックダウン設定で無効化をおすすめ)
+# 顔認証できる。 (3D, 指紋認証なし、設定で "目を開く" をオフにできちゃう)
 # おサイフ。 (日本向けのみ)
 # Oh So Orange (Jack-o'-lantern?, 死者も顔認証できる使いやすいスマホとして発売？)
 # [[https://www.nydailynews.com/news/national/ny-google-darker-skin-tones-facial-recognition-pixel-20191002-5vxpgowknffnvbmy5eg7epsf34-story.html][Google using dubious tactics to target people with ‘darker skin’ in facial recognition project: sources]] (下請け業者の Randstad が顔を収集すると説明せずにお金に困ってる人たちを狙ってスキャンさせてたことが判明、顔認証の精度を上げるため 7 月くらいから収集してる、 New York Daily News, 2019/10/02)
@@ -12155,6 +12224,7 @@ au VoLTE に対応。
 # [[https://9to5google.com/2019/10/24/pixel-4-easter-egg/][Pointing Google Lens at the Pixel 4 box uncovers an Easter Egg]] (箱の裏を Google Lens で覗くと Instagram の googlepixel アカウントを案内される、 9to5Google, 2019/10/24)
 # [[http://techlog.iij.ad.jp/archives/2670][Google Pixel4とIIJmio eSIM]] (... docomo SIM・au SIMとIIJmio eSIMと組み合わせた場合は、通話中にデータ通信ができなくなっています。この挙動が仕様通りなのか、意図しないものなのかはわかりません ... 今後この挙動が修正されるのかは継続的に観察したい ..., @IIJ_doumae, 2019/11/01)
 # [[https://www.androidpolice.com/2020/03/06/require-eyes-to-be-open-setting-for-face-unlock-shows-up-on-the-pixel-4-doesnt-work-yet/]['Require eyes to be open' setting for Face Unlock shows up on the Pixel 4, doesn't work yet]] (Android Police, 2020/03/06)
+# [[https://9to5google.com/2020/04/06/pixel-4-april-update/][Pixel 4 April update adds ‘require eyes to be open’ setting to face unlock, Bluetooth fixes]] (目を閉じてるとき顔認証でロックを解除しない設定がデフォルトになった、 9to5Google, 2020/04/06)
 #
 # Pixel 3a, 3a XL (2019/05/16)
 # Android 9.0
@@ -12262,7 +12332,7 @@ DSDS 対応。
 # DragonHinge (foldable, smartwatch?, 2020/??/??)
 # slide-out screen?
 # BlackBerry Messenger (Emtek, ~2019/05/31)
-# 5G? (TCL 10 5G?, 2020/??/??)
+# 5G (TCL 10 5G, 2020/??/??)
 # BlackBerry brand licensing agreement (2016/12/15~2020/08/31)
 #
 # Vertu と提携。
@@ -12500,6 +12570,7 @@ DSDV 対応。
 # [[https://www.itmedia.co.jp/mobile/articles/2003/09/news120.html][シャープ、OPPOをLTE関連の特許侵害で提訴]] (... オッポジャパンは本件について「本件訴状が届いておりませんので、本件回答は差し控えさせていただきます」とコメント ..., ITmedia, 2020/03/09)
 # [[https://www.itmedia.co.jp/news/articles/2003/09/news128.html][シャープ、中国OPPOとオッポジャパンを提訴 LTE関連特許を侵害したとして]] (... 1月末に ... 起こした特許権侵害差止請求訴訟とは別件 ... 協議を続けているが、9日の時点では大きな進展はない ..., ITmedia, 2020/03/09)
 # [[https://smhn.info/202003-sharp-vs-oppo][SHARPとOPPOの特許裁判、背景に鴻海の苦戦？]] (... 3月9日、SHARPは ... WLAN特許侵害を理由とし、OPPO日本法人を相手取って東京地裁に訴えを起こしました ... 1月にも ... SHARPは ... 東京地裁に訴えて ... OPPOは1ヶ月後にSHARPへ対し、2つの訴訟により反撃 ..., @sm_hn, 2020/03/16)
+# [[https://k-tai.watch.impress.co.jp/docs/news/1245507.html][シャープ、特許侵害でOPPOの台湾販売代理店を提訴]] (... LTE関連特許1件を侵害しているとして4月1日 ... 販売代理店1社に対して ... 損害賠償請求訴訟の提起 ..., Impress, 2020/04/07)
 #
 # ? (CPH2053, 2020/??/??)
 #
@@ -13798,6 +13869,7 @@ Apple Store (直営) と、 Apple 正規サービスプロバイダがある。
 # (*2) [[https://twitter.com/iijmio/status/1190174266118983681][... iOS12.4.3 ... iPhone 6, iPhone 6 PlusにおいてタイプAのSIMカードがご利用できない場合があることを確認しています（なおiPhone 5sは元々タイプAでは動作不可）。]] (au 回線、 @iijmio, 2019/11/01)
 #      [[https://twitter.com/iijmio/status/1205349359686172672][... iOS12.4.3と変わらず利用不可のまま ...]] (iOS 12.4.4, @iijmio, 2019/12/13)
 #      [[http://s-max.jp/archives/1787096.html][Appleが「iOS 12.4.5」を提供開始！iOS 13・iPadOS非対応のiPhone 5sやiPhone 6・6 Plus、iPad Air・mini 2・mini 3、iPod touch（第6世代）向け]] (... iOS 12.4.5でも同様に手持ちのiPhone 6 Plusとmineo（Aプラン）のVoLTE対応SIMではアンテナマークが「圏外」 ..., S-MAX, 2020/01/29)
+#      [[http://s-max.jp/archives/1790500.html][Appleが「iOS 12.4.6」を3月24日より提供中！iOS 13・iPadOS非対応のiPhone 5s・6・6 Plus、iPad Air・mini 2・mini 3、iPod touch（第6世代）向け]] (... iOS 12.4.6でも同様に手持ちのiPhone 6 Plusとmineo（Aプラン）のVoLTE対応SIMではアンテナマークが「圏外」 ..., S-MAX, 2020/04/08)
 
 # iOS Passcode Bypass
 #
@@ -14018,7 +14090,7 @@ au も 4G 対応してて VoLTE 非対応なら解除なしで使える。
 au は、無料で解除できる。 (2020/02/21)
 # 店舗では頭金と説明してるけど、スマホの代金じゃないので手数料と書く。
 # 直営店やオンラインショップなら、手数料なしでスマホを買える？
-# ドコモと au は、オンラインで解除できる。
+# ドコモと au は、オンラインで解除できる。 (無料だけどアカウントがいる)
 
 # APN の設定が面倒なスマホがまだあるみたい。
 
