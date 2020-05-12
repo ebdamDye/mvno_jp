@@ -1564,6 +1564,8 @@
 # [[https://twitter.com/yamadataro43/status/1237313347260841986][本日、著作権法の改正案が閣議決定。文化庁著作権課のホームページで法案とQ&Aが公開 ...]] (@yamadataro43, 2020/03/10)
 # [[https://rsf.org/en/news/rsf-opens-uncensored-library-digital-home-press-freedom-within-global-computer-game][RSF opens “The Uncensored Library” – The digital home of Press Freedom within a global computer game]] (Reporters Without Borders, 2020/03/12)
 # [[https://www.sankei.com/smp/entertainments/news/200325/ent2003250012-s1.html][海賊版ＤＬ違法化、なお不透明 著作権法改正案、国会で議論へ]] (... 「特別な事情」の具体例が極端との意見もあり、具体的にどこまでの行為が違法とならないのか ... 国会で ... 議論が必要だ ..., 産経新聞、 2020/03/25)
+# [[https://twitter.com/fujisue/status/1252234673452802057][日本漫画家協会と出版広報センターの連名による改正著作権法早期成立の要望書を頂きました ...]] (要望書の画像あり、 @fujisue, 2020/04/20)
+# [[https://twitter.com/heatwave_p2p/status/1253156251866771457][ダウンロード違法化、刑事罰化が遅れれば、年間数百億〜数千億円の損害が生じるらしい ... どういう試算を行っているのか非常に興味が深い。]] (@heatwave_p2p, 2020/04/23)
 #
 # インターネット上の海賊版サイトへのアクセス抑止方策に関する検討会 (2019/04/19~, 総務省)
 # 「アクセス抑止方策に係る検討の論点」に対する意見募集 (2019/04/23 総務省)
@@ -2880,6 +2882,7 @@ DSDS 対応スマホで音声通話定額を利用するなら、ドコモがお
 #            [[http://blogofmobile.com/article/125314][NTTドコモ、関西の全府県で5Gを導入]] (... 関西の2府4県のうち京都府、大阪府、兵庫県、和歌山県ではそれぞれ1ヶ所以上が存在 ... 滋賀県および奈良県は2020年3月末時点の予定に1ヶ所も入っていないが、2020年3月25日時点で5Gを利用できることを確認 ... 2020年4月に開局する当初の計画を前倒しで2020年3月25日までに開局し、5Gの商用化に間に合わせたと思われる ..., @paopao012, 2020/03/26)
 #            [[https://k-tai.watch.impress.co.jp/docs/news/1243352.html][ドコモが「5G SIM」×「4G端末」の動作情報リストを公開、利用不可の機種も]] (... 原則として ... 5G契約のSIMを4G端末で動作する場合は、動作保証対象外 ... “仕様上”の動作情報リストが ... 公開されている ..., Impress, 2020/03/26)
 #            [[http://blogofmobile.com/article/125410][NTTドコモの5Gサービスを試す、実測で1Gbps超も]] (... DOCOMOを含めて ... ノンスタンドアローン(NSA)構成のOption 3で運用しており、NR方式に接続するためにはLTE方式への常時接続が必要 ... 理論値が ... 下り最大3.4Gbps/上り最大182Mbpsで ... このうち下りは1.7GbpsがNR方式、1.7GbpsがeLTE方式 ... 実測で下り1Gbps超を記録したが、いずれもLTE方式は混雑していないと思われる環境 ..., @paopao012, 2020/03/30)
+#            [[https://www.itmedia.co.jp/mobile/articles/2004/28/news136.html][ドコモ、新型コロナの影響で来店数が7割減 5Gのエリア構築に遅れも？]] (... 5Gの契約数は3月末時点で1万4000 ... 現在 ... 4万弱で、4月末に4万を超える見通し ... 料金プラン「5Gギガホ」の選択率は約半分 ... LTE向け「ギガホ」の20数％と比べると約2倍 ... 2020年6月までに47都道府県、2021年3月までに政令指定都市を含む500都市に、2021年6月までに1万局の5G基地局を開設する計画 ... 新型コロナの影響で今と同じような状況で続くと、2021年6月までの1万局はかなり難しくなる ..., ITmedia, 2020/04/28)
 # 2026/03/31 3G を停波する予定。 (2019/10/29)
 #            3G の一部から、新規受け付けを終了。 (i モードと FOMA 音声プラン、 2019/09/30)
 #            5G 契約すると、 3G を使えなくなる予定。 (2020/05/??)
@@ -3218,12 +3221,12 @@ au の子会社。
 
 ** 楽天モバイル
 
-|          | (*1) 2GB |
+|          | (*1) 5GB |
 |----------+----------|
 | UN-LIMIT |     2980 |
 (*1) au 回線での上限。
 # 2020/04/08 4G サービス開始。 (通信の最適化は？)
-# 2020/04/22 改定予定。 (2->5GB)
+# 2020/04/22 改定。 (2->5GB)
 
 楽天エリアなら、パケット通信が 1 日 10GB まで。 (公式には無制限と書いてる)
 エリアは "my 楽天モバイル" アプリで確認できる。 (エリア外は au 回線になる)
@@ -3233,10 +3236,12 @@ au の子会社。
 # [[https://twitter.com/denpa893/status/1248574788253020160][... 確かに楽天モバイル自前エリアで10GB使うと上下1Mbpsに制限される ... 記載すべき ...]] (@denpa893, 2020/04/10)
 # [[http://blogofmobile.com/article/125831][楽天モバイル、auローミングエリアでは残り400MB・200MB・0MBで通知]] (... 電子メールとSMSの両方に残量の通知が行われた ... アカウントを登録した電子メールアドレス ... Rakuten Mobileの電話番号宛であるが、Rakuten Linkではなく標準のSMSクライアントでSMSを受信 ..., @paopao0128, 2020/04/13)
 # [[http://s-max.jp/archives/1790804.html][300万人までは1年間無料なので楽天モバイルの正式プラン「Rakuten UN-LIMIT」のマルチSIMを申込！iPhoneで開通させて使ってみた【レポート】]] (... iPhoneでは ... フィールドテストモードで楽天回線エリアか ... 判断可能。電話アプリで「*3001#12345#*」を入力して発信ボタンを押してから「LTE」→「Service Cell Info」にて「freq_band_ind」が「3」なら楽天回線エリア ..., S-MAX, 2020/04/13)
+# [[http://blogofmobile.com/article/126104][楽天モバイル、パートナー回線エリアのデータ通信容量を順次増量]] (... ローミングの提供期間は2026年3月31日までと定められているが、都道府県ごとに楽天回線エリアの人口カバー率が70%を上回れば、その時点で ... 協議を行い ... 継続または終了を決定する ..., @paopao0128, 2020/04/22)
 
 "Rakuten Link" アプリなら、音声通話と SMS も無料。 (他のアプリを使うと従量制、 RCS)
 公式サイトに載ったスマホしか音声通話できないかも。 (スマホの製造元と交渉中？)
 iPhone では使えないアプリなので注意。 (VoLTE)
+# [[https://twitter.com/yujisuda/status/1220681457389096962][... 規約とか見ると「通話やメッセージにアプリ使え、俺らは広告や宣伝のためにお前らの個人情報使うからな」とMNOでは初の試みをしていて引く ...]] (@yujisuda, 2020/01/24)
 # [[http://blogofmobile.com/article/125768][楽天モバイルのSIMカードとRakuten Linkの端末を分離、海外SIMカードでも利用可能]] (... 複数の端末で同じ楽天アカウントを使用してRakuten Linkのアクティベーションを試みると、最後にアクティベーションした端末のみ ... Rakuten Linkを利用できる ... SIMカードを装着した端末とRakuten Linkを利用する端末を分離した際に ... SIMカードの装着に関係なく、Rakuten Linkで優先的に着信を受ける ... あくまでも2020年4月9日時点の動作 ..., @paopao0128, 2020/04/10)
 # [[https://elibom.net/2020/04/13/rakuten-link-3/][「Rakuten Link」のSMS認証に潜む重大な欠陥]] (... 電話番号の下6桁を入れると通ってしまう ... SMSで届いた本来の認証コードが下6桁と一致していたわけではありません ... 「電話番号を知られたが最後、乗っ取り放題になる」というわけではありません。しかし ... この仕様に関しては強く再考を促したい ..., elibom, 2020/04/13)
 # [[https://elibom.net/2020/04/14/rakuten-link-4/][「Rakuten Link」のSMS認証問題が修正されたらしいので試してみた]] (... 確かに認証コードの代わりに電話番号の下6桁を入力しても通らない ... 悪用される前に無事解消された ..., elibom, 2020/04/14)
@@ -3244,7 +3249,8 @@ iPhone では使えないアプリなので注意。 (VoLTE)
 スマホを SIM ロックしない。 *(!?)*
 eSIM も発行してる。
 動作しないスマホも確認されてるので注意。
-# [[https://mobile.rakuten.co.jp/device/][動作確認済み端末]]
+# [[https://network.mobile.rakuten.co.jp/product/certified-products/][楽天回線対応製品]]
+# [[https://network.mobile.rakuten.co.jp/product/byod/][ご利用製品の対応状況確認]] (よそで売ってるスマホも動作確認中)
 # [[https://network.mobile.rakuten.co.jp/faq/detail/00001495/][APN情報を確認したい]] (... 楽天モバイル以外で購入された製品は動作保証対象外 ... iPhone X以前のモデルでは動作しないことが確認されています ..., 2020/04/08?)
 # [[https://network.mobile.rakuten.co.jp/product/sim/esim/][eSIMとは]] (... iPhone ... Pixel 4 ... は動作保証外 ... SIMロック解除 ... が必要 ..., 2020/04/08)
 #
@@ -3481,7 +3487,7 @@ eSIM も発行してる。
 #            [[https://k-tai.watch.impress.co.jp/docs/news/1246821.html][楽天モバイル、一部ユーザーに転送できる状態で発送]] (... 携帯電話不正利用防止法で ... 「転送不要（不可）」として送付する必要がある ... 4月8日の到着日指定で発送した一部で ... 「転送不可」の印字がないものを送付 ..., Impress, 2020/04/13)
 #            [[https://www.itmedia.co.jp/mobile/articles/2004/14/news112.html][楽天モバイルがauとの「S10接続」を開始　両社ネットワークの切り替えが迅速化]] (... S8 ... のみでは不可避である、ネットワーク切り替え時の通信切断（特に通話時の切断）を改善 ... S10リンク導入は、KDDIの協力のもと、楽天モバイルとシスコシステムズが共同開発 ..., ITmedia, 2020/04/14)
 #            [[http://blogofmobile.com/article/125903][楽天モバイル、基地局数は日本全国で4700局に]] (... LTE方式のフェムトセル基地局および ... 5G)のNR方式の基地局は集計の対象に含めていない ..., @paopao0128, 2020/04/15)
-# 2020/06/?? 5G 開始予定？
+# 2020/06/?? 5G サービス開始予定？
 #            [[https://www.anritsu.com/ja-JP/test-measurement/news/news-releases/2019/2019-12-25-jp01][楽天モバイルが5G NR端末受入試験にアンリツのプロトコルテストプラットフォームを採用]] (... これまでも楽天モバイル株式会社の4Gデバイス受入試験をサポート ..., アンリツ、 2019/12/25)
 #            [[https://www.jiji.com/jc/article?k=2020012001149][楽天、マレーシアの５Ｇに参入検討 研究開発施設を建設も]] (... 楽天は現在、マレーシア側のパートナーを探すため、通信事業者などと接触 ... 参入時期は未定 ..., 時事通信、 2020/01/21)
 #            [[http://blogofmobile.com/article/123844][楽天モバイルの5G NR基地局が技適通過]] (... NR基地局「MB5420-m577」が2020年1月14日付けでTelecom Engineering Center (TELEC)を通過 ..., @paopao0128, 2020/02/14)
@@ -3489,6 +3495,9 @@ eSIM も発行してる。
 #            [[http://blogofmobile.com/article/124782][楽天モバイルが5Gの無線局免許を取得、同社初]] (... 2020年3月6日付けで6局の5Gの無線局免許を取得 ... 4局が東京都世田谷区、2局が東京都江東区 ..., @paopao0128, 2020/03/12)
 #            [[https://jpn.nec.com/press/202003/20200324_02.html][楽天モバイルとNEC、オープンRAN対応の5G無線機の量産を開始]] (... 基地局装置の無線子局(Radio Unit、以下「RU」)の ... 第1号機の出荷を完了 ..., NEC, 2020/03/24)
 #            [[http://blogofmobile.com/article/125324][エアースパン製の楽天モバイル向け5G基地局が技適通過]] (... 米国のAirspan Networks製のNR基地局「Air5G RDU 46」が2020年2月19日付け ... 周波数は27000～27400MHzで ... 総務省がRakuten Mobileに対して割当を実施した28GHz帯の周波数と完全に一致 ..., @paopao0128, 2020/03/26)
+#            [[https://about.keysight.com/ja/newsroom/pr/2020/PRJ08_NR20029_Rakuten.shtml][キーサイトのソリューション、楽天モバイルの5Gネットワークのテストおよび検証に採用]] (... 5G NR規格に準拠する、プロトコルおよび無線周波数（RF）デバイスの受け入れ検査 ..., Keysight Technologies, 2020/04/14)
+#            [[http://blogofmobile.com/article/126304][楽天モバイルが5G技術を提供するTPG Telecom、5G周波数の取得に失敗]] (... Rakuten MobileはTPG Telecomに5G関連技術を提供すると2020年2月21日付けで発表していた ..., @paopao0128, 2020/04/30)
+#            [[https://corp.mobile.rakuten.co.jp/blog/2020/0430_01.html][5Gで社会はどう変わる？楽天モバイルが目指す、5G時代の変革とは]] (... 2020年4月1日、都内にて、5Gアンテナ（Sub6とmmW）の5G基地局の運用を開始 ... Sub6のアンテナはNEC製 ..., 2020/04/30)
 # 202?/??/?? 低軌道衛星基地局？
 #            [[https://k-tai.watch.impress.co.jp/docs/news/1238537.html][楽天モバイル、衛星通信で全国エリア100％目指す――衛星通信の米ASTと業務資本提携]] (... 3日 ... 発表され ... 楽天からはASTの資本20％の出資が実施されるとともに業務提携も締結される ..., Impress, 2020/03/03)
 #            [[https://www.itmedia.co.jp/mobile/articles/2003/03/news117.html][楽天モバイルのキャリアサービス、2021年3月末に全国エリアへ “宇宙”からのエリア化も視野に]] (... 試験機「BlueWalker 1」は現在、軌道上を周回しつつ実証実験を続けている ..., ITmedia, 2020/03/03)
@@ -3787,7 +3796,8 @@ au 回線だと、音声通話には au VoLTE 対応のスマホがいる。
 # 2019/11/22 家電量販店とかで、新品の iPhone を販売開始。 (Apple Premium Reseller, SIM フリー)
 # 2019/12/01 トーンモバイルが CCC から DTI の子会社に戻った。 (フリービット)
 # 2020/02/12 丸紅ネットワークソリューションズが、フル MVNO を開始。 (eSIM, MVNE のみ)
-# 2020/04/08 楽天モバイルが、大手キャリアになった。 (4G, MVNO の新規受け付けを終了)
+# 2020/04/08 楽天モバイルが、大手キャリアになった。 (4G, MVNO の新規受け付けを前日に終了)
+# 2020/08/31 nuro モバイルが、 0 SIM サービス終了予定。 (新規受け付けを 2020/02/17 に終了)
 
 # ** wjroc (ヌノス寸)
 #
@@ -4596,7 +4606,7 @@ LINE アプリのパケットが無料。
 # 2019/04/22 au 回線を開始。 (大手 3 キャリアに対応)
 # 2019/11/20 児童ポルノブロッキング開始。
 #            [[http://mobile-blog.line.me/archives/33821265.html][児童ポルノブロッキング対応のお知らせ]] (2019/11/20)
-# 2020/夏    プリペイド SIM の提供を開始する予定。
+# 2020/??/?? プリペイド SIM の提供を開始する予定。
 
 ** イオンモバイル (SIM タイプ1 で通信の監視がデフォルト！)
 
@@ -4906,8 +4916,10 @@ NTT コミュニケーションズでプロバイダをしてるところ。
 
 通話アプリや音、回線とかでパケットの量が変わる。
 パケットをたくさん使うアプリでも、 24 時間くらいなら 1GB に収まるハズ。
-ソフトバンクのスマ放題 2700 円は、1 時間ちょっとの金額。( 20 円/ 30 秒 換算)
+ソフトバンクの音声通話定額 1800 円は、 45 分間の金額。( 20 円/ 30 秒 換算)
 # G.711u を越えないと仮定。
+#
+# [[http://blogofmobile.com/article/126256][NTTドコモが2019年度通期の業績を発表、5G加入件数は1.4万件]] (... 2019年度通期のMOU (1回線当たり月間平均通話時間)は前年度比0.7%減の133分 ..., @paopao0128, 2020/04/29)
 
 # | speech codec     | sample (kHz) |         payload (kbps) | bandwidth (kbps) |            |
 # |------------------+--------------+------------------------+------------------+------------|
@@ -5117,6 +5129,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 # Aloha? (Voice Assistant)
 # Facebook Pay (US only, 2019/11/12)
 # F8 (2020/05/05~06)
+# Messenger Kids (Parental Controls, 2017/12/04, 日本向けは 2020/04/23)
 #
 # Messenger Lite は通話できない。
 #
@@ -5336,6 +5349,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            いろんな団体が連名で、 CEO への公開のお手紙で導入を求めてる。 (2018/11/15)
 #            "独立した" 監督委員会が設置される予定。 (2020/??/??)
 #            - 憲章が公表されたけど、何の権限もない。 (2019/09/17)
+#            - 初期メンバーの 16 人を発表。 (2020/05/06)
 # 2018/05/10 米下院情報特別委員会の民主党議員から、 Facebook に掲載された露 IRA の広告が公開された。 (3519 件)
 #            シェアされてた 8 万件の記事も、あとで公開予定。
 #            Facebook が提出したもの。
@@ -5449,9 +5463,10 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            - 特徴が似た人への、ターゲティング広告にも利用してる？ (Lookalike Audiences, 疑似オーディエンス)
 #            米政府が新型コロナウイルスの監視を理由に、位置情報の利用を検討中。 (COVID-19, Washington Post, 2020/03/17)
 #            - 全地球追跡システムを構築させるのと同じ？ (Amazon, Apple, Facebook, Google, ...)
-#              (感染者を追跡しつつ接触相手も特定してたりする国が増えてる、中露韓台英豪、タイ、イスラエル、イラン、インド、 ...)
+#              (感染者を追跡しつつ接触相手も特定してたりする国が増えてる、こっそり開始したり連絡先の収集計画とかも)
+#              (中露韓台英豪、タイ、イスラエル、イラン、インド、 ...)
 #            - シンガポール政府がアプリを作って、スマホへのインストールを呼び掛けてる。 (Straits Times, 2020/03/20)
-#              Bluetooth で ID の交換を記録して、接触履歴の収集を開始。 ("TraceTogether", 6feet?, open source?)
+#              Bluetooth で ID の交換を記録して、接触履歴の収集を開始。 ("TraceTogether", 6feet?, open source)
 #            - Edward Snowden が、終息しても追跡システムの利用は続くって警告。 (TNW, 2020/03/25)
 #            - 米政府が、広告業者からスマホの位置情報を取得して追跡を開始。 (WSJ, 2020/03/28)
 #              Facebook が、位置情報を加工して研究者のチームに提供。 (COVID-19 Mobility Data Network, Reuters, 2020/04/02)
@@ -5464,13 +5479,21 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            - 米マサチューセッツ工科大学が、アプリを開発中。 (MIT, 2020/04/10)
 #              アプリが位置情報を記録しといて、医療機関とかが提供する感染者の移動経路と照合。
 #            - (PEPP-PT: Pan-European Privacy-Preserving Proximity Tracing, Bluetooth, open source?, 2020/04/??)
+#              データを集めて管理したい仏政府の要請を、 Apple と Google が拒否。 ("StopCovid", Reuters, 2020/05/05)
+# [[https://www.reuters.com/article/us-health-coronavirus-france-tech/france-accuses-apple-of-refusing-help-with-stopcovid-app-idUSKBN22H0LX][France accuses Apple of refusing help with 'StopCovid' app]] (Reuters, 2020/05/05)
 #            - (PPCT: Privacy-Preserving Contact Tracing, API, Bluetooth, Apple, Google)
 #              接触履歴の収集が、 Android と iOS で共通化される予定。 (OS に組み込み？、 2020/05/??)
 #              米大統領が、憲法に抵触する問題があるって介入してきた。 (抵触する部分が不明、 9to5Mac, 2020/04/13)
 #              欧州委員会が、接触履歴を収集するアプリに位置情報を利用させないよう求めてる。 (Reuters, 2020/04/16)
-#              (アプリが公的な外出許可証みたいに扱われると感染者を増やしちゃうかも？位置情報も収集できるようになる？)
+#              - 位置情報の利用が禁止された。 (Reuters, 2020/05/04)
+# [[https://www.reuters.com/article/us-health-coronavirus-usa-apps-idUSKBN22G28W][Apple, Google ban use of location tracking in contact tracing apps]] (Reuters, 2020/05/04)
+#              API 公開。 (Exposure Notifications API, 曝露通知？、 2020/04/29)
+# [[
+#              (アプリが公的な外出許可証みたいに扱われると感染者を増やしちゃうかも？)
 #            - (PPCT, Code for Japan, ITmedia, 2020/04/11)
 #              接触履歴を収集するのに、個人の行動を推測できる情報を使用しないと書いてる。 (Code for Japan, PRTIMES, 2020/04/15)
+#              日本政府との会合で、開発中のアプリの概要が公表された。 ("まもりあい Japan", 日経 xTECH, 2020/05/08)
+# [[https://xtech.nikkei.com/atcl/nxt/news/18/07793/][政府の新型コロナ対策テックチーム、「接触確認アプリ」の開発状況を公表]] (日経 xTECH, 2020/05/08)
 # 2018/07/13 Hillary Clinton 陣営を攻撃してメールを暴露したことで、露情報機関の 12 人を起訴。 (WikiLeaks に流した？)
 #            事実だったとしても、主権免除で GRU を起訴できない？ (よその政府に裁判権は及ばない、 ABC, 2018/11/13)
 #            共和党の元財務副委員長も、メールの件でカタール政府を訴えて FSIA で棄却されてる。 (Washington Post, 2018/08/09)
@@ -5498,6 +5521,8 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            Facebook から Google Photos に写真だけコピーするツールを公開。 (アイルランド向けから、 2019/12/02)
 #            - 2020 年前半には、全世界で提供する予定。
 #            - 日本でも使えるようになった。 (2020/02/20)
+#            - 米とカナダでも使えるようになった。 (Reuters, 2020/04/30)
+#              プライバシーと公共ポリシーの担当者が、規制についての議論を加速させないのが大事って発言してる。
 #            (データの取り引きも簡単になる？)
 # 2018/07/25 決算報告。 (2018Q2)
 #            一日での株価の下落幅は、史上最大。 (US$ 119 billion)
@@ -5564,9 +5589,9 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            (盗聴できるようになったら別のアプリとかを作られて、脆弱性だけが残る？)
 # 2018/08/17 まだ差別的な住宅広告を続けてるって、苦情が届いた。 (HUD: Housing and Urban Development, 米住宅都市開発省)
 #            ターゲティング広告は人種とかも選べた頃があって、前から差別的だって問題にされてた。 (法律で禁止)
-#            広告主が指定できるオプションを、 5000 以上削除したらしい。 (民族や宗教とか、 2018/08/21)
-#            自動生成された、おかしなオプションがまだあるみたい。 ("white genocide conspiracy theory", Intercept, 2018/11/02)
-#            人名とかでも、差別的なオプションを代用できるみたい。 ("Joseph Goebbels", Los Angeles Times, 2019/02/21)
+#            広告主が指定できるカテゴリを、 5000 以上削除したらしい。 (民族や宗教とか、 2018/08/21)
+#            自動生成された、おかしなカテゴリがまだあるみたい。 ("white genocide conspiracy theory", Intercept, 2018/11/02)
+#            人名とかでも、差別的なカテゴリを代用できるみたい。 ("Joseph Goebbels", Los Angeles Times, 2019/02/21)
 #            人権団体たちと和解して、住宅や求人とかの広告で年齢と性別に郵便番号とかを指定できなくなる。 (2019/03/19)
 #            - 和解に対応して、ターゲティング広告の制限を開始。 (Marketing API, 2019/12/03)
 #              米で、住宅広告を検索できるようになった。 (Ad Library, 求人とかにも拡大予定)
@@ -5574,6 +5599,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            - Google と Twitter も調査されてる。 (Fair Housing Act, 公正住宅法)
 #            住宅や求人とかのターゲティング広告が、人種や性別で偏ってると示された。 (Motherboard, 2019/04/04)
 #            米議員が、アルゴリズムに説明責任を求める法案を提出。 (Algorithmic Accountability Act, U.S. Senator Ron Wyden of Oregon, 2019/04/10)
+#            エセ科学を信じてそうな人を狙って広告を出せるって報じられて、カテゴリを削除。 ("pseudoscience", Verge, 2020/04/23)
 #            (これから収集する予定の銀行口座のデータも反映されたら、広告主は一方的な交渉ができるかも？)
 # 2018/08/21 ユーザーごとの信頼性を数値化してた。 (Washington Post)
 #            フェイクニュース対策の一環として、導入したらしい。 (拒否できない？)
@@ -5933,6 +5959,8 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 # 2019/01/08 CEO は公開討論を主催して、未来の話がしたいらしい。 (これまでの話はもうイヤ？)
 #            ポッドキャストを投稿してくらしい。 (Spotify, @facebook, 2019/04/24)
 # 2019/01/09 ベトナム政府に、政府批判の削除やアカウント情報の提供を要求されてる。 (国営の VietNamNews)
+#            Facebook が、ベトナム政府のための検閲を受け入れちゃった。 (Reuters, 2020/04/21)
+#            - 海底ケーブルの工事を理由に Facebook だけ使えなくなって、 7 週間後に検閲を受け入れたらすぐに使えるようになった。
 # 2019/01/16 Facebook がユーザーを細かく分類とかしてるのを、まだ知らない人が多いらしい。 (Pew Research Center)
 #            (ユーザーの同意を得ることに失敗してる？)
 # 2019/01/16 Apple CEO が、ユーザーのデータを取引や仲介することに規制を求めてる。 (TIME)
@@ -6031,6 +6059,11 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 # 2019/03/06 米の Facebook ユーザーが、 2017 年に比べて 1500 万人減ってる？ (RDD, Edison Research)
 #            一部は Instagram に乗り換え？
 # 2019/03/07 蘭データ保護局が、 cookie を GDPR で扱いそう。 (DPA: Data Protection Authority, TechCrunch, 2019/03/08)
+#            欧州司法裁判所で、 cookie を受け入れるまで何も見れないサイトを禁止する判決。 (cookie wall, TechCrunch, 2019/10/01)
+#            - サービスの提供を受けることへの同意を、 cookie の受け入れと同じにしてたらダメ。 (同意が不明確になる)
+#            - チェックボックスにマークを入れといて、ユーザーが外さなければ同意ってのもダメ。 (明確な同意じゃない)
+#            GDPR のガイドラインで、スクロールやスワイプを同意扱いするのがダメって明記された。 (TechCrunch, 2020/05/06)
+#            - cookie wall の禁止も。
 #            (ePrivacy Directive が 2002 年からある)
 # 2019/03/08 米民主党議員が、 GAFA とかの分割を公約に掲げて大統領に立候補。 (#BreakUpBigTech, Elizabeth Warren, Medium)
 #            Facebook は、議員の政治広告を削除して議論を支援。 (再掲載された、 POLITICO, 2019/03/11)
@@ -6192,6 +6225,8 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            - 年内に GAFA の調査を終える予定。
 #            FTC が、 2010 年以降に会社を買収とかしたときの資料を提出するよう求めてる。 (GAFAM, FTC, 2020/02/11)
 #            - 小規模で申請が不要だった件を含む。(HSR: Hart-Scott-Rodino act)
+#            Amazon が自社商品を開発するために、出品してる他社の販売データを利用してるって WSJ が報じた。 (Verge, 2020/04/23)
+#            - 2019/07/16 の証言と違うので、米下院司法委員会が Amazon CEO を呼んでる。
 # 2019/07/24 FTC から US$ 5 billion の罰金を科された。
 #            SEC からも US$ 100 million の罰金を科された。
 #            サービスの変更やデータの利用制限とか求められることもなく、 Facebook が経営陣の免責まで勝ち取っちゃった。
@@ -6743,6 +6778,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 # [[https://home.treasury.gov/news/press-releases/sm787][Treasury Targets Assets of Russian Financier who Attempted to Influence 2018 U.S. Elections]] (U.S. Department of the Treasury, 2019/09/30)
 # [[https://www.theverge.com/2019/10/1/20892354/mark-zuckerberg-full-transcript-leaked-facebook-meetings][Read the full transcript of Mark Zuckerberg’s leaked internal Facebook meetings]] (Verge, 2019/10/01)
 # [[https://twitter.com/ewarren/status/1179023352742236160][What would really “suck” is if we don’t fix a corrupt system ...]] (@ewarren, 2019/10/01)
+# [[https://techcrunch.com/2019/10/01/europes-top-court-says-active-consent-is-needed-for-tracking-cookies/][Europe’s top court says active consent is needed for tracking cookies]] (TechCrunch, 2019/10/01)
 # [[https://netblocks.org/reports/iraq-blocks-facebook-twitter-whatsapp-and-instagram-amid-civil-unrest-zA4zGlyR][Iraq blocks Facebook, Twitter, WhatsApp and Instagram, then shuts down internet amid civil unrest]] (NetBlocks, 2019/10/02)
 # [[https://www.justice.gov/opa/pr/attorney-general-barr-signs-letter-facebook-us-uk-and-australian-leaders-regarding-use-end][Attorney General Barr Signs Letter to Facebook From US, UK, and Australian Leaders Regarding Use of End-To-End Encryption]] (DOJ, 2019/10/03)
 # [[https://a24.asmdc.org/news/20191003-political-deepfake-videos-banned-california-elections-san-francisco-chronicle][Political ‘deepfake’ videos banned in California before elections - San Francisco Chronicle]] (Assemplymember Marc Berman, 2019/10/03)
@@ -6864,6 +6900,12 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 # [[https://techcrunch.com/2020/04/16/clearview-source-code-lapse/][Security lapse exposed Clearview AI source code]] (TechCrunch, 2020/04/16)
 # [[https://www.finma.ch/en/news/2020/04/20200416-mm-libra/][Libra Association: FINMA licensing process initiated]] (FINMA, 2020/04/16)
 # [[https://www.theguardian.com/media/2020/apr/19/facebook-and-google-to-be-forced-to-share-advertising-revenue-with-australian-media-companies][Facebook and Google to be forced to share advertising revenue with Australian media companies | Australian media]] (Guardian, 2020/04/19)
+# [[https://www.reuters.com/article/us-vietnam-facebook-exclusive/exclusive-facebook-agreed-to-censor-posts-after-vietnam-slowed-traffic-sources-idUSKCN2232JX][Exclusive: Facebook agreed to censor posts after Vietnam slowed traffic - sources]] (Reuters, 2020/04/21)
+# [[https://www.theverge.com/2020/4/23/21232547/facebook-pseudoscience-ad-targeting-coronavirus][Facebook just killed its ‘pseudoscience’ category for ad targeting]] (Verge, 2020/04/23)
+# [[https://www.theverge.com/2020/4/23/21233121/amazon-employees-seller-data-private-label-products][Amazon reportedly accessed third-party seller data to develop private-label products]] (Verge, 2020/04/23)
+# [[https://www.reuters.com/article/us-facebook-antitrust-idUSKBN22C1KV][Facebook could address some U.S. antitrust concerns with new photo transfer tool]] (Reuters, 2020/04/30)
+# [[https://about.fb.com/news/2020/05/welcoming-the-oversight-board/][Welcoming the Oversight Board]] (2020/05/06)
+# [[https://techcrunch.com/2020/05/06/no-cookie-consent-walls-and-no-scrolling-isnt-consent-says-eu-data-protection-body/][No cookie consent walls — and no, scrolling isn’t consent, says EU data protection body]] (TechCrunch, 2020/05/06)
 
 *** WhatsApp (Facebook)
 
@@ -6934,6 +6976,7 @@ Google アカウントを登録した相手には、メールアドレスで掛�
 # e2e encryption
 # Opus (WebRTC, QUIC over UDP)
 # Google account linking (27.0.184200521.DR27_RC10, 2018/02/07)
+# AV1 (video call, 2020/04/??)
 
 # *** Ring (GNU)
 #
@@ -7735,7 +7778,8 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # 米大手キャリアがスマホの位置情報を、あやしげな相手に売り続けてると報じられた。 (US$ 300~, Motherboard, 2019/01/08)
 # - 位置情報の売却先が転売して、賞金稼ぎも利用してる。 (A-GPS, location aggregator, Motherboard, 2019/02/06)
 # FCC は政府閉鎖を理由に、米大手キャリアを調査してない。 (Ars Technica, 2019/01/15)
-# Google の関連会社が、よそで集めた移動履歴を売却する計画がある？ (Sidewalk Labs, Intercept, 2019/01/28)
+# Google の関連会社が、よそで集めた移動履歴を売却する計画がある？ (Waterfront Toronto, Sidewalk Labs, Intercept, 2019/01/28)
+# - カナダのスマート監獄都市計画から手を引くと発表。 (Sidewalk Labs, 2020/05/07)
 # FCC が緊急通報した人の位置情報を、誤差 3m 以内にさせようと計画してる。 (911, Verge, 2019/03/15)
 # FTC が米大手キャリアに、集めたデータをどうしてるのか開示を求めてる。 (FTC, 2019/03/26)
 # 米警察は Google に、周辺にあったスマホの情報をまとめて請求できちゃう。 (geofence warrants, Sensorvault DB, NYT, 2019/04/13)
@@ -7759,6 +7803,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://www.nytimes.com/interactive/2019/04/13/us/google-location-tracking-police.html][Tracking Phones, Google Is a Dragnet for the Police]] (NYT, 2019/04/13)
 # [[https://www.reuters.com/article/us-usa-wireless/fcc-to-propose-fines-for-u-s-cellphone-carriers-over-consumer-data-disclosures-idUSKCN20L2WC][FCC to propose $200 million fines for U.S. cellphone carriers over consumer data disclosures]] (Reuters, 2020/02/27)
 # [[https://www.nbcnews.com/news/us-news/google-tracked-his-bike-ride-past-burglarized-home-made-him-n1151761][Google tracked his bike ride past a burglarized home. That made him a suspect.]] (NBC News, 2020/03/07)
+# [[https://medium.com/sidewalk-talk/why-were-no-longer-pursuing-the-quayside-project-and-what-s-next-for-sidewalk-labs-9a61de3fee3a][Why we’re no longer pursuing the Quayside project — and what’s next for Sidewalk Labs]] (Sidewalk Labs, 2020/05/07)
 
 # 金盾ならいつでも体験できる。 (Great Fireall)
 # インドで、似た制度が検討されてるらしい。 (50 カ国くらいでネット規制を検討中、 NYT, 2019/02/14)
@@ -8937,10 +8982,11 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # Android 11 メモ。
 # 2020/02/19 Developer Preview 1 (*Pixel 2~ only*)
 # 2020/03/18 Developer Preview 2 (Android Flash Tool)
-# 2020/04/?? Developer Preview 3
-# 2020/05/?? Beta 1 (over-the-air update)
-# 2020/06/?? Beta 2 (Final APIs)
-# 2020/Q3    Beta 3 (Release candidate)
+# 2020/04/23 Developer Preview 3
+# 2020/05/06 Developer Preview 4 (moving out Beta 1)
+# 2020/06/03? Beta 1 (over-the-air update)
+# 2020/07/?? Beta 2 (Final APIs)
+# 2020/08/?? Beta 3 (Release candidate)
 # 2020/Q3    Android 11 (Final release to AOSP and ecosystem)
 # - IdentityCredential API (SPU, ISO 18013-5)
 # - one-time permission (location, microphone, camera, "Only this time")
@@ -9281,6 +9327,9 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # - 英で地方議会のサイトに使われてた。 (Google とかに英市民をプロファイリングされてる、 Brave, 2020/02/04)
 #   英 ICO が国の議会にリスクを警告。 (大阪府が Facebook との提携を発表しちゃった日、 Register, 2020/02/05)
 #   (日本のケーサツや自治体のサイトとかも Google や Facebook に送っちゃうとこがある)
+# - Google が広告主の身元を確認すると発表。 (政治広告だけ 2018 年から確認してた、 Google Blog, 2020/04/23)
+#   ユーザーも確認できるようになるらしい。 (よそのサイトで表示された広告から確認できるのか不明)
+#   (広告詐欺がずっと問題になってたけど売上の 8 割以上が広告なのでやりたくなかった？)
 # 責任あるデータ保護規制を求めて、自由なデータ流通を提案。 (Google Blog, 2018/09/24)
 # 米上院で Keith Enright が証言。 (Google CPO: Chief Privacy Officer, Apple, Amazon, ..., 2018/09/26)
 # - 個人情報保護法案を支持。 (FTC が法律を作って執行するのには反対)
@@ -9809,6 +9858,7 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 # 人がたくさんいるとこでも、繋がりやすくなるのはまだ。
 # 実効速度が 1Gbps くらいのところに行ったら、 1GB なんて 10 秒くらいでなくなる。
 # 先に名前だけでも使いたい人たちが、もぞもぞしてる。
+# [[https://k-tai.watch.impress.co.jp/docs/review/1243334.html][au 5Gがいよいよスタート、新宿では600Mbpsを確認]] (... KDDI 新宿ビルの壁面に設置されていた ... アンテナからは100mほど離れた距離で数度に渡り測定 ... 安定して600Mbps前後 ... アンテナが視界から消える、完全にビルの影に入ったところで ... おおむね300Mbps台 ... 直営店である「au SHINJUKU」 ... の ... 屋内では、安定して1Gbps超え ..., Impress, 2020/03/26)
 # [[https://k-tai.watch.impress.co.jp/docs/review/1243615.html][ソフトバンクの「SoftBank 5G」スタート、1Gbps超えの通信速度をさっそく体験してみた]] (... 約1時間ほどのスピードテストであっという間に50GBを使用してしまった ..., Impress, 2020/03/27)
 # [[https://japanese.engadget.com/jp-2020-03-27-4g-5g.html][4G周波数の5G転用は「有利誤認」を招く恐れ──ドコモが慎重姿勢]] (... 4G周波数の5G転用については、ソフトバンクが積極的で、KDDIもある程度は積極的 ... ドコモは ... 『 ... 高速大容量が実現できる3.7GHz帯、4.5GHZ帯、および28GHz帯 ... が重要 ... 4Gの周波数を用いた5Gの通信速度は4Gと大きく変わらない ... 』 ... 「DSS」などの仕組みは、5G単独でエリアを構築する「スタンドアロン5G」（以後 5G SA）の構築に威力を発揮し ... 現行の5Gスマホは、モデムの制約上「5G SA」に対応していません ..., Engadget, 2020/03/27)
 # [[https://www.itmedia.co.jp/mobile/articles/2003/30/news092.html][ドコモの5Gスマホ「AQUOS R5G」に乗り換え 契約時の注意点は？　通信速度はどれくらい？ (1/2)]] (... 「Speedtest.net」アプリを使ってスピードテストを ... 5G接続時に3回試しただけで、一気に4.36GBものデータを消費してしまった ..., ITmedia, 2020/03/30)
@@ -10027,6 +10077,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # [[https://www.sisvel.com/news-events/news/sisvel-announces-nine-new-members-to-its-video-coding-licensing-platform][Sisvel announces nine new members to its Video Coding Licensing Platform]] (... Dolby • Electronics and Telecommunications Research Institute (ETRI) • Ericsson • GE • InterDigital • IP Bridge • NTT Docomo • SK Telecom • Xylene ... initial list of patents -- more than 650 for VP9 and over 1,050 for AV1 ..., ドコモまでいっしょになって 5+9 社で特許リストを公開、 Sisvel, 2020/03/10)
 # [[https://twitter.com/yohhoy/status/1237422016816246785][... DocomoはAndroid10端末販売とどう整合性とるんだろう？ ...]] (@yohhoy, 2020/03/11)
 # [[https://aws.amazon.com/about-aws/whats-new/2020/03/av1-encoding-now-available-with-aws-elemental-mediaconvert/][AV1 Encoding Now Available with AWS Elemental MediaConvert]] (AWS, 2020/03/18)
+# [[https://www.blog.google/products/duo/4-new-google-duo-features-help-you-stay-connected/][Four new Google Duo features to help you stay connected]] (... in the coming week ... AV1 ..., Google Blog, 2020/04/23)
 #
 # VVC (Versatile Video Coding)
 # H.265 (HEVC) の次も開発中。 (JVET: Joint Video Experts Team, 2020/10/??)
@@ -10291,7 +10342,6 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Live Relay (real-time text-to-speech conversion, on-device speech recognition, phone call)
 # Sound Amplifier (noise reduction, wired headphone, 2019/02/04)
 # Gboard (on-device speech recognition, English only, Pixel only, 2019/03/12)
-# Sidewalk Labs (smart prison city?, Waterfront Toronto, ..., Alphabet, 2023/??/??)
 # Project Euphonia (speech disorder support system, AI, ALS: Amyotrophic Lateral Sclerosis, Google I/O 2019)
 # Translatotron (end-to-end direct speech-to-speech translation, AI)
 # Waze (navi, ETA: Estimate Time of Arrival, real-time traffic report)
@@ -10340,6 +10390,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Microsoft Launcher (Microsoft account login)
 # RISC-V (ISA: Instruction Set Architecture, open source, MIPS?, 2019/??/??~)
 # ProtonVPN (partnership with Mozilla)
+# [[https://github.com/ProtonMail/proton-mail-android][ProtonMail Android app]] (encrypted email, iOS, Android)
 # Tor-only SIM (beta testing, data only, non-Tor block, Brass Horn Communications)
 # [[https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone][1.1.1.1: Faster & Safer Internet]] (Cloudflare DNS Resolver, 2018/11/11, Warp VPN, 2019/07/??)
 # LA Wallet (Official Digital Driver's License, Envoc)
@@ -10433,6 +10484,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # [[https://twitter.com/NaomiSuzuki_/status/1127326172814032896][姉妹品の偽ヤマト運輸が偽アプリの投下なしで開業 ...]] (@NaomiSuzuki_, 2019/05/12)
 # [[https://www.post.japanpost.jp/notification/notice/2019/0902_01.html][当社の名前を装った迷惑メール及び架空Webサイトにご注意ください。]] (... 当社ではショートメールによるご不在連絡のお知らせは行っておらず、また、Webサイト等に掲載するURLにおいて「.com」および「.top」を使用しておりません ... Android ... 不正なアプリケーションのダウンロード ... iPhone ... リンクをタップすると、Apple IDの入力を求められます ..., 日本郵便、 2019/09/02)
 # [[https://9to5google.com/2019/12/08/fortnite-android-google-play-store/][Exclusive: Epic submitting Fortnite for Android to Play Store in hopes of special billing exception]] (独自にアプリを配信した会社に Google が手数料の請求を開始、 9to5Google, 2019/12/08)
+# [[https://9to5google.com/2020/04/21/fortnite-android-play-store/][Fortnite for Android arrives on Play Store after Epic Games gives in to Google cut]] (独自にアプリを配信した会社が Google Play Protect にポップアップ警告でウイルスのような扱いをされて Google Play に復帰するハメになった、 9to5Google, 2020/04/21)
 #
 # xHelper
 # 外部からスマホを操作とかされることになりそうなアプリが見つかった。 (開発中)
@@ -11143,6 +11195,7 @@ Nexus 6P を作ってた。
 # 100 人限定で先行販売された。 (2020/03/28)
 # [[https://k-tai.watch.impress.co.jp/docs/column/minna/1245824.html][HUAWEI Mate30 Pro 5GでGoogleサービスを使うには？]] (... 「Phone Clone」というアプリを使って、旧端末から ... すべてのアプリを移行できるわけではない ... 「Twitter」「Instagram」「Slack」「Dropbox」「あすけん」など ... 移行できました。ただし、「LINE」や「Netflix」「Pokemon GO」など、移行できなかった ... 更新は難しそうです ... Googleアプリは、「Phone Clone」で移行できるアプリもあるのですが、正しく作動しなかったり、Googleアカウントが登録できなかったり ... なので、GoogleマップやGoogleフォトは、ブラウザからWeb版にアクセス ... カスタマーサービスセンターの方が ... 「LINEは5月を目処に使えるように準備中」とのこと ... 「LINE」アプリなのか、海外向けの「AppGallery」で配信されている「LINE Lite」のどちらになるかはわかりません ..., Impress, 2020/04/09)
 # [[https://japanese.engadget.com/jp-2020-04-17-play-huawei-mate-30-pro-5g.html][PlayストアのないHuawei Mate 30 Pro 5Gはメインスマホになりうるか]] (... LINE ... Amazonアプリストアで提供されていない ... ほかのAndroid端末からコピーしたAPKファイルで ... 起動すらできません ... LINEについてはブラウザー版が存在しないのでどうしようもない ..., Engadget 日本版、 2020/04/18)
+# [[http://s-max.jp/archives/1791988.html][ファーウェイのアプリ配信マーケット「AppGallery」にてコミュニケーションサービス「LINE」が配信開始！他の日本向けも随時追加へ]] (... 「LINE」が5月7日に配信開始 ... ファーウェイ以外の製品でも ... apkファイルをダウンロードして ... Pixel 3a XLにAppGallryをインストールして起動したところ ... Huawei IDがなくても利用可能 ..., S-MAX, 2020/05/10)
 #
 # nova 5T (2019/11/29)
 # EMUI 9.1 (Android 9)
@@ -11529,14 +11582,15 @@ DSDV 対応。 (SIMx2 + MicroSD スロット)
 # まだなのか、中止なのか不明。
 # 日亜化学に、白色 LED の特許侵害で訴えられてる。 (Go, Laser, 2018/05/18)
 
-*** moto g8 plus
+*** moto g8 power
 
 中国 Lenovo 製。 (レノボ、聯想集団) +米モトローラ製。+
 Motorola -> Google (2012/05/22) -> Lenovo (2014/10/30)
 DSDV 対応。
 国内大手キャリアの VoLTE に全て対応。
-どの回線でも使える。 *(!?)*
+楽天を含む、どの回線でも使える。 *(!?)*
 大容量バッテリー。
+セキュリティパッチが 90 日以内に降ってくる。 *(!?)*
 更新に積極的なのは、 Google の頃から？
 素の Android に近いらしい。 (AOSP)
 Nexus 6 を作ってた。
@@ -11554,14 +11608,12 @@ Nexus 6 を作ってた。
 # (他にも info, service, simlock とか、たくさんある)
 # [[https://itechhacks.com/android-secret-codes-hidden-codes-2017/][Top 800+ Latest Android Secret and Hidden Codes 2018]] (iTech Hacks, 2018/10/01)
 #
-# moto g8? (?)
+# moto g8, g8 power (2020/05/04)
 # Android 10
 # DSDV 対応。
 # 大容量バッテリー。
-#
-# moto g8 power? (?)
-# Android 10
-# 大容量バッテリー。
+# どの回線でも使える。 (楽天を含む) *(!?)*
+# セキュリティパッチが 90 日以内に降ってくる。 (Android Enterprise Recommended)
 #
 # moto g8 plus (2020/03/20)
 # Android 9.0
@@ -11569,6 +11621,7 @@ Nexus 6 を作ってた。
 # 国内大手キャリアの VoLTE に全て対応。
 # どの回線でも使える。 *(!?)*
 # 大容量バッテリー。
+# 更新で楽天回線に対応予定。 (2020/05/??)
 #
 # moto g7, g7 plus (2019/06/07)
 # Android 9
@@ -11782,7 +11835,7 @@ J:COM MOBILE のみ販売。 (大手キャリアを除く)
 # Galaxy Apps
 # Galaxy Ai UX (S9?)
 # Secure Wi-Fi (VPN)
-# Samsung Pay
+# Samsung Pay (2020/??/??)
 # Opera Max -> Samsung Max (browser)
 # Uhssup (SNS?)
 # Intelligent Scan (iris and face, 2D, Galaxy S9)
@@ -11837,6 +11890,14 @@ J:COM MOBILE のみ販売。 (大手キャリアを除く)
 # デザイン特許とかの侵害で、 Apple に訴えられてる。 (2011/04/15~)
 # 和解するらしい。
 # [[https://www.bloomberg.com/news/articles/2018-06-27/apple-samsung-settle-patent-infringement-dispute][Apple, Samsung Declare Peace in Biggest Modern Tech Patent Fight]] (Bloomberg, 2018/06/27)
+#
+# Galaxy A20 (2020/05/14?)
+# Android 9
+# au VoLTE 対応。
+# au 回線向け。
+# OLED
+# 防水おサイフ。
+# J:COM MOBILE のみ販売？ (大手キャリア向けを除く)
 #
 # Galaxy A30 (2019/06/07)
 # Android 9.0
@@ -12620,7 +12681,9 @@ DSDV 対応。
 # OLED は、韓国 Samsung 製。 (NTSC)
 # インカメラで顔認証っぽいことができる。 (2D)
 # 日本では最初になる、ディスプレイ指紋認証。 (Clear ID)
-# UQ mobile 独占販売。
+# UQ mobile が独占販売してた。
+# 家電量販店とかでも販売開始。 (2019/10/11)
+# Android 9 更新。 (ColorOS 6, CPH1893EX_11_C.34, 2020/03/17)
 #
 # Find X (CPH1875, 2018/11/09)
 # Android 8.1 (ColorOS 5.1)
@@ -12631,8 +12694,10 @@ DSDV 対応。
 # ベンチマークテストのときに、こっそり普段よりも速くしてるのが発覚した。 (3DMark, sub-brand Realme, 2018/09/28)
 # [[https://www.firstpost.com/tech/news-analysis/our-300-test-strong-investigation-shows-huawei-and-oppo-cheating-on-benchmarks-5276121.html][Our 300-test-strong investigation shows Huawei and Oppo cheating on benchmarks]] (Firstpost, 2018/09/28)
 # [[https://benchmarks.ul.com/news/oppo-promises-changes-after-3dmark-delisting][OPPO promises changes after 3DMark delisting]] (UL, 2018/10/31)
+# Android 9 更新。 (ColorOS 6.0.1, 2019/10/??)
 # 更新で楽天回線に対応。 (CPH1875EX_11_C.17, 2019/12/25)
-# Android 9 更新予定。 (ColorOS 6)
+# Android 10 更新。 (ColorOS 7, CPH1871EX_11_ F.05, 2020/04/27)
+# [[https://www.oppo-lab.xyz/entry/tokureiteki-os-update][OPPO Japan「OSアップデートは特例的」]] (... セキュリティパッチの更新や不具合の修正のアップデートは一定の頻度で提供されています ... OSアップデートについて ... OPPO Japan様から以下のようにご返答いただきました ... 『（OSの）アップグレードにつきましては、基本的に行っておりません ... 日本を含む一部地域にて、Find X、R17 Pro ... は特例的な更新となります ... アップデート（例：AndroidOS 8.1→AndroidOS 8.2）はできますが、アップグレード（例：AndroidOS8.0→AndroidOS 9.0）はできない仕様とご案内しております。』 ..., OPPOラボ、 2019/11/16)
 #
 # R15 Neo (CPH1851, 2018/08/31)
 # Android 8.1 (ColorOS 5.1)
@@ -13096,6 +13161,7 @@ Android 10 の公開と同時にバージョンアップできたのは、この
 # [[https://www.unerry.co.jp/news/2020/03/%e6%88%90%e7%94%b0%e7%a9%ba%e6%b8%af%e7%ac%ac3%e3%82%bf%e3%83%bc%e3%83%9f%e3%83%8a%e3%83%ab%ef%bc%88lcc%e5%b0%82%e7%94%a8%ef%bc%89%e3%82%92%e3%81%94%e5%88%a9%e7%94%a8%e3%81%ae%e3%81%8a%e5%ae%a2/][成田空港第3ターミナル（LCC専用）をご利用のお客様の旅をオトクに便利にする成田空港のアプリが、unerryのリアル行動データプラットフォーム「Beacon Bank SDK」を採用]] (... 「ナリタニスト公式アプリ」をご利用になる際に ... クーポン ... を提供し ... GPSとBluetoothビーコンを併用 ... 成田空港では ... 利用者の行動DNA（*2）を踏まえ ... 名前や電話番号等 ... を特定出来ない状態で ... 美術館や博物館等の文化的な施設が好き ... 等 ... データからわかります ..., スマート監獄追跡 SDK, ウネリー、 2020/03/02)
 # [[https://www.reuters.com/article/us-amazon-com-store-technology/amazon-launches-business-selling-automated-checkout-to-retailers-idUSKBN20W0OD][Amazon launches business selling automated checkout to retailers]] (レジでの支払いはないけどクレジットカードがないと店に入れない Just Walk Out を導入させて帳簿ごと握っちゃう Amazon のスマート監獄フランチャイズ事業？、 Reuters, 2020/03/09)
 # [[http://shogyokai.jp/articles/-/2574][高輪ゲートウェイ駅に無人AI決済店舗が登場]] (... 入店時に認証をせず ... 約50台のカメラが人と物の動きを補足 ... 商品は手持ちのバッグに入れてもよい ... 交通系電子マネーで ... 明細を見ながら決済 ..., カメラの映像がどう扱われてるのか不明、商業界 ONLINE, 2020/03/17)
+# [[https://www3.nhk.or.jp/news/html/20200424/k10012404611000.html][テレワーク 働きぶりの“見える化” 導入広がる 新型コロナ]] (... ＩＴ関連企業「アイエンター」は、先月から ... 「退席」と「着席」のボタンをクリックすることで、休憩時間も１秒単位で記録 ... 「着席」のボタンを押して仕事をしている間の、パソコンの画面がランダムに撮影され、上司に送信される仕組みもあります。いつ画面が撮影されるか社員には分かりません ..., パソコンにテレワークマネジメント製の "F-Chair+" をインストールさせてスマート監獄オフィス拡張？、 NHK, 2020/04/24)
 
 # *** GRANBEAT (ONKYO)
 #
@@ -13215,7 +13281,8 @@ DSDV 対応。 (SIMx2 + microSD スロット)
 #
 # E-ink + LCD (dual display, HiSense A6L, 2019/11/??)
 # E-ink only (single display, HiSense A5, 2019/11/??)
-# Color E-ink? (4096 colors)
+# Color E-ink (4096 colors, HiSense A5C, 2020/04/29)
+# monochrome RLCD (Reflective-LCD)
 # 5G (Unisoc T7510 SoC, Hisense F50, 2020/04/20)
 
 # *** FlexPai
@@ -13277,7 +13344,7 @@ DSDV 対応。 (SIMx2 + microSD スロット)
 # Wireless USB (UWB: Ultra Wide Band)
 # 穴はマイクとリセットだけで、 SIM スロットや充電端子とボタンがない。 (True Holeless, ceramic unibody)
 #
-# 5G? (Meizu 17?, 2020/??/??)
+# 5G (Meizu 17, 2020/05/11)
 
 # Power Max P18K Pop (?)
 #
@@ -13320,13 +13387,14 @@ DSDV 対応。 (SIMx2 + microSD スロット)
 # [[http://wololo.net/2019/06/10/nintendo-switch-news-bylaws-gets-gpu-acceleration-on-android-for-switch-and-promises-to-release-his-work-when-its-ready/][Nintendo Switch News: ByLaws gets GPU acceleration on Android for Switch and promises to release his work “when it’s ready”!]] (Wololo.net, 2019/06/10)
 # [[http://wololo.net/2019/07/27/android-for-the-nintendo-switch-has-finally-landed-you-can-now-run-lineageos-15-1-android-8-1-on-your-hacked-nintendo-switch/][Android for the Nintendo Switch has finally landed – You can now run LineageOS 15.1 (Android 8.1) on your hacked Nintendo Switch]] (Wololo.net, 2019/07/27)
 
-# Fairphone 3 (2019/09/03?)
+# Fairphone 3 (2019/09/03)
 #
 # 蘭 Fairphone 製。
-# Android 9 (AOSP も予定？)
+# Android 9 (AOSP や /e/ をインストールできる)
 # バッテリー交換できる。
 # 簡単に修理できる。 (7 つのモジュール化された部品を取り寄せて自分で交換、フレームは変えられない？)
 # 日本で売ってない。
+# OS が最初から /e/ になってるのも発売。 (Android から Google の情報収集を排除したオープンソースな OS, 2020/05/06)
 
 # *** Surface Duo (2020/??/??, 年末予定)
 # 米 Microsoft 製。
@@ -13400,8 +13468,8 @@ DSDV 対応。 (SIMx2 + microSD スロット)
 迷うことはありません。
 選択肢はすでに払われたのですから。
 
-# Apple SIM (eSIM)
-# Apple A11 Bionic (10nm) -> A12 (7nm) -> A14? (6nm) -> (5nm?) -> (3nm?), TSMC
+# Apple SIM (2014/10/16) != eSIM (GSMA standard, iPhone XS~, 2018/09/21)
+# Apple A11 Bionic (10nm) -> A12 (7nm) -> A14? (6nm) -> (5nm?) -> (3nm?) -> (2nm?), TSMC
 # Siri (SiriKit, AI, Differential Privacy (iOS 10~))
 # IPv6 (iOS 10.3)
 # HFS+ -> APFS
@@ -13459,6 +13527,7 @@ DSDV 対応。 (SIMx2 + microSD スロット)
 # Google Smart Lock (Android phone's built-in security key, CTAP, iOS 10~, 2019/06/12)
 # virtual iPhone (copyright infringement?, Corellium)
 # JPKI 利用者ソフト (マイナンバーカードリーダー、 NFC, iPhone 7~, iOS 13~, 地方公共団体情報システム機構、 2019/10/16)
+# [[https://holzschu.github.io/a-Shell_iOS/][a-Shell]] (terminal app, iOS 13~, @nholzschuch)
 
 # checkm8 (checkmate)
 #
@@ -13784,6 +13853,8 @@ DSDV 対応。 (SIMx2 + microSD スロット)
 # Touch ID -> Face ID (A11 neural engine, infrared 30000 dots, 3D mesh, iPhone X)
 # 4CC CA (8, 8 Plus)
 
+# WWDC 2020 (2020/06/22?)
+#
 # WWDC 2019 (2019/06/03~07)
 # iOS 13 developer preview
 # iOS 13 public beta (2019/07/?? -> 2019/06/24)
@@ -13881,7 +13952,7 @@ Apple Store (直営) と、 Apple 正規サービスプロバイダがある。
 # | 2018/09/21 | XS, XS Max             | LAA (Band 46), eSIM (iOS 12.1~, GSMA RSPv2, DSDV?) | Intel modem only
 # | 2018/10/26 | XR                     | Haptic Touch                                       |
 # | 2019/09/20 | 11, 11 Pro, 11 Pro Max | UWB (iOS 13.1~, IEEE 802.15.3a, spatial awareness) | world model
-# | 2020/04/24? | SE (2nd generation)    |                                                    | 8 upgrade
+# | 2020/04/24 | SE (2nd generation)    |                                                    | 8 upgrade
 # (*1) [[https://qiita.com/m0ch1m0ch1/items/7bf01cee24d8f70ddaa7][免許不要の通信方式sXGPに関する情報まとめ]] (技適取得済みなのは iPhone 7~, @m0ch1m0ch1, 2018/11/18)
 # (*2) [[https://twitter.com/iijmio/status/1190174266118983681][... iOS12.4.3 ... iPhone 6, iPhone 6 PlusにおいてタイプAのSIMカードがご利用できない場合があることを確認しています（なおiPhone 5sは元々タイプAでは動作不可）。]] (au 回線、 @iijmio, 2019/11/01)
 #      [[https://twitter.com/iijmio/status/1205349359686172672][... iOS12.4.3と変わらず利用不可のまま ...]] (iOS 12.4.4, @iijmio, 2019/12/13)
