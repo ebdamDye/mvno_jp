@@ -1483,9 +1483,10 @@
 #   違法と知らなくても、裁判所で無罪とは限らない。 (法の不知はこれを許さず、刑法 38 条 3)
 #   ("アクセス警告方式" を導入して見るだけでも違法にする？フェアユースの導入を検討？)
 # 世界反サイバー検閲デー。 ("The Uncensored Library", Minecraft, Reporters Without Borders, 2020/03/12)
-# 衆議院文部科学委員会で、審議。 (2020/05/20)
+# 衆議院文部科学委員会で、審議開始。 (2020/05/20)
 # 衆議院本会議で、可決。 (全会一致、 2020/05/26)
-# 参議院文教科学委員会で、審議。 (2020/06/02)
+# 参議院文教科学委員会で、審議開始。 (2020/06/02)
+# 参議院本会議で、成立。 (全会一致、 2020/06/05)
 # [[https://www.nikkei.com/article/DGXMZO40776860R00C19A2EA3000/][政府、海賊版視聴に警告画面 接続遮断「対策後に判断」]] (... 政府の基本方針 ... アクセス警告方式 ..., 日本経済新聞、 2019/02/01)
 # [[https://lineblog.me/yamamotoichiro/archives/13214487.html][海賊版ブロッキング問題再び、今度はアクセス警告方式が登場（追記あり）]] (... ブロッキング関連議論の代案として提唱されていた内容にとても近い ... 技術的にも困難 ... 実際にやるなら、これ文字通り「日本版金盾」 ... 政府の誰がどこで基本方針としてこの話題を持ち出したのかが不明 ... 引用>> ... 総務省が近くISP（インターネットサービスプロバイダー）と話し合う ... 約款の変更によって可能 ... << ... 法改正や新法なしに ... 実現できると政府が誰かから吹き込まれて思い込んでそれでいけとなった気配 ..., @kirik_game, 2019/02/02)
 # [[https://twitter.com/sakichan/status/1092148687025762305][... スマートフォンに対して行おうとすれば、MITM用root証明書が必須で、Google ... を日本市場から排除 ... 中国のように ...]] (@sakichan, 2019/02/03)
@@ -1590,6 +1591,13 @@
 # [[https://twitter.com/SOFTIC_JP/status/1266487420721131520][附帯決議、衆議院のサイトに掲載 ...]] (リンクあり、 @SOFTIC_JP, 2020/05/30)
 # [[https://twitter.com/KenAkamatsu/status/1267293876139638784][明日、国会の文教科学委員会に参考人として出席します ... この辺で決めたい！ ...]] (@KenAkamatsu, 2020/06/01)
 # [[https://twitter.com/KenAkamatsu/status/1267710824195297282][参議院の参考人質疑おわりました ...]] (@KenAkamatsu, 2020/06/02)
+# [[https://twitter.com/KenAkamatsu/status/1268149346366717952][... 「日本の漫画文化をより発展させていくためには？」という質問に対して、「何と言ってもまず表現の自由だ」という旨の発言をしてきました ...]] (リンクあり、 @KenAkamatsu, 2020/06/03)
+# [[https://twitter.com/KenAkamatsu/status/1268406179987783680][... 参議院の文教科学委員会でも全会一致で可決 ...]] (@KenAkamatsu, 2020/06/04)
+# [[https://www.sankei.com/entertainments/news/200605/ent2006050006-n1.html][海賊版サイト対策、ダウンロードを違法化 改正著作権法が成立]] (... 令和３年１月１日に施行。リーチサイトの規制については今年１０月１日から ..., 産経新聞、 2020/06/05)
+# [[https://www.nihonmangakakyokai.or.jp/?tbl=information&id=8520][海賊版対策のための著作権法成立に関する共同声明]] (日本漫画家協会、 2020/06/05)
+# [[https://twitter.com/fujisue/status/1268754579513946112][本日の参議院本会議 ...]] (@fujisue, 2020/06/05)
+# [[https://twitter.com/yamadataro43/status/1268775344598740992][... 全会一致 ... で ...]] (@yamadataro43, 2020/06/05)
+# [[https://twitter.com/Furuya_keiji/status/1268829662253158400][改正著作権法が成立 ...]] (@Furuya_keiji, 2020/06/05)
 #
 # インターネット上の海賊版サイトへのアクセス抑止方策に関する検討会 (2019/04/19~, 総務省)
 # 「アクセス抑止方策に係る検討の論点」に対する意見募集 (2019/04/23 総務省)
@@ -2154,8 +2162,10 @@
 # ネットワーク中立性に関する研究会中間報告書 (案) に対する意見募集 (2019/02/26~2019/03/18 総務省)
 # ネットワーク中立性に関する研究会における中間報告書 (案) に対する意見募集の結果及び中間報告書の公表 (2019/04/10 総務省)
 # 「帯域制御の運用基準に関するガイドライン」改定案に対する意見募集 (JAIPA, 2019/11/01)
+# 「帯域制御の運用基準に関するガイドライン」の改定について (JAIPA, 2019/12/11)
+# 「帯域制御ガイドラインのポイント」の公表について (JAIPA, 2020/05/27)
 # - 帯域制御の運用基準に関するガイドライン (JAIPA)
-#   改定して、 "公平制御" を導入できるようにする。
+#   改定して "公平制御" を導入できるようになった。
 #   混雑してるときだけ、たくさん使ってる人がより遅くなる制御。
 #   今は混雑してるとき、全ての通信速度が遅くなる。
 #   通信の最適化とか、約款に書いとくだけじゃダメ。 (通信の秘密を侵害、ペーシングやスロットリングも)
@@ -2316,6 +2326,7 @@
 # 「クラウドサービスの安全性評価に関する検討会 とりまとめ(案)」に対する意見募集 (2019/12/11 総務省)
 # 「クラウドサービスの安全性評価に関する検討会 とりまとめ」の公表 (2020/01/30 総務省)
 # 「政府情報システムのためのセキュリティ評価制度(ISMAP)における各種基準(案)」に対する意見募集 (2020/03/27 総務省)
+# 「政府情報システムのためのセキュリティ評価制度(ISMAP)」の運用開始 (2020/06/03 総務省)
 #
 # クラウド・バイ・デフォルト原則。 (政府情報システムにおけるクラウドサービスの利用に関わる基本方針)
 # データローカライゼーション規制？
@@ -2340,6 +2351,7 @@
 # [[https://www.soumu.go.jp/menu_news/kaiken/01koho01_02000887.html][高市総務大臣閣議後記者会見の概要]] (... アマゾン・ウェブ・サービスの ... 本年10月の運用開始に向けて ... 「ユーザ所有データの所在地は国内とすること」、「準拠法・裁判管轄を国内に指定すること」、「クラウドサービスは国内から提供されること」を求めます ..., 2020/02/14 総務省)
 # [[https://pr.fujitsu.com/jp/news/2020/03/6.html][政府向けのクラウド事業に本格参入]] (... これまで提供してきた ... 「FUJITSU Cloud Service for OSS」をベースに ... 開発し、2020年5月に販売開始 ..., 富士通、 2020/03/06)
 # [[https://www.nttdata.com/jp/ja/news/release/2020/031600/][公共機関のデジタル化を推進するマルチクラウドソリューションの提供開始]] (... Digital Community Platform ... 2020年3月16日より提供開始 ... NTTデータが金融機関向けに提供するクラウドサービス「OpenCanvas(R)^注2」の他、AWS、Azureおよびオンプレミス環境の利用も可能 ..., NTT DATA, 2020/03/16)
+# [[https://jpn.nec.com/press/202006/20200602_01.html][NEC、官庁向けのクラウドサービスを提供開始]] (... AWS)やMicrosoft Azureなどの ... 閉域網による接続サービスを2020年7月から提供開始 ... 「NEC Cloud IaaS」を強化し ... 2020年11月から提供開始 ... FedRAMP Moderate (注3)相当の ... 環境で ... 政府情報システムのためのセキュリティ評価制度(ISMAP) ... 対応 ..., NEC, 2020/06/02)
 
 # スーパーシティ構想 (Society 5.0, 国家戦略特区)
 #
@@ -2349,7 +2361,7 @@
 # [[https://www.nikkei.com/article/DGXMZO45809560X00C19A6EAF000/][スーパーシティ法案を閣議決定 規制緩和、首相が省庁に要請]] (日本経済新聞、 2019/06/07)
 # [[https://business.nikkei.com/atcl/gen/19/00002/070200501/][廃案になったスーパーシティ構想、周回遅れからどう追い付く]] (... 6月26日に閉会した通常国会では廃案となった。廃案になったのは、規制緩和の手法を巡り内閣法制局との調整に時間がかかったため ... 秋の臨時国会に再提出し、成立を目指す ..., 日本経済新聞、 2019/07/02)
 # [[https://www.nikkei.com/article/DGXMZO55905510R20C20A2AM1000/][都が官民データ取引所、20年度に運営法人 新事業創出]] (東京版Society 5.0, スマート東京、官民連携データプラットフォーム、日本経済新聞、 2020/02/21)
-# [[https://xtrend.nikkei.com/atcl/contents/watch/00013/00975/][「スーパーシティ法案」成立　日本はどう変わるのか？]] (... 国家戦略特区法の改正案が2020年5月27日、参院本会議で自民、公明、維新などの賛成多数により可決 ..., 日経 xTECH, 2020/05/29)
+# [[https://xtrend.nikkei.com/atcl/contents/watch/00013/00975/][「スーパーシティ法案」成立 日本はどう変わるのか？]] (... 国家戦略特区法の改正案が2020年5月27日、参院本会議で自民、公明、維新などの賛成多数により可決 ..., 日経 xTECH, 2020/05/29)
 #
 # 「GOVERNANCE INNOVATION: Society5.0の時代における法とアーキテクチャのリ・デザイン」報告書（案）の意見公募手続（パブリックコメント）を開始しました (2019/12/26 経済産業省)
 # 人に警戒されることなく、誘導とかできちゃう仕組みも欲しいみたい。 *(!?)*
@@ -3549,6 +3561,7 @@ eSIM も発行してる。
 #            [[http://blogofmobile.com/article/125729][楽天モバイル、4月7日時点のエリアを公開]] (... ほぼ商用化の時点のサービスエリアと考えられる ..., @paopao0128, 2020/04/08)
 #            [[https://network.mobile.rakuten.co.jp/fee/supporter-program/info_20200518/][「無料サポータープログラム」ご利用のお客様へ Rakuten UN-LIMITへプラン変更（移行）のお願い]] (... 8月1日（土）以降は解約となり ... 電話番号は廃止となります ..., 2020/05/18)
 #            [[http://blogofmobile.com/article/127135][楽天モバイルが無料サポータープログラムを終了、プラン変更は7月31日まで]] (... プラン変更の手続きを実施していない場合、2020年6月1日の0時以降は ... 音声通話やデータ通信の利用が停止しているため、無線LANなどで ... プラン変更の手続きを行うよう求めている ..., @paopao0128, 2020/06/01)
+#            [[https://k-tai.watch.impress.co.jp/docs/news/1256492.html][楽天モバイルの無料サポータープログラムがまだ使える!? 徐々に終了へ]] (... 6月1日になっても、Twitterなどで「まだ使える」と指摘する声がいくつか挙がった ... 楽天モバイル広報へ確認したところ「 ... まもなくすべて切り替えが完了する予定」との回答 ... 誤って課金されることはないという ..., Impress, 2020/06/02)
 # 2020/04/07 格安キャリアとしての新規受け付けを終了。
 #            [[https://mobile.rakuten.co.jp/news/service_20190906/][楽天回線への移行について]] (... 移行時に選択できるプランはお客様によって異なります ..., 2020/03/03)
 #            [[https://www.itmedia.co.jp/mobile/articles/2003/03/news126.html][楽天モバイル、4月7日をもってMVNOサービスの新規受け付けを終了 完全終息は未定]] (... 同日までに契約した回線は、当面の間、そのまま利用できる ... ただし、「 ... どこかのタイミングで」（山田善久社長）、MNOサービスへの切り替えは行われる ..., ITmedia, 2020/03/03)
@@ -3600,6 +3613,7 @@ eSIM も発行してる。
 #            [[https://corp.mobile.rakuten.co.jp/blog/2020/0430_01.html][5Gで社会はどう変わる？楽天モバイルが目指す、5G時代の変革とは]] (... 2020年4月1日、都内にて、5Gアンテナ（Sub6とmmW）の5G基地局の運用を開始 ... Sub6のアンテナはNEC製 ..., 2020/04/30)
 #            [[https://corp.mobile.rakuten.co.jp/news/press/2020/200515_01.html][新型コロナウイルス感染拡大の影響による第5世代移動通信システム（5G）サービス開始時期の延期について]] (... 2020年6月を予定していた5Gサービスの提供開始時期について、約3カ月をめどに延期 ..., 2020/05/15)
 #            [[https://corp.mobile.rakuten.co.jp/news/press/2020/200520_01.html][楽天モバイル、米国における「Open RAN Policy Coalition」の設立に参画]] (... 異なるベンダーのシステムが共通の仕様に対応し、ネットワーク上で組み合わせた場合でも、それぞれのシステムやソフトウェアが動作可能であることを ... 推進 ..., 2020/05/20)
+#            [[https://corp.mobile.rakuten.co.jp/news/press/2020/200603_01.html][楽天モバイルとNEC、コンテナ技術を導入したStand Alone方式5Gコアネットワークの共同開発に合意]] (... 2021年より、本SA方式の5GCを使用した5Gネットワークの提供を予定 ..., 2020/06/03)
 # 202?/??/?? 低軌道衛星基地局？
 #            [[https://k-tai.watch.impress.co.jp/docs/news/1238537.html][楽天モバイル、衛星通信で全国エリア100％目指す――衛星通信の米ASTと業務資本提携]] (... 3日 ... 発表され ... 楽天からはASTの資本20％の出資が実施されるとともに業務提携も締結される ..., Impress, 2020/03/03)
 #            [[https://www.itmedia.co.jp/mobile/articles/2003/03/news117.html][楽天モバイルのキャリアサービス、2021年3月末に全国エリアへ “宇宙”からのエリア化も視野に]] (... 試験機「BlueWalker 1」は現在、軌道上を周回しつつ実証実験を続けている ..., ITmedia, 2020/03/03)
@@ -3905,6 +3919,7 @@ au 回線だと、音声通話には au VoLTE 対応のスマホがいる。
 #            (MVNOに係る電気通信事業法及び電波法の適用関係に関するガイドライン)
 # 2020/05/29 丸紅ネットワークソリューションズが、 5G を開始。 (ドコモ回線、 MVNO としては法人向けのみ提供)
 #            [[https://www.marubeni-network.com/press/2020/200529.html][5G通信サービスの提供開始について]] (... ドコモの5Gスマートフォンでの動作を確認しており ... 「IDY」）が開発した5Gエッジゲートウェイ iR730Bとの接続試験を完了 ..., 2020/05/29)
+# 2020/06/08 LinksMate が、 5G サービスの提供を開始。 (ドコモ回線、 MVNO 初？)
 # 2020/08/31 nuro モバイルが、 0 SIM サービス終了予定。 (新規受け付けを 2020/02/17 に終了)
 # 2020/10/01 UQ mobile が、親会社の au に吸収される予定。 (吸収分割)
 
@@ -4688,7 +4703,6 @@ LINE アプリのパケットが無料。
 # Android 向けには、マイナポータル AP アプリがある。 (2017/10/07)
 # - iPhone 7 以降にも対応。 (iOS 13.1~, 2019/11/05)
 # [[https://twitter.com/houterasu_4_10/status/1190056014051258368][... 2020年度からは、ポイントで買い物ができるようになり、2021年３月からは健康保険証として使える ...]] (法テラス広報、 @houterasu_4_10, 2019/11/01)
-# [[https://www.tokyo-np.co.jp/article/14101][マイナンバーと口座ひも付け 今国会に法案 自民方針、情報流出の懸念]] (... 自民党は二十日、マイナンバーと預貯金口座をひも付け ... するための議員立法を今国会に提出する方針を固めた。新型コロナウイルス感染拡大で ... 遅れが相次いでいることを受け ... 迅速化を図るとしているが ... 自民党のマイナンバー活用プロジェクトチーム（ＰＴ）の提言によると ... 法案の付則には、マイナンバーと口座番号のひも付けの義務化についても検討し、今年中に結論を出すよう明記 ... 座長の新藤義孝元総務相は「利用者視点 ... に ... マイナンバーと口座をひもづけるのは長年の課題 ... 」 ... 自治体情報政策研究所の黒田充代表は「新型コロナ対応には間に合わない ... 時間をかけて議論するべき話だ」 ..., 東京新聞、 2020/05/21)
 
 # LINE モバイル株式会社に対する景品表示法に基づく措置命令について (2019/07/02 消費者庁)
 # LINEモバイル株式会社に対する景品表示法に基づく課徴金納付命令について (2019/12/27 消費者庁)
@@ -5624,10 +5638,14 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            - 大阪府が、店とかでスマホに QR コードを読ませる予定。 ("大阪コロナ追跡システム", Engadget 日本版、 2020/05/12)
 #              とりまとめたのは、日本 IBM でスマート監獄都市計画を担当する役員。 (Med IT Tech, 2020/05/14)
 #              お値段 80 万円。 (プライバシーやセキュリティとか期待できない？、スポニチ、 2020/05/18)
+#              大阪府が運用を開始。 (収集したメールアドレスを 2 ヶ月後に削除、 NHK, 2020/05/29)
+#              マイナンバーとキャッシュレス決済も追跡しちゃう予定！？ ("スマートくいだおれアプリ", 産経新聞、 2020/06/02)
+#              (メールアドレスを店とかに紐付けて追跡できるのになぜか位置情報を収集しないってアピール)
+#              ...
 #              神奈川県では LINE アカウントを収集。 ("LINE コロナお知らせシステム", 2020/05/27 開始、 Impress, 2020/05/21)
 #              よその自治体もメールアドレスを収集。 (宮城県、岐阜県、京都市、 日経 xTECH, 2020/05/28)
-#              大阪府が運用を開始。 (NHK, 2020/05/29)
-#              (メールアドレスを店とかに紐付けて追跡できるのになぜか位置情報を収集しないってアピール)
+#              千葉市もメールアドレスを収集してる。 ("千葉市コロナ追跡サービス", Impress, 2020/06/01)
+#              東京都も LINE かメールを収集してく。 ("東京版新型コロナ見守りサービス", 2020/06/12 開始、 Impress, 2020/06/05)
 # 2018/07/13 Hillary Clinton 陣営を攻撃してメールを暴露したことで、露情報機関の 12 人を起訴。 (WikiLeaks に流した？)
 #            事実だったとしても、主権免除で GRU を起訴できない？ (よその政府に裁判権は及ばない、 ABC, 2018/11/13)
 #            共和党の元財務副委員長も、メールの件でカタール政府を訴えて FSIA で棄却されてる。 (Washington Post, 2018/08/09)
@@ -5657,6 +5675,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            - 日本でも使えるようになった。 (2020/02/20)
 #            - 米とカナダでも使えるようになった。 (Reuters, 2020/04/30)
 #              プライバシーと公共ポリシーの担当者が、規制についての議論を加速させないのが大事って発言してる。
+#            - 全世界で使えるようになった。 (2020/06/04)
 #            (データの取り引きも簡単になる？)
 # 2018/07/25 決算報告。 (2018Q2)
 #            一日での株価の下落幅は、史上最大。 (US$ 119 billion)
@@ -5818,6 +5837,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            ディープフェイクや AI が合成した投稿も、削除の対象になった。 (2020/01/06)
 #            - Facebook と契約する第三者がチェックして、虚偽のラベルを貼る。 (削除基準に満たないもの)
 #            Reuters がチェックする事業を開始して、 Facebook と提携。 (4 人から増えるのか不明、 TechCrunch, 2020/02/12)
+#            国営の報道機関に、ラベルの表示を開始。 (2020/06/04)
 # 2018/09/12 新しい米大統領令に署名。
 #            外国人が米の選挙に干渉したら、制裁を加えるらしい。
 #            2018 年の米大統領選挙に干渉した人たちに、初制裁。 (露 IRA, U.S. Department of the Treasury, 2019/09/30)
@@ -5853,18 +5873,29 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            米大統領が、 Twitter の警告を受けることに初めて成功。 (郵送投票を詐欺扱い、 @realDonaldTrump, 2020/05/26)
 #            - Facebook にも同じ内容を投稿したけど、警告とかなし。
 #            - 警官が首に膝を乗せたまま、黒人を窒息死させた翌日。 (米 MN 州、 CBS Minnesota, 2020/05/26)
-#              周囲の人が撮影した映像が拡散して、抗議デモも発生。 ("I Can’t Breathe!", George Floyd)
-#            - CEO が政治家の投稿をチェックをすべきじゃないって、インタビューに回答。 (FOX News, 2020/05/27)
-#              真偽の判定も、 Facebook が直接しないとをアピール。
+#              周囲の人が撮影した映像も拡散して、抗議デモが発生。 ("I Can’t Breathe!", George Floyd)
+#            - 政治家たちの投稿をチェックとかすべきじゃないって、 CEO がインタビューに回答。 (FOX News, 2020/05/27)
+#              事実の確認も、 Facebook が直接しないとをアピール。 (fact-checking)
 #            - 米大統領が、名指しで通信品位法 230 条の対象外にしろって大統領令に署名。 (White House, 2020/05/28)
 #              投稿を削除したり見えなくするなら、出版社扱いしたいらしい。 (Twitter, Facebook, Instagram, YouTube)
-#              (選挙妨害をやめさせて言論の自由を取り戻すらしいけど 2016 年の大統領選挙のこと？)
-#            - 米ホワイトハウス公式アカウントが、 1960 年代の公民権運動を抑圧した言い回しで脅迫。 (@WhiteHouse, 2020/05/29)
-#              Twitter が、暴力の美化を警告。 ("略奪が始まれば銃撃が始まる" とツイートしてた)
-#              Facebook は、警告とかしてない。 (従業員が抗議、 NYT, 2020/06/01)
-#              (抗議と暴動が拡大中、 BLM: Black Lives Matter)
+#              事実を確認して警告するのは憲法で保障されるって、 IT 業界の権利保護団体が訴えてる。 (修正 1 条、 CDT, 2020/06/02)
+#              (選挙介入をやめさせて言論の自由を取り戻すらしいけど 2016 年の大統領選挙のこと？)
+#            - 米大統領が、 1960 年代の公民権運動を抑圧した言い回しで脅迫するツイート。 (@realDonaldTrump, 2020/05/29)
+#              Twitter が、暴力の賛美を警告。 ("略奪が始まれば銃撃が始まる" とツイートしてた)
+#              Facebook は、警告とかしてない。 (従業員たちが抗議、 NYT, 2020/06/01)
+#              米ホワイトハウス公式アカウントも同じ文面でツイートして、 Twitter が警告。 (@WhiteHouse, 2020/05/29)
+#              (抗議と暴動が拡大中、警察の暴力も拡散中、 BLM: Black Lives Matter)
 #            - CEO が、 2020/05/29 に米大統領と電話会談。 (Axios, 2020/05/31)
 #              Facebook のポリシーを説明した？ (2020/05/29)
+#            - Amazon が、黒人コミュニティと連携するってツイート。 (@amazon, GeekWire, 2020/05/31)
+#              警察とかに顔認証システムを売るのやめるんだよねって、人権団体も歓迎してる。 (Amazon Rekognition, @ACLU)
+#            - CEO たちが、会合した人権団体からの抗議を聞き流した。 (2020/06/01, Axios, 2020/06/02)
+#              (米大統領が歩いて教会に行くためだけに警察が催涙ガスとか使ったり陸軍の投入にまで言及した日)
+#            - Facebook の全社集会を録音したものが、リークされた。 (ビデオ会議の当日、 Vox Media, 2020/06/02)
+#              警告とかしないのが正しい決定だと、 CEO がアピール。 (ポリシーに反してないと判断)
+#              ポリシーの更新もまだいらないって、 CEO が呼びかけ。 (暴力を煽ってない投稿に分類)
+#              全社集会のあと、抗議する 2 人の従業員が退職を宣言。 (ポリシーを動かされたと反発、 Verge, 2020/06/02)
+#              (相手が政治家なら誰かがチェックしてくれるんだから何もしなければ言論の自由を守れるらしい)
 # 2018/09/26 年末までにフェイクニュースへの自主的な対策をすることで、 EU と合意。 (Code of Practice)
 #            効果がなければ、新しい規制を作るらしい。
 #            間違った投票案内を、報告できるようになった。 (Incorrect Voting Info, 2018/10/15)
@@ -7093,15 +7124,28 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 # [[https://about.fb.com/news/2020/05/welcome-to-novi/][Welcome to Novi]] (2020/05/26)
 # [[https://www.reuters.com/article/us-health-coronavirus-tech-latvia-idUSKBN23118I][Latvia to launch Google-Apple friendly coronavirus contact tracing app]] (Reuters, 2020/05/26)
 # [[https://twitter.com/realDonaldTrump/status/1265255835124539392][There is NO WAY (ZERO!) that Mail-In Ballots will be anything less than substantially fraudulent. ...]] (@realDonaldTrump, 2020/05/26)
+# [[https://www.facebook.com/DonaldTrump/posts/10164748538560725/?_fb_noscript=1][Donald J. Trump - There is NO WAY (ZERO!) that Mail-In...]] (@realDonaldTrump, 2020/05/26)
 # [[https://minnesota.cbslocal.com/2020/05/26/george-floyd-man-dies-after-being-arrested-by-minneapolis-police-fbi-called-to-investigate/][‘I Can’t Breathe!’: Video Of Fatal Arrest Shows Minneapolis Officer Kneeling On George Floyd’s Neck For Several Minutes]] (CBS Minnesota, 2020/05/26)
 # [[https://www.foxnews.com/media/facebook-mark-zuckerberg-twitter-fact-checking-trump][Zuckerberg knocks Twitter for fact-checking Trump, says private companies shouldn't be 'the arbiter of truth']] (FOX News, 2020/05/27)
 # [[https://www.whitehouse.gov/presidential-actions/executive-order-preventing-online-censorship/][Executive Order on Preventing Online Censorship]] (White House, 2020/05/28)
 # [[https://xtech.nikkei.com/atcl/nxt/column/18/00001/04095/][大阪府はわずか80万円で調達、広がる自治体独自のコロナ追跡システム]] (日経 xTECH, 2020/05/28)
 # [[https://www3.nhk.or.jp/kansai-news/20200529/2000030376.html][大阪府コロナ追跡システム開始]] (NHK, 2020/05/29)
+# [[https://twitter.com/realDonaldTrump/status/1266231100780744704][... when the looting starts, the shooting starts. ...]] (@realDonaldTrump, 2020/05/29)
+# [[https://www.facebook.com/DonaldTrump/posts/10164767134275725?_fb_noscript=1][Donald J. Trump - I can’t stand back & watch this happen...]] (... when the looting starts, the shooting starts. ..., @realDonaldTrump, 2020/05/29)
 # [[https://twitter.com/WhiteHouse/status/1266342941649506304][... when the looting starts, the shooting starts. ...]] (@WhiteHouse, 2020/05/29)
 # [[https://www.facebook.com/zuck/posts/10111961824369871?_fb_noscript=1][Mark Zuckerberg - This has been an incredibly tough week...]] (2020/05/29)
 # [[https://www.axios.com/trump-facebook-zuckerberg-phone-call-d8d1016e-4e17-4906-b4f4-dc3e5c00bca7.html][Trump and Zuckerberg share phone call amid social media furor]] (Axios, 2020/05/31)
+# [[https://www.geekwire.com/2020/amazon-inequitable-brutal-treatment-black-people-country-must-stop/][Amazon, Microsoft, other tech leaders sound off amid protests over death of George Floyd]] (GeekWire, 2020/05/31)
+# [[https://www.watch.impress.co.jp/docs/news/1256217.html][「千葉市コロナ追跡サービス」開始。QRコードからメール登録]] (Impress, 2020/06/01)
 # [[https://www.nytimes.com/2020/06/01/technology/facebook-employee-protest-trump.html][Facebook Employees Stage Virtual Walkout to Protest Trump Posts]] (NYT, 2020/06/01)
+# [[https://cdt.org/press/cdt-suit-challenges-presidents-executive-order-targeting-first-amendment-protected-speech/][CDT Suit Challenges President’s Executive Order Targeting First Amendment Protected Speech]] (Center for Democracy & Technology, CDT, 2020/06/02)
+# [[https://www.axios.com/civil-rights-leaders-blast-facebook-after-meeting-with-zuckerberg-63daa9dd-0209-4420-85d3-805385825718.html][Civil rights leaders blast Facebook after meeting with Zuckerberg]] (Axios, 2020/06/02)
+# [[https://www.vox.com/recode/2020/6/2/21278405/facebook-mark-zuckerberg-internal-employee-q-a-defend-moderate-trump-looting-shooting-post][Mark Zuckerberg on leaked audio: Trump’s looting and shooting reference “has no history of being read as a dog whistle”]] (Vox Media, 2020/06/02)
+# [[https://www.theverge.com/2020/6/2/21278601/mark-zuckerberg-facebook-trump-posts-employee-call-fact-checking-voter-misinformation][Mark Zuckerberg defends hands-off Trump policy to employees after walkout]] (Verge, 2020/06/02)
+# [[https://www.sankei.com/west/news/200602/wst2006020030-n1.html][大阪府がキャッシュレス決済のアプリ開発へ]] (産経新聞、 2020/06/02)
+# [[https://about.fb.com/news/2019/12/data-portability-photo-transfer-tool/][Driving Innovation in Data Portability With a New Photo Transfer Tool]] (2020/06/04)
+# [[https://about.fb.com/news/2020/06/labeling-state-controlled-media/][Labeling State-Controlled Media On Facebook]] (2020/06/04)
+# [[https://www.watch.impress.co.jp/docs/news/1257294.html][東京都、新型コロナ見守りサービス導入。LINEかメールに通知]] (Impress, 2020/06/05)
 
 *** WhatsApp (Facebook)
 
@@ -8854,6 +8898,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://www.bengo4.com/c_23/n_10903/][またも豊島区議のツイート炎上「とあるサーバー管理人が追跡した」中澤弁護士が検証]] (... 沓沢（くつざわ）亮治議員 ... は3月7日、ツイッター上で「 ... ツイデモ発信は ... 3つのIPアドレスからだった ... 全国の工作員がここをVTN（踏み台）にしている可能性がある」 ... 中澤佑一弁護士 ... 「 ... ツイッターでの発言に関して、ログイン通信のIPアドレスを取得しようとすれば、運営者であるにツイッター社に開示をしてもらうしかありません ... 対象のツイートにまったく関係性のない第三者がそのIPアドレスを入手することは不可能です」 ..., 弁護士ドットコム、 2020/03/10)
 # [[https://www.bengo4.com/c_1017/n_10940/][香川県「ゲームは1日60分」条例、違憲性への懸念「不当な干渉」「憲法13条に違反」…作花弁護士が指摘]] (... 香川県議会で3月18日 ... 可決、成立し ... 4月1日に施行される ... 県ネット・ゲーム依存症対策条例 ... 飲酒や喫煙が個人の身体にマイナスの影響を与えることは、科学的に解明されています ... 長時間ゲームを行うことによる身体的なデメリットは、科学的には未解明です ... ゲームの時間を行政が決めるとなると、ではTVの時間も決めることができるのか、漫画を読む時間も決めることができるのか、など規制の対象となる可能性はどんどんと広がり ... 他自治体へも波及する危険もあります ... 憲法が人権を保障したのは、基本的には国や行政から個人を自由にするためで ... 「多数決では奪えないものがある」「多数決では決めることができないものがある」ことを意味します ... 望ましいと考える家庭は、それを親子で話し合って採用すればいいだけ ..., 議事を非公開で進めて議事録も残さずパブコメを議員にすら見せないまま賛成が 8 割以上って概要に書いて可決しちゃった、香川県の人にも長時間使えるネットサービスを提供する会社になら依存症？対策ってことにすれば 11 条で検閲できちゃう？、各地でノーメディア？事業と称してなぜかフィルターバブルを推進してて次は秋田県大館市？、ゲーム障害を認定した WHO が新型コロナウイルス対策として 18 のゲーム会社と協力したみんな離れてゲームしようって #PlayApartTogether キャンペーンを開始、県公式サイトが Google AdSense を使っててゲームの広告を表示された利用者がいるので追尾広告を導入しちゃってるかも、 KSB 瀬戸内海放送の記者が情報公開請求して開示されたパブコメを確認して誤字まで同じ文面で条例に賛成するだけのものが短時間に連続送信されてたと報じたあと知事部局の総務部営繕課が 2020/03/17 に 298252 円のパソコン 1 台を紛失してたって公表したので証拠を保全してないかも？、高校生とその保護者が憲法違反で香川県を訴えるためにクラウドファンディングの準備中、秋田県大館市が訴訟を見守るため作業を一時凍結したって秋田魁新報が報じてる、香川県弁護士会が子どもの権利条約に反して時間制限を定めた 18 条 2 を削除するよう求めてる、交代した新議長が前言撤回して何の答えも出ないんだから過程の検証とかしなくてもいいよねって発言、弁護士ドットコム、 2020/03/19)
 # [[https://www.keidanren.or.jp/policy/2020/031.html][新型コロナウイルス対策に関する緊急提言]] (... 官民挙げて ... 終息後の ... 投資拡大のため ... Society 5.0 ... を促進する ... べきである ... マイナンバーカードの ... 運転免許証一体化 ... マイナポイントと連動 ... 医療情報の ... 紐づけ ... 学びの履歴を記録する ... 学習者ＩＤによるデータの連携 ... 信頼を前提として企業が個人データを活用 ... データローカライゼーション規制の撤廃 ... 経団連は ... 全力を挙げて ... 推進 ..., 経団連、 2020/03/03)
+# [[https://www.tokyo-np.co.jp/article/14101][マイナンバーと口座ひも付け 今国会に法案 自民方針、情報流出の懸念]] (... 自民党は二十日、マイナンバーと預貯金口座をひも付け ... するための議員立法を今国会に提出する方針を固めた。新型コロナウイルス感染拡大で ... 遅れが相次いでいることを受け ... 迅速化を図るとしているが ... 自民党のマイナンバー活用プロジェクトチーム（ＰＴ）の提言によると ... 法案の付則には、マイナンバーと口座番号のひも付けの義務化についても検討し、今年中に結論を出すよう明記 ... 座長の新藤義孝元総務相は「利用者視点 ... に ... マイナンバーと口座をひもづけるのは長年の課題 ... 」 ... 自治体情報政策研究所の黒田充代表は「新型コロナ対応には間に合わない ... 時間をかけて議論するべき話だ」 ..., 東京新聞、 2020/05/21)
 #
 # 「輸出貿易管理令の運用について」等の一部を改正する通達について (2019/07/01 経済産業省)
 # 指定の製品が関係する輸出契約ごとに、大臣の許可がいる。 (フッ化ポリイミド、レジスト、フッ化水素、審査に 90 日、 2019/07/04~)
@@ -9837,6 +9882,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://www.zdnet.com/article/google-to-phase-out-user-agent-strings-in-chrome/][Google to phase out user-agent strings in Chrome]] (User-Agent Client Hints を策定して User-Agent への依存を段階的にやめるみたい、 ZDNet, 2020/01/14)
 # [[https://www.vice.com/en_us/article/qjdkq7/avast-antivirus-sells-user-browsing-data-investigation][Leaked Documents Expose the Secretive Market for Your Web Browsing Data]] (勝手に履歴とか収集して売ってた Avast のアドオンが一時削除されて復活したけど Google や Microsoft とかも履歴を買ってたって報じられた、 Avast に買収された AVG も同じことしてた、 Jumpshot, VICE, 2020/01/27)
 # [[https://blog.chromium.org/2020/02/videos-with-fewer-intrusive-ads.html][Videos with fewer intrusive ads]] (Youtube を Chrome にブロックされない広告の基準にしてる？、 Coalition for Better Ads, Chromium Blog, 2020/02/05)
+# [[https://www.reuters.com/article/us-alphabet-google-privacy-lawsuit/google-faces-5-billion-lawsuit-in-u-s-for-tracking-private-internet-use-idUSKBN23933H][Google faces $5 billion lawsuit in U.S. for tracking 'private' internet use]] (シークレットモードでも Google にプライベートを追跡されてるって米で集団訴訟になったけど Google はサイト側で収集されるかもって新しいタブを開くたびに表示してると反論、 Google Analytics, plug-ins, ads, ..., Reuters, 2020/06/02)
 #
 # Chrome 69 (2018/09/04)
 # - 動作をこっそり変更して、ダークパターンだと非難されてる。 (Chromium も同じと確認された)
@@ -10032,50 +10078,52 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 # [[https://www.slashgear.com/googles-big-android-battery-oops-and-future-dark-modes-08553037/][Google's big Android battery 'oops' and future Dark Modes]] (SlashGear, 2018/11/08)
 
 5G を、大手 3 キャリアが導入。 (2020/03/25)
-格安キャリアに導入される時期は不明。
-4G 初期のような通信障害を期待できる。
-# | 2011/06/08  | 3GPP     | LTE-Advanced     | 4G, Release 10                                          |
-# | 2014/05/21  | au       | 4G LTE CA        | 2CC CA, au 4G LTE の後継                                |
-# | 2014/09/26  | SoftBank | SoftBank 4G      | 2CC CA, モバイル Wi-Fi ルータ                           |
-# | 2015/03/27  | ドコモ   | PREMIUM 4G       | 2CC CA, Xi の後継                                       |
-# | 2015/10/29  | ドコモ   |                  | 3CC CA                                                  |
-# | 2016/03/11  | 3GPP     | LTE-Advanced Pro | 4.5G, Release 13                                        |
-# | 2016/06/29  | ドコモ   |                  | Band 42 (3.5GHz)                                        |
-# | 2016/09/16  | SoftBank |                  | Massive MIMO                                            |
-# | 2016/10/28  | SoftBank |                  | 256QAM (AQUOS Xx3)                                      |
-# | 2017/03/09  | ドコモ   |                  | 256QAM, 4x4MIMO                                         |
-# | 2017/09/01  | au       |                  | 256QAM                                                  |
-# | 2017/09/22  | au       |                  | 4CC CA                                                  |
-# | 2017/09/22  | SoftBank |                  | Massive MIMO 2.0 (Distributed, MultiUser, UL MultiUser) |
-# | 2017/10/??  | ドコモ   |                  | 4CC CA (下旬)                                           |
-# | 2017/12/21  | 3GPP     | NSA 5G NR        | early drop of Release 15                                |
-# | 2018/05/18  | SoftBank |                  | 4CC CA                                                  |
-# | 2018/05/18  | ドコモ   |                  | 5CC CA                                                  |
-# | 2018/06/14  | 3GPP     | SA 5G NR         | Release 15                                              |
-# | 2018/11/09  | ドコモ   |                  | ULCA: UpLink Carrier Aggregation, 2CC CA, Xperia XZ3    |
-# | 2018/10/16  | Huawei   | Kirin 980        | Balong 5000 5G Modem                                    |
-# | 2018/12/04  | Qualcomm | Snapdragon 855   | Snapdragon X50 5G Modem, QTM052 mmWave Antenna Modules  |
-# | 2018/12/13  | MediaTek | Helio P90        | Helio M70 5G Modem                                      |
-# | 2019/01/25  | au       |                  | 5CC CA                                                  |
-# | 2019/03/07  | SoftBank |                  | 5CC CA, モバイル Wi-Fi ルータ (Y!mobile 向け)           |
-# | 2019/03/08  | Samsung  | Exynos 9820      | Exynos 5100 5G Modem                                    |
-# | 2019/04/05  | Samsung  | Galaxy S10 5G    | 世界初の 5G スマホ (韓国向け)                           |
-# | 2019/04/10  | 総務省   |                  | 5G 周波数割り当て                                       |
-# | 2019/04/16  | Intel    |                  | 5G Modem 開発中止                                       |
-# | 2019/09/??  | au       |                  | 6CC CA                                                  |
-# | 2019/12/02  | Apple    |                  | Intel のスマホ向け Modem 事業を買収                     |
-# | 2020/01/06  | Qualcomm | 5G VoNR          | Voice over New Radio, ZTE 5G NR base station            |
-# | 2020/02/18  | Qualcomm | Snapdragon X60   | 5G Modem, mmWave-sub6 CA, FDD-TDD sub6 CA, DSS, VoNR    |
-# | 2020/03/25  | ドコモ   |                  | NSA 5G launch (sub6), AQUOS R5G, Galaxy S20             |
-# | 2020/03/26  | au       |                  | NSA 5G launch (sub6), Galaxy S20                        |
-# | 2020/03/27  | SoftBank |                  | NSA 5G launch (sub6), AQUOS R5G, Axon 10 Pro 5G         |
-# | 2020/04/08  | 楽天     |                  | 4G launch (MVNO -> MNO)                                 |
-# | 2020/04/09  | MediaTek | Dimensity 1000?  | VoNR, Ericsson SA 5G NR base station                    |
-# | 2020/06/??  | ドコモ   |                  | 5G mmWave                                               |
-# | 2020/09/??  | 楽天     |                  | 5G                                                      |
-# | 202?/??/??  | 3GPP     | 5G NR            | Release 16 -> ITU-R IMT-2020                            |
-# | 2022/03/??  | au       |                  | SA 5G NR                                                |
-# | 2022/??/??  | SoftBank |                  | SA 5G NR                                                |
+格安キャリアも 5G を提供開始。 (LinksMate, 2020/06/08)
+エリアが狭すぎて、 4G 初期のような通信障害を期待できないかも。
+# | 2011/06/08  | 3GPP      | LTE-Advanced     | 4G, Release 10                                          |
+# | 2014/05/21  | au        | 4G LTE CA        | 2CC CA, au 4G LTE の後継                                |
+# | 2014/09/26  | SoftBank  | SoftBank 4G      | 2CC CA, モバイル Wi-Fi ルータ                           |
+# | 2015/03/27  | ドコモ    | PREMIUM 4G       | 2CC CA, Xi の後継                                       |
+# | 2015/10/29  | ドコモ    |                  | 3CC CA                                                  |
+# | 2016/03/11  | 3GPP      | LTE-Advanced Pro | 4.5G, Release 13                                        |
+# | 2016/06/29  | ドコモ    |                  | Band 42 (3.5GHz)                                        |
+# | 2016/09/16  | SoftBank  |                  | Massive MIMO                                            |
+# | 2016/10/28  | SoftBank  |                  | 256QAM (AQUOS Xx3)                                      |
+# | 2017/03/09  | ドコモ    |                  | 256QAM, 4x4MIMO                                         |
+# | 2017/09/01  | au        |                  | 256QAM                                                  |
+# | 2017/09/22  | au        |                  | 4CC CA                                                  |
+# | 2017/09/22  | SoftBank  |                  | Massive MIMO 2.0 (Distributed, MultiUser, UL MultiUser) |
+# | 2017/10/??  | ドコモ    |                  | 4CC CA (下旬)                                           |
+# | 2017/12/21  | 3GPP      | NSA 5G NR        | early drop of Release 15                                |
+# | 2018/05/18  | SoftBank  |                  | 4CC CA                                                  |
+# | 2018/05/18  | ドコモ    |                  | 5CC CA                                                  |
+# | 2018/06/14  | 3GPP      | SA 5G NR         | Release 15                                              |
+# | 2018/11/09  | ドコモ    |                  | ULCA: UpLink Carrier Aggregation, 2CC CA, Xperia XZ3    |
+# | 2018/10/16  | Huawei    | Kirin 980        | Balong 5000 5G Modem                                    |
+# | 2018/12/04  | Qualcomm  | Snapdragon 855   | Snapdragon X50 5G Modem, QTM052 mmWave Antenna Modules  |
+# | 2018/12/13  | MediaTek  | Helio P90        | Helio M70 5G Modem                                      |
+# | 2019/01/25  | au        |                  | 5CC CA                                                  |
+# | 2019/03/07  | SoftBank  |                  | 5CC CA, モバイル Wi-Fi ルータ (Y!mobile 向け)           |
+# | 2019/03/08  | Samsung   | Exynos 9820      | Exynos 5100 5G Modem                                    |
+# | 2019/04/05  | Samsung   | Galaxy S10 5G    | 世界初の 5G スマホ (韓国向け)                           |
+# | 2019/04/10  | 総務省    |                  | 5G 周波数割り当て                                       |
+# | 2019/04/16  | Intel     |                  | 5G Modem 開発中止                                       |
+# | 2019/09/??  | au        |                  | 6CC CA                                                  |
+# | 2019/12/02  | Apple     |                  | Intel のスマホ向け Modem 事業を買収                     |
+# | 2020/01/06  | Qualcomm  | 5G VoNR          | Voice over New Radio, ZTE 5G NR base station            |
+# | 2020/02/18  | Qualcomm  | Snapdragon X60   | 5G Modem, mmWave-sub6 CA, FDD-TDD sub6 CA, DSS, VoNR    |
+# | 2020/03/25  | ドコモ    |                  | NSA 5G launch (sub6), AQUOS R5G, Galaxy S20             |
+# | 2020/03/26  | au        |                  | NSA 5G launch (sub6), Galaxy S20                        |
+# | 2020/03/27  | SoftBank  |                  | NSA 5G launch (sub6), AQUOS R5G, Axon 10 Pro 5G         |
+# | 2020/04/08  | 楽天      |                  | 4G launch (MVNO -> MNO)                                 |
+# | 2020/04/09  | MediaTek  | Dimensity 1000?  | VoNR, Ericsson SA 5G NR base station                    |
+# | 2020/06/08  | LinksMate |                  | 個人向け MVNO 初の 5G? (ドコモ回線)                     |
+# | 2020/06/??  | ドコモ    |                  | 5G mmWave                                               |
+# | 2020/09/??  | 楽天      |                  | 5G                                                      |
+# | 202?/??/??  | 3GPP      | 5G NR            | Release 16 -> ITU-R IMT-2020                            |
+# | 2021/??/??  | 楽天      |                  | SA 5G NR                                                |
+# | 2022/03/??  | au        |                  | SA 5G NR                                                |
+# | 2022/??/??  | SoftBank  |                  | SA 5G NR                                                |
 #
 # 4G (LTE=3.9G) は名前使うの早すぎて、とても微笑ましい。
 # 1 歩でも越えたら次世代ってことかな。
@@ -10115,6 +10163,7 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 # 新世代モバイル通信システム委員会報告（案）に対する意見募集の結果 －「新世代モバイル通信システムの技術的条件」のうち「第5世代移動通信システム（5G）及びBWAの高度化に関する技術的条件－ (2020/03/23 総務省)
 # 「周波数再編アクションプラン(令和2年度改定版)」の公表 (2020/05/13 総務省)
 # 電波法施行規則等の一部を改正する省令案等に係る意見募集 -4G周波数における5Gの導入及びBWAの高度化等のための制度整備- (2020/05/29 総務省)
+# 無線局免許手続規則の一部を改正する省令案等に係る意見募集 -4G周波数における5G導入に伴う開設計画変更等のための制度整備- (2020/06/01 総務省)
 # - エリアは、 10km^2 で 4600 カ所くらいに区切ったもの。 (4G の人口カバー率じゃない)
 # - 5 年以内に 50% のエリアで、親になる基地局を求めてる。 (子局はできるだけたくさん)
 # - 2 年以内に全都道府県でサービス開始。
@@ -10654,7 +10703,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # Light OS (Android-based OS, Light Phone II, E-ink display, Light, 2019/09/04)
 # Microsoft Authenticator (two-factor authentication, Android, iOS)
 # CCMI (Cross-Carrier Messaging Initiative, interoperable RCS service, AT&T, Verizon, T-Mobile, Sprint, 2020/??/??)
-# Adobe Photoshop Camera (2020/??/??)
+# Adobe Photoshop Camera (Adobe, 2020/06/09)
 # GitHub for mobile (Android, iOS, 2020/03/17)
 # NewsDigest (Twitter とかから AI で検出した第一報を報道機関に提供してる FASTALERT と同じ？、 Android, iOS, JX 通信社)
 # GDSA (Global Developer Service Alliance, Xiaomi, OPPO, Vivo, Huawei?, 2020/03/??)
@@ -11429,6 +11478,17 @@ Nexus 6P を作ってた。
 #   カメラで撮って、ギャラリーで開いてその他。 (遅い)
 #   ホーム画面にアイコンを出したければ、アプリでなんとかする。
 #
+# P40 lite 5G (2020/06/19?)
+# EMUI 10.1 (Android 10, HMS)
+# DSDV 対応。 (5G + 4G)
+# 大容量バッテリー。
+# Google 製アプリがプリインストールされてない。 (Google Play -> AppGallery)
+#
+# P40 lite E (2020/06/19?)
+# EMUI 10.1 (Android 10, HMS)
+# 大容量バッテリー。
+# Google 製アプリがプリインストールされてない。 (Google Play -> AppGallery)
+#
 # Mate 30 Pro 5G (2020/04/17)
 # EMUI 9.1 (Android 9)
 # OLED
@@ -11860,6 +11920,8 @@ Nexus 6 を作ってた。
 # 非公式だけど、ドコモと au の VoLTE が使えるみたい。 (Z/Z Play/G5/G5 Plus)
 # (他にも info, service, simlock とか、たくさんある)
 # [[https://itechhacks.com/android-secret-codes-hidden-codes-2017/][Top 800+ Latest Android Secret and Hidden Codes 2018]] (iTech Hacks, 2018/10/01)
+#
+# moto g8 power lite?
 #
 # moto g8, g8 power (2020/05/04)
 # Android 10
@@ -12517,7 +12579,7 @@ Android の開発者に、基準扱いされてるスマホ。
 Nexus の後継。
 Google 正規サービスプロバイダがある。 (初期不良とかは Google 保証センターへ)
 au VoLTE に対応。
-どの回線でも使える。 *(!?)*
+楽天を含む、どの回線でも使える。 *(!?)*
 おサイフ。
 # Google 正規サービスプロバイダ (iCracked)
 # [[https://developers.google.com/ar/discover/supported-devices][ARCore supported devices]] (Android 8~)
@@ -12553,6 +12615,7 @@ au VoLTE に対応。
 # [[http://techlog.iij.ad.jp/archives/2670][Google Pixel4とIIJmio eSIM]] (... docomo SIM・au SIMとIIJmio eSIMと組み合わせた場合は、通話中にデータ通信ができなくなっています。この挙動が仕様通りなのか、意図しないものなのかはわかりません ... 今後この挙動が修正されるのかは継続的に観察したい ..., @IIJ_doumae, 2019/11/01)
 # [[https://www.androidpolice.com/2020/03/06/require-eyes-to-be-open-setting-for-face-unlock-shows-up-on-the-pixel-4-doesnt-work-yet/]['Require eyes to be open' setting for Face Unlock shows up on the Pixel 4, doesn't work yet]] (Android Police, 2020/03/06)
 # [[https://9to5google.com/2020/04/06/pixel-4-april-update/][Pixel 4 April update adds ‘require eyes to be open’ setting to face unlock, Bluetooth fixes]] (目を閉じてるとき顔認証でロックを解除しない設定がデフォルトになった、 9to5Google, 2020/04/06)
+# [[http://blogofmobile.com/article/127313][楽天モバイル、楽天回線対応製品にPixel 4とPixel 4 XLを追加]] (@paopao0128, 2020/06/05)
 #
 # Pixel 3a, 3a XL (2019/05/16)
 # Android 9.0
@@ -12749,6 +12812,8 @@ DSDV 対応。 (SIMx2 + MicroSD)
 # [[https://twitter.com/iskw226/status/1220338289355325446][... eSIMにGoogle Fi、入りました ...]] (@iskw226, 2020/01/23)
 # [[https://twitter.com/kir1ca/status/1220675292894642176][...IIJmioのeSIM追加できた ...]] (@kir1ca, 2020/01/24)
 # [[https://twitter.com/0_0chimu/status/1221667276069335040][... バンド固定できる ...]] (画像あり、 @0_0chimu, 2020/01/27)
+# [[https://www.itmedia.co.jp/mobile/articles/2006/04/news071.html][楽天モバイルに聞く「Rakuten Mini」開発秘話 なぜ自社ブランド端末が必要だったのか (2/3)]] (... セキュリティアップデートは、数カ月に1回の単位でやっていきます。ただし、OSバージョンアップは ... 計画はしていません ... 楽天ブランドの端末は今後も継続して ... 開発 ... 同じサイズで出すのかは今後の議論次第 ..., ITmedia, 2020/06/04)
+# [[https://androplus.org/Entry/14804/][Rakuten Miniには対応バンドが違うロットが存在？製造時期によりLTE B1などに差が]] (... WCDMA 1がWCDMA 4に、LTE B1の代わりにLTE B4があるなど ... 技適関係の問題も起きそう ..., AndroPlus, 2020/06/08)
 #
 # Tommy3 Plus (2019/01/31)
 # Android 8.1
@@ -12804,17 +12869,12 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 #
 # [[https://japanese.engadget.com/2019/04/26/kyocera/][京セラ、スマホ事業を数年で見直しの方針]] (Engadget, 2019/04/26)
 
-# *** Mi Note 10
-#
-# 中国 Xiaomi Technology 製。 (シャオミ、小米科技)
-# MIUI 11 (Android 9.0)
-# OLED
-# VoLTE 対応。
-# DSDV 対応。 (microSD スロットなし)
-# どの回線でも使える。 *(!?)*
-# 大容量バッテリー。
-# [[https://japanese.engadget.com/2019/12/13/xiaomi/][Mi Note 10はなぜAmazon限定販売？シャオミの日本参入で気になるアレコレを聞いた]] (... Q： ... 日本の通信キャリアでの接続検証（IOT）は行っているのか ... 広報： ... 主要3キャリアに対応しております。IOTにつきましては、Xiaomi社内のテストは実施 ..., Engadget, 2019/12/13)
-#
+*** Redmi Note 9S
+
+中国 Xiaomi Technology 製。 (シャオミ、小米科技)
+DSDV 対応。
+楽天を除く、どの回線でも使える。 *(!?)*
+お手頃なのに高性能。
 # TJC が代理店。
 # 小米日本合同会社を設立。 (2018/08/06?)
 # 中国 Meitu と提携。 (メイツー、美図、 2018/11/19)
@@ -12855,9 +12915,29 @@ SIM フリーは、 UQ mobile と mineo でしか扱ってない？
 # [[https://www.reddit.com/r/Xiaomi/comments/9g1mbc/safe_to_uninstallfreeze_msa/][Safe to uninstall/freeze msa?]] (Reddit, 2018/09/16)
 # [[https://www.theverge.com/2018/9/19/17877970/xiaomi-ads-settings-menu-android-phones][Xiaomi admits to putting ads in the settings menu of its phones]] (Verge, 2018/09/19)
 #
-# Redmi Note 9S (2020/06/09?)
+# Redmi Note 9S (2020/06/09)
+# MIUI 10 (Android 10)
+# VoLTE 対応。
+# DSDV 対応。 (SIMx2 + microSD スロット)
+# 楽天を除く、どの回線でも使える。 *(!?)*
+# 大容量バッテリー。
 #
-# Mi Note 10 Lite (2020/06/09?)
+# Mi Note 10 Lite (2020/06/09)
+# MIUI 10 (Android 10)
+# OLED
+# VoLTE 対応。
+# DSDV 対応。 (SIMx2 + microSD スロット)
+# 楽天を除く、どの回線でも使える。 *(!?)*
+# 大容量バッテリー。
+#
+# Mi Note 10 (2019/12/16)
+# MIUI 11 (Android 9.0)
+# OLED
+# VoLTE 対応。
+# DSDV 対応。 (microSD スロットなし)
+# どの回線でも使える。 *(!?)*
+# 大容量バッテリー。
+# [[https://japanese.engadget.com/2019/12/13/xiaomi/][Mi Note 10はなぜAmazon限定販売？シャオミの日本参入で気になるアレコレを聞いた]] (... Q： ... 日本の通信キャリアでの接続検証（IOT）は行っているのか ... 広報： ... 主要3キャリアに対応しております。IOTにつきましては、Xiaomi社内のテストは実施 ..., Engadget, 2019/12/13)
 #
 # Mi MIX 3
 # ノッチなしで全画面表示するために、ディスプレイ側のカメラはスライド収納されてる。 (Full Screen Slider, Neodyimium magnet?)
@@ -13017,6 +13097,7 @@ DSDV 対応。
 # 5G (iQOO Pro 5G, 中国向け、 2019/09/02)
 # Super FlashCharge 120W? (4000mAh in just 13 min?)
 # Under-Screen Camera? (APEX 2020?)
+# Gimbal camera (four-axis OIS, 5x optical zoom, Vivo X50 Pro, 2020/06/02)
 #
 # X30 (2019/12/24)
 # 5G (Exynos 980)
@@ -13783,6 +13864,8 @@ DSDV 対応。 (SIMx2 + microSD スロット)
 # Field Test Mode ("*3001#12345#*", iPhone 5~)
 # Bug Bounty Program -> Apple Security Bounty (2019/12/19)
 # Apple Platform Security
+# iCloud Keychain (password manager apps)
+# [[https://github.com/apple/password-manager-resources][apple/password-manager-resources: A place for creators and users of password managers to collaborate on resources to make password management better.]] (2020/06/05)
 #
 # Hawkeye Access (TrueDepth camera, ARKit 2, hands-free, eye tracking cursor, Hawkeye Labs)
 # [[https://applecensorship.com/][Apple Censorship]] (GreatFire.org)
@@ -13805,7 +13888,7 @@ DSDV 対応。 (SIMx2 + microSD スロット)
 # [[https://www.jiji.com/jc/article?k=2020030300430][「脱獄ｉＰｈｏｎｅ」販売か 商標法違反容疑で少年逮捕―京都府警]] (... 京都府警サイバー犯罪対策課などは３日 ... 改造後は正規品でなくなるため、同課はアップル社のマークを付けたまま販売すれば商標権の侵害に当たると判断 ..., 脱獄した方法までは書いてない、時事通信、 2020/03/03)
 # [[https://projectsandcastle.org/][Project Sandcastle: Android for the iPhone]] (beta)
 # [[https://9to5mac.com/2020/03/04/new-jailbreak-hack-lets-you-run-android-on-your-iphone-7/][New jailbreak hack lets you run Android on your iPhone 7]] (9to5Mac, 2020/03/04)
-# [[https://unc0ver.dev/][unc0ver]] (iPhone 6s から最新の iPhone SE 2nd まで脱獄できるツールが公開された、 v5.0.0, iOS 11.0~13.5, @unc0verTeam, 2020/05/23)
+# [[https://unc0ver.dev/][unc0ver]] (iPhone 6s から最新の iPhone SE 2nd まで脱獄できるツールが公開された、脱獄に利用されてた脆弱性を Apple が 2020/06/01 に配信した iOS 13.5.1 で塞いだ、 v5.0.0, iOS 11.0~13.5, @unc0verTeam, 2020/05/23)
 
 # Apple Card
 #
@@ -14377,6 +14460,7 @@ VoLTE 非対応がほとんど。
 # [[https://www.reuters.com/article/us-microsoft-ai/microsoft-turned-down-facial-recognition-sales-on-human-rights-concerns-idUSKCN1RS2FV][Microsoft turned down facial-recognition sales on human rights concerns]] (顔認証を使った職務質問をしたいって米カリフォルニア警察とかの依頼を拒否、米刑務所には顔認証を提供、 Reuters, 2019/04/16)
 # [[https://speechresearch.github.io/unsuper/][Audio Sample from "Almost Unsupervised Text to Speech and Automatic Speech Recognition"]] (音声とそのテキストのペアを 200 用意して学習しただけで読み上げや音声認識できる AI を発表予定、 Microsoft, 2019/05/11)
 # [[https://www.nbcnews.com/tech/tech-news/microsoft-sells-stake-israeli-facial-recognition-company-n1170781][Microsoft sells stake in Israeli facial recognition company]] (イスラエル AnyVision で開発された顔認証技術がヨルダン川西岸の越境監視に使われてるって 2019/10/28 に報じられてた Microsoft が使われてた証拠を見つけられなかったけど制御できない顔認証技術への投資をやめると発表、 NBC News, 2020/03/27)
+# [[https://news.microsoft.com/ja-jp/2020/06/04/200604-comprehensive-cooperation-agreement/][神戸市と日本マイクロソフトが包括連携協定を締結]] (... マイクロソフトが、神戸市のスマートシティ実現に向けたデータ連携基盤の検討に参画 ... 安心安全な ... 理想の ... 概念を構築し ... 価値を創造する人材の育成と ... 教育ツール ... を検討します ..., e ポートフォリオにも参入？、 2020/06/04)
 
 *** Elite x3 +X3+
 
