@@ -665,7 +665,9 @@
 # [[https://www.itmedia.co.jp/news/articles/2002/20/news133.html][KADOKAWAなど4社、Cloudflareと和解成立 海賊版サイト対策で連携]] (... KADOKAWA、講談社、集英社、小学館が2018年8月 ... 米Cloudflareに対し、海賊版サイトのキャッシュデータの配信停止を求める仮処分を東京地裁に申し立て ... 19年6月に和解 ... 出版広報センターが2月20日に発表 ... いずれのサイトも、並行して米国で提訴した段階で閉鎖され ... 和解成立を公表していなかった ... 出版広報センターは「 ... 海賊版サイトの運営者に知らしめることが警告になる」と判断 ..., ITmedia, 2020/02/20)
 # [[https://twitter.com/cheena_2nd/status/1269949725362577409][昨年9月に提起された「星のロミ」への訴訟、特定できなくて出版社が取り下げ ...]] (リンクあり、 @cheena_2nd, 2020/06/09)
 # [[https://www3.nhk.or.jp/news/html/20200624/k10012481301000.html][ネット広告の不正 業界団体が新技術活用で対策へ]] (... 広告主や広告代理店などでつくる「日本アドバタイザーズ協会Ｗｅｂ広告研究会」は、広告の配信先の追跡などができる ... プロジェクトを立ち上げ ..., NHK, 2020/06/24)
-# [[http://www.coda-cj.jp/news/detail.php?id=199][日本アニメを侵害する中国の海賊版サイト「Dilidili」運営者ら4名を逮捕]] (... Dilidiliに ... 2016年10月から ... 削除要請 ... 中国国家版権局を直接訪問し ... 情報提供を ... 毎年行って ... 2018年からは ... 刑事事件化を要望してきました ..., 嘀哩嘀哩、コンテンツ海外流通促進機構、 2020/07/17)
+# [[http://www.coda-cj.jp/news/detail.php?id=199][日本アニメを侵害する中国の海賊版サイト「Dilidili」運営者ら4名を逮捕]] (... Dilidiliに ... 2016年10月から ... 削除要請 ... 中国国家版権局を直接訪問し ... 情報提供を ... 毎年行って ... 2018年からは ... 刑事事件化を要望してきました ..., 嘀哩嘀哩、コンテンツ海外流通促進機構 CODA, 2020/07/17)
+# [[https://twitter.com/fj_twt/status/1285365711687184385][... 放映権を買った中国の会社(おそらくはビリビリあたり?)が何らかの動きをしたって感じなのではないかなぁ…と勝手な想像 ...]] (@fj_twt, 2020/07/21)
+# [[https://twitter.com/fj_twt/status/1285370378605350912][... そろそろCODAの活動についてあーだこーだ言う時期なんじゃないですかね ...]] (@fj_twt, 2020/07/21)
 #
 # これからのネットづくりと海賊サイトへのブロッキング要請を考える (2018/04/18)
 # コンテンツ文化研究会と、 JAIPA, MIAU, うぐいすリボンの共催。
@@ -1897,6 +1899,14 @@
 # [[https://www.bengo4.com/c_23/n_11393/][ログイン時のIPアドレス、発信者情報開示の対象にすべきか 総務省の有識者会議で議論]] (... SNSサービスの多くは、投稿したときのIPアドレスなどを記録・保存せず、ログインした時のIPアドレスなどしか保有していない ... プロバイダ責任制限法では、アカウントのログイン時の情報を開示の対象とするとは明記されていない ... 最高裁判所の判断はされておらず、下級審の判断は分かれている状況 ... そこで ... 開示対象とするログイン時情報の範囲をどこまで広げるかなどについて検討 ... 清水陽平弁護士は「誹謗中傷する書き込みの直前にログインしているとも限らない ... 」 ... 丸橋透教授も「 ... 要件は重く考える必要はないのではないか」 ... 北澤一樹弁護士は「 ... 通信の秘密との関係 ... を ... 検討する必要がある」 ... 前田健准教授は「 ... 他の情報では特定ができないことも求められる」 ... 会の後半は、事務局の論点整理案 ... ＜ログの保存期間について＞ ... 携帯電話では90日程度 ... が過ぎ、相手を特定できなくなる ... 鎮目教授は「 ... 通信履歴は、通信の秘密として保護される対象であり、一定期間後はむしろ消去しなければならないと考えられてきた ... 膨大なログの中から、抽出し保全する負担 ... どの程度現実的なのか ... 」 ... 清水弁護士は「 ... ログの調査をしないプロバイダも出てきている。調査義務のようなものも定めてもらいたい」 ... ＜新たな裁判手続きの創設について＞ ... SNS事業者や掲示板管理者 ... 電話会社など ... プロバイダを被告としない形で新たな裁判手続 ... 若江氏は「 ... 誰が、発信者の権利を主張するのか ... 」 ... 北澤弁護士 ... 「 ... 裁判してもいいと思うひとしか表現できなくなるのではないか」 ... 前田准教授は「 ... 発信者の利害を主張できる存在が手続きに関与すべきではないか」 ... 垣内秀介教授は ... 「 ... 情報を持っているのはプロバイダなので、当事者的な形で関与せざるを得ないと思う」 ..., 弁護士ドットコム、 2020/06/25)
 # [[https://www.nikkei.com/article/DGXMZO60890390X20C20A6000000/][ツイッターに携帯番号開示命令 なりすまし巡る判決]] (... 東京地裁は26日 ... 開示を命じた ... SNS ... の運営業者に命じるのは珍しい ... 神田知宏弁護士は「 ... 電話番号を開示対象に含める議論を進めているが、裁判の判決が先取り ... 」 ... 杜下弘記裁判長は、何者かが男性の名前と顔写真、学歴を使い、俗悪な印象を与えるアカウントを開設したと認定 ... 総務省令は、開示できる発信者情報の範囲を氏名や住所、メールアドレスなどに限定しているが ... 番号を開示すべきだとした ... ツイッタージャパンは「コメントを差し控える」 ..., 日本経済新聞、 2020/06/27)
 # [[https://www.itmedia.co.jp/news/articles/2007/13/news045.html][総務省、ネット中傷対策で中間報告案 電話番号開示には期待、裁判手続き簡素化は慎重論]] (... 総務省は11月に最終報告を取りまとめる ... 訴訟を起こさなくても、申し立てに基づき裁判所が投稿者情報の開示の適否を判断・決定する仕組み ... は、有識者の半数にあたる6人が連名で慎重な検討を求める意見を提出 ... 乱用されれば、表現の自由や通信の秘密 ... が侵害されかねず、「匿名表現の保護が後退することは誰も望んでいない」 ... ネット上の中傷を巡っては ... 与党も刑事罰強化を求める提言をまとめている ..., ITmedia, 2020/07/13)
+# [[https://www.bengo4.com/c_23/n_11484/][春名風花さんが「ネット中傷」の投稿者と示談成立 示談金315万4000円]] (... 問題となっていたのは、「彼女の両親自体が失敗作」などと書かれたツイート。東京地裁（大嶋洋志裁判官）は2019年11月1日、こうしたツイートを「社会通念上許される限度を超える侮辱表現で、名誉感情を害されたことは明らか」と認定し、氏名や住所などの開示をプロバイダに命じた ..., 弁護士ドットコム、 2020/07/20)
+# [[https://www.yomiuri.co.jp/national/20200721-OYT1T50245/][リツイート画像の一部削除は「権利侵害」…最高裁が初判断]] (... 最高裁第３小法廷（戸倉三郎裁判長）は２１日、「トリミングによって画像からは著作者の氏名がなくなっており、リツイートは権利侵害にあたる」との初判断 ... 同小法廷は米ツイッター社の上告を棄却。リツイートした投稿者のメールアドレスの開示を同社に命じた２審・知財高裁判決が確定した。５人の裁判官のうち４人の多数意見 ... 原告側は「 ... 氏名表示権を侵害された」と主張し ... 同社側は「 ... 画像をクリックすれば、氏名の入った元の画像にたどり着く」と反論したが、同小法廷は「ユーザーがクリックするとは限らず ... 氏名表示権を侵害した」 ... ツイッタージャパンは「コメントは差し控える」 ..., 読売新聞、 2020/07/21)
+# [[https://twitter.com/yamadataro43/status/1285921126221135873][著作人格権とRT問題、萎縮効果大きく疑問の残る判決。本日判決文入手、文化庁著作権課とレク済 ... TW社からも事情を聴かないと不明点多 ...]] (@yamadataro43, 2020/07/22)
+# [[https://mainichi.jp/articles/20200722/k00/00m/040/100000c][新聞協会、SNS規制評価 総務省に意見書提出]] (... 総務省は24日まで意見を募集し ... 日本新聞協会が22日に総務省へ提出した「インターネット上の誹謗（ひぼう）中傷への対応の在り方について（案）」に対する意見 ... プラットフォーム事業者による自主的な取り組みが達成されない、または効果が認められない場合に ... 行政からの一定の関与も視野に入れて検討を行うとしている点に対しては、表現の自由の萎縮につながらないよう、慎重な対応を求めたい ..., 全文掲載、毎日新聞、 2020/07/22)
+# [[https://note.com/kirik/n/nfa58a4576905][【謹告】伊藤春香（はあちゅう）さんからテレサ文書が来た人たちへ]] (... テレサ文書（一般社団法人テレコムサービス協会が決めた書式による、発信者情報開示をするか、しないかの意思表示を求める文書） ... に ... 開示を拒否する回答を ... 折り返すと、伊藤春香さんが福永活也さんを立てて接続プロバイダさんと発信者情報開示請求の是非を巡って裁判になります ... 違法ではない侮辱的な書き込みに対して情報開示請求をしても、基本的に接続プロバイダさんは突っ張ってくれて、まあだいたい8割9割は開示されずに終わります ... 私としては、うっかり本番になってくれて、裁判官に本人尋問を求めて、伊藤春香さんに法廷に来てもらって「ところで、お前の書いたこの童貞批判なんやがな」とか「何この血液クレンジングのステマ。違法やないか。おまえいい加減にせえよ」などと裁判官の前で愛を囁く代理人の声が響くのを期待したい ..., @kirik_news, 2020/07/22)
+# [[https://note.com/kirik/n/nb1ff1ee4058c][伊藤春香（はあちゅう）さんと学ぶ！ 発信者情報開示門前払い入門]] (... テレサ文書が来た場合 ... 1. 魚拓を取ろう ... 侮辱だという言いがかりをつけられた際に「このような伊藤さんの記事は不自然なアプリ紹介が突然入り、動画へと誘導する目的で記事が構成されていて、日本ではJIAAガイドラインなどで問題だとされているステルスマーケティングの疑いが強いと感じたため、これについての個人の感想を加えたものです」と ... の背景事情の説明は、最高裁判所平成22年4月13日判決「本件スレッドの他の書き込みの内容，本件書き込みがされた経緯等を考慮しなければ」「権利侵害の明白性の有無を判断することはできない」で示される通り ... よほどストレートな侮辱でもない限りは問題にはなりません ... 2. テレサ文書に回答しよう ... 「発信者情報開示に同意しません」に〇をつけましょう ... 見る限り ... 事実関係で争う必要はないことから「回答書書式(1)」で必要とされる[理由]は空欄でも構いません。ただし ... 伊藤春香文書をコピーし不愉快に感じた理由など ... を提示するとより丁寧になります ... 3. PDF、スクリーンショット、エクセルの3点セットを揃えよう ... 伊藤さんの素敵な発言の軌跡をまとめ ... るとなお親切です ... 今回の伊藤さんや代理人の福永活也さんは特定の掲示板の、特定のスレッドからしか侮辱発言を吸い出していないようなので ... 証拠はみな共通のものになります ... まずはご自身に関連したところのみをまとめ、残りは有志による伊藤さん対策選抜隊でwikiやGoogle Driveなどで取りまとめたハチュペディアを作成する計画が進んでいます ... 4. おわりに ... 今回代理人に立っている福永活也さんは、彼自身が批判的な書き込み者に対し、「（社会的に）底辺」などと侮辱を繰り返していて ... 魚拓を取られておられます。いずれも「背景事情として ... インフルエンサーとして経済的利益を得ようとする行為」に他ならず ... 酷評されて当然と思います ... 悩むよりも「 ... いい経験ができそうだ」と ... 信じて ... 良いのではないでしょうか ..., @kirik_news, 2020/07/23)
+# [[https://www.bengo4.com/c_23/n_11514/][リツイート画像による「権利侵害」…原告代理人が注目する「最高裁判決」のポイント]] (... 原告代理人をつとめた齋藤理央弁護士は ... 画像の送信者の責任 ... は、最初に無断投稿したユーザー ... という見解が主流でした。しかし、今回の最高裁判決は、HTMLなどの組み込み情報の送信者（リツイートした人）も著作権法上の責任を負う場合があると ... 認められた点で、画期的 ... 一方で、リツイートによる著作財産権の権利侵害については認められませんでした ... しかし ... 著作者人格権については、リツイートのような違法性の高くないインラインリンクもすべて違法としてしまう可能性がある ... 林景一裁判官の反対意見は、実際にツイッターのアカウント（@kpico1）を持っている立場から、ユーザーの気持ちを代弁されたのだと思います ... 戸倉裁判長の補足意見で注目したいのは、「現行著作権法下で」というくだり ... インターネット環境がまったくない昭和45年（1970年）に制定された法律で ... 著作権法をデジタル時代に適合したものに改善する ... サインなのかもしれません ..., 弁護士ドットコム、 2020/07/23)
+# [[https://storialaw.jp/blog/7281][リツイート事件最高裁判決が実務に与える影響と、サービス事業者がとるべき対策]] (... ユーザーに画像等のコンテンツを投稿させるサービス（CGMサービス）において ... 恐ろしいのは、本最高裁判決の射程がリツイートのみならずインラインリンク一般に及ぶとすれば ... サムネイル画像（OGP画像）についても、著作者人格権侵害と評価されかねない点 ... 他サイトの紹介目的でなされるシェアやリンクに ... 無味乾燥なハイパーリンク文字列のみが並ぶことにもなりかねません ..., STORIA 法律事務所、 2020/07/24)
 
 # モバイル市場の公正競争促進に関する検討会 1~5 (2017/12/25~2018/04/09 総務省)
 # モバイル市場の公正競争促進に関する検討会報告書の公表 (2018/04/27 総務省)
@@ -2399,6 +2409,7 @@
 # [[https://business.nikkei.com/atcl/gen/19/00002/070200501/][廃案になったスーパーシティ構想、周回遅れからどう追い付く]] (... 6月26日に閉会した通常国会では廃案となった。廃案になったのは、規制緩和の手法を巡り内閣法制局との調整に時間がかかったため ... 秋の臨時国会に再提出し、成立を目指す ..., 日本経済新聞、 2019/07/02)
 # [[https://www.nikkei.com/article/DGXMZO55905510R20C20A2AM1000/][都が官民データ取引所、20年度に運営法人 新事業創出]] (東京版Society 5.0, スマート東京、官民連携データプラットフォーム、日本経済新聞、 2020/02/21)
 # [[https://xtrend.nikkei.com/atcl/contents/watch/00013/00975/][「スーパーシティ法案」成立 日本はどう変わるのか？]] (... 国家戦略特区法の改正案が2020年5月27日、参院本会議で自民、公明、維新などの賛成多数により可決 ..., 日経 xTECH, 2020/05/29)
+# [[https://s.mxtv.jp/tokyomxplus/mx/article/202006050650/detail/][内閣審議官が直接メリットを解説 “スーパーシティ法”で実現する未来]] (... TOKYO MX（地上波9ch）朝のニュース生番組「モーニングCROSS」 ... 6月3日 ... 内閣府・地方創生推進事務局の村上敬亮審議官がリモート出演 ... 行政・インフラ・生活・教育のすべてを快適化・効率化したストレスのない街 ... を実現するための法案 ... 「楽しい街を作りたい ... 」 ... 空気感を作る ... 首長や議員、民間人などが揃っている場所でスーパーシティ化を進めていきたい ... 20～30年後にはセンサーが人の動きを捉えて補助するといった監視社会に自然と向かうだけに、「 ... 思い切ってやってみようという街を募集しようと ... の狙い ... 」 ... 誰かが個人データを一括で管理することが問題で、「集中管理ではなく、分散管理を実現したい」 ... 弁護士ドットコムGMで弁護士の田上嘉一さんは ... 「基本的には便利になると思う ... 」 ... 税理士の中島加誉子さんから ... お金 ... ついて質問 ... 村上さんによると、すでにアメリカのクレジットカード会社に日本国民7～8割の決済データがあるそうで ... 「大事なのは ... 紐づけがしっかりしている仕組みを作るということ ... 完全キャッシュレスとそうでないところ ... 住民の方が満足して ... 選んでいただけばいい」 ..., Gated community?, Wall of Shame?, 東京メトロポリタンテレビジョン、 2020/06/05)
 # [[https://www.nikkei.com/article/DGXMZO60212500Q0A610C2PP8000/][「スーパーシティ」自治体公募 9月から 年内に選定]] (... 11月ごろに募集を締め切り、年内にスーパーシティ区域を指定する ..., 日本経済新聞、 2020/06/10)
 #
 # 「GOVERNANCE INNOVATION: Society5.0の時代における法とアーキテクチャのリ・デザイン」報告書（案）の意見公募手続（パブリックコメント）を開始しました (2019/12/26 経済産業省)
@@ -3656,7 +3667,7 @@ eSIM も発行してる。
 #            [[http://blogofmobile.com/article/126382][楽天モバイル、5月1日に発生した通信障害が復旧]] (... 対象人数は掲載していないが、2020年5月1日付けで無料サポータープログラムからRakuten UN-LIMITに移行した回線の一部が影響を受けた ... 商用化してからは初めての通信障害 ..., @paopao0128, 2020/05/01)
 #            [[https://twitter.com/milliorca/status/1282602193028214787][... my楽天モバイルアプリのデータ制限オンオフのスイッチが告知も無いまま ... 機能変わったのにスイッチオフに切り替わってないから無駄にデータ量消費された ...]] (画像あり、 公式サイトのお知らせに載せると同時に実施した？、 @milliorca, 2020/07/13)
 #            [[https://k-tai.watch.impress.co.jp/docs/news/1265336.html][楽天モバイル、「my 楽天モバイル」データ制限モードの名称を変更]] (... 名称を「データ高速モード」に変更 ... 従来は「ON」の状態でデータ容量が減らなかったものが、「ON」の状態でデータ容量が減るという仕様に変更された ..., Impress, 2020/07/14)
-#            [[https://megalodon.jp/2020-0717-0820-59/https://network.mobile.rakuten.co.jp:443/maintenance/245/][【魚拓】楽天モバイル　システムメンテナンス（7/17）のお知らせ | メンテナンス | 楽天モバイル]] (ウェブ魚拓、 2020/07/17)
+#            [[https://megalodon.jp/2020-0717-0820-59/https://network.mobile.rakuten.co.jp:443/maintenance/245/][【魚拓】楽天モバイル システムメンテナンス（7/17）のお知らせ | メンテナンス | 楽天モバイル]] (ウェブ魚拓、 2020/07/17)
 #            [[https://www.itmedia.co.jp/mobile/articles/2007/17/news063.html][直前告知：楽天モバイルが比較的広範囲の「システムメンテナンス」を告知も「誤掲載」と判明【訂正あり】]] (... 楽天モバイルが7月17日午前8時から午後9時まで、全国の一部地域で ... 音声通話、データ通信やSMSが利用できなくなるとされていた ... 告知は ... 誤掲載であることの発表と共に削除 ... 楽天モバイル広報部は「社内の連携ミスが原因」 ..., メンテナンスと称して重大な事故に相当する通信障害を計画してた？、 ITmedia, 2020/07/17)
 #            [[https://twitter.com/fugafugaent/status/1283952555177869313][緊急通報を1時間止めたら報告義務がある ...]] (画像あり、 @fugafugaent, 2020/07/17)
 #            [[https://corp.mobile.rakuten.co.jp/news/media/2020/200717_01.html][楽天モバイル、米倉涼子さんを起用した新広告キャンペーンを本日より開始]] (... 代表作にドラマ『ドクターX～外科医・大門未知子～』シリーズ（テレビ朝日系）など ..., 2020/07/17)
@@ -5346,6 +5357,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 # Facebook Pay (US only, 2019/11/12)
 # F8 (2020/05/05~06)
 # Messenger Kids (Parental Controls, 2017/12/04, 日本向けは 2020/04/23)
+# App Lock (fingerprint or face authentication to unlock, iOS, 2020/07/22, Android, 2020/??/??)
 #
 # Messenger Lite は通話できない。
 #
@@ -5570,6 +5582,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            - 憲章が公表されたけど、何の権限もない。 (2019/09/17)
 #            - 初期メンバーの 16 人を発表。 (2020/05/06)
 #            - 委員会の設置を米大統領選挙の後まで延期するってツイート。 (@OversightBoard, Engadget, 2020/07/08)
+#            - Facebook に委員会の権限を認めさせるか辞めるよう、米在住メンバーに公開のお手紙。 (Accountable Tech, 2020/07/20)
 # 2018/05/10 米下院情報特別委員会の民主党議員から、 Facebook に掲載された露 IRA の広告が公開された。 (3519 件)
 #            シェアされてた 8 万件の記事も、あとで公開予定。
 #            Facebook が提出したもの。
@@ -5715,7 +5728,8 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #              API を組み込んだ、 iOS 13.5 が公開された。 ("COVID-19 接触のログ記録", 9to5Mac, 2020/05/20)
 #              API を組み込んだ、 Google Play 開発者サービスが配信された。 (GMS, Android 6~, 9to5Google, 2020/05/20)
 #              ラトビアで、アプリの正式な運用が開始された。 ("Apturi Covid", Reuters, 2020/05/26)
-#              ...
+#              ... 日本を含む 10 カ国で運用中 ...
+#              Linux Foundation が、公的保健機関を支援すると発表。 (7 社と国境を越えた相互運用？、 LFPH, 2020/07/20)
 #              (アプリが公的な外出許可証みたいに扱われると感染者を増やしちゃうかも？)
 #              (API の目的外利用を禁止してるけど位置情報の収集とかしてる事業者なら照合できちゃいそう？)
 #              (PPCT: Privacy-Preserving Contact Tracing -> Exposure Notification)
@@ -5734,11 +5748,13 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #              アプリの配信が、開始された。 (プレビュー版だった、 "新型コロナウイルス接触確認アプリ", 2020/06/19 厚生労働省)
 #              初期の開発費は、 4500 万円。 (大臣が年度内に計 2.5 億円くらいと回答、 2020/06/19 厚生労働省)
 #              2 週間で開発され不具合多数。 (@kazumihirose が間に合わなかったとかツイート、 メディアブロッサム、 2020/06/20)
+#              営業にアプリの利用を義務化。 (明治安田生命保険、会社が ID から個人を特定しちゃう！？、日本経済新聞、 2020/07/01)
 #              感染者の接触履歴を収集開始。 (2020/07/03~, 収集した接触履歴の通知も開始、 2020/07/02 厚生労働省)
 #              3 人が、アプリで感染を登録。 (前日までの感染者は 1100 人くらい、 NHK, 2020/07/08)
 #              いきなり！カステラマン登場。 (誰かが新規アカウントでソースコードに手を加えて去った？、 Togetter, 2020/07/13)
-#              警察が感染者を捜索するかも。 (厚生労働省が警察庁と行方不明者届出の協議中、 BuzzFeed Japan, 2020/07/14)
-#              アプリの配信から 30 日経過。 (2020/07/03~2020/07/19 に 6200 人くらい感染、 27 人が登録、 Impress, 2020/07/20)
+#              警察が感染者を捜索するかも。 (厚生労働省が警察庁と行方不明者届の協議中、 BuzzFeed Japan, 2020/07/14)
+#              アプリの配信から 30 日経過。 (2020/07/03~2020/07/19 に 6200 人くらい感染し 27 人が登録、 Impress, 2020/07/20)
+#              警察庁が感染者の捜索を通達。 (保健所長が行方不明者届を提出、感染症法以外も解釈を拡大中、 2020/07/22 警察庁)
 #              (Exposure Notification API の外側でずっと追跡できる ID を収集、 userUuid + secret (token), Issue #514)
 #              (仕様書にない App Center Analytics を使って無断収集するコードは削除された、 Microsoft Xamarin SDK (C#))
 #              (動作確認機種に iPhone がない、スマホ向けアプリに詳しい開発者が管理してない？)
@@ -6318,6 +6334,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            - まずは Facebook と Messenger アプリから。 (WhatsApp と Instagram も予定)
 #            - Messenger アプリに、 Facebook のアカウントが必須になった。 (VentureBeat, 2019/12/26)
 #            - オンラインショップ機能の統合も開始。 ("Facebook Shops", 2020/05/19)
+#              Instagram アカウントも Facebook Pay に統合。 ("Instagram Shop", Instagram, 2020/07/16)
 #            - ビジネス向けってことにして、投稿機能の統合も開始。 (Messenger <-> Facebook Pages, 2020/06/09)
 #            - ブラジルで無料の個人間送金とかも開始して、中央銀行に止められた。 (WhatsApp, Verge, 2020/06/24)
 # 2019/01/29 Apple に、社内向けアプリを停止されたのが判明。 (Will Strafach, TechCrunch)
@@ -6570,6 +6587,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            Amazon が自社商品を開発するために、出品してる他社の販売データを利用してるって WSJ が報じた。 (Verge, 2020/04/23)
 #            - 2019/07/16 の証言と違うので、米下院司法委員会が Amazon CEO を呼んでる。
 #            GAFA の CEO 4 人が証言する日を、米下院司法委員会が公表。 (2020/07/27?, U.S. House Judiciary Committee, 2020/07/06)
+#            - 延期された。 (2020/07/29?, John Lewis dies at 80, BIG 6, U.S. House Judiciary Committee, 2020/07/24)
 # 2019/07/24 FTC から US$ 5 billion の罰金を科された。
 #            SEC からも US$ 100 million の罰金を科された。
 #            サービスの変更やデータの利用制限とか求められることもなく、 Facebook が経営陣の免責まで勝ち取っちゃった。
@@ -7336,6 +7354,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 # [[https://www.reuters.com/article/us-facebook-ads-boycott/facebook-frustrates-advertisers-as-boycott-over-hate-speech-kicks-off-idUSKBN2424GS][Facebook frustrates advertisers as boycott over hate speech kicks off]] (Reuters, 2020/07/01)
 # [[https://about.fb.com/news/2020/07/improving-data-limits-simplifying-terms/][Improving Data Limits for Infrequently Used Apps, Simplifying Platform Terms and Developer Policies]] (2020/07/01)
 # [[https://about.fb.com/news/2020/07/facebook-does-not-benefit-from-hate/][Facebook Does Not Benefit from Hate]] (2020/07/01)
+# [[https://www.nikkei.com/article/DGXMZO61012910R00C20A7EE9000/][明治安田生命、営業職員に接触確認アプリを義務付け]] (日本経済新聞、 2020/07/01)
 # [[https://www.mhlw.go.jp/stf/newpage_12204.html][接触確認アプリ（COCOA）により新型コロナウイルスの陽性者から通知を受けることができる機能を７月３日から開始します]] (2020/07/02 厚生労働省)
 # [[https://judiciary.house.gov/news/documentsingle.aspx?DocumentID=3114][July 27th: Hearing on "Online Platforms and Market Power, Part 6: Examining the Dominance of Amazon, Facebook, Google and Apple"]] (U.S. House Judiciary Committee, 2020/07/06)
 # [[https://www.freepress.net/news/press-releases/stophateforprofit-sees-no-commitment-action-meeting-between-campaign-leaders][#StopHateForProfit Sees No Commitment to Action at Meeting Between Campaign Leaders and Facebook's Mark Zuckerberg]] (Free Press, 2020/07/07)
@@ -7348,7 +7367,12 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 # [[https://www.buzzfeed.com/jp/naokoiwanaga/covid-19-police-2][【独自】陽性判明後に行方不明→厚労省が警察に捜索を依頼できる仕組みを検討→保健所反発]] (BuzzFeed Japan, 2020/07/14)
 # [[https://www.reuters.com/article/us-facebook-privacy-eu/top-eu-court-ditches-transatlantic-data-transfer-deal-idUSKCN24G391][Top EU court ditches transatlantic data transfer deal]] (Reuters, 2020/07/15)
 # [[https://techcrunch.com/2020/07/15/facial-recognition-lawsuit-vance-janecyk-bipa/][Lawsuits allege Microsoft, Amazon and Google violated Illinois facial recognition privacy law]] (TechCrunch, 2020/07/15)
+# [[https://about.instagram.com/blog/announcements/instagram-shop-discover-and-buy-products-you-love-all-in-one-place/?_fb_noscript=1][Instagram Shop: Discover and Buy Products You Love, All In One Place]] (Instagram, 2020/07/16)
+# [[https://accountabletech.org/media/oversightboardletter/][Open Letter to the U.S.-based Members of the Facebook Oversight Board]] (Accountable Tech, 2020/07/20)
+# [[https://www.lfph.io/2020/07/20/tech-leaders-and-health-authorities-from-around-the-globe-collaborate-to-combat-covid-19/][Tech leaders and health authorities from around the globe collaborate to combat COVID-19]] (... Cisco, doc.ai, Geometer, IBM, NearForm, Tencent, and VMware ..., LFPH, 2020/07/20)
 # [[https://k-tai.watch.impress.co.jp/docs/news/1266578.html][接触通知アプリ「COCOA」公開から1カ月、陽性報告は27件/約769万DLに]] (Impress, 2020/07/20)
+# [[https://www.npa.go.jp/safetylife/seianki/fumei/koronayukuefumei0722.pdf][保健所長から新型コロナウイルス感染症の患者に係る行方不明者届がなされた場合の対応上の留意事項について（通達）]] (2020/07/22 警察庁)
+# [[https://judiciary.house.gov/calendar/eventsingle.aspx?EventID=3113][Online Platforms and Market Power, Part 6: Examining the Dominance of Amazon, Apple, Facebook, and Google]] (U.S. House Judiciary Committee, 2020/07/24)
 
 *** WhatsApp (Facebook)
 
@@ -7500,6 +7524,7 @@ Google アカウントを登録した相手には、メールアドレスで掛�
 #   中国が国家安全法を可決して、翌日に施行。 (可決された日に報じてる、 BBC, 2020/06/30)
 #   香港警察の開示請求を、一時的に受付停止。 (国家安全法の施行日から、 Facebook, Twitter, Google, Telegram, BBC, 2020/07/06)
 #   開示請求を拒めない TikTok が香港を撤退。 (金盾とかも導入されそう、 BBC, 2020/07/10)
+#   韓国ネイバーが、ユーザーのデータを削除。 (シンガポールに移転済み、 Reuters, 2020/07/21)
 #   (新型コロナウイルスもデモの封じ込めに利用？、 2047 年を待たずに香港基本法を空文にされて各国が香港との協定を終了)
 #   (中国への批判が検閲されて言論の自由を失なった、人事を握られて司法の独立もなくなった、警察が令状のいらない自由を獲得、 ...)
 #   (Huawei CFO の逮捕に関係する英銀の HSBC と SCB が国家安全法への支持を表明してる)
@@ -7546,6 +7571,7 @@ Google アカウントを登録した相手には、メールアドレスで掛�
 # [[https://www.bbc.com/news/world-asia-china-53230391][Hong Kong security law: China passes controversial legislation]] (BBC, 2020/06/30)
 # [[https://www.bbc.com/news/technology-53308582][Hong Kong: Facebook, Google and Twitter among firms 'pausing' police help]] (BBC, 2020/07/06)
 # [[https://www.bbc.co.uk/news/business-53358669][TikTok halts Hong Kong access after security law]] (BBC, 2020/07/10)
+# [[https://www.reuters.com/article/naver-hongkong-singapore/south-koreas-naver-shifts-data-from-hong-kong-to-singapore-idUSL3N2ES2N0][South Korea's Naver shifts data from Hong Kong to Singapore]] (Reuters, 2020/07/21)
 
 ** IP 電話 (050)
 
@@ -7985,6 +8011,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://www.fcc.gov/document/fcc-designates-huawei-and-zte-national-security-threats][FCC Designates Huawei and ZTE as National Security Threats]] (FCC, 2020/06/30)
 # [[https://www.theverge.com/2020/7/14/21322880/uk-bans-huawei-5g-network-infrastructure-trump-administration-pressure][UK bans Huawei from 5G networks, with total removal by 2027]] (英が 2027 年の末までに 5G から Huawei 機器を排除、 Verge, 2020/07/14)
 # [[https://huawei.eu/press-release/media-statement-uks-huawei-5g-decision][Media Statement on UK’s Huawei 5G Decision]] (Huawei, 2020/07/14)
+# [[https://www.reuters.com/article/us-france-huawei-5g-security-exclusive/exclusive-french-limits-on-huawei-5g-equipment-amount-to-de-facto-ban-by-2028-sources-idUSKCN24N26R][Exclusive: French limits on Huawei 5G equipment amount to de facto ban by 2028]] (仏が 2028 年までに 5G から Huawei 機器を排除、 Reuters, 2020/07/22)
 #
 # 連邦通信委員会が、ネット中立性を廃止。 (network neutrality, FCC: Federal Communications Commission, 2018/04/23~)
 # ネットが公共インフラじゃなくなる。 (OMB: Office of Management and Budget, 米行政管理予算局、 2018/06/11~)
@@ -9501,6 +9528,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # - screen record
 # - context-aware Bluetooth airplane mode (A2DP headphones, hearing aid)
 # - mandatory seamless updates (A/B partition, Android 7.0)
+# - (Red Velvet Cake?)
 #
 # Android 10 メモ。
 # 2019/03/13 Beta 1 (*Pixel only*)
@@ -9531,7 +9559,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 #   有効にすると、ロック画面を解除するまで決済できない。 ("NFC の保護")
 # - Desktop mode
 # - 5G
-# - デザート廃止！？
+# - デザート廃止！？ (Quince Tart?)
 #   Q をイースターエッグの鍵にしただけ？ (Picross)
 #   終了したサービスの墓場を社内に設置して、準備中？ (Verge, 2019/10/04)
 #   [[https://blog.google/products/android/evolving-android-brand/][A pop of color and more: updates to Android’s brand]] (Google Blog, 2019/08/22)
@@ -9741,6 +9769,9 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # - Android や iOS 向けの AdSense アプリを、 2019 年内に廃止予定。 (Inside AdSense blog, 2019/07/15)
 # EU では最初に Google Play を起動したとき、ブラウザと検索エンジンを選択できるようになる予定。 (Google Blog, 2019/04/18)
 # - 選択できる検索エンジンをオークションで決定して、批判されてる。 (2020/03/01~2020/06/30, Verge, 2020/01/09)
+# よそのアプリからも使用状況を収集して、競合するアプリを開発してる？ (Android Lockbox, 9to5Google, 2020/07/24)
+# - よその開発者に公開してるデータとは違うらしい。
+# - 収集がデフォルトで有効。 ("使用状況と診断情報")
 # (Microsoft も通った道？)
 # [[https://twitter.com/vestager/status/1019537297925197824][Fine of €4,34 bn to @Google ...]] (@vestager, 2018/07/17)
 # [[http://europa.eu/rapid/press-release_IP-18-4581_en.htm][Antitrust: Commission fines Google €4.34 billion for illegal practices regarding Android mobile devices to strengthen dominance of Google's search engine]] (European Commission, 2018/07/18)
@@ -9754,6 +9785,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://www.blog.google/around-the-globe/google-europe/presenting-search-app-and-browser-options-android-users-europe/][Presenting search app and browser options to Android users in Europe]] (Google Blog, 2019/04/18)
 # [[https://adsense.googleblog.com/2019/07/intention-to-deprecate-apps.html][Upcoming changes to the AdSense mobile experience]] (Inside AdSense blog, 2019/07/15)
 # [[https://www.theverge.com/2020/1/9/21058120/google-android-search-engine-choice-duckduckgo-bing-default-eu-antitrust-ruling][Bing loses out to DuckDuckGo in Google’s new Android search engine ballot]] (Verge, 2020/01/09)
+# [[https://9to5google.com/2020/07/24/report-android-lockbox-lets-google-monitor-third-party-android-app-usage/][Report: ‘Android Lockbox’ lets Google monitor third-party Android app usage]] (9to5Google, 2020/07/24)
 
 # Google が Java API の著作権を侵害したとして、 Oracle から訴えられてる。 (係争中)
 #
@@ -9973,6 +10005,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # Youtube に、ショッピング広告を大きく表示すると表明。 (Google Blog, 2019/11/05)
 # - Youtube が利用規約を変更して、お金にならないアカウントを排除できると宣言。 (2019/12/10~, Mashable, 2019/11/10)
 #   (広告ブロッカーを使ってる人も排除されそう！？ Google アカウントごと削除？)
+# - @stevewoz になりすました詐欺広告の削除申請を放置して、集団訴訟になった。 (@stevewoz も参加、 Bloomberg, 2020/07/22)
 # Google CEO が全社ミーティングの制限を指示するメールが、リークされた。 (Verge, 2019/11/15)
 # - 毎週金曜だったのを、月 1 回に減らす。
 # - 製品と事業戦略のことしか、質問するな。
@@ -10103,6 +10136,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://www.egr.msu.edu/news/2020/03/05/surfingattack][MSU research finds a new way to hack Siri and Google Assistant with ultrasonic waves]] (Michigan State University, 2020/03/05)
 # [[https://www.businessinsider.com/coronavirus-google-cancels-april-fools-day-jokes-pandemic-2020-3][Google is canceling its legendary April Fools' Day jokes this year because of the pandemic]] (Business Insider, 2020/03/27)
 # [[https://www.blog.google/technology/safety-security/keeping-private-information-private/][Keeping your private information private]] (Google Blog, 2020/06/24)
+# [[https://www.bloomberg.com/news/articles/2020-07-23/steve-wozniak-sues-youtube-over-twitter-like-bitcoin-scam][Steve Wozniak Sues YouTube Over Twitter-Like Bitcoin Scam]] (Bloomberg, 2020/07/22)
 #
 # FBI が捜査のためにデータ提供を求めると、あとで対象のアカウントに通知することがある？
 # [[https://motherboard.vice.com/en_us/article/pawjjn/google-email-secret-fbi-investigation][Google Notifies People Targeted by Secret FBI Investigation]] (Motherboard, 2018/09/04)
@@ -10457,6 +10491,7 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 # [[https://k-tai.watch.impress.co.jp/docs/news/1253143.html][これからの5G周波数帯について、総務省が周波数再編アクションプランを改定]] (... 3.6GHz以下の周波数帯における5Gの導入 ... 法整備を2020年夏頃までに実施 ... ローカル5Gの追加周波数割り当て ... 候補の4.6GHz～4.9GHzと28.3GHz～29.1GHz ... を検討 ... ダイナミック周波数共用システムを2021年度までに構築 ... 具体的には、2.3GHz帯、2.6GHz帯、5.8GHz帯、5.9GHz帯、26GHz帯、28GHz帯、38GHz帯 ... 世界無線通信会議（WRC-19）の結果を踏まえ ... 4.9～5.0GHz帯、26.6～27.0GHz帯、39.5～43.8GHz帯 ... 2023年のWRC-23での候補周波数である7025～7125MHzの周波数帯についても、5G周波数の割り当てを検討 ..., Impress, 2020/05/18)
 # [[http://blogofmobile.com/article/127577][ローカル5Gに対応したファーウェイ製の5G基地局が技適通過]] (... NR基地局「HAAU5222」が2020年5月29日付けでTelecom Engineering Center (TELEC)の認証を通過 ... 28GHz帯に対応しており、NR Bandはn257 ... 28200～28300MHzはローカル5G向けに割当した周波数で、29100～29500MHzはSoftBank向け ... ローカル5G向けに28300～29100MHzを追加 ... する予定 ..., @paopao0128, 2020/06/17)
 # [[https://www.cnci.co.jp/press/page.html?iNr=108][「ローカル５Ｇ」の無線局免許を取得]] (... ローカル５Ｇの無線局免許を２０２０年６月１９日に総務省東海総合通信局より免許交付を受けました ..., コミュニティネットワークセンター、 2020/06/19)
+# [[https://www.tst.ne.jp/news/2020/07/3g.html][北陸3県で初めてのローカル５G無線局の免許取得について]] (... 7月20日付で総務省北陸総合通信局 ... 「ローカル５G」無線局の免許を取得 ..., となみ衛星通信テレビ、 2020/07/21)
 #
 # CA (Carrier Aggregation: 搬送波集合)
 # CC (Component Carriers: 成分搬送波)
@@ -12047,7 +12082,7 @@ DSDV 対応。 (SIMx2 + MicroSD スロット)
 # AI Boost
 # PowerMaster (劣化軽減モード)
 # リバースチャージ
-# 直営の ASUS Store ができた。 (赤坂、 2018/03/02~)
+# 直営の ASUS Store を閉鎖する予定。 (赤坂、 2018/03/02~2020/08/16)
 # スーパークリーンモード
 # ZenMotion
 # ZenSIM (スマホとセット販売のみ、ドコモ回線、 IIJmio, 2019/03/15)
@@ -12422,7 +12457,7 @@ J:COM MOBILE のみ販売。 (大手キャリアを除く)
 # Galaxy Apps
 # Galaxy Ai UX (S9?)
 # Secure Wi-Fi (VPN)
-# Samsung Pay (2020/??/??)
+# Samsung Pay (Samsung Money by Sofi, 2020/??/??)
 # Opera Max -> Samsung Max (browser)
 # Uhssup (SNS?)
 # Intelligent Scan (iris and face, 2D, Galaxy S9)
@@ -12456,7 +12491,7 @@ J:COM MOBILE のみ販売。 (大手キャリアを除く)
 # Quick Share? (Nearby Sharing?)
 # Space Zoom? (100x?, Galaxy S20 Ultra)
 # UTG (Ultra-thin Glass, bendable, 30μm, Galaxy Z Flip, 2020/02/19)
-# Secure Elemet (security chip, S3K250AF, CC EAL 5+ certified, Galaxy S20?, 2020/??/??)
+# Secure Elemet (security chip, S3K250AF, CC EAL 5+ certified, Galaxy S20, 2020/02/27)
 # QRNG (Quantum Random Number Generator, ID Quantique, SKT IDQ S2Q000, Galaxy A Quantum, 2020/05/??)
 #
 # Galaxy の SIM フリー版は、ほぼ海外にしかない。
@@ -12558,7 +12593,7 @@ VoLTE 対応。
 らくらくスマートフォンはホームアプリ？
 # Iris Passport
 # ワンセグ (|\||-||< 受信料)
-# 5G (arrows 5G, ドコモ向け、 2020/07/??)
+# 5G (arrows 5G, ドコモ向け、 2020/07/30?)
 #
 # ポラリス・キャピタル・グループに売却された。 (2018/03/30)
 # 富士通周辺機も分社化して、工場をポラリスに売却。
@@ -13300,6 +13335,8 @@ DSDV 対応。
 # [[https://smhn.info/202003-sharp-vs-oppo][SHARPとOPPOの特許裁判、背景に鴻海の苦戦？]] (... 3月9日、SHARPは ... WLAN特許侵害を理由とし、OPPO日本法人を相手取って東京地裁に訴えを起こしました ... 1月にも ... SHARPは ... 東京地裁に訴えて ... OPPOは1ヶ月後にSHARPへ対し、2つの訴訟により反撃 ..., @sm_hn, 2020/03/16)
 # [[https://k-tai.watch.impress.co.jp/docs/news/1245507.html][シャープ、特許侵害でOPPOの台湾販売代理店を提訴]] (... LTE関連特許1件を侵害しているとして4月1日 ... 販売代理店1社に対して ... 損害賠償請求訴訟の提起 ..., Impress, 2020/04/07)
 #
+# ? (CPH2099, 2020/??/??)
+#
 # ? (CPH2053, 2020/??/??)
 #
 # Reno3 A (CPH2013, 2020/06/25?)
@@ -13445,14 +13482,19 @@ QWERTY 配列のキーボード。
 国内での正規販売は、 Amazon 経由なので注意。
 # DuraSpeed
 #
-# Jelly 2?
+# Jelly 2 (2020/12/??)
+# Android 10
+# DSDV 対応。
+# 楽天を除く、どの回線でも使える。
+# おサイフ。
+# クラウドファンディング商品。 (米 Kickstarter, 2020/07/21, 2020/12/?? 発送)
 #
-# Atom L, XL (2020/07/??)
+# Atom L, XL (2020/07/17)
 # Android 10
 # DSDV 対応。
 # 防水。
 # 大容量バッテリー。
-# クラウドファンディング商品。 (米 Kickstarter, 2020/02/25)
+# クラウドファンディング商品。 (米 Kickstarter, 2020/02/25, 2020/07/17 発送)
 #
 # Titan (2020/03/02)
 # Android 9.0
@@ -13839,6 +13881,8 @@ Android 10 の公開と同時にバージョンアップできたのは、この
 # [[https://prtimes.jp/main/html/rd/p/000000039.000018933.html][株式会社バカンと東京建物株式会社 IoTを活用し、混雑状況と連動してトイレ個室内へ広告配信するサービス 国内初の商用化に向け、共同で実証実験の取り組みを開始]] (... トイレ個室の壁面に10インチのタブレットを設置 ... AirKnock Ads ... の動画広告配信は、高い到達率やターゲティング精度が期待され ... 本年秋頃の商用化を予定 ... 安全・安心・快適なビル ... を目指します ..., スマート監獄独房トイレ、 PRTIMES, 2020/06/30)
 # [[https://jpn.nec.com/press/202007/20200706_02.html][日本初!自動販売機で"手ぶら"購入が可能に自動販売機での顔認証決済サービスの実証実験を開始]] (... 「顔認証決済自販機」の実証実験を7月3日(金)より開始 ... ダイドードリンコでは ... 財布やスマートフォン等を持ち歩かずに済む ... イノベーションを推進 ... NECは ... 人やモノ、プロセスの情報・状態をバリューチェーン全体で共有 ... していきます ... 事前に顔画像やクレジットカード情報、パスコードを登録することで ... 「誰もが安心 ... できる世界」を実現 ..., 人がクレジットカード扱いされちゃうスマート監獄生体決済、 NEC, 2020/07/06)
 # [[https://jpn.nec.com/press/202007/20200713_01.html][NEC、New Normal時代の新しい働き方をDXで実現するデジタルオフィスのプロジェクト始動]] (... NEC本社ビル内にて本日から ... 新型コロナウイルスによる感染症 ... に対応した ... オフィス ... の ... 実証を開始 ... 顔認証用カメラ ... は ... 警備員による ... ことなく本人確認が可能で ... オープンな雰囲気をつくり ... 社員の作業場所を ... リアルタイムに把握 ... お客様への ... 顔認証によるお出迎えメッセージ ... や ... 笑顔測定を活用した ... スムーズな案内 ... を実現し ... 2020年度内を目途に ... 提供を開始 ... 生体認証による共通のIDで、複数の場所やサービス ... を通じて ... 安全・安心な社会づくりに貢献していきます ..., ノーマル監獄オフィス計画、 NEC, 2020/07/13)
+# [[https://www.value-press.com/pressrelease/248463][国内外で極めて珍しい「笑顔採用」を実施する保育園登場。バイタリフィ社が笑顔を数値化するAIシステム『MAL Visualize Emotion』を提供開始。]] (... 「保育士採用面接における候補者の笑顔測定をしたい」というグローブ・ハートからの依頼を受け ... 笑顔を数値化して ... 1秒ごとにグラフ形式で表示 ... 笑顔採用では、一定レベル以上の笑顔を出した時間の長さを計測 ... 開発した顔感情認識 AIモデルは ... 今後も接客評価や様々な用途への展開を予定 ... 認識できる感情は 5 種類（真顔、喜び、悲しみ、怒り、驚き）で、それぞれ 0 ～ 100 で数値化し、リアルタイムに判別 ... Android・iOS のデバイス上で外部通信せずに ... 動作します ... デモアプリ『Face Emotion』を AppStore で公開 ... グローブ・ハートは ... 15分の面接のみで ... 面接官が ... 100点満点中50点、AI が ... 残りの50点 ... 最も点数の高い学生から内定を出します ... 笑顔溢れる人材を採用し ... 保育業界を改革したい ... 園経営 ... に、理想の ... キラキラ ... 環境が必要だと気づ ... けています ..., 外見至上主義を AI のせいにしちゃったスマート面接入園差別、バリュープレス、 2020/07/15)
+# [[https://prtimes.jp/main/html/rd/p/000000005.000057103.html][「声だけで簡単に心の健康状態を計測」 実証実験の協力企業を募集します / Recruiting participants for proof of concept]] (... リスク計測テクノロジーズ ... が ... 声だけで簡単に心の健康状態を可視化する「マインドヘルス計測システム」を使用した実証実験を令和2年8月から行う予定 ... 社会が求める ... 新しい生活様式に適した ... 業務リスクと ... メンタルヘルスの不調 ... を早期に予測するモデル開発に向けたデータの収集及び分析を ... 横浜市経済局の補助金を受けて運営 ..., メンタル監獄オフィス実験、 PRTIMES, 2020/07/21)
 
 # *** GRANBEAT (ONKYO)
 #
@@ -14063,7 +14107,7 @@ DSDV 対応。 (SIMx2 + microSD スロット)
 # OUKITEL C15 Pro (2019/06/27)
 # Android 9.0
 
-# *** Nintendo Switch
+# *** Nintendo Switch (2017/03/03)
 #
 # 独 Billy Laws and Max Keller 製。 (製造元は任天堂)
 # Android 8.1 (Lineage OS 15.1)
@@ -14117,6 +14161,7 @@ DSDV 対応。 (SIMx2 + microSD スロット)
 # [[https://theintercept.com/2020/03/16/tiktok-app-moderators-users-discrimination/][TikTok Told Moderators to Suppress Posts by “Ugly” People and the Poor to Attract New Users]] (Intercept, 2020/03/16)
 # [[https://arstechnica.com/gadgets/2020/06/tiktok-and-53-other-ios-apps-still-snoop-your-sensitive-clipboard-data/][TikTok and 53 other iOS apps still snoop your sensitive clipboard data]] (Ars Technica, 2020/06/27)
 # [[https://techcrunch.com/2020/06/29/india-bans-tiktok-dozens-of-other-chinese-apps/][India bans TikTok, dozens of other Chinese apps]] (TikTok, WeChat, Weibo, ..., TechCrunch, 2020/06/29)
+# [[https://www.yomiuri.co.jp/politics/20200728-OYT1T50078/][ＴｉｋＴｏｋも念頭、中国発アプリ制限を提言へ…自民議連]] (... 自民党の「ルール形成戦略議員連盟」（会長・甘利明税調会長）が、中国発のアプリ利用を制限するよう、政府に提言する方針 ... 議連は２８日の会合で、有識者を招いて議論を始め ... 近く提言をまとめる見通し ... 電気通信事業法などに「安全保障上のリスクを考慮する」といった条項を盛り込むよう政府に求め ... アプリを調べる ... 機能の強化も盛り込む構え ... 政府は ... 国家安全保障局の経済班などで中国発のアプリの情報収集を進めている ..., 読売新聞、 2020/07/28)
 
 # *** Blackview BV5900 (2019/09/11)
 #
@@ -14213,9 +14258,10 @@ Android 10 Go Edition (日本初？)
 # [[http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=10,162,203][Systems and methods for electronically controlling the viewing angle of a display]] (USPTO, 2018/12/25)
 # CLSC? (Closed-Loop Supply Chain)
 # Apple Recycling Programs (Apple Giveback -> Apple Trade In, disassembly robot Daisy, Material Recovery Lab, Environmental Responsibility Report, green leaf logo, Earth Day, 2019/04/22)
+# Supplier Clean Energy Program (100% carbon neutral by 2030, 2020/07/21)
 # [[https://wicg.github.io/ad-click-attribution/index.html][Privacy Preserving Ad Click Attribution]] (Safari Technology Preview 81~?, WebKit, WICG, 2019/05/21)
 # Quick Start (Transfer from iPhone, P2P, Bluetooth and Wi-Fi, iOS 12.4~, 2019/07/22)
-# iOS Security Research Device Program (pre-jailbroken iPhone, Black Hat 2019, 2020/??/??~)
+# iOS Security Research Device Program (pre-jailbroken iPhone, Black Hat 2019, 2020/07/22~)
 # [[https://webkit.org/blog/9507/announcing-the-webkit-tracking-prevention-policy/][Announcing the WebKit Tracking Prevention Policy]] (Safari Technology Preview 89, Mozilla’s anti tracking policy, WebKit, 2019/08/14)
 # Apple Maps (Look Around (iOS 13), replace Google Maps, 2012/09/20)
 # Field Test Mode ("*3001#12345#*", iPhone 5~)
@@ -14246,6 +14292,7 @@ Android 10 Go Edition (日本初？)
 # [[https://projectsandcastle.org/][Project Sandcastle: Android for the iPhone]] (beta)
 # [[https://9to5mac.com/2020/03/04/new-jailbreak-hack-lets-you-run-android-on-your-iphone-7/][New jailbreak hack lets you run Android on your iPhone 7]] (9to5Mac, 2020/03/04)
 # [[https://unc0ver.dev/][unc0ver]] (iPhone 6s から最新の iPhone SE 2nd まで脱獄できるツールが公開された、脱獄に利用されてた脆弱性を Apple が 2020/06/01 に配信した iOS 13.5.1 で塞いだ、 v5.0.0, iOS 11.0~13.5, @unc0verTeam, 2020/05/23)
+# [[https://yalujailbreak.net/pangu-unpatchable-sep-bug/][Team Pangu demonstrates an unpatchable SEP vulnerability at MOSEC 2020]] (また修正不可能なバグが見つかって開発中の iOS 14 で脱獄が実演された、 Secure Enclave Processor, TZ0 register, Yalu Jailbreak, 2020/07/26)
 
 # Apple Card
 #
@@ -14646,6 +14693,7 @@ Apple Store (直営) と、 Apple 正規サービスプロバイダがある。
 # 米にも工場を建ててる？ (Foxconn)
 # 一部はインドネシアに。 (Pegatron)
 # ベトナムに工場を新設。 (Foxconn, Pegatron?)
+# 中国工場が売却された。 (Wistron -> 中国 Luxshare)
 # [[https://github.com/996icu/996.ICU][996.ICU]] (... A "996" work schedule refers to an unofficial work schedule (9 a.m.–9 p.m., 6 days per week) ..., 2016 年頃から 996 と呼ばれた問題に集中治療室が開設された、 GitHub, 2019/03/01)
 # [[http://www.chinalaborwatch.org/report/144][iPhone 11 Illegally Produced in China: Apple Allows Supplier Factory Foxconn to Violate Labor Laws]] (Foxconn の潜入調査で中国は臨時従業員比率 10% 未満じゃないといけないのに 55% を越えてるし残業は月 36 時間が上限だけどいつも 100 時間を越えてる人がいてインターンの学生まで深夜残業させてると報告、 CLW: China Labor Watch, 中国労工観察、 2019/09/08)
 # [[https://arstechnica.com/gadgets/2019/09/apple-foxconn-caught-breaking-chinese-labor-laws-while-making-iphones/][Apple, Foxconn caught breaking Chinese labor laws while making iPhones]] (Apple は自主的な残業で強制労働じゃないって答えたので 996 問題でブラックリスト入りするかも？、 Ars Technica, 2019/09/09)
