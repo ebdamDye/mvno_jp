@@ -1952,6 +1952,7 @@
 # [[https://www.telesa.or.jp/consortium/provider/20200909hguideline_press][「プロバイダ責任制限法 発信者情報開示関係ガイドライン」の一部改訂について]] (テレコムサービス協会、 2020/09/10)
 # [[https://twitter.com/MIC_JAPAN/status/1306460559093587969][... インターネット上の誹謗中傷に関する注意事項等をまとめた「インターネットトラブル事例集(2020年版)追補版」を公表 ...]] (リンクあり、 2020/09/17 総務省)
 # [[https://www.soumu.go.jp/menu_news/kaiken/01koho01_02000954.html][武田総務大臣閣議後記者会見の概要]] (... 「新たな裁判手続の創設に係る論点」、「特定の通信ログの早期保全に係る論点」、「ログイン時情報の取扱いに係る論点」について ... 11月を目途に具体的な方針の取りまとめ ..., 2020/10/06 総務省)
+# [[https://twitter.com/mrmk0120/status/1314611192791396352][... 福永弁護士先生の問題がばっちり議事録に残ってる ...]] (画像あり、 ... 有名人やタレントに対して手数料なしで発信者への通知を引き受けると喧伝したりとか、あるいはアンチの顔を友人限定で回覧しているとつぶやく弁護士が ... 発信者に通知すること自体を威嚇のために使っているみたい ..., @mrmk0120, 2020/10/10)
 
 # モバイル市場の公正競争促進に関する検討会 1~5 (2017/12/25~2018/04/09 総務省)
 # モバイル市場の公正競争促進に関する検討会報告書の公表 (2018/04/27 総務省)
@@ -2229,7 +2230,7 @@
 #
 # 「武田総務大臣と携帯電話利用者との意見交換会」の開催 (2020/10/06 総務省)
 # スマホとかの利用者と非公開の会合予定。 (議事概要のみ公開、 2020/10/08)
-# [[https://www.itmedia.co.jp/mobile/articles/2010/09/news056.html][携帯料金値下げ、一般ユーザーの要望は？　武田総務大臣との意見交換会で見えたこと (1/2)]] (... 総合通信基盤局電気通信事業部料金サービス課長の川野真稔氏が、会合の内容を説明 ... 総務省側が「格安スマホやサブブランドへの乗り換えは、うまくやっているのか」と質問したところ、「 ... リテラシーが低い人だとなかなか厳しい。MVNOにしたけど戻したいという人もいる」とのこと。「戻したい」の理由までは分からなかった ... 意見交換会について、第2回目以降を開催する予定は現時点ではない ... 「 ... （競争ルールの検証に関する）報告書（案）への意見募集を9月に開始し、今日（10月8日）が締め切りなので、出た意見をとりまとめていく」 ..., ITmedia, 2020/10/09)
+# [[https://www.itmedia.co.jp/mobile/articles/2010/09/news056.html][携帯料金値下げ、一般ユーザーの要望は？ 武田総務大臣との意見交換会で見えたこと (1/2)]] (... 総合通信基盤局電気通信事業部料金サービス課長の川野真稔氏が、会合の内容を説明 ... 総務省側が「格安スマホやサブブランドへの乗り換えは、うまくやっているのか」と質問したところ、「 ... リテラシーが低い人だとなかなか厳しい。MVNOにしたけど戻したいという人もいる」とのこと。「戻したい」の理由までは分からなかった ... 意見交換会について、第2回目以降を開催する予定は現時点ではない ... 「 ... （競争ルールの検証に関する）報告書（案）への意見募集を9月に開始し、今日（10月8日）が締め切りなので、出た意見をとりまとめていく」 ..., ITmedia, 2020/10/09)
 
 # 「電波有効利用成長戦略懇談会 報告書（案）」に対する意見募集 (2018/07/09 総務省)
 # 「電波有効利用成長戦略懇談会 報告書」及び意見募集の結果の公表 (2018/08/31 総務省)
@@ -3074,6 +3075,7 @@ DSDS 対応スマホで音声通話定額を利用するなら、ドコモがお
 # [[https://k-tai.watch.impress.co.jp/docs/news/1280498.html][総務省、ゆうちょ銀行問題で日本郵政へ要請――情報共有徹底、被害者救済を]] (... 10月末日の状況を11月10日までに総務省へ報告などが求められている ..., Impress, 2020/10/02)
 # [[https://www.asahi.com/articles/ASNB374K7NB3ULFA00D.html][ゆうちょ銀、ミヂカ会員サイトを停止 不正アクセス判明]] (... ミヂカの利用者は約20万人 ... 過去約2カ月分のデータを調べ、7月28～30日、8月1～4日、同14～20日、9月9～13日の各期間で ... ログイン失敗の件数が平常時と比べて100～800倍になっていた ..., 朝日新聞、 2020/10/03)
 # [[https://piyolog.hatenadiary.jp/entry/2020/10/05/073000][ゆうちょ銀行のmijica Webへの不正ログインについてまとめてみた]] (@piyokango, 2020/10/05)
+# [[https://k-tai.watch.impress.co.jp/docs/news/1283169.html][「ドコモ口座」不正利用、補償終えた件数が公表]] (... 被害として確定した金額（件数）は、2850万円（127件） ... 補償を終えた件数は122件、2797万円 ... 残る5件がどの金融機関のものかは開示されていない。また補償額が、ドコモと金融機関の間でどう分担されたかといった扱いについても非開示 ... ドコモでは今後、eKYC（オンラインでの本人確認）や、SMSを使った二段階認証といった対策を導入する方針 ..., Impress, 2020/10/15)
 
 # 2011/06/?? IPv6 対応。
 # 2015/10/?? SIM フリースマホを使えるようになった。 (sp モード)
@@ -3366,8 +3368,7 @@ SIM フリースマホも使える。 (iPhone を除いて "＋メッセージ" 
 # [[https://k-tai.watch.impress.co.jp/docs/news/1211282.html][ワイモバイルに初めての「Xperia」、寺尾氏が語るその狙いとは]] (... 各メーカーは1回以上のOSアップデートをすると約束してもらっている ..., Impress, 2019/10/07)
 
 パケットの繰り越しはできない。
-パケットを使い切った後の通信速度は、 1Mbps 。 (3GB のプランのみ 128kbps)
-# パケットを使い切った後の通信速度は、 1Mbps 。 (3GB のプランのみ 300kbps) (2020/10/14)
+パケットを使い切った後の通信速度は、 1Mbps 。 (3GB のプランのみ 300kbps)
 # 旧 3GB 契約の人も 300kbps になる予定。 (2021/03/末)
 
 # Wi-Fi スポットはソフトバンクと同じ。
@@ -3824,6 +3825,7 @@ eSIM も発行してる。
 #            [[https://twitter.com/june_ya/status/1283977904221650945][失敗した直後に、私失敗しないのでの人の起用を発表するの、なかなか味わい深い。]] (@june_ya, 2020/07/17)
 #            [[https://www.itmedia.co.jp/mobile/articles/2008/11/news129.html][楽天モバイルは2021年夏に人口カバー率96％へ、5Gは「大々的に発表する」と三木谷氏]] (... 2020年6月末時点で5739局の基地局が開設しており電波発射済み。この他、「建設完了しているのは1万以上だけだが、NTT回線との接続を待っている基地局が非常に多い」（三木谷氏） ..., ITmedia, 2020/08/11)
 #            [[http://blogofmobile.com/article/130546][楽天モバイル、楽天回線の拡大予定のエリアを公開]] (... 2020年9月29日時点では楽天回線拡大予定エリアは2020年10月末時点の予定および2020年12月末時点の予定を確認できる ... 連休後などを除いて基本的にほぼ1週間の間隔でサービスエリアを更新 ..., @paopao0128, 2020/09/29)
+#            [[http://blogofmobile.com/article/131089][楽天モバイル、すべての都道府県で開局]] (... 2020年9月25日から2020年10月8日の間に ... すべての都道府県で1局以上は基地局を開局 ..., @paopao0128, 2020/10/16)
 # 2020/06/30 100 万回線を突破。 (契約申し込み数、 MVNO を含まない)
 # 2020/09/30 5G サービス開始。
 #            [[https://www.anritsu.com/ja-JP/test-measurement/news/news-releases/2019/2019-12-25-jp01][楽天モバイルが5G NR端末受入試験にアンリツのプロトコルテストプラットフォームを採用]] (... これまでも楽天モバイル株式会社の4Gデバイス受入試験をサポート ..., アンリツ、 2019/12/25)
@@ -6033,6 +6035,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            南スーダンで人身売買した投稿を、アカウントごと削除。 (子供の強制的な結婚を防げなかった、 VICE news, 2018/11/20)
 #            暴力を煽ってる、ミャンマーの武装勢力たちを削除。 (2019/02/05)
 #            ワクチンについて間違った情報を流す、グループやページのランキングを下げた。 (2019/03/07)
+#            - 予防接種とかをやめとこうと思わせる広告も拒否。 (2020/10/13)
 #            暴力や憎悪を煽ってた、英極右政党の党首たちのアカウントとかを削除。 (BBC, 2019/04/18)
 #            サウジアラビア政府が関与する、偽アカウントやページとかを削除。 (2019/08/01)
 #            中国政府が関与する、偽アカウントやページとかを削除。 (香港の逃亡犯条例、 Google や Twitter も削除、 2019/08/19)
@@ -6040,6 +6043,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            内部告発者を特定するような投稿を、削除してる。 (ウクライナ疑惑、 Reuters, 2019/11/08)
 #            再掲載された広告詐欺を削除。 (Ads 社が Facebook 従業員への賄賂でアカウントを復活させてた、 BuzzFeed, 2019/12/10)
 #            中国発の肺炎で WHO が緊急事態を宣言したあと、間違った投稿の削除とかを開始。 (新型コロナウイルス、 2020/01/30)
+#            ホロコーストを否定する投稿を削除。 (ナチスが政策でユダヤ人を 600 万人も虐殺した事実のこと、 2020/10/12)
 #            ...
 #            グループで削除された投稿を、ユーザーが確認できるようになる。 ("Group Quality", 2019/04/10)
 #            玉ねぎにしか見えない広告は、セクシー過ぎるので拒否。 (このあとセクシーな玉ねぎとして販売好調、 BBC, 2020/10/08)
@@ -6311,6 +6315,10 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            - 3 日で退院しちゃった米大統領が、インフルエンザよりましだって投稿。 (COVID-19, CNN, 2020/10/06)
 #              投稿でインフルエンザの死者数すら間違ってるので、 Facebook が削除。 (Twitter も警告を表示)
 #              誤報の削除に対する米大統領の返礼は、 "通信品位法 230 条廃止！！！"
+#            - あやしげなパソコンに、米民主党の大統領候補の子のメールがあった？ (ウクライナ疑惑、 New York Post, 2020/10/14)
+#              パソコンを修理店に持ち込んだ人が、受け取りに来ない？ (店主は米大統領支持者、 Business Insider, 2020/10/14)
+#              New York Post が保釈中の元主席戦略官に聞いて、米大統領の顧問弁護士からメールのコピーを入手？
+#              Facebook と Twitter に記事の拡散を一時的に制限されて、米大統領が喜んでる。 (Business Insider, 2020/10/15)
 # 2018/09/26 年末までにフェイクニュースへの自主的な対策をすることで、 EU と合意。 (Code of Practice)
 #            効果がなければ、新しい規制を作るらしい。
 #            間違った投票案内を、報告できるようになった。 (Incorrect Voting Info, 2018/10/15)
@@ -6594,7 +6602,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            - ビジネス向けってことにして、投稿機能の統合も開始。 (Messenger <-> Facebook Pages, 2020/06/09)
 #            - ブラジルで無料の個人間送金とかも開始して、中央銀行に止められた。 (WhatsApp, Verge, 2020/06/24)
 #            - Messenger と Instagram のチャット機能が統合された。 (Verge, 2020/08/14)
-#            - 買収した Oculus 製品も、 Facebook のアカウントに統合される。 (旧アカウントを廃止、 Oculus, 2020/08/18)
+#            - 買収した Oculus の製品も、 Facebook のアカウントに統合される。 (旧アカウントを廃止、 Oculus, 2020/08/18)
 #              (Facebook にアカウントを削除されてゴミになった人が続出してる)
 #            - Facebook や Instagram と Messenger でアカウント統合を開始。 ("Accounts Center", 2020/09/29)
 #              そのうち Facebook Pay も統合される。
@@ -6993,6 +7001,8 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            カナダ Shopify が、 Libra 協会に加盟。 (副社長が Facebook 出身、 Shopify, 2020/02/21)
 #            Libra 協会が、スイスで決済機関になるための免許を申請。 (FINMA, 2020/04/16)
 #            Facebook の子会社 Calibra が、 Novi Financial に社名変更。 (ウォレットアプリも Novi になる、 2020/05/26)
+#            米司法省が、暗号通貨の悪用についてまとめた文書を公開。 (Cryptocurrency Enforcement Framework, DOJ, 2020/10/08)
+#            中国が、中央銀行で発行する暗号通貨を実験。 (2020/10/12~2020/10/18, CBDC, TechCrunch, 2020/10/12)
 #            各国政府から、中止を要求されるかも。 (shadow banking?)
 #            (広告利用に同意がいるだけ？暗号通貨で単一市場？ WeChat と同じ？これで会社分割されても大丈夫？)
 #            (Facebook が扱えない情報をなくして、プライバシーを社会的に殺す計画を CEO が実行に移しちゃう？)
@@ -7735,7 +7745,14 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 # [[https://lite.cnn.com/en/article/h_9cbd2b5c5c143239f7ef37f1357dc91e][Facebook to remove 'militarized' calls for unauthorized poll watchers]] (CNN, 2020/10/07)
 # [[https://about.fb.com/news/2020/10/preparing-for-election-day/][Preparing for Election Day]] (2020/10/07)
 # [[https://www.bbc.com/news/54467384][Why some onions were too sexy for Facebook]] (BBC, 2020/10/08)
+# [[https://www.justice.gov/opa/pr/attorney-general-william-p-barr-announces-publication-cryptocurrency-enforcement-framework][Attorney General William P. Barr Announces Publication of Cryptocurrency Enforcement Framework]] (DOJ, 2020/10/08)
 # [[https://www.theregister.com/2020/10/09/facebook_ethics_takedown/][Facebook's anti-trademark bot torpedoes .org website that just so happened to criticize Zuck's sucky ethics board]] (Register, 2020/10/09)
+# [[https://techcrunch.com/2020/10/11/china-digital-yuan-shenzhen/][China’s digital yuan tests leap forward in Shenzhen]] (TechCrunch, 2020/10/12)
+# [[https://about.fb.com/news/2020/10/removing-holocaust-denial-content/][Removing Holocaust Denial Content]] (2020/10/12)
+# [[https://about.fb.com/news/2020/10/supporting-public-health-experts-vaccine-efforts/][Supporting Public Health Experts’ Vaccine Efforts]] (2020/10/13)
+# [[https://nypost.com/2020/10/14/email-reveals-how-hunter-biden-introduced-ukrainian-biz-man-to-dad/][Hunter Biden emails show leveraging links with dad to boost Burisma pay]] (New York Post, 2020/10/14)
+# [[https://www.businessinsider.com/new-york-post-may-have-identified-hunter-biden-source-2020-10][The New York Post inadvertently revealed the original source of its dubious Hunter Biden story]] (Business Insider, 2020/10/14)
+# [[https://www.businessinsider.com/new-york-post-hunter-biden-trump-facebook-twitter-section-230-2020-10][Trump threatened Facebook and Twitter again after they throttled the spread of a dubious New York Post story about Hunter Biden]] (Business Insider, 2020/10/15)
 
 *** WhatsApp (Facebook)
 
@@ -10668,6 +10685,7 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://9to5google.com/2020/02/06/google-chrome-x-client-data-tracking/][Google denies Chrome tracking allegation, explains use of ‘X-Client-Data’]] (インストールしたときに付ける ID を Google にだけ送信するのでログアウトしててもユーザーを追跡、シークレットモードのときは送信しない、 "–reset-variation-state" を付けて起動しないと ID を変更できない、 9to5Google, 2020/02/06)
 # [[https://www.theregister.co.uk/2020/03/11/google_personally_identifiable_info/][Google: You know we said that Chrome tracker contained no personally identifiable info? Yeah, about that...]] (Chrome のホワイトペーパーから X-Client-Data に個人を識別できる情報は含まれてないって文言が削除されちゃった、 Register, 2020/03/11)
 # [[https://www.androidpolice.com/2020/08/13/google-resumes-its-senseless-attack-on-the-url-bar-hides-full-addresses-on-chrome-canary/][Google resumes its attack on the URL bar, hides full addresses on Chrome 86]] (勝手に URL を省略したがるのは 3 度目だけどそのうち URL にフィッシングを防ぐ効果とかないから非表示でいいよねって言い出すかも、 Android Police, 2020/06/12)
+# [[https://lapcatsoftware.com/articles/chrome-google.html][Chrome exempts Google sites from user site data settings]] (閉じたら cookie とか削除するよう設定しても Google に関係する cookie とかを削除してない、 Jeff Johnson, 2020/10/07)
 
 # Google+
 #
@@ -10878,7 +10896,7 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 # [[https://www.itmedia.co.jp/mobile/articles/2003/30/news092.html][ドコモの5Gスマホ「AQUOS R5G」に乗り換え 契約時の注意点は？ 通信速度はどれくらい？ (1/2)]] (... 「Speedtest.net」アプリを使ってスピードテストを ... 5G接続時に3回試しただけで、一気に4.36GBものデータを消費してしまった ..., ITmedia, 2020/03/30)
 # [[http://blogofmobile.com/article/125429][NTTドコモの5Gスマホ、eLTE通信中に5G表示の場合も]] (... 総務省が掲載した資料では待受時は ... eLTE方式およびLTE方式で4Gとする方向で検討している ... DOCOMOは ... eLTE方式で待受時はRAT表示を5Gとすることに決めた模様 ... Galaxy S20 5G SC-51AではeLTE方式のみで通信時もRAT表示が ... しばらく5Gから4G+に切り替わらない事象が確認できた ..., @paopao0128, 2020/03/30)
 # [[https://japanese.engadget.com/p40-lite-5g-034507870.html][4万円を切りの高コスパ──P40 lite 5G を試す。GMS非搭載が唯一の悩み]] (... アンテナピクトはeLTEにつながるだけで常に5G ..., Engadget 日本版、 2020/07/09)
-# [[https://www.itmedia.co.jp/mobile/articles/2010/09/news028.html][ゲーミングスマホ「ROG Phone 3」は快適だが、ゲーム市場の異変が気になる　MVNOの5G SIMも試した (1/3)]] (...  LinksMateの5G契約を、ドコモの5Gエリアで速度チェック。4G回線につないだ場合と速度は変わらなかった ..., ITmedia, 2020/10/09)
+# [[https://www.itmedia.co.jp/mobile/articles/2010/09/news028.html][ゲーミングスマホ「ROG Phone 3」は快適だが、ゲーム市場の異変が気になる MVNOの5G SIMも試した (1/3)]] (...  LinksMateの5G契約を、ドコモの5Gエリアで速度チェック。4G回線につないだ場合と速度は変わらなかった ..., ITmedia, 2020/10/09)
 #
 # 第5世代移動通信システムの導入のための周波数の割当てに関する意見募集 (2018/11/02 総務省)
 # 第5世代移動通信システムの導入のための周波数の割当てに関する意見募集の結果及び電波監理審議会からの答申 (2018/12/14 総務省)
@@ -10915,6 +10933,8 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 # 第5世代移動通信システムの利用に係る調査の結果の公表 (2020/10/02 総務省)
 # KDDI株式会社及び沖縄セルラー電話株式会社に係る特定基地局の開設計画の変更認定 (2020/10/09 総務省)
 # 電波法施行規則等の一部を改正する省令案等に対する意見募集の結果及び電波監理審議会からの答申 (2020/10/12 総務省)
+# 無線局免許手続規則に基づく無線局の設置する地域に関する告示案等に係る意見募集 (2020/10/14 総務省)
+# 令和2年度「地域課題解決型ローカル5G等の実現に向けた開発実証」における実証内容の決定 (2020/10/16 総務省)
 # - エリアは、 10km^2 で 4600 カ所くらいに区切ったもの。 (4G の人口カバー率じゃない)
 # - 5 年以内に 50% のエリアで、親になる基地局を求めてる。 (子局はできるだけたくさん)
 # - 2 年以内に全都道府県でサービス開始。
@@ -11660,7 +11680,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 #
 # スマホから常に位置情報を収集する、タクシー配車アプリ。 (オプトイン？)
 # 待ってる場所を、タクシー運転手に伝えてるだけじゃない。 (サインイン必須化で個人も特定)
-# タクシーに設置された機器は、ターゲティング広告を表示。 ("Tokyo Prime", Bluetooth, 性別を顔認識、広告はリアルタイム入札)
+# タクシーに設置された機器は、ターゲティング広告を表示。 ("Tokyo Prime", Bluetooth, 性別を顔識別、広告はリアルタイム入札)
 # ネットでの行動はもちろん、外出先まで追跡して収集する。 (広告の効果を測定？)
 # 第三者へのデータ提供は、アプリの設定では止められない。 (オプトアウト？)
 # アプリ外で設定変更しないと、乗客のプライバシーを売る。 *(!?)*
@@ -11668,6 +11688,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # 個人情報保護委員会による行政指導が報じられて、修正中？ (日本経済新聞、 2019/03/24)
 # 乗車した Google の技術者がツイートして、議論になった。 (性別なしを選択できない、 @rosa, 2019/04/20)
 # 行政指導への対応が遅くて、個人情報保護委員会が再指導。 (日本経済新聞、 2019/09/17)
+# 社名変更を発表したあとに、性別を顔識別するのはやめた。 (Bluetooth とキャッシュレス決済で十分？、 2020/04/05)
 # (App Store から削除されるに違いないって、期待されてた)
 # [[http://www.nihon-kotsu.co.jp/about/release/160107.html][JapanTaxiプレスリリース】日本交通とフリークアウト、位置情報連動マーケティング事業で提携]] (... フリークアウトによる位置情報データの取得については事前同意(オプトイン)を必須 ... アプリの利用規約に承諾いただいた上で位置情報の取得に承諾いただいたユーザーからのみ位置情報データを取得 ... オプトアウト方式でデータ提供を取りやめることが可能 ..., 日本交通、 2016/01/07)
 # [[https://ads.tokyo-prime.jp/news/20180309_google-and-tokyoprime][タクシー搭載デジタル・サイネージ Tokyo Prime、Google DoubleClick Bid Managerから動画広告を買付可能に]] (IRIS, 2018/03/09)
@@ -11696,6 +11717,7 @@ H.265(HEVC) はパテントプールで溺れてる。
 # [[https://www.nikkei.com/article/DGXMZO49896420X10C19A9TJ1000/][ジャパンタクシーを再指導、個人情報保護委 改善遅れに]] (... 改善策の導入に時間がかかったことが問題視 ..., 日本経済新聞、 2019/09/17)
 # [[https://japantaxi.co.jp/news/cat-info/2019/09/17/info.html][個人情報保護委員会からの指導について]] (... カメラを用いた性別判定 ... 個人情報の取得等を行っているとの認識はありませんでした ... 2018年12月5日 ... 指導を受け ... プレスリリース等でカメラの存在や利用目的を公表していたことから、直ちに不適切との認識でなかった ..., JapanTaxi, 2019/09/17)
 # [[https://japantaxi.co.jp/news/pr/2020/02/27/0128/][JapanTaxi株式会社は4月1日(水)から「株式会社Mobility Technologies」へ 社名も新たにモビリティの進化を牽引]] (JapanTaxi, 2020/02/27)
+# [[https://japantaxi.co.jp/news/info/2020/03/30/0133/][タクシー車載タブレットによる広告最適化廃止について]] (... 『Tokyo Prime』において提供中の広告最適化機能（※）を、2020年4月5日(日)をもちまして廃止 ... 性別を ... 推定するために取得する顔画像については ... 一切保存をしておりません ..., JapanTaxi, 2020/03/30)
 # [[https://www.nttdocomo.co.jp/info/news_release/2020/07/13_01.html][（お知らせ）株式会社Mobility Technologiesとの資本・業務提携契約を締結]] (... スマートシティを見据え ... データ活用ビジネスなどにおける事業化を検討 ..., ドコモ、 2020/07/13)
 # [[https://mo-t.com/news/pr/2020/07/13/864b5d80-3191-5241-9d4d-48fac5fdb841/][モビリティDXを推し進めるMobility Technologies、 NTTドコモを含む3社との資本業務提携により2020年の累計調達額が最大266.25億円※に]] (... ドコモと ... スマートシティを見据えた、データビジネス ... に合意 ... 東京センチュリー、電通 ... と共に邁進していきます ..., Mobility Technologies, 2020/07/13)
 
@@ -11950,6 +11972,7 @@ Google のアプリがプリインストールされてないので注意。 *(!
 # Celia (voice assistant, 小艺 (Xiaoyi), EMUI 10.1, P40, 2020/04/07?)
 # MeeTime (video calling, EMUI 10.1, P40, 2020/04/07?)
 # 10x optical zoom camera (periscope module, P40 Pro+, 2020/06/06)
+# HUAWEI STORE (app, 2020/10/16)
 #
 # 直営のカスタマーサービスセンターがある。 (銀座、梅田、新宿)
 # 認定修理店もある。 (スマホ修理工房の札幌、仙台、東京、横浜、名古屋、広島、福岡、 2018/06/20~)
@@ -13504,7 +13527,7 @@ eSIM 対応。
 # feature drop (new features for Pixel, 2019/12/09)
 # Android Flash Tool (AOSP, 2020/01/28)
 #
-# Pixel 5 (2020/10/15?)
+# Pixel 5 (2020/10/15)
 # Android 11
 # 5G 対応。
 # eSIM 対応。
@@ -13513,7 +13536,7 @@ eSIM 対応。
 # 防水おサイフ。 (おサイフは日本向けのみ)
 # Sorta Sage (smudge wand?, white sage?, WHO SAGE?, ...?)
 #
-# Pixel 4a 5G (2020/10/15?)
+# Pixel 4a 5G (2020/10/15)
 # Android 11
 # 5G 対応。
 # eSIM 対応。
@@ -13521,6 +13544,8 @@ eSIM 対応。
 # おサイフ。 (日本向けのみ)
 # Just Black
 # [[https://www.gizmodo.jp/2020/10/google-event-pixel5-pixel4a5g.html][何かとJAPAＮファーストだった今日のGoogle Pixel 5／4a 5Gイベント。6つの驚きポイント]] (... 本日のGoogleイベント｢Launch Night In｣ ... 米国は思いきり昼なのにイベントタイトルは｢Night In｣で日本時間。映像も今回初めての日本語字幕付き ... イベントを見守る役を演じるのも日本育ちのAndroid/Chrome上級VPのHiroshi Lockheimerさん ... Pixel 4a 5G対応版は日本だけ10月15日発売で、｢残りの国々は11月から順次リリース｣ ... Pixel 5も10月15日発売になるのは日本を含めた8か国で、米国は29日発売 ... 米国発売日が不明という異例のローンチ ..., 大手キャリアによる布教活動が制限されたのを祝ってるのかも？、 Gizmodo, 2020/10/01)
+# [[https://japanese.engadget.com/google-pixel5-pixel4a-5g-150033671.html][Pixel 5 と 4a 5G レビュー 5G対応は嬉しいがデュアルSIMは4Gのみ（石野純也）]] (... 両機種はeSIMにも対応していますが、物理SIMとのデュアルSIM環境では、どちらか一方をオフにしないと5Gが利用できないようです。デュアルSIMをオンにした際は、画面にその旨を知らせる注意書きが表示 ... 楽天モバイルのeSIMはきちんと動作しています。電話の発着信や、データ通信が通ることは確認済み ..., Engadget 日本版、 2020/10/15)
+# [[https://twitter.com/IIJ_doumae/status/1316639448528949249][... IIJmio タイプD・タイプAのSIM、eSIMで利用できることを確認 ...]] (@IIJ_doumae, 2020/10/15)
 #
 # Pixel 4a (2020/08/20)
 # Android 10
@@ -13886,11 +13911,12 @@ DSDV 対応。
 # Mi Cloud
 # Mi Account (device-based two-factor authentication, MIUI 10?)
 # wraparound display (180% screen-to-body ratio, +Mi MIX Alpha+)
-# Super Charge Turbo? (100W, 4000mAh in just 17 min?)
 # in-display fingerprint sensor? (LCD, IR-based, Redmi Note 9?, Redmi K30 Pro?, 2020/??/??)
 # 5G DSDV (Dual VoNR?, MediaTek Dimensity 820 SoC, Redmi 10X 5G, 2020/05/26)
 # 12x optical zoom camera?
 # Mi Drop -> ShareMe (ad-free P2P file transfer, 2019/07/20)
+# Mi Turbo Charge (120W, Mi 4000mAh in just 17 min?, 10 Ultra, 2020/08/16)
+# Mi Wireless Charging? (80W, 4000mAh in just 19 min?)
 #
 # 新しくなった Mimoji が Apple の Memoji そっくりだって報じられて、 Xiaomi が否定。 (Gizmochina, 2019/07/01)
 # 広告に Memoji を使ってた。 (9to5Mac, 2019/07/05)
@@ -14885,6 +14911,8 @@ DSDV 対応。 (SIMx2 + microSD スロット)
 #   米地裁が、 WeChat アプリの配信禁止を一時停止させた。 (インストール済み WeChat も停止させる予定だった？、 CNBC, 2020/09/20)
 #   米地裁が、 TikTok アプリの配信禁止を一時停止させた。 (米向け事業の売却期限は 2020/11/12 のまま、 CNBC, 2020/09/27)
 #   米司法省が、 WeChat アプリを配信禁止するために控訴。 (Reuters, 2020/10/02)
+#   米司法省が、 TikTok アプリを配信禁止するために控訴。 (Reuters, 2020/10/14)
+#   提携発表の直前に Oracle CEO が米議員に寄付？してた。 (Lindsey Graham, US$ 250000, Verge, 2020/10/17)
 #   (Twitter?, Google?, SoftBank? ..., Clean Network?)
 # [[https://www.reuters.com/article/us-bytedance-tiktok-exclusive-idUSKBN1Y10OH][Exclusive: China's ByteDance moves to ringfence its TikTok app amid U.S. probe - sources]] (Reuters, 2019/11/27)
 # [[https://www.cnbc.com/2019/11/28/tiktok-lifts-ban-on-us-teen-who-criticized-china-treatment-of-muslims.html][TikTok lifts ban on US teen who criticized China's treatment of Muslims]] (CNBC, 2019/11/28)
@@ -14911,6 +14939,8 @@ DSDV 対応。 (SIMx2 + microSD スロット)
 # [[https://www.cnbc.com/2020/09/20/judge-halts-trump-administration-order-banning-wechat-from-app-stores.html][Judge halts Trump administration order banning WeChat from Apple and Google app stores]] (CNBC, 2020/09/20)
 # [[https://www.cnbc.com/2020/09/28/tiktok-ban-judge-blocks-order-banning-downloads-from-us-app-stores-.html][Judge blocks Trump administration's ban on new TikTok downloads from U.S. app stores]] (CNBC, 2020/09/27)
 # [[https://www.reuters.com/article/uk-usa-wechat-ban-idUKKBN26N2XS][U.S. government appeals judge's ruling to block WeChat app store ban]] (Reuters, 2020/10/02)
+# [[https://www.reuters.com/article/us-usa-tiktok-ban-appeal/u-s-court-agrees-to-expedite-government-tiktok-app-store-ban-appeal-idUSKBN26Z2LM][U.S. court agrees to expedite government TikTok app store ban appeal]] (Reuters, 2020/10/14)
+# [[https://www.theverge.com/2020/10/17/21520356/oracle-tiktok-larry-ellison-lindsey-graham-super-pac-donation-jaime-harrison][Oracle founder donated $250,000 to Graham PAC in final days of TikTok deal]] (米共和党の Lindsey Graham 上院議員は上院司法委員会の委員長、 Verge, 2020/10/17)
 
 # *** Blackview BV5900 (2019/09/11)
 #
@@ -14963,7 +14993,7 @@ Android 10 Go Edition (日本初？)
 選択肢はすでに払われたのですから。
 
 # Apple SIM (2014/10/16) != eSIM (GSMA standard, iPhone XS~, 2018/09/21)
-# Apple A11 Bionic (10nm) -> A12 (7nm) -> A14? (5nm?) -> A16? (3nm?) -> (2nm?), TSMC
+# Apple A11 Bionic (10nm) -> A12 (7nm) -> A14 (5nm) -> A16? (3nm?) -> (2nm?), TSMC
 # Siri (SiriKit, AI, Differential Privacy (iOS 10~))
 # IPv6 (iOS 10.3)
 # HFS+ -> APFS
@@ -14971,7 +15001,8 @@ Android 10 Go Edition (日本初？)
 # activation lock
 # AppleCare
 # Celluler Payload (APN)
-# ゴリラガラス (Corning)
+# Gorilla Glass (aluminosilicate glass, Corning)
+# Ceramic Shield (iPhone 12, glass ceramic, Corning)
 # WWDC (Worldwide Developers Conference)
 # WWDC -> Apple Developer (app)
 # Micro LED
@@ -15018,6 +15049,7 @@ Android 10 Go Edition (日本初？)
 # Apple Platform Security
 # iCloud Keychain (password manager apps)
 # [[https://github.com/apple/password-manager-resources][apple/password-manager-resources: A place for creators and users of password managers to collaborate on resources to make password management better.]] (2020/06/05)
+# Sensor-shift OIS (iPhone 12 Pro Max, 2020/11/13?)
 #
 # Hawkeye Access (TrueDepth camera, ARKit 2, hands-free, eye tracking cursor, Hawkeye Labs)
 # [[https://applecensorship.com/][Apple Censorship]] (GreatFire.org)
@@ -15498,6 +15530,8 @@ Apple Store (直営) と、 Apple 正規サービスプロバイダがある。
 # | 2018/10/26 | XR                     | Haptic Touch                                       |
 # | 2019/09/20 | 11, 11 Pro, 11 Pro Max | UWB (iOS 13.1~, IEEE 802.15.3a, spatial awareness) | world model
 # | 2020/04/24 | SE (2nd generation)    |                                                    | 8 upgrade
+# | 2020/10/23? | 12, 12 Pro             | 5G                                                 |
+# | 2020/11/13? | 12 Pro Max, 12 mini    |                                                    |
 # (*1) [[https://qiita.com/m0ch1m0ch1/items/7bf01cee24d8f70ddaa7][免許不要の通信方式sXGPに関する情報まとめ]] (技適取得済みなのは iPhone 7~, @m0ch1m0ch1, 2018/11/18)
 # (*2) [[https://twitter.com/iijmio/status/1190174266118983681][... iOS12.4.3 ... iPhone 6, iPhone 6 PlusにおいてタイプAのSIMカードがご利用できない場合があることを確認しています（なおiPhone 5sは元々タイプAでは動作不可）。]] (au 回線、 @iijmio, 2019/11/01)
 #      [[https://twitter.com/iijmio/status/1205349359686172672][... iOS12.4.3と変わらず利用不可のまま ...]] (iOS 12.4.4, @iijmio, 2019/12/13)
