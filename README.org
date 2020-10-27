@@ -2231,6 +2231,8 @@
 # 「武田総務大臣と携帯電話利用者との意見交換会」の開催 (2020/10/06 総務省)
 # スマホとかの利用者と非公開の会合予定。 (議事概要のみ公開、 2020/10/08)
 # [[https://www.itmedia.co.jp/mobile/articles/2010/09/news056.html][携帯料金値下げ、一般ユーザーの要望は？ 武田総務大臣との意見交換会で見えたこと (1/2)]] (... 総合通信基盤局電気通信事業部料金サービス課長の川野真稔氏が、会合の内容を説明 ... 総務省側が「格安スマホやサブブランドへの乗り換えは、うまくやっているのか」と質問したところ、「 ... リテラシーが低い人だとなかなか厳しい。MVNOにしたけど戻したいという人もいる」とのこと。「戻したい」の理由までは分からなかった ... 意見交換会について、第2回目以降を開催する予定は現時点ではない ... 「 ... （競争ルールの検証に関する）報告書（案）への意見募集を9月に開始し、今日（10月8日）が締め切りなので、出た意見をとりまとめていく」 ..., ITmedia, 2020/10/09)
+#
+# 「モバイル市場の公正な競争環境の整備に向けたアクション・プラン」の公表 (2020/10/27 総務省)
 
 # 「電波有効利用成長戦略懇談会 報告書（案）」に対する意見募集 (2018/07/09 総務省)
 # 「電波有効利用成長戦略懇談会 報告書」及び意見募集の結果の公表 (2018/08/31 総務省)
@@ -2398,6 +2400,8 @@
 # [[https://www.jiji.com/jc/article?k=2020051500779][ＧＡＦＡにも「通信の秘密」適用 改正事業法が成立]] (... 海外企業にも国内企業と同様に「通信の秘密」を適用する改正電気通信事業法が１５日、参院本会議で賛成多数で可決、成立 ... １年以内に施行 ... 同意なしに電子メールなどの通信内容を閲覧することを禁じており、違反した場合は事業者名を公開する行政処分 ..., 時事通信、 2020/05/15)
 # [[https://www.pressnet.or.jp/news/headline/200727_13677.html][広告取引実態の開示を IT大手寡占巡り意見書 新聞協会]] (... サイト運営者が運用型広告の落札価格などを把握できる仕組み作りなどを求める意見書を内閣官房に提出 ..., 新聞協会、 2020/07/27)
 # [[https://japan.googleblog.com/2020/07/digital-ads-fairness-competition.html][デジタル広告における透明性と競争]] (... 検索アルゴリズムの重要かつサイト管理者が対応可能な変更については事前に通知 ... 広告においてサイト運営者やパブリッシャーが受領する収益を公開しています ... 2019 年に ... サイト運営者は発生した収益の 69％ 以上を受領 ... Google の広告 ... で自社のメディアを優先的に取り扱うことはありません ... ユーザーは、パーソナライズド広告を受け取ることなくサービスを利用することを選択できます ... 構想中の監査・認証機関 （仮称 JICDAQ: Japan Joint Industry Committee for Digital Advertisement Quality &. Qualify）の合同準備委員会を通じ、アドフラウドの ... 防止 ... に取り組む議論を重ねています ..., 大手の広告主にだけ変更を直接説明することがあるとかユーザーに見せない広告のリアルタイム入札が透明だなんて主張しつつ Google の追跡を拒否させないとか広告詐欺や迷惑な YouTuber を放置してるとは書いてない、 Google Japan Blog, 2020/07/29)
+# [[https://www.ureru.co.jp/news/archives/128][広告代理店上位10社の「GAFA+」への依存度は 71％と判明（売れるネット広告社調べ）]] (... 「GAFA+」をGoogle・Amazon・Facebook・Appleに、Yahoo!・LINEを加えた大手プラットフォームと定義 ... 2019年の日本のインターネット広告媒体費は１兆6,630億円で、そのうちの79.8％を運用型広告 ... 決められた広告枠を買い取って掲載する「純広告」が ... 13.9% ... 本来広告をコントロールすべき広告代理店が、プラットフォームにコントロールされるような状況 ..., 売れるネット広告社、 2020/10/13)
+# [[https://jp.reuters.com/article/jp-ftc-idJPKBN2740NI][地銀合併、利便性で問題なら金融庁に意見＝古谷公取委員長]] (... 公正取引委員会の古谷一之委員長は１９日、ロイターのインタビューで ... 携帯電話市場について再調査を早期に始めたい ... ＧＡＦＡに代表されるデジタルプラットフォーマーについて ... 「米国や欧州の競争当局と連携 ... 」 ..., ロイター、 2020/10/19)
 
 # 文化審議会著作権分科会 著作物等の適切な保護と利用・流通に関する小委員会 4 (2018/10/23 文化庁)
 # 文化審議会著作権分科会 54 (2019/07/05 文化庁)
@@ -2884,6 +2888,8 @@
 #            [[http://blogofmobile.com/article/124627][SoftBank 5G、理論値の変動はアンカーバンドが関係]] (... 地域によってSoftBank 5Gの理論値が変動する ... 内訳こそ非公表としているが、SoftBank 5Gの下り最大2.0Gbps/上り最大103MbpsもNR方式とLTE方式の合計値 ... NR方式のみの理論値に変動はないが ... キャリアアグリゲーション(CA)の組み合わせなど ... により変動する ..., @paopao012, 2020/03/05)
 #            [[https://k-tai.watch.impress.co.jp/docs/interview/1239224.html][ソフトバンク5GにOPPOが加わった理由――菅野モバイル事業推進本部長に聞く]] (... ワイモバイルでの5Gサービスは ... 未定 ... 今後の5Gエリアは ... 既存の周波数が使える ... と立ち上がりが早くなる ..., Impress, 2020/03/06)
 #            [[http://blogofmobile.com/article/125272][ソフトバンクがSoftBank 5Gを開始、世界初のn77]] (@paopao012, 2020/03/27)
+#            [[http://blogofmobile.com/article/131290][ソフトバンクが4G LTE B42の周波数で5G NRを導入へ、対応基地局が技適通過]] (... Ericsson製の基地局「ERS 4408 B42」および「ERS 3227 B42 AS」が2020年9月28日付け ... NR BandはFR1のn77またはn78を導入できる ..., @paopao012, 2020/10/21)
+#            [[http://blogofmobile.com/article/131424][総務省がソフトバンクの4G周波数で5G導入を認定、700MHz帯と3.4GHz帯]] (... 変更を2020年10月23日付けで認定 ... 5Gの特定基地局は2020年度末までに3,181局、2021年度末までに9,641局、2022年度末までに10,441局 ... 人口カバー率は2023年度末までに25,706局および65.4%、2024年度末までに27,574局および66.7% ... 3.9G等普及の開設計画が700MHz帯で、4G等普及の開設計画が3.4GHz帯で ... LTE方式でBand 28とBand 42を導入および運用しているが、NR方式では700MHz帯はFR1のn28を導入することで確定しており、3.4GHz帯はFR1のn77またはn78を導入 ... 総務省は認定に条件を付しており ... 通信速度などを適切に周知するよう求めている ..., @paopao012, 2020/10/24)
 # 2020/04/01 米で T-Mobile (Deutsche Telekom) と Sprint (SoftBank) が合併。
 #            合意を発表。 (2018/04/30)
 #            FCC に申請。 (2018/06/18)
@@ -3054,7 +3060,7 @@ DSDS 対応スマホで音声通話定額を利用するなら、ドコモがお
 # 身に覚えのない "ドコモコウザ" や "デイーバライ" 名義で引き落しがあったら、ドコモが返金するみたい。
 # ドコモ以外の資金移動業者が、総務大臣に言及されるまで黙ってた。 (PayPay, Kyash, LINE Pay, メルペイ、 PayPal, ウェルネット)
 # 銀行たちも、同じことができるサービスを提供してたのに黙ってた。 (Bank Pay, mijica, ...?)
-# (eKYC とマイナンバーカード導入の口実にされちゃいそう)
+# ドコモが、 eKYC 導入の口実にしちゃった。 (マイナンバーカード導入の口実にもされそう？)
 # [[https://piyolog.hatenadiary.jp/entry/2020/09/08/054431][ドコモ口座を悪用した不正送金についてまとめてみた]] (@piyokango, 2020/09/08)
 # [[https://k-tai.watch.impress.co.jp/docs/news/1275/790/index.html][「ドコモ口座」以外で金融機関からの不正引き出しは？ PayPayはあり、au PAYはなし]] (... PayPay広報によれば、「フィッシング詐欺で口座番号が盗まれてしまうなど、PayPayにチャージすることは、過去に起こっていた」という。ただしその件数は非公開 ... 不正利用が発生した金融機関の口座を登録する際は「名前」「口座番号」「暗証番号」の3つだけで済む形 ..., Impress, 2020/09/08)
 # [[https://www.aeonbank.co.jp/news/2020/0910_02.html][d払い（ドコモ口座）におけるイオン銀行口座からのチャージ（入金）停止について]] (前日に新規登録を停止、イオン銀行、 2020/09/10)
@@ -3076,6 +3082,7 @@ DSDS 対応スマホで音声通話定額を利用するなら、ドコモがお
 # [[https://www.asahi.com/articles/ASNB374K7NB3ULFA00D.html][ゆうちょ銀、ミヂカ会員サイトを停止 不正アクセス判明]] (... ミヂカの利用者は約20万人 ... 過去約2カ月分のデータを調べ、7月28～30日、8月1～4日、同14～20日、9月9～13日の各期間で ... ログイン失敗の件数が平常時と比べて100～800倍になっていた ..., 朝日新聞、 2020/10/03)
 # [[https://piyolog.hatenadiary.jp/entry/2020/10/05/073000][ゆうちょ銀行のmijica Webへの不正ログインについてまとめてみた]] (@piyokango, 2020/10/05)
 # [[https://k-tai.watch.impress.co.jp/docs/news/1283169.html][「ドコモ口座」不正利用、補償終えた件数が公表]] (... 被害として確定した金額（件数）は、2850万円（127件） ... 補償を終えた件数は122件、2797万円 ... 残る5件がどの金融機関のものかは開示されていない。また補償額が、ドコモと金融機関の間でどう分担されたかといった扱いについても非開示 ... ドコモでは今後、eKYC（オンラインでの本人確認）や、SMSを使った二段階認証といった対策を導入する方針 ..., Impress, 2020/10/15)
+# [[https://www.nttdocomo.co.jp/info/notice/page/201023_00.html][ドコモ口座をご利用のお客様における本人確認のお願い（チャージ可能な銀行口座を登録済みでドコモ回線をご利用でないお客様向け）]] (... 2020年10月27日（火曜）から ... eKYC ... とドコモショップで ... 本人確認 ... いたします ..., ドコモ、 2020/10/23)
 
 # 2011/06/?? IPv6 対応。
 # 2015/10/?? SIM フリースマホを使えるようになった。 (sp モード)
@@ -3342,6 +3349,7 @@ SIM フリースマホも使える。 (iPhone を除いて "＋メッセージ" 
 #            [[http://blogofmobile.com/article/130717][KDDIと沖縄セルラー電話が4G用3.5GHz帯で5G導入へ、対応基地局が技適通過]] (... スウェーデンのEricsson製の基地局「ERS 4422 B78C」および韓国のSamsung Electronics (サムスン電子)製の基地局「SLS-BD00D」が2020年9月1日付け ... 将来的に3.5GHz帯をLTE方式からNR方式に転用することを計画していると思われ ... Ericssonの基地局の型番規則から推測するとn78となる見込み ... 将来的にn77も導入することが確定している ..., @paopao0128, 2020/10/03)
 #            [[https://k-tai.watch.impress.co.jp/docs/news/1282077.html][auの700MHz帯と1.7GHz帯、5Gへの転用計画が認められる]] (... 8月27日付の官報で、計画変更に関して告示されたことを受け、KDDIでは速やかに5Gへの転用を申請。1カ月あまりでの認定 ... 公表されるもののは、割当から10年以内のもの ... 他の周波数帯でも転用が進められると見られる ..., Impress, 2020/10/09)
 #            [[http://blogofmobile.com/article/130872][総務省がKDDIと沖縄セルラーの4G周波数で5G導入を認定、条件に通信速度の周知も]] (... 変更を2020年10月9日付けで認定 ... 5Gの特定基地局は2020年度末までに0局、2021年度末までに8,827局、2022年度末までに11,402局 ... 人口カバー率は2024年度末までに14,806局および37.3%、2026年度末までに20,985局および53.5% ... 3.9G等普及の開設計画が700MHz帯で、4G等普及の開設計画が1.7GHz帯となり、それぞれLTE方式でBand 28とBand 3を運用しているが、NR方式ではFR1のn28とn3を導入する ... 総務省は変更の認定に条件を付しており ... 通信速度などを丁寧かつ分かりやすい方法で適切に周知するよう求めている ..., @paopao0128, 2020/10/09)
+#            [[http://blogofmobile.com/article/131220][KDDI、サブ6GHz帯とミリ波を分けたau 5Gエリアマップを公開]] (... 2020年10月18日 ... 5Gのエリアと示す場所でもau 5Gを利用できない場合があったが、更新に伴い解消 ..., @paopao0128, 2020/10/19)
 # 2020/10/01 子会社の UQ mobile 事業を吸収。
 # 2022/03/末 3G 停波予定。
 #            プリペイド携帯も終了予定。 ("ぷりペイド", ~2021/12/15)
@@ -3559,17 +3567,20 @@ iPhone でさえ、 iPhone XS 以降じゃないと使えない。
 eSIM も発行してる。
 動作しないスマホも確認されてるので注意。
 仕様を変えたスマホを同じ名前で販売して、告知を忘れたと説明してくるので注意。 *(!?)*
+SIM の交換や再発行が無料。 *(!?)*
 # [[https://network.mobile.rakuten.co.jp/product/certified-products/][楽天回線対応製品]]
 # [[https://network.mobile.rakuten.co.jp/product/byod/][ご利用製品の対応状況確認]] (よそで売ってるスマホも動作確認中)
 # [[https://network.mobile.rakuten.co.jp/faq/detail/00001495/][APN情報を確認したい]] (... 楽天モバイル以外で購入された製品は動作保証対象外 ... iPhone X以前のモデルでは動作しないことが確認されています ..., 2020/04/08?)
 # [[https://network.mobile.rakuten.co.jp/product/sim/esim/][eSIMとは]] (... iPhone ... Pixel 4 ... は動作保証外 ... SIMロック解除 ... が必要 ..., 2020/04/08)
 # [[https://network.mobile.rakuten.co.jp/product/smartphone/galaxy-a7/spec.html][スペック詳細 | Galaxy A7 | スマートフォン]] (... Band42非対応のため削除（2020年6月9日） ..., 告知なし、 2020/06/09)
-# [[https://k-tai.watch.impress.co.jp/docs/news/1282313.html][楽天モバイルの「SIM交換」手数料0円に]] (... SIMカードやeSIMの交換、再発行の手数料を0円に改定し ... 12日から ... 楽天モバイルでは ... 「 ... 機種変更にご負担なく切り替えを行っていただけるようになります」 ..., Impress, 2020/10/12)
+# [[https://network.mobile.rakuten.co.jp/faq/detail/00001876/][nanoSIMカードやeSIMの交換や再発行手数料の無料化について詳しく教えてください]] (... 2020年10月12日午前9時より ... 期間は特に定めておりません ... 今後のnanoSIMカードやeSIMの再発行および交換については、一切無料 ... 配送料はいただいておりません ... 破損、水濡れなどお客様の過失の場合も、無料で交換・再発行 ... お申し込みから到着まで3日～1週間程度 ... 交換方法、再発行の手続きは ... my 楽天モバイルから ... nanoSIMカード ... は ... 店舗ではお受け取りいただけません ... 契約住所宛てにお届けいたします ... 一部の店舗でのみ、SIMの再発行に対応 ... もともと持っていたnanoSIMカードは ... 返送をお願いいたします。なお、その際の送料はお客様にご負担いただいております ..., 2020/10/12?)
 #
 # iPhone は動作保証されてない。
+# iPhone で楽天 5G を使えない。 (iPhone 12 が 4G のみになる)
 # [[http://blogofmobile.com/article/125738][楽天モバイルの楽天回線、iPhone 11 ProでVoLTEとテザリングを利用する]] (... データ通信および音声通話、テザリングは利用できることを確認 ... パートナーエリアではSMSは送受信ともに利用できる手段を見つけ出せていない ..., @paopao0128, 2020/04/08)
 # [[http://blogofmobile.com/article/125827][楽天モバイル、楽天回線のAPN情報を公開]] (... APN情報の通りに設定してもデータ通信を利用できない場合、ベアラーをLTEに設定するとデータ通信を利用できる場合がある ..., @paopao0128, 2020/04/12)
 # [[https://www.itmedia.co.jp/mobile/articles/2004/14/news097.html][「楽天モバイル」のSIMはiPhoneでも利用できる？ 実際に試してみた]] (... 通話に関しては、楽天SIMを入れたiPhone 11 Pro Maxから発信することはできたが、なぜか着信はできなかった。発信した端末では「ただいま、電話に出ることができません。しばらくたったらお掛け直しください」という音声が流れたので、圏外と認識されているわけではないようだ ... データ通信も ... 突然通信がストップしたりと、不安定 ..., ITmedia, 2020/04/14)
+# [[http://blogofmobile.com/article/131456][iPhone 12 Proでは楽天モバイルの5Gを利用できず]] (... Appleは公式ウェブサイトで ... 5Gを利用できると案内したMNOおよびMVNOに ... Rakuten Mobileは入っていない ..., @paopao0128, 2020/10/25)
 #
 # 技適の持続可能性をこっそり追求して、総務省に刺された。 (2020/07/10 総務省)
 # 経緯を Rakuten Mini のとこに書いてく。
@@ -3826,6 +3837,7 @@ eSIM も発行してる。
 #            [[https://www.itmedia.co.jp/mobile/articles/2008/11/news129.html][楽天モバイルは2021年夏に人口カバー率96％へ、5Gは「大々的に発表する」と三木谷氏]] (... 2020年6月末時点で5739局の基地局が開設しており電波発射済み。この他、「建設完了しているのは1万以上だけだが、NTT回線との接続を待っている基地局が非常に多い」（三木谷氏） ..., ITmedia, 2020/08/11)
 #            [[http://blogofmobile.com/article/130546][楽天モバイル、楽天回線の拡大予定のエリアを公開]] (... 2020年9月29日時点では楽天回線拡大予定エリアは2020年10月末時点の予定および2020年12月末時点の予定を確認できる ... 連休後などを除いて基本的にほぼ1週間の間隔でサービスエリアを更新 ..., @paopao0128, 2020/09/29)
 #            [[http://blogofmobile.com/article/131089][楽天モバイル、すべての都道府県で開局]] (... 2020年9月25日から2020年10月8日の間に ... すべての都道府県で1局以上は基地局を開局 ..., @paopao0128, 2020/10/16)
+#            [[http://blogofmobile.com/article/131406][楽天モバイル、東京都・大阪府・奈良県の一部で国内ローミングを順次終了]] (... KDDIは公式ウェブサイトで ... 東京都特別区以外の東京都、大阪市以外の大阪府、奈良県の一部で2020年10月22日より国内ローミングを順次終了していることを案内 ..., @paopao0128, 2020/10/23)
 # 2020/06/30 100 万回線を突破。 (契約申し込み数、 MVNO を含まない)
 # 2020/09/30 5G サービス開始。
 #            [[https://www.anritsu.com/ja-JP/test-measurement/news/news-releases/2019/2019-12-25-jp01][楽天モバイルが5G NR端末受入試験にアンリツのプロトコルテストプラットフォームを採用]] (... これまでも楽天モバイル株式会社の4Gデバイス受入試験をサポート ..., アンリツ、 2019/12/25)
@@ -3849,6 +3861,7 @@ eSIM も発行してる。
 #            [[http://blogofmobile.com/article/130618][楽天モバイルが5Gのエリアを公開、SA構成は2021年Q2に]] (... 2020年9月30日の15時30分より5Gサービスを商用化し ... 北海道、埼玉県、東京都、神奈川県、大阪府、兵庫県の一部で5Gサービスを提供 ... 2021年3月には47都道府県すべてで5Gサービスを提供する予定 ... (4G)のLTE方式と連携して動作するノンスタンドアローン(NSA)構成で ... 2021年第2四半期にはNR方式が単独で動作するスタンドアローン(SA)構成を導入する計画 ..., @paopao0128, 2020/09/30)
 #            [[http://blogofmobile.com/article/130628][楽天モバイルの5G無線局免許取得状況]] (... n77 ... 計 (82) ... n257 ... 合計 (393/16) ... n257は100MHz幅と400MHz幅 ... のため、n257はすべての無線局免許数の次に400MHz幅の無線局免許数も記載 ..., @paopao0128, 2020/09/30)
 #            [[https://network.mobile.rakuten.co.jp/information/news/other/398/][製品購入代金のご請求に関するお詫びとお知らせ]] (... 当社の料金管理分野のシステムベンダーであるNECの子会社Netcracker Technology（ネットクラッカー)社のシステム不具合により、支払い方法が、ご選択いただいた分割払いではなく、一括払いとして処理されていた ... 処理を取り消し ..., 2020/10/06)
+#            [[http://blogofmobile.com/article/131445][NECとAnalog Devices、楽天モバイル向け5G無線機の開発で協業]] (... 大規模MIMO (Massive MIMO)アンテナの開発で協業しており、Analog Devicesが開発した第4世代広帯域RFトランシーバのソリューションを採用 ... 5Gオープン仮想化RANインターフェイスを具備し ... 周波数はサブ6GHz帯の3.7GHz帯に対応 ... すでにRakuten Mobile向けに出荷を開始 ..., @paopao0128, 2020/10/24)
 # 202?/??/?? 低軌道衛星基地局？
 #            [[https://k-tai.watch.impress.co.jp/docs/news/1238537.html][楽天モバイル、衛星通信で全国エリア100％目指す――衛星通信の米ASTと業務資本提携]] (... 3日 ... 発表され ... 楽天からはASTの資本20％の出資が実施されるとともに業務提携も締結される ..., Impress, 2020/03/03)
 #            [[https://www.itmedia.co.jp/mobile/articles/2003/03/news117.html][楽天モバイルのキャリアサービス、2021年3月末に全国エリアへ “宇宙”からのエリア化も視野に]] (... 試験機「BlueWalker 1」は現在、軌道上を周回しつつ実証実験を続けている ..., ITmedia, 2020/03/03)
@@ -4782,6 +4795,7 @@ DNS で自社の IP アドレスを返して、内容を収集されることも
 
 # IIJmio meeting 28 (#iijmio)
 # オンライン開催になった。 (COVID-19, 2020/10/10 のみ)
+# まだ 5G サービスを提供する予定がない。
 
 # IIJ Technical DAY 2018 (#iij_its2018, 2018/11/22)
 # [[https://togetter.com/li/1291038][IIJ Technical DAY 2018 #iij_its2018]] (@goto_ipv6, Togetter, 2018/10/22)
@@ -5761,11 +5775,12 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            - 最初に削除しようとした人とは関係のない人による、目視ありの審査をしてから削除。
 #            - 異議申し立てできるようにする。
 #            いろんな団体が連名で、 CEO への公開のお手紙で導入を求めてる。 (2018/11/15)
-#            "独立した" 監督委員会が、 Facebook によって設置される予定。 (2020/10/??)
+#            "独立した" 監督委員会が、 Facebook によって設置された。 (2020/10/22)
 #            - 憲章が公表されたけど、何の権限もない。 (2019/09/17)
 #            - 初期メンバーの 16 人を発表。 (2020/05/06)
 #            - 委員会の設置を米大統領選挙の後まで延期するってツイート。 (@OversightBoard, Engadget, 2020/07/08)
 #            - Facebook に委員会の権限を認めさせるか辞めるよう、米在住メンバーに公開のお手紙。 (Accountable Tech, 2020/07/20)
+#            - すでに Facebook から拒否された苦情の受け付けを開始。 (審査されるとは限らない、 Oversight Board, 2020/10/22)
 #            "実在する" 監督委員会が、人権団体とかによって設立された。 ("Real Facebook Oversight Board", NBC, 2020/09/25)
 #            - Facebook の苦情で、公式サイトのドメインが使えなくなった。 (Register, 2020/10/09)
 #              商標とフィッシングサイトの問題が指摘されてる。 (realfacebookoversight.org, realfacebookoversight.com)
@@ -5856,6 +5871,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            政治広告に限らないツールになった。 (Ad Archive -> Ad Library, 2019/03/28)
 #            - 50 以上の国で、利用できるようになった。 (2019/06/25)
 #            - 米 NY 大学の調査で、広告主が誰かわからないのが多いって指摘された。(NYU Tandon School of Engineering, 2020/03/06)
+#              調査をやめてデータを削除しろって、 Facebook が要求。 ("Ad Observatory", Verge, 2020/10/23)
 #            - シェアされた広告にも、誰が資金提供したのか表示するようになった。 (2020/06/16)
 #              設定で、政治広告を非表示にできるようになった。 (米向けから)
 # 2018/06/30 米議会への回答書が公開された。 (748p)
@@ -6240,6 +6256,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #              (BAD ADS Act: Behavioral Advertising Decisions Are Downgrading Services Act)
 #              誤報や偽情報を放置させるのは危ないって、投票を呼び掛ける団体も訴えてる。 (修正 1 条、 Free Press, 2020/08/27)
 #              米 4 州の司法長官が、米大統領令を支持。 (TX, LA, IN, MO, Reuters, 2020/09/03)
+#              FCC 委員長が、通信品位法 230 条に "解釈" を加えたがってる。 (FCC blog, 2020/10/21)
 #            - 米大統領が、 1960 年代の公民権運動を抑圧した言い回しで脅迫するツイート。 (@realDonaldTrump, 2020/05/29)
 #              Twitter が、暴力の賛美を警告。 ("略奪が始まれば銃撃が始まる" とツイートしてた)
 #              Facebook は、警告とかしてない。 (従業員たちが抗議、 NYT, 2020/06/01)
@@ -6319,6 +6336,9 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #              パソコンを修理店に持ち込んだ人が、受け取りに来ない？ (店主は米大統領支持者、 Business Insider, 2020/10/14)
 #              New York Post が保釈中の元主席戦略官に聞いて、米大統領の顧問弁護士からメールのコピーを入手？
 #              Facebook と Twitter に記事の拡散を一時的に制限されて、米大統領が喜んでる。 (Business Insider, 2020/10/15)
+#              メールの宛先になってる Tony Bobulinski が出てきて、メールが本物だって発言。 (Fox News, 2020/10/22)
+#              ... 米大統領選挙直前に両陣営の中国疑惑で応酬 ...
+#              米上院司法委員会が、 2 社の CEO に証言させると発表。 (2020/11/17?, U.S. Senate Judiciary Committee, 2020/10/23)
 # 2018/09/26 年末までにフェイクニュースへの自主的な対策をすることで、 EU と合意。 (Code of Practice)
 #            効果がなければ、新しい規制を作るらしい。
 #            間違った投票案内を、報告できるようになった。 (Incorrect Voting Info, 2018/10/15)
@@ -6894,6 +6914,11 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            - 世界恐慌のあと銀行と証券を分離したような、 GAFA の解体を提案してる。 (米民主党、 CNBC, 2020/10/06)
 #              内部で競争を演出してるって、 GAFA が反論。 (買収、併売、アプリ配信、検索、広告、 ...)
 #              (Glass-Steagall Act, 1933 Banking Act, 1933/06/16)
+#            米司法省と 11 の州が、独占禁止法違反で Google を提訴。 (米共和党側のみ、 DOJ, 2020/10/20)
+#            - 検索と検索広告の独占をこっそり維持するための、依存関係を構築済み。 (真似できない支払いを含む)
+#            - 禁句を避けて置き換えを駆使した文書を公開して、全面的に争うみたい。 (Google Blog, 2020/10/20)
+# [[https://www.justice.gov/opa/pr/justice-department-sues-monopolist-google-violating-antitrust-laws][Justice Department Sues Monopolist Google For Violating Antitrust Laws]] (DOJ, 2020/10/20)
+# [[https://blog.google/outreach-initiatives/public-policy/response-doj/][A deeply flawed lawsuit that would do nothing to help consumers]] (Google Blog, 2020/10/20)
 # 2019/07/24 FTC から US$ 5 billion の罰金を科された。
 #            SEC からも US$ 100 million の罰金を科された。
 #            サービスの変更やデータの利用制限とか求められることもなく、 Facebook が経営陣の免責まで勝ち取っちゃった。
@@ -7003,6 +7028,7 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 #            Facebook の子会社 Calibra が、 Novi Financial に社名変更。 (ウォレットアプリも Novi になる、 2020/05/26)
 #            米司法省が、暗号通貨の悪用についてまとめた文書を公開。 (Cryptocurrency Enforcement Framework, DOJ, 2020/10/08)
 #            中国が、中央銀行で発行する暗号通貨を実験。 (2020/10/12~2020/10/18, CBDC, TechCrunch, 2020/10/12)
+#            バハマが、中央銀行で発行する暗号通貨を開始。 (Sand Dollar (BSD), US$ pegged, @CentralbankBS1, 2020/10/21)
 #            各国政府から、中止を要求されるかも。 (shadow banking?)
 #            (広告利用に同意がいるだけ？暗号通貨で単一市場？ WeChat と同じ？これで会社分割されても大丈夫？)
 #            (Facebook が扱えない情報をなくして、プライバシーを社会的に殺す計画を CEO が実行に移しちゃう？)
@@ -7753,6 +7779,13 @@ Instagram のアカウントや連絡先を同期したあげく、公開しち�
 # [[https://nypost.com/2020/10/14/email-reveals-how-hunter-biden-introduced-ukrainian-biz-man-to-dad/][Hunter Biden emails show leveraging links with dad to boost Burisma pay]] (New York Post, 2020/10/14)
 # [[https://www.businessinsider.com/new-york-post-may-have-identified-hunter-biden-source-2020-10][The New York Post inadvertently revealed the original source of its dubious Hunter Biden story]] (Business Insider, 2020/10/14)
 # [[https://www.businessinsider.com/new-york-post-hunter-biden-trump-facebook-twitter-section-230-2020-10][Trump threatened Facebook and Twitter again after they throttled the spread of a dubious New York Post story about Hunter Biden]] (Business Insider, 2020/10/15)
+# [[https://www.fcc.gov/news-events/blog/2020/10/21/fccs-authority-interpret-section-230-communications-act][The FCC's Authority to Interpret Section 230 of the Communications Act]] (FCC blog, 2020/10/21)
+# [[https://twitter.com/CentralbankBS1/status/1318949051094761472][... #sandDollar enabled today. ...]] (@CentralbankBS1, 2020/10/21)
+# [[https://www.foxnews.com/politics/biden-campaign-response-tony-bobulinski-hunter-overseas-business-china][Biden campaign slams Hunter Biden associate's claims about overseas business as 'desperate, pathetic farce']] (Fox News, 2020/10/22)
+# [[https://about.fb.com/news/2020/10/oversight-board-to-start-hearing-cases/][Oversight Board to Start Hearing Cases]] (2020/10/22)
+# [[https://www.oversightboard.com/news/833880990682078-the-oversight-board-is-now-accepting-cases/?_fb_noscript=1][The Oversight Board is now accepting cases]] (Oversight Board, 2020/10/22)
+# [[https://www.judiciary.senate.gov/press/rep/releases/chairman-graham-tech-ceos-to-testify-on-censorship-and-suppression-of-news-articles-handling-of-2020-election][Chairman Graham: Tech CEOs to Testify on Censorship and Suppression of News Articles, Handling of 2020 Election]] (U.S. Senate Judiciary Committee, 2020/10/23)
+# [[https://www.theverge.com/2020/10/23/21531232/facebook-nyu-ads-politics-data-election][Facebook wants the NYU Ad Observer to quit collecting data about its ad targeting]] (Verge, 2020/10/23)
 
 *** WhatsApp (Facebook)
 
@@ -8407,6 +8440,8 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # [[https://www.state.gov/announcing-the-expansion-of-the-clean-network-to-safeguard-americas-assets/][Announcing the Expansion of the Clean Network to Safeguard America’s Assets]] (U.S. Department of State, 2020/08/05)
 # [[https://k-tai.watch.impress.co.jp/docs/news/1270869.html][米国の「5Gクリーンネットワーク」企業にソフトバンクと楽天追加]] (... 日本からは当初、NTTがコメントを寄せたほか、KDDIの名前も含まれていた ..., Impress, 2020/08/14)
 # [[https://www.reuters.com/article/us-usa-trade-china/national-security-concerns-threaten-undersea-cable-to-china-wsj-idUSKCN1VI1I9][National-security concerns threaten undersea cable to China: WSJ]] (Reuters, 2020/08/28)
+# [[https://www.reuters.com/article/sweden-huawei-int-idUSKBN2750WA][Sweden bans Huawei, ZTE from upcoming 5G networks]] (スウェーデンが 2025 年初までに 5G から Huawei 機器を排除、 Reuters, 2020/10/20)
+# [[https://www.reuters.com/article/us-huawei-italy-5g/italy-vetoes-5g-deal-between-fastweb-and-chinas-huawei-sources-idUKKBN2782A5][Italy vetoes 5G deal between Fastweb and China's Huawei: sources]] (伊政府が拒否権を行使して 5G から Huawei 機器を排除、 Reuters, 2020/10/23)
 #
 # 連邦通信委員会が、ネット中立性を廃止。 (network neutrality, FCC: Federal Communications Commission, 2018/04/23~)
 # ネットが公共インフラじゃなくなる。 (OMB: Office of Management and Budget, 米行政管理予算局、 2018/06/11~)
@@ -9881,15 +9916,16 @@ OCN モバイル ONE との SIM 契約なしで使える。
 # 4G band
 # | freq (MHz) | SoftBank | docomo | au         | Rakuten |                 |
 # |------------+----------+--------+------------+---------+-----------------|
-# |        700 |       28 | 28B    | (*1) 28(A) |         |                 |
+# |        700 |  (*2) 28 | 28B    | (*1) 28(A) |         |                 |
 # |        800 |          | *19*   | *18(26)*   |         |                 |
 # |        900 |      *8* |        |            |         |                 |
 # |       1500 |       11 | 21     | 11         |         |                 |
 # |       1800 |        3 | 3      | (*1) 3     | 3       | 総務省では 1700 |
 # |       2100 |      *1* | *1*    | *1*        |         | 総務省では 2000 |
 # |       2500 |       41 |        | 41         |         | AXGP, WiMAX 2+  |
-# |       3500 |       42 | 42     | 42         |         | 総務省では 3400 |
+# |       3500 |  (*2) 42 | 42     | 42         |         | 総務省では 3400 |
 # (*1) 5G 転用予定。 (2020/10/09 認定)
+# (*2) 5G 転用予定。 (2020/10/23 認定)
 #
 # 3G band
 # | freq (MHz) | SoftBank | docomo  | au (CDMA2000) |
@@ -10086,6 +10122,11 @@ OCN モバイル ONE との SIM 契約なしで使える。
 #   CDD (Compatibility Definition Document)
 #   CTS (Compatibility Test Suite)
 #   VTS (Vendor Test Suite)
+# - Device identifier changes
+#   Android ID が、スマホのユーザーやアプリごとに違う値になった。 (Settings.Secure.ANDROID_ID, SSAID)
+#   アプリを再インストールしても変更できない。
+#   ファクトリーリセットとかすれば変更できる。
+#   以前は、どのアプリからも同じ値になってた。
 # - Wide color profiles
 #   アプリで使える色が増えた。
 #   表示できるディスプレイを載せたスマホがいるけど。
@@ -10897,6 +10938,7 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 # [[http://blogofmobile.com/article/125429][NTTドコモの5Gスマホ、eLTE通信中に5G表示の場合も]] (... 総務省が掲載した資料では待受時は ... eLTE方式およびLTE方式で4Gとする方向で検討している ... DOCOMOは ... eLTE方式で待受時はRAT表示を5Gとすることに決めた模様 ... Galaxy S20 5G SC-51AではeLTE方式のみで通信時もRAT表示が ... しばらく5Gから4G+に切り替わらない事象が確認できた ..., @paopao0128, 2020/03/30)
 # [[https://japanese.engadget.com/p40-lite-5g-034507870.html][4万円を切りの高コスパ──P40 lite 5G を試す。GMS非搭載が唯一の悩み]] (... アンテナピクトはeLTEにつながるだけで常に5G ..., Engadget 日本版、 2020/07/09)
 # [[https://www.itmedia.co.jp/mobile/articles/2010/09/news028.html][ゲーミングスマホ「ROG Phone 3」は快適だが、ゲーム市場の異変が気になる MVNOの5G SIMも試した (1/3)]] (...  LinksMateの5G契約を、ドコモの5Gエリアで速度チェック。4G回線につないだ場合と速度は変わらなかった ..., ITmedia, 2020/10/09)
+# [[http://blogofmobile.com/article/131467][iPhone 12 Proでアンテナピクト表示をチェック、eLTE待機時は5G表示に]] (... eLTE方式で待機時はNR方式のエリアに関係なく5G表示となり、通信を開始後にeLTE方式とNR方式で同時通信時は引き続き5G表示を維持し、eLTE方式で通信時はしばらく経つと4G表示へ切り替わることが確認できた ..., @paopao0128, 2020/10/25)
 #
 # 第5世代移動通信システムの導入のための周波数の割当てに関する意見募集 (2018/11/02 総務省)
 # 第5世代移動通信システムの導入のための周波数の割当てに関する意見募集の結果及び電波監理審議会からの答申 (2018/12/14 総務省)
@@ -10935,6 +10977,7 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 # 電波法施行規則等の一部を改正する省令案等に対する意見募集の結果及び電波監理審議会からの答申 (2020/10/12 総務省)
 # 無線局免許手続規則に基づく無線局の設置する地域に関する告示案等に係る意見募集 (2020/10/14 総務省)
 # 令和2年度「地域課題解決型ローカル5G等の実現に向けた開発実証」における実証内容の決定 (2020/10/16 総務省)
+# ソフトバンク株式会社に係る特定基地局の開設計画の変更認定 (2020/10/23 総務省)
 # - エリアは、 10km^2 で 4600 カ所くらいに区切ったもの。 (4G の人口カバー率じゃない)
 # - 5 年以内に 50% のエリアで、親になる基地局を求めてる。 (子局はできるだけたくさん)
 # - 2 年以内に全都道府県でサービス開始。
@@ -10988,6 +11031,8 @@ DSDS 対応のスマホは、音声通話とパケット通信の契約を分け
 # [[http://blogofmobile.com/article/130544][徳島県、ローカル5Gの基地局免許を取得]] (... 2020年9月24日付けで ... 徳島県とCATV TOKUSHIMAは同日に無線局免許を取得しており、無線局免許数、無線局の種別、送受信所、制御所もすべて一致  ..., @paopao0128, 2020/09/29)
 # [[https://k-tai.watch.impress.co.jp/docs/news/1280627.html][携帯各社「5G用に新しい電波」求める、総務省の周波数プラン案に]] (... 1.7GHz帯の5Gへの割当 ... ドコモと楽天は早期の割当を希望し、KDDIは2021年度後半頃の割当を希望 ... 2.3GHz帯、4.9GHz帯、26GHz帯、40GHz帯について ... 4社とも2.3GHz帯、4.9GHz帯、26GHz帯を挙げたほか、楽天モバイル以外の3社は40GHz帯の活用も希望 ..., Impress, 2020/10/02)
 # [[https://www.gmo.jp/news/article/6928/][日本初！スタンドアローン構成のローカル5G用無線局の予備免許を取得]] (... 予備免許取得日 ... 2020年9月11日 ... 28GHz帯 ... 2020年12月には同スペースにおける4.5GHz帯無線局の免許申請を予定 ..., GMO インターネット、 2020/10/05)
+# [[http://blogofmobile.com/article/131286][KDDIとソフトバンク向けFDD 5G NR基地局が技適通過、エリクソン製でn3/n28に対応]] (... Ericsson製の基地局「ERS 2217 B28A」および「ERS 4415 B3B」が2020年9月17日付け ... NR Bandは700MHz帯がFR1のn28、1.8GHz帯がFR1のn3 ... KDDIとSoftBankは共同で設立した折半出資合弁会社の5G JAPANを通じ ... 基地局の相互利用 ... でも使用すると思われる ..., @paopao0128, 2020/10/21)
+# [[http://blogofmobile.com/article/131335][野村総合研究所がローカル5Gの免許を取得]] (... 2020年10月8日付け ... 無線局免許数はそれぞれ1局で、送受信所と制御所はいずれも神奈川県横浜市西区 ... ミリ波(mmWave)の28GHz帯で100MHz幅、自営等BWAが2.5GHz帯の20MHz幅 ..., @paopao0128, 2020/10/23)
 #
 # CA (Carrier Aggregation: 搬送波集合)
 # CC (Component Carriers: 成分搬送波)
@@ -11971,8 +12016,10 @@ Google のアプリがプリインストールされてないので注意。 *(!
 # eSIM (P40, 2020/04/07?)
 # Celia (voice assistant, 小艺 (Xiaoyi), EMUI 10.1, P40, 2020/04/07?)
 # MeeTime (video calling, EMUI 10.1, P40, 2020/04/07?)
-# 10x optical zoom camera (periscope module, P40 Pro+, 2020/06/06)
 # HUAWEI STORE (app, 2020/10/16)
+# 10x optical zoom camera (periscope module, P40 Pro+, 2020/06/06)
+# 17x optical zoom camera? (Mate 40 Pro+, 2020/??/??)
+# free-form lens? (distortion-free wide-angle camera, Mate 40 Pro+, 2020/??/??)
 #
 # 直営のカスタマーサービスセンターがある。 (銀座、梅田、新宿)
 # 認定修理店もある。 (スマホ修理工房の札幌、仙台、東京、横浜、名古屋、広島、福岡、 2018/06/20~)
@@ -12773,10 +12820,23 @@ Nexus 6 を作ってた。
 # Android 10
 # 大容量バッテリー。
 #
-# moto g9 play? (?)
+# moto g pro (2020/10/30?)
 # Android 10
-# DSDV?
+# DSDV (4G+4G)
 # 大容量バッテリー。
+# 楽天を除く、どの回線でも使える。 *(!?)*
+# スタイラスペン内蔵。
+# 2 年間の更新を保証。 *(!?)*
+# Android 12 までのバージョンアップを約束。
+# セキュリティパッチが 90 日以内に降ってくる。 (Android Enterprise Recommended)
+# [[https://smhn.info/202010-motorola-moto-g9-play-g-pro-spec][モトローラ、5000mAh電池「moto g9 play」とスタイラス搭載「g PRO」正式発表。]] (... 2機種ともに、楽天モバイルのネットワークも網羅はしているものの、楽天側の評価が終わっていない ..., @sm_hn, 2020/10/26)
+#
+# moto g9 play (2020/10/30?)
+# Android 10
+# DSDV (4G+4G)
+# 大容量バッテリー。
+# ドコモとソフトバンク回線向け。 (au 回線にも更新で対応する予定)
+# セキュリティパッチが 90 日以内に降ってくる。 (Android Enterprise Recommended)
 #
 # moto e6s (2020/09/04)
 # Android 9.0
@@ -12929,7 +12989,7 @@ DSDV 対応。
 # [[https://blg.freetel.jp/news/22011.html][【緊急のお願い】Priori 4 Wi-Fi機能の停止手順追加のお願い]] (2018/06/11)
 # [[https://blg.freetel.jp/news/22032.html][Priori 4 Wi-Fi電波出力問題を修正したソフトウェアアップデートのお知らせ]] (FREETEL_FTJ162D_20180613_1856, 2018/06/21)
 
-# *** Black Shark3 (2020/10/??)
+# *** Black Shark3 (2020/10/20)
 #
 # 中国 Black Shark 製。 (黒鯊科技、 Xiaomi が出資)
 # 5G 対応。
@@ -13099,6 +13159,7 @@ J:COM MOBILE のみ販売。 (大手キャリアを除く)
 # UWB (Ultra-WideBand, Galaxy Note 20 Ultra, 2020/08/21?)
 # VRR OLED (Variable Refresh Rate, Adaptive Frequency, Galaxy Note 20 Ultra, 2020/08/21?)
 # Find My Mobile ("端末リモート追跡", GPS, Wi-Fi, remote lock and erase, Samsung account)
+# metaphotonic OLED (10000 pixels per inch, Stanford University, 2020/10/22)
 #
 # Galaxy の SIM フリー版は、ほぼ海外にしかない。
 #
@@ -13515,7 +13576,7 @@ Google 正規サービスプロバイダがある。 (初期不良とかは Goog
 eSIM 対応。
 おサイフ。
 大容量バッテリー。
-どの回線でも使える。 (楽天を除く？)
+楽天を含む、どの回線でも使える。 *(!?)*
 # Google 正規サービスプロバイダ (iCracked)
 # [[https://developers.google.com/ar/discover/supported-devices][ARCore supported devices]] (Android 8~)
 # USB Type-C (USB PD?, Nexus 5X)
@@ -13529,20 +13590,23 @@ eSIM 対応。
 #
 # Pixel 5 (2020/10/15)
 # Android 11
-# 5G 対応。
+# 5G 対応。 (楽天 5G にも対応予定、 2020/12/??)
 # eSIM 対応。
 # OLED
 # 大容量バッテリー。
 # 防水おサイフ。 (おサイフは日本向けのみ)
 # Sorta Sage (smudge wand?, white sage?, WHO SAGE?, ...?)
+# 楽天を含む、どの回線でも使える。 *(!?)*
+# [[https://smhn.info/202010-google-pixel-5-sukima-gap][Pixel 5の「隙間(スキマ)問題」、Googleが調査を開始]] (... Pixel 5の本体から画面が浮き上がり、隙間が空いてしまうとの報告 ... 他に報告されているPixel 5の事象として、ステレオスピーカーを搭載していると公称しているにも関わらず、音が左右に別れずステレオスピーカーの意味を成していない ... これはPC Watchが報告 ..., @sm_hn, 2020/10/23)
 #
 # Pixel 4a 5G (2020/10/15)
 # Android 11
-# 5G 対応。
+# 5G 対応。 (楽天 5G にも対応予定、 2020/12/??)
 # eSIM 対応。
 # OLED
 # おサイフ。 (日本向けのみ)
 # Just Black
+# 楽天を含む、どの回線でも使える。 *(!?)*
 # [[https://www.gizmodo.jp/2020/10/google-event-pixel5-pixel4a5g.html][何かとJAPAＮファーストだった今日のGoogle Pixel 5／4a 5Gイベント。6つの驚きポイント]] (... 本日のGoogleイベント｢Launch Night In｣ ... 米国は思いきり昼なのにイベントタイトルは｢Night In｣で日本時間。映像も今回初めての日本語字幕付き ... イベントを見守る役を演じるのも日本育ちのAndroid/Chrome上級VPのHiroshi Lockheimerさん ... Pixel 4a 5G対応版は日本だけ10月15日発売で、｢残りの国々は11月から順次リリース｣ ... Pixel 5も10月15日発売になるのは日本を含めた8か国で、米国は29日発売 ... 米国発売日が不明という異例のローンチ ..., 大手キャリアによる布教活動が制限されたのを祝ってるのかも？、 Gizmodo, 2020/10/01)
 # [[https://japanese.engadget.com/google-pixel5-pixel4a-5g-150033671.html][Pixel 5 と 4a 5G レビュー 5G対応は嬉しいがデュアルSIMは4Gのみ（石野純也）]] (... 両機種はeSIMにも対応していますが、物理SIMとのデュアルSIM環境では、どちらか一方をオフにしないと5Gが利用できないようです。デュアルSIMをオンにした際は、画面にその旨を知らせる注意書きが表示 ... 楽天モバイルのeSIMはきちんと動作しています。電話の発着信や、データ通信が通ることは確認済み ..., Engadget 日本版、 2020/10/15)
 # [[https://twitter.com/IIJ_doumae/status/1316639448528949249][... IIJmio タイプD・タイプAのSIM、eSIMで利用できることを確認 ...]] (@IIJ_doumae, 2020/10/15)
@@ -13677,8 +13741,8 @@ Pixel とかも作ってた。
 楽天を除く、どの回線でも使える。 *(!?)*
 大容量バッテリー。
 # 仏 Alcatel は TCL の子会社。
-# Alcatel PIXI4
-# Alcatel SHINE LITE (au VoLTE 対応)
+# FOX が代理店。
+#
 # ドラゴントレイルガラス。 (旭化成)
 # DTEK
 # Hub+
@@ -13705,6 +13769,7 @@ Pixel とかも作ってた。
 # TCL UI (Android 10)
 # 楽天を除く、どの回線でも使える。 *(!?)*
 # 大容量バッテリー。
+# [[https://foxinc.jp/pr/3224/][世界最高水準のディスプレイ製造技術を持つTCLコミュニケーションの「TCL 10 Pro」と「TCL 10 Lite」がUQ mobileとBIGLOBEモバイルタイプaのVoLTEに対応！]] (FOX, 2020/10/22)
 #
 # TCL PLEX (2019/12/28)
 # TCL PLEX UI (Android 9)
@@ -13723,10 +13788,17 @@ Pixel とかも作ってた。
 # どの回線でも使える。 *(!?)*
 # au で売ってるのも SIM フリー。 *(!?)*
 #
+# Alcatel PIXI4 (2017/03/24)
+# Android 6.0
+#
 # BlackBerry KEYone (2017/06/29)
 # Android 7.1.1
 # QWERTY 配列のキーボードが特徴。
 # オバマ大統領の愛用品として有名だった製品の Android 版。
+#
+# Alcatel SHINE LITE (2016/12/16)
+# Android 6.0
+# au VoLTE 対応。
 
 # *** BlackBerry? (2021/??/??)
 #
@@ -14028,8 +14100,9 @@ DSDV 対応。
 # どの回線でも使える。 *(!?)*
 # 大容量バッテリー。
 # プライベート LTE 対応。 (sXGP, Band 39)
-# 楽天向けに発売されるモデルと同じ？ (2019/12/09?)
+# 楽天向けに発売されたモデルとは違う。 (2019/12/03)
 # Android 10 更新。 (ColorOS 7, CPH1943EX_11_C.75, 2020/08/14)
+# [[https://network.mobile.rakuten.co.jp/information/news/product/407/][Android11へのバージョンアップ提供製品について]] (... オウガ・ジャパンからの情報修正により、バージョンアップ予定機種の一覧を修正 ... OPPO A5 2020削除 ... 2020年10月20日 ..., 楽天モバイル、 2020/10/16)
 #
 # Reno A (CPH1983, 2019/10/18)
 # Android 9 (ColorOS 6.0)
@@ -14883,6 +14956,8 @@ DSDV 対応。 (SIMx2 + microSD スロット)
 # 中国で発売された。 (2019/11/01)
 # 日本で売ってない。
 #
+# 5G (Smartisan JianGuo R2, 2020/11/01?)
+#
 # 米 Musical.ly 社の買収を対米外国投資委員会に調査されてて、 TikTok を中国事業から分離するかも？ (Reuters, 2019/11/27)
 # - 化粧しながらウイグルでの弾圧を説明した投稿を、アカウントごと削除。 (@getmefamouspartthree, CNBC, 2019/11/28)
 #   中国政府による検閲を否定した上で、人的ミスだと説明して復旧させた。 (Osama bin Laden を理由にしちゃった)
@@ -15530,7 +15605,7 @@ Apple Store (直営) と、 Apple 正規サービスプロバイダがある。
 # | 2018/10/26 | XR                     | Haptic Touch                                       |
 # | 2019/09/20 | 11, 11 Pro, 11 Pro Max | UWB (iOS 13.1~, IEEE 802.15.3a, spatial awareness) | world model
 # | 2020/04/24 | SE (2nd generation)    |                                                    | 8 upgrade
-# | 2020/10/23? | 12, 12 Pro             | 5G                                                 |
+# | 2020/10/23 | 12, 12 Pro             | 5G, LiDAR Scanner                                  |
 # | 2020/11/13? | 12 Pro Max, 12 mini    |                                                    |
 # (*1) [[https://qiita.com/m0ch1m0ch1/items/7bf01cee24d8f70ddaa7][免許不要の通信方式sXGPに関する情報まとめ]] (技適取得済みなのは iPhone 7~, @m0ch1m0ch1, 2018/11/18)
 # (*2) [[https://twitter.com/iijmio/status/1190174266118983681][... iOS12.4.3 ... iPhone 6, iPhone 6 PlusにおいてタイプAのSIMカードがご利用できない場合があることを確認しています（なおiPhone 5sは元々タイプAでは動作不可）。]] (au 回線、 @iijmio, 2019/11/01)
